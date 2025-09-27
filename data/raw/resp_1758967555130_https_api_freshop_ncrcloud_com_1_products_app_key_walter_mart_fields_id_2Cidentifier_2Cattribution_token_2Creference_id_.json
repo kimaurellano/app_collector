@@ -1,0 +1,3195 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684704632818",
+      "store_id": "2052",
+      "like_code": "307182",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱65.50",
+      "unit_price": 65.5,
+      "popularity": 5276,
+      "upc": "480048896077",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488960775",
+      "reference_ids": [
+        "04800488960775"
+      ],
+      "name": "Charmee Menstrual Pants Large | 2S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704632818/df6917ca01b58070cc521d63cc5efbbb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488960775",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_menstrual_pants_large_2_s/p/1564405684704632818"
+    },
+    {
+      "id": "1764405684714943488",
+      "store_id": "2052",
+      "like_code": "430623",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱157.00",
+      "unit_price": 157.0,
+      "popularity": 3842,
+      "quantity_step": 1.0,
+      "upc": "480048896415",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488964155",
+      "reference_ids": [
+        "04800488964155"
+      ],
+      "name": "Charmee Menstrual Pants Large | 6s",
+      "size": "pc",
+      "price_disclaimer": "SAVE 15",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714943488/c30bb8defa77a7c5b37e68b39ffe39dd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488964155",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/charmee_menstrual_pants_large_6s/p/1764405684714943488"
+    },
+    {
+      "id": "1764405684714943490",
+      "store_id": "2052",
+      "like_code": "430622",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱128.00",
+      "unit_price": 128.0,
+      "popularity": 1900,
+      "quantity_step": 1.0,
+      "upc": "480048896416",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488964162",
+      "reference_ids": [
+        "04800488964162"
+      ],
+      "name": "Charmee Menstrual Pants Medium | 6s",
+      "size": "pc",
+      "price_disclaimer": "SAVE 15",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714943490/3a97bd8eb3f2fde86860ecc5be3db28f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488964162",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/charmee_menstrual_pants_medium_6s/p/1764405684714943490"
+    },
+    {
+      "id": "1564405684702541288",
+      "store_id": "2052",
+      "like_code": "254843",
+      "department_id": [
+        "1496181"
+      ],
+      "price": "₱44.75",
+      "unit_price": 44.75,
+      "popularity": 1534,
+      "upc": "480048807027",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488070276",
+      "reference_ids": [
+        "04800488070276"
+      ],
+      "name": "Charmee Napkin All-Flow with Wings Sulit Pack | 20S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541288/834b340b542f7b8ec71ef601eb972854",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488070276",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/feminine_care/charmee_napkin_all_flow_with_wings_sulit_pack_20_s/p/1564405684702541288"
+    },
+    {
+      "id": "1764405684715546690",
+      "store_id": "2052",
+      "like_code": "453606",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱21.00",
+      "unit_price": 21.0,
+      "popularity": 1309,
+      "upc": "480048896482",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488964827",
+      "reference_ids": [
+        "04800488964827"
+      ],
+      "name": "Charmee Napkin Ultra Thin W/anion 6s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715546690/737bafb6ab2f5ae35f5c166ce1adb38b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488964827",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/charmee_napkin_ultra_thin_w_anion_6s/p/1764405684715546690"
+    },
+    {
+      "id": "1564405684702541272",
+      "store_id": "2052",
+      "like_code": "105040",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱27.50",
+      "unit_price": 27.5,
+      "popularity": 772,
+      "upc": "480048801133",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488011330",
+      "reference_ids": [
+        "04800488011330"
+      ],
+      "name": "Charmee Pantyliner Breathable Lavender | 20S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541272/5a34430f4068770db8bd7a25051d9e14",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488011330",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_pantyliner_breathable_lavender_20_s/p/1564405684702541272"
+    },
+    {
+      "id": "1564405684702541314",
+      "store_id": "2052",
+      "like_code": "105038",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱27.00",
+      "unit_price": 27.0,
+      "popularity": 482,
+      "upc": "480048810006",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488100065",
+      "reference_ids": [
+        "04800488100065"
+      ],
+      "name": "Charmee Pantyliner Breathable Unscented | 20S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541314/9b4637c358ad6349247d749fdd39eb7f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488100065",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_pantyliner_breathable_unscented_20_s/p/1564405684702541314"
+    },
+    {
+      "id": "1564405684712874938",
+      "store_id": "2052",
+      "like_code": "347479",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱27.00",
+      "unit_price": 27.0,
+      "popularity": 502,
+      "upc": "480048896224",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488962243",
+      "reference_ids": [
+        "04800488962243"
+      ],
+      "name": "Charmee Pantyliner Cottony Soft Extra Long | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712874938/78ae44c391713a254efa752921f9011c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488962243",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/charmee_pantyliner_cottony_soft_extra_long_20s/p/1564405684712874938"
+    },
+    {
+      "id": "1564405684702541327",
+      "store_id": "2052",
+      "like_code": "36468",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱22.00",
+      "unit_price": 22.0,
+      "popularity": 3898,
+      "upc": "480048820011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488200116",
+      "reference_ids": [
+        "04800488200116"
+      ],
+      "name": "Charmee Pantyliner Dry Net Jasmine | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541327/5a3a159a188eaf1005c03c91e9a95c40",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488200116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_pantyliner_dry_net_jasmine_20s/p/1564405684702541327"
+    },
+    {
+      "id": "1564405684702541329",
+      "store_id": "2052",
+      "like_code": "144113",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 1682,
+      "upc": "480048820012",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488200123",
+      "reference_ids": [
+        "04800488200123"
+      ],
+      "name": "Charmee Pantyliner Powder Cool | 20S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541329/1699f4d8c880c8b7f81d1150ed8edac2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488200123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_pantyliner_powder_cool_20_s/p/1564405684702541329"
+    },
+    {
+      "id": "1764405684715320750",
+      "store_id": "2052",
+      "like_code": "444040",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 1314,
+      "upc": "480048896475",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488964759",
+      "reference_ids": [
+        "04800488964759"
+      ],
+      "name": "Charmee Pantyliners Breathable Green Tea | 40s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715320750/8a93106fba06a48b9267c264df93bf49",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488964759",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/charmee_pantyliners_breathable_green_tea_40s/p/1764405684715320750"
+    },
+    {
+      "id": "1564405684702541357",
+      "store_id": "2052",
+      "like_code": "229129",
+      "department_id": [
+        "1496181"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 1944,
+      "upc": "480048896021",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488960218",
+      "reference_ids": [
+        "04800488960218"
+      ],
+      "name": "Charmee Powder Cool Longer Pantyliner | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541357/44b4a4f4c63eaa8545cfc0f9c864068d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488960218",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/feminine_care/charmee_powder_cool_longer_pantyliner_20s/p/1564405684702541357"
+    },
+    {
+      "id": "1564405684702541322",
+      "store_id": "2052",
+      "like_code": "121359",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱27.75",
+      "unit_price": 27.75,
+      "popularity": 1538,
+      "upc": "480048810018",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488100188",
+      "reference_ids": [
+        "04800488100188"
+      ],
+      "name": "Charmee Sanitary Napkin For All Types of Flow w/ Wings",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541322/15858186bd70cca4401ef49cd344cf15",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488100188",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_sanitary_napkin_for_all_types_of_flow_w_wings/p/1564405684702541322"
+    },
+    {
+      "id": "1564405684702541275",
+      "store_id": "2052",
+      "like_code": "79084",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱19.50",
+      "unit_price": 19.5,
+      "popularity": 432,
+      "upc": "480048801141",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488011415",
+      "reference_ids": [
+        "04800488011415"
+      ],
+      "name": "Charmee Sanitary Napkin For All Types W/ Wings | 8s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541275/ff458405ea02eecfd4b2793f3c2b8686",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488011415",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_sanitary_napkin_for_all_types_w_wings_8s/p/1564405684702541275"
+    },
+    {
+      "id": "1564405684702541317",
+      "store_id": "2052",
+      "like_code": "114874",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱24.00",
+      "unit_price": 24.0,
+      "popularity": 360,
+      "upc": "480048810011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488100119",
+      "reference_ids": [
+        "04800488100119"
+      ],
+      "name": "Charmee Sanitary Napkin Night Use | 8s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541317/449911b6720746233bb3502a3db1a44b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488100119",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/charmee_sanitary_napkin_night_use_8s/p/1564405684702541317"
+    },
+    {
+      "id": "1564405684702541276",
+      "store_id": "2052",
+      "like_code": "111340",
+      "department_id": [
+        "1496181"
+      ],
+      "price": "₱25.50",
+      "unit_price": 25.5,
+      "popularity": 1176,
+      "upc": "480048801147",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488011477",
+      "reference_ids": [
+        "04800488011477"
+      ],
+      "name": "Charmee Sanitary Pads All Night Plus with Wings | 4s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541276/5bb4357e16764658d7af8fa542c4e320",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488011477",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/feminine_care/charmee_sanitary_pads_all_night_plus_with_wings_4s/p/1564405684702541276"
+    },
+    {
+      "id": "1564405684714657422",
+      "store_id": "2052",
+      "like_code": "396436",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 7230,
+      "upc": "480014212601",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800142126011",
+      "reference_ids": [
+        "04800142126011"
+      ],
+      "name": "Chaser Sparkling Iced Tea Bottle | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714657422/a94ee2493fe2f78f181a86f33024d2eb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800142126011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/chaser_sparkling_iced_tea_bottle_330ml/p/1564405684714657422"
+    },
+    {
+      "id": "1564405684711917288",
+      "store_id": "2052",
+      "like_code": "324395",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱75.00",
+      "unit_price": 75.0,
+      "popularity": 999999,
+      "upc": "200003243950",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032439500",
+      "reference_ids": [
+        "02000032439500"
+      ],
+      "name": "Checkered Cosmetic Pouch | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917288/84e834271ed639052c3460bc56cd2e8f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032439500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/checkered_cosmetic_pouch_assorted_colors/p/1564405684711917288"
+    },
+    {
+      "id": "1564405684711917284",
+      "store_id": "2052",
+      "like_code": "303795",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200003037950",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000030379501",
+      "reference_ids": [
+        "02000030379501"
+      ],
+      "name": "Checkered Handkerchief, Assorted Colors | 3's",
+      "size": "pack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917284/fddc24d901bf1896cf12ce1c668a84e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000030379501",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/checkered_handkerchief_assorted_colors_3_s/p/1564405684711917284"
+    },
+    {
+      "id": "1564405684711221231",
+      "store_id": "2052",
+      "like_code": "348467",
+      "department_id": [
+        "22459139"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "1600027526",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00016000275263",
+      "reference_ids": [
+        "00016000275263"
+      ],
+      "name": "Cheerios Cereal | 8.9oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711221231/42b63ba172135b52e911ebb904af9676",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00016000275263",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/oats_cereals/cheerios_cereal_8_9oz/p/1564405684711221231"
+    },
+    {
+      "id": "1564405684702546284",
+      "store_id": "2052",
+      "like_code": "136030",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 3904,
+      "upc": "480650235932",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502359327",
+      "reference_ids": [
+        "04806502359327"
+      ],
+      "name": "Cheers 2ply Pull Table Napkins | 200sheets",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546284/e58b2f4a0633080999f63ef8c9ec88fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502359327",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_2ply_pull_table_napkins_200sheets/p/1564405684702546284"
+    },
+    {
+      "id": "1764405684715008954",
+      "store_id": "2052",
+      "like_code": "427359",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱89.00",
+      "unit_price": 89.0,
+      "popularity": 6203,
+      "upc": "480650216875",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502168752",
+      "reference_ids": [
+        "04806502168752"
+      ],
+      "name": "Cheers Aluminum Foil | 30cm x 8m",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715008954/44674f27254702f09db56206dba36905",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3652272527289366593",
+          "reference_id": "tpr_2052_04806502168752_74_0",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684715008954"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6203,
+          "product_tag_ids": [
+            "357697",
+            "379851",
+            "414223",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "1ac3c1798e7f1f2163cd65bde6d6991b",
+          "similarity_priority": 5,
+          "name": "Cheers Aluminum Foil | 30cm x 8m",
+          "sale_price": "₱74.00",
+          "sale_price_md": "**₱74.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3652273663031393231",
+          "reference_id": "ad_2052_04806502168752_1_74_0",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684715008954"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3102,
+          "product_tag_ids": [
+            "357697",
+            "379851",
+            "414223",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "65b18c5c158c29609b29527544b9f853",
+          "similarity_priority": 6,
+          "name": "Cheers Aluminum Foil | 30cm x 8m",
+          "sale_price": "₱74.00",
+          "sale_price_md": "**₱74.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱74.00",
+      "sale_price_md": "**₱74.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3652272527289366593",
+        "reference_id": "tpr_2052_04806502168752_74_0",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684715008954"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6203,
+        "product_tag_ids": [
+          "357697",
+          "379851",
+          "414223",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "1ac3c1798e7f1f2163cd65bde6d6991b",
+        "similarity_priority": 5,
+        "name": "Cheers Aluminum Foil | 30cm x 8m",
+        "sale_price": "₱74.00",
+        "sale_price_md": "**₱74.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 74.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱74.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502168752",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_aluminum_foil_30cm_x_8m/p/1764405684715008954"
+    },
+    {
+      "id": "1764405684715380332",
+      "store_id": "2052",
+      "like_code": "446761",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 5710,
+      "upc": "480650216876",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502168769",
+      "reference_ids": [
+        "04806502168769"
+      ],
+      "name": "Cheers Baking Paper Easy Cutting | 30cm X 10m",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715380332/23afcb2d7843bed493c59c7aa227d42c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461926299548069",
+          "reference_id": "tpr_2052_04806502168769_100_0",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684715380332"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5710,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f23b4a7b97b028d5eb54034cd9b63f3b",
+          "similarity_priority": 5,
+          "name": "Cheers Baking Paper Easy Cutting | 30cm X 10m",
+          "sale_price": "₱100.00",
+          "sale_price_md": "**₱100.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3722461655800494297",
+          "reference_id": "ad_2052_04806502168769_1_100_0",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684715380332"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2855,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "1aab24dfdf041c65e5830662c2f89b3a",
+          "similarity_priority": 6,
+          "name": "Cheers Baking Paper Easy Cutting | 30cm X 10m",
+          "sale_price": "₱100.00",
+          "sale_price_md": "**₱100.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱100.00",
+      "sale_price_md": "**₱100.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3722461926299548069",
+        "reference_id": "tpr_2052_04806502168769_100_0",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684715380332"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5710,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "f23b4a7b97b028d5eb54034cd9b63f3b",
+        "similarity_priority": 5,
+        "name": "Cheers Baking Paper Easy Cutting | 30cm X 10m",
+        "sale_price": "₱100.00",
+        "sale_price_md": "**₱100.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 100.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱100.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502168769",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_baking_paper_easy_cutting_30cm_x_10m/p/1764405684715380332"
+    },
+    {
+      "id": "1564405684713251898",
+      "store_id": "2052",
+      "like_code": "370760",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "480650216691",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166918",
+      "reference_ids": [
+        "04806502166918"
+      ],
+      "name": "Cheers Citrus Fresh Scented Trash Bag Large | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713251898/e4974ee4ad8dfac89640095523bafa32",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502166918",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_citrus_fresh_scented_trash_bag_large_10s/p/1564405684713251898"
+    },
+    {
+      "id": "1564405684713251899",
+      "store_id": "2052",
+      "like_code": "370761",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "480650216692",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166925",
+      "reference_ids": [
+        "04806502166925"
+      ],
+      "name": "Cheers Citrus Fresh Scented Trash Bag X-Large | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713251899/3d273e6d9d512d32f47065b870c9ebb9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502166925",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_citrus_fresh_scented_trash_bag_x_large_10s/p/1564405684713251899"
+    },
+    {
+      "id": "1564405684713251900",
+      "store_id": "2052",
+      "like_code": "370762",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "upc": "480650216693",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166932",
+      "reference_ids": [
+        "04806502166932"
+      ],
+      "name": "Cheers Citrus Fresh Scented Trash Bag XX-Large | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713251900/6dba29a01cb50b7f91ffecbe0a49d0d8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502166932",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_citrus_fresh_scented_trash_bag_xx_large_10s/p/1564405684713251900"
+    },
+    {
+      "id": "1764405684715008956",
+      "store_id": "2052",
+      "like_code": "427360",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 6280,
+      "upc": "480650216877",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502168776",
+      "reference_ids": [
+        "04806502168776"
+      ],
+      "name": "Cheers Cling Wrap | 30cm x 60m",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715008956/453f89da514eeb5b725a2032c614f61d",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3652272528178559074",
+          "reference_id": "tpr_2052_04806502168776_155_0",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684715008956"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8494,
+          "product_tag_ids": [
+            "357697",
+            "379851",
+            "414223",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "1611eeb4754cc00218bdcf3c2da5333a",
+          "similarity_priority": 5,
+          "name": "Cheers Cling Wrap | 30cm x 60m",
+          "sale_price": "₱155.00",
+          "sale_price_md": "**₱155.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3652273664088357854",
+          "reference_id": "ad_2052_04806502168776_1_155_0",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684715008956"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4247,
+          "product_tag_ids": [
+            "357697",
+            "379851",
+            "414223",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "9c10a946b2c3272fd128daf216fd5c39",
+          "similarity_priority": 6,
+          "name": "Cheers Cling Wrap | 30cm x 60m",
+          "sale_price": "₱155.00",
+          "sale_price_md": "**₱155.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱155.00",
+      "sale_price_md": "**₱155.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3652272528178559074",
+        "reference_id": "tpr_2052_04806502168776_155_0",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684715008956"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8494,
+        "product_tag_ids": [
+          "357697",
+          "379851",
+          "414223",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "1611eeb4754cc00218bdcf3c2da5333a",
+        "similarity_priority": 5,
+        "name": "Cheers Cling Wrap | 30cm x 60m",
+        "sale_price": "₱155.00",
+        "sale_price_md": "**₱155.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 155.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱155.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502168776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_cling_wrap_30cm_x_60m/p/1764405684715008956"
+    },
+    {
+      "id": "1564405684704766656",
+      "store_id": "2052",
+      "like_code": "302648",
+      "department_id": [
+        "1501980"
+      ],
+      "price": "₱33.75",
+      "unit_price": 33.75,
+      "popularity": 1777,
+      "upc": "480650216409",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502164099",
+      "reference_ids": [
+        "04806502164099"
+      ],
+      "name": "Cheers Cutlery Knife | 12pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766656/39b9028f52596bee965d164a0763452f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502164099",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/disposable_utensils/cheers_cutlery_knife_12pcs/p/1564405684704766656"
+    },
+    {
+      "id": "1564405684702546180",
+      "store_id": "2052",
+      "like_code": "249599",
+      "department_id": [
+        "1501980"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 5871,
+      "upc": "480650216198",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502161982",
+      "reference_ids": [
+        "04806502161982"
+      ],
+      "name": "Cheers Cutlery Spoon & Fork | 24s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546180/6d6eed7f0ffc95bc544b466db8017bc5",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3460829422704147178",
+          "reference_id": "tpr_2052_04806502161982_52_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3459869949021927954",
+            "3722701376237615696"
+          ],
+          "product_ids": [
+            "1564405684702546180"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5871,
+          "product_tag_ids": [
+            "1501980",
+            "22035192",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "872f943c606dcee46fe17a8c842b22aa",
+          "similarity_priority": 5,
+          "name": "Cheers Cutlery Spoon & Fork | 24s",
+          "sale_price": "₱52.00",
+          "sale_price_md": "**₱52.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3460829177765182287",
+          "reference_id": "ad_2052_04806502161982_1_52_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3459869949021927954",
+            "3722701376237615696"
+          ],
+          "product_ids": [
+            "1564405684702546180"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2936,
+          "product_tag_ids": [
+            "1501980",
+            "22035192",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d5e210dd69b2f809f3d216efcfd88c01",
+          "similarity_priority": 6,
+          "name": "Cheers Cutlery Spoon & Fork | 24s",
+          "sale_price": "₱52.00",
+          "sale_price_md": "**₱52.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱52.00",
+      "sale_price_md": "**₱52.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3460829422704147178",
+        "reference_id": "tpr_2052_04806502161982_52_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183942932783"
+        ],
+        "circular_page_ids": [
+          "3719247210563517409"
+        ],
+        "circular_spot_ids": [
+          "3459869949021927954",
+          "3722701376237615696"
+        ],
+        "product_ids": [
+          "1564405684702546180"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5871,
+        "product_tag_ids": [
+          "1501980",
+          "22035192",
+          "22356795",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "872f943c606dcee46fe17a8c842b22aa",
+        "similarity_priority": 5,
+        "name": "Cheers Cutlery Spoon & Fork | 24s",
+        "sale_price": "₱52.00",
+        "sale_price_md": "**₱52.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 52.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱52.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502161982",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/disposable_utensils/cheers_cutlery_spoon_fork_24s/p/1564405684702546180"
+    },
+    {
+      "id": "1564405684702546179",
+      "store_id": "2052",
+      "like_code": "258910",
+      "department_id": [
+        "1501980"
+      ],
+      "price": "₱56.00",
+      "unit_price": 56.0,
+      "popularity": 6463,
+      "upc": "480650216199",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502161999",
+      "reference_ids": [
+        "04806502161999"
+      ],
+      "name": "Cheers Cutlery Spoon & Fork Colored | 24s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546179/e0f321ae8e5f4e7a1ac9dae5b399b66d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502161999",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/disposable_utensils/cheers_cutlery_spoon_fork_colored_24s/p/1564405684702546179"
+    },
+    {
+      "id": "1564405684712035560",
+      "store_id": "2052",
+      "like_code": "356393",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "upc": "480650216637",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166376",
+      "reference_ids": [
+        "04806502166376"
+      ],
+      "name": "Cheers Dishwashing Liquid Orange Zeal | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712035560/03e7ae70e16a5f17997438ac385aa46c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3720282309929221030",
+          "reference_id": "tpr_2052_04806502166376_175_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712035560"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "357697",
+            "22035192",
+            "22197754",
+            "22356797",
+            "22459259",
+            "22475760",
+            "22654657"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "3606ea7b2f596dafd40b14c73faa3aab",
+          "similarity_priority": 5,
+          "name": "Cheers Dishwashing Liquid Orange Zeal | 500ml",
+          "sale_price": "₱175.00",
+          "sale_price_md": "**₱175.00** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3720283147422677056",
+          "reference_id": "ad_2052_04806502166376_2_175_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684712035560"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "357697",
+            "22035192",
+            "22197754",
+            "22356797",
+            "22459259",
+            "22475760",
+            "22654657"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "071221200a91d418c348f745837a4fcc",
+          "similarity_priority": 6,
+          "name": "Cheers Dishwashing Liquid Orange Zeal | 500ml",
+          "sale_price": "2 for ₱175.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱175.00 with purchase of 2** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-13",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱175.00",
+      "sale_price_md": "**₱175.00** (09/13/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3720282309929221030",
+        "reference_id": "tpr_2052_04806502166376_175_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712035560"
+        ],
+        "start_date": "2025-09-13T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "357697",
+          "22035192",
+          "22197754",
+          "22356797",
+          "22459259",
+          "22475760",
+          "22654657"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "3606ea7b2f596dafd40b14c73faa3aab",
+        "similarity_priority": 5,
+        "name": "Cheers Dishwashing Liquid Orange Zeal | 500ml",
+        "sale_price": "₱175.00",
+        "sale_price_md": "**₱175.00** (09/13/25 - 12/31/25)",
+        "display_start_date": "2025-09-13",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 175.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "2 for ₱175.00 with purchase of 2 Min. 2",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502166376",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/cheers_dishwashing_liquid_orange_zeal_500ml/p/1564405684712035560"
+    },
+    {
+      "id": "1564405684713698295",
+      "store_id": "2052",
+      "like_code": "381112",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱215.00",
+      "unit_price": 215.0,
+      "popularity": 7900,
+      "upc": "480650216707",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502167076",
+      "reference_ids": [
+        "04806502167076"
+      ],
+      "name": "Cheers Dishwashing Liquid Orange Zeal Scent Refill | 1000ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713698295/d8e0d8e807c3913544026bede875a51b",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3720282309996329896",
+          "reference_id": "tpr_2052_04806502167076_215_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684713698295"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7900,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22035192",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22654657"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "aa3d4111d8cf03320c16b79b6f70dc4e",
+          "similarity_priority": 5,
+          "name": "Cheers Dishwashing Liquid Orange Zeal Scent Refill | 1000ml",
+          "sale_price": "₱215.00",
+          "sale_price_md": "**₱215.00** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3720283147749832772",
+          "reference_id": "ad_2052_04806502167076_2_215_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684713698295"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3950,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22035192",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22654657"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ee6024522f3c30423628e95877695f9d",
+          "similarity_priority": 6,
+          "name": "Cheers Dishwashing Liquid Orange Zeal Scent Refill | 1000ml",
+          "sale_price": "2 for ₱215.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱215.00 with purchase of 2** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-13",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱215.00",
+      "sale_price_md": "**₱215.00** (09/13/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3720282309996329896",
+        "reference_id": "tpr_2052_04806502167076_215_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684713698295"
+        ],
+        "start_date": "2025-09-13T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7900,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22035192",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22654657"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "aa3d4111d8cf03320c16b79b6f70dc4e",
+        "similarity_priority": 5,
+        "name": "Cheers Dishwashing Liquid Orange Zeal Scent Refill | 1000ml",
+        "sale_price": "₱215.00",
+        "sale_price_md": "**₱215.00** (09/13/25 - 12/31/25)",
+        "display_start_date": "2025-09-13",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 215.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "2 for ₱215.00 with purchase of 2 Min. 2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502167076",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_dishwashing_liquid_orange_zeal_scent_refill_1000ml/p/1564405684713698295"
+    },
+    {
+      "id": "1564405684712035561",
+      "store_id": "2052",
+      "like_code": "356392",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "upc": "480650216636",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166369",
+      "reference_ids": [
+        "04806502166369"
+      ],
+      "name": "Cheers Dishwashing Liquid Sundazed Lemon | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712035561/d728bc6eab6d3b5af3798762654f8eec",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3720282309652396965",
+          "reference_id": "tpr_2052_04806502166369_175_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712035561"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "357697",
+            "22356797",
+            "22459259",
+            "22475760"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "3606ea7b2f596dafd40b14c73faa3aab",
+          "similarity_priority": 5,
+          "name": "Cheers Dishwashing Liquid Sundazed Lemon | 500ml",
+          "sale_price": "₱175.00",
+          "sale_price_md": "**₱175.00** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3720283147129075773",
+          "reference_id": "ad_2052_04806502166369_2_175_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684712035561"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "357697",
+            "22356797",
+            "22459259",
+            "22475760"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "071221200a91d418c348f745837a4fcc",
+          "similarity_priority": 6,
+          "name": "Cheers Dishwashing Liquid Sundazed Lemon | 500ml",
+          "sale_price": "2 for ₱175.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱175.00 with purchase of 2** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-13",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱175.00",
+      "sale_price_md": "**₱175.00** (09/13/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3720282309652396965",
+        "reference_id": "tpr_2052_04806502166369_175_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712035561"
+        ],
+        "start_date": "2025-09-13T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "357697",
+          "22356797",
+          "22459259",
+          "22475760"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "3606ea7b2f596dafd40b14c73faa3aab",
+        "similarity_priority": 5,
+        "name": "Cheers Dishwashing Liquid Sundazed Lemon | 500ml",
+        "sale_price": "₱175.00",
+        "sale_price_md": "**₱175.00** (09/13/25 - 12/31/25)",
+        "display_start_date": "2025-09-13",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 175.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "2 for ₱175.00 with purchase of 2 Min. 2",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502166369",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/cheers_dishwashing_liquid_sundazed_lemon_500ml/p/1564405684712035561"
+    },
+    {
+      "id": "1564405684713698294",
+      "store_id": "2052",
+      "like_code": "381111",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱215.00",
+      "unit_price": 215.0,
+      "popularity": 7899,
+      "upc": "480650216706",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502167069",
+      "reference_ids": [
+        "04806502167069"
+      ],
+      "name": "Cheers Dishwashing Liquid Sundazed Lemon Scent Refill | 1000ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713698294/3b2eaf7f57dd9a05c3c04e44f83af0aa",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3720282309987941287",
+          "reference_id": "tpr_2052_04806502167069_215_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684713698294"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7899,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22035192",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22654657"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "aa3d4111d8cf03320c16b79b6f70dc4e",
+          "similarity_priority": 5,
+          "name": "Cheers Dishwashing Liquid Sundazed Lemon Scent Refill | 1000ml",
+          "sale_price": "₱215.00",
+          "sale_price_md": "**₱215.00** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3720283147498174530",
+          "reference_id": "ad_2052_04806502167069_2_215_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684713698294"
+          ],
+          "start_date": "2025-09-13T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3950,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22035192",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22654657"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ee6024522f3c30423628e95877695f9d",
+          "similarity_priority": 6,
+          "name": "Cheers Dishwashing Liquid Sundazed Lemon Scent Refill | 1000ml",
+          "sale_price": "2 for ₱215.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱215.00 with purchase of 2** (09/13/25 - 12/31/25)",
+          "display_start_date": "2025-09-13",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-13",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱215.00",
+      "sale_price_md": "**₱215.00** (09/13/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3720282309987941287",
+        "reference_id": "tpr_2052_04806502167069_215_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684713698294"
+        ],
+        "start_date": "2025-09-13T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7899,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22035192",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22654657"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "aa3d4111d8cf03320c16b79b6f70dc4e",
+        "similarity_priority": 5,
+        "name": "Cheers Dishwashing Liquid Sundazed Lemon Scent Refill | 1000ml",
+        "sale_price": "₱215.00",
+        "sale_price_md": "**₱215.00** (09/13/25 - 12/31/25)",
+        "display_start_date": "2025-09-13",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 215.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "2 for ₱215.00 with purchase of 2 Min. 2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502167069",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_dishwashing_liquid_sundazed_lemon_scent_refill_1000ml/p/1564405684713698294"
+    },
+    {
+      "id": "1564405684713251893",
+      "store_id": "2052",
+      "like_code": "370758",
+      "department_id": [
+        "1496211"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "480650216631",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166314",
+      "reference_ids": [
+        "04806502166314"
+      ],
+      "name": "Cheers Drawstring Trash Bags X-Large | 15s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713251893/1df118bdec31a9f9c0c9d13e37eb70ec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502166314",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/trashbags/cheers_drawstring_trash_bags_x_large_15s/p/1564405684713251893"
+    },
+    {
+      "id": "1564405684702546265",
+      "store_id": "2052",
+      "like_code": "64240",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 6994,
+      "upc": "480650235822",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502358221",
+      "reference_ids": [
+        "04806502358221"
+      ],
+      "name": "Cheers Folded Table Napkins | 350sheets",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04806502358221/101ef121f28439e36509cef1ab7d36b5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502358221",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_folded_table_napkins_350sheets/p/1564405684702546265"
+    },
+    {
+      "id": "1564405684702546224",
+      "store_id": "2052",
+      "like_code": "8779",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱22.25",
+      "unit_price": 22.25,
+      "popularity": 1924,
+      "upc": "480650235144",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502351444",
+      "reference_ids": [
+        "04806502351444"
+      ],
+      "name": "Cheers Folded Table Napkins | 40sheets",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546224/1b1b6794c2bff067d67e916a4d396c4d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502351444",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_folded_table_napkins_40sheets/p/1564405684702546224"
+    },
+    {
+      "id": "1764405684714936946",
+      "store_id": "2052",
+      "like_code": "429653",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 8552,
+      "upc": "480650216217",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502162170",
+      "reference_ids": [
+        "04806502162170"
+      ],
+      "name": "Cheers Garbage Bag Black Large | 30s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714936946/75c18c86f6c1781a8f26d026a845b28b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502162170",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_garbage_bag_black_large_30s/p/1764405684714936946"
+    },
+    {
+      "id": "1764405684714936950",
+      "store_id": "2052",
+      "like_code": "429654",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 6538,
+      "upc": "480650216218",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502162187",
+      "reference_ids": [
+        "04806502162187"
+      ],
+      "name": "Cheers Garbage Bag Black XL | 30s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714936950/ea151db21712dcc3bb60bb0d94571698",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502162187",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cheers_garbage_bag_black_xl_30s/p/1764405684714936950"
+    },
+    {
+      "id": "1564405684710222538",
+      "store_id": "2052",
+      "like_code": "343128",
+      "department_id": [
+        "1496214"
+      ],
+      "price": "₱77.00",
+      "unit_price": 77.0,
+      "popularity": 8166,
+      "upc": "480650216568",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502165683",
+      "reference_ids": [
+        "04806502165683"
+      ],
+      "name": "Cheers Jumbo Cups Natural 16oz | 12pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710222538/48eb2ff1b5b6eba32fca1fe8e14b579f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3460829440202782921",
+          "reference_id": "tpr_2052_04806502165683_67_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684710222538"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8166,
+          "product_tag_ids": [
+            "1496214",
+            "22035192",
+            "22356795",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b5a2726735d427c9913be3c12181dcd3",
+          "similarity_priority": 5,
+          "name": "Cheers Jumbo Cups Natural 16oz | 12pcs",
+          "sale_price": "₱67.00",
+          "sale_price_md": "**₱67.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3460829205313370695",
+          "reference_id": "ad_2052_04806502165683_1_67_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684710222538"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4083,
+          "product_tag_ids": [
+            "1496214",
+            "22035192",
+            "22356795",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "aaa4b62deb7f1c52988ac838ddf79116",
+          "similarity_priority": 6,
+          "name": "Cheers Jumbo Cups Natural 16oz | 12pcs",
+          "sale_price": "₱67.00",
+          "sale_price_md": "**₱67.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱67.00",
+      "sale_price_md": "**₱67.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3460829440202782921",
+        "reference_id": "tpr_2052_04806502165683_67_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684710222538"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8166,
+        "product_tag_ids": [
+          "1496214",
+          "22035192",
+          "22356795",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b5a2726735d427c9913be3c12181dcd3",
+        "similarity_priority": 5,
+        "name": "Cheers Jumbo Cups Natural 16oz | 12pcs",
+        "sale_price": "₱67.00",
+        "sale_price_md": "**₱67.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 67.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱67.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502165683",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/cheers_jumbo_cups_natural_16oz_12pcs/p/1564405684710222538"
+    },
+    {
+      "id": "1564405684702546296",
+      "store_id": "2052",
+      "like_code": "127580",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱80.00",
+      "unit_price": 80.0,
+      "popularity": 7701,
+      "upc": "480650235993",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502359938",
+      "reference_ids": [
+        "04806502359938"
+      ],
+      "name": "Cheers Kitchen Towels Jumbo Solo 2ply | 80sheets",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546296/648948b7fdc2dfdfff91044489926a51",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502359938",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_kitchen_towels_jumbo_solo_2ply_80sheets/p/1564405684702546296"
+    },
+    {
+      "id": "1564405684702546240",
+      "store_id": "2052",
+      "like_code": "159002",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 8128,
+      "upc": "480650235233",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502352335",
+      "reference_ids": [
+        "04806502352335"
+      ],
+      "name": "Cheers Kitchen Towels Jumbo Twin 2ply | 2pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546240/f910cd4611f4e04dc6283e56cdc01bca",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502352335",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_kitchen_towels_jumbo_twin_2ply_2pcs/p/1564405684702546240"
+    },
+    {
+      "id": "1564405684702546282",
+      "store_id": "2052",
+      "like_code": "155650",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 3827,
+      "upc": "480650235936",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502359365",
+      "reference_ids": [
+        "04806502359365"
+      ],
+      "name": "Cheers Kitchen Towels Solo 2ply | 70 Pulls",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546282/730651ac42378676c1b1e67d6487ca6d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502359365",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_kitchen_towels_solo_2ply_70_pulls/p/1564405684702546282"
+    },
+    {
+      "id": "1564405684702546241",
+      "store_id": "2052",
+      "like_code": "155649",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱102.00",
+      "unit_price": 102.0,
+      "popularity": 2120,
+      "upc": "480650235234",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502352342",
+      "reference_ids": [
+        "04806502352342"
+      ],
+      "name": "Cheers Kitchen Towels Twin 2ply 70 Pulls | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546241/ef2ba88f00cafa1e7504ae6924109744",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502352342",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/cheers_kitchen_towels_twin_2ply_70_pulls_2s/p/1564405684702546241"
+    },
+    {
+      "id": "1564405684711650556",
+      "store_id": "2052",
+      "like_code": "352044",
+      "department_id": [
+        "1496215"
+      ],
+      "price": "₱103.00",
+      "unit_price": 103.0,
+      "popularity": 7705,
+      "upc": "480650216607",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166079",
+      "reference_ids": [
+        "04806502166079"
+      ],
+      "name": "Cheers Multi-Purpose Flat Bags Medium | 100s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711650556/753c8d6c28b24ffbd44708830dcac8c8",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3686216391339292885",
+          "reference_id": "tpr_2052_04806502166079_77_25",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711650556"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7705,
+          "product_tag_ids": [
+            "357697",
+            "1496215",
+            "22035192",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "adbb4940357082238f0f8d473e6cc077",
+          "similarity_priority": 5,
+          "name": "Cheers Multi-Purpose Flat Bags Medium | 100s",
+          "sale_price": "₱77.25",
+          "sale_price_md": "**₱77.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3686217523784596170",
+          "reference_id": "ad_2052_04806502166079_1_77_25",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711650556"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3853,
+          "product_tag_ids": [
+            "357697",
+            "1496215",
+            "22035192",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "891a75d0c9c98d7b29c4f83a16a6a7f4",
+          "similarity_priority": 6,
+          "name": "Cheers Multi-Purpose Flat Bags Medium | 100s",
+          "sale_price": "₱77.25",
+          "sale_price_md": "**₱77.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱77.25",
+      "sale_price_md": "**₱77.25** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3686216391339292885",
+        "reference_id": "tpr_2052_04806502166079_77_25",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711650556"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7705,
+        "product_tag_ids": [
+          "357697",
+          "1496215",
+          "22035192",
+          "22356795",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "adbb4940357082238f0f8d473e6cc077",
+        "similarity_priority": 5,
+        "name": "Cheers Multi-Purpose Flat Bags Medium | 100s",
+        "sale_price": "₱77.25",
+        "sale_price_md": "**₱77.25** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 77.25,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱77.25 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502166079",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/containers/cheers_multi_purpose_flat_bags_medium_100s/p/1564405684711650556"
+    },
+    {
+      "id": "1564405684711650555",
+      "store_id": "2052",
+      "like_code": "352043",
+      "department_id": [
+        "1496215"
+      ],
+      "price": "₱76.00",
+      "unit_price": 76.0,
+      "popularity": 6215,
+      "upc": "480650216606",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166062",
+      "reference_ids": [
+        "04806502166062"
+      ],
+      "name": "Cheers Multi-Purpose Flat Bags Small | 100s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711650555/c07877c0bdd7e3e76e4fb2b8852c63b1",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461925771065748",
+          "reference_id": "tpr_2052_04806502166062_50_25",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711650555"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6215,
+          "product_tag_ids": [
+            "357697",
+            "1496215",
+            "22035192",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d5d4cc9797188ce594f411b9d0644798",
+          "similarity_priority": 5,
+          "name": "Cheers Multi-Purpose Flat Bags Small | 100s",
+          "sale_price": "₱50.25",
+          "sale_price_md": "**₱50.25** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3722461655792105688",
+          "reference_id": "ad_2052_04806502166062_1_50_25",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711650555"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3108,
+          "product_tag_ids": [
+            "357697",
+            "1496215",
+            "22035192",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3783736d6911eceefa72894e596fde62",
+          "similarity_priority": 6,
+          "name": "Cheers Multi-Purpose Flat Bags Small | 100s",
+          "sale_price": "₱50.25",
+          "sale_price_md": "**₱50.25** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱50.25",
+      "sale_price_md": "**₱50.25** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3722461925771065748",
+        "reference_id": "tpr_2052_04806502166062_50_25",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711650555"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6215,
+        "product_tag_ids": [
+          "357697",
+          "1496215",
+          "22035192",
+          "22356795",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "d5d4cc9797188ce594f411b9d0644798",
+        "similarity_priority": 5,
+        "name": "Cheers Multi-Purpose Flat Bags Small | 100s",
+        "sale_price": "₱50.25",
+        "sale_price_md": "**₱50.25** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 50.25,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱50.25 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502166062",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/containers/cheers_multi_purpose_flat_bags_small_100s/p/1564405684711650555"
+    },
+    {
+      "id": "1564405684714866935",
+      "store_id": "2052",
+      "like_code": "399997",
+      "department_id": [
+        "1496215"
+      ],
+      "price": "₱194.00",
+      "unit_price": 194.0,
+      "popularity": 8992,
+      "upc": "480650216614",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502166147",
+      "reference_ids": [
+        "04806502166147"
+      ],
+      "name": "Cheers Multi-Purpose Freezer Bags Extra Wide | 15S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714866935/e68f14a961c0da9bcaa09dace99a4c06",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3455739072184597501",
+          "reference_id": "tpr_2052_04806502166147_184_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684714866935"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8992,
+          "product_tag_ids": [
+            "357697",
+            "1496215",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "50f4299d09082262e688c6fc3b950101",
+          "similarity_priority": 5,
+          "name": "Cheers Multi-Purpose Freezer Bags Extra Wide | 15S",
+          "sale_price": "₱184.00",
+          "sale_price_md": "**₱184.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3455739575996004416",
+          "reference_id": "ad_2052_04806502166147_1_184_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684714866935"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4496,
+          "product_tag_ids": [
+            "357697",
+            "1496215",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a10b7d38d5812a93ea06515782399433",
+          "similarity_priority": 6,
+          "name": "Cheers Multi-Purpose Freezer Bags Extra Wide | 15S",
+          "sale_price": "₱184.00",
+          "sale_price_md": "**₱184.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱184.00",
+      "sale_price_md": "**₱184.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3455739072184597501",
+        "reference_id": "tpr_2052_04806502166147_184_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684714866935"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8992,
+        "product_tag_ids": [
+          "357697",
+          "1496215",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "50f4299d09082262e688c6fc3b950101",
+        "similarity_priority": 5,
+        "name": "Cheers Multi-Purpose Freezer Bags Extra Wide | 15S",
+        "sale_price": "₱184.00",
+        "sale_price_md": "**₱184.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 184.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱184.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502166147",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/containers/cheers_multi_purpose_freezer_bags_extra_wide_15_s/p/1564405684714866935"
+    },
+    {
+      "id": "1564405684704766659",
+      "store_id": "2052",
+      "like_code": "319378",
+      "department_id": [
+        "1496215"
+      ],
+      "price": "₱131.00",
+      "unit_price": 131.0,
+      "popularity": 4135,
+      "upc": "480650216516",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502165164",
+      "reference_ids": [
+        "04806502165164"
+      ],
+      "name": "Cheers Multi-Purpose Storage Bags Double Seal Medium | 25 bags",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766659/f08da1dedd1f78a4632ba7f024534e45",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502165164",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/party_needs/containers/cheers_multi_purpose_storage_bags_double_seal_medium_25_bags/p/1564405684704766659"
+    }
+  ]
+}

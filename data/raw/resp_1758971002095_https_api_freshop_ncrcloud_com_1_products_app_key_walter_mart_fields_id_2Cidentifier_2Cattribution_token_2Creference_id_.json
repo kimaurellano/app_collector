@@ -1,0 +1,2040 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684703975539",
+      "store_id": "2052",
+      "like_code": "286856",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱38.25",
+      "unit_price": 38.25,
+      "popularity": 999999,
+      "upc": "490243080370",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430803700",
+      "reference_ids": [
+        "04902430803700"
+      ],
+      "name": "Safeguard Bar Soap Lemon | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703975539/5524cfdd43bc3b53240fdf89c5bcf5a6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04902430803700",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_lemon_85g/p/1564405684703975539"
+    },
+    {
+      "id": "1564405684707151015",
+      "store_id": "2052",
+      "like_code": "286858",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱138.50",
+      "unit_price": 138.5,
+      "popularity": 1373,
+      "upc": "490243080373",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430803731",
+      "reference_ids": [
+        "04902430803731"
+      ],
+      "name": "Safeguard Bar Soap Lemon Fresh | 115g x 3s",
+      "size": "pack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707151015/72223384cfe939e211f073804bf48513",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430803731",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_lemon_fresh_115g_x_3s/p/1564405684707151015"
+    },
+    {
+      "id": "1564405684705005609",
+      "store_id": "2052",
+      "like_code": "312457",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱194.75",
+      "unit_price": 194.75,
+      "popularity": 1335,
+      "upc": "490243085854",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430858540",
+      "reference_ids": [
+        "04902430858540"
+      ],
+      "name": "Safeguard Bar Soap Lemon Fresh | 160g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705005609/5dcf950ca3859ad90a662bfeb38e094c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430858540",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_lemon_fresh_160g_x_3s/p/1564405684705005609"
+    },
+    {
+      "id": "1564405684706924930",
+      "store_id": "2052",
+      "like_code": "327907",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 4607,
+      "quantity_step": 1.0,
+      "upc": "490243088196",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430881968",
+      "reference_ids": [
+        "04902430881968"
+      ],
+      "name": "Safeguard Bar Soap Natural Detox Bamboo Charcoal | 108g x 3s",
+      "size": "pc",
+      "price_disclaimer": "SAVE 20",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706924930/08ee9e6dba0612da1784a79dd50ef3dc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430881968",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_natural_detox_bamboo_charcoal_108g_x_3s/p/1564405684706924930"
+    },
+    {
+      "id": "1564405684702553205",
+      "store_id": "2052",
+      "like_code": "15488",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 1042,
+      "upc": "490243093480",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430934800",
+      "reference_ids": [
+        "04902430934800",
+        "04902430455080",
+        "04902430495080"
+      ],
+      "name": "Safeguard Bar Soap Pure White | 115g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553205/b9fa069f044633392629d33bbbeb14aa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430934800",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_pure_white_115g/p/1564405684702553205"
+    },
+    {
+      "id": "1564405684702552872",
+      "store_id": "2052",
+      "like_code": "109734",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱138.50",
+      "unit_price": 138.5,
+      "popularity": 909,
+      "upc": "490243016089",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430160896",
+      "reference_ids": [
+        "04902430160896"
+      ],
+      "name": "Safeguard Bar Soap Pure White | 115g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552872/2396bd0c45d7e1d9f8ce76b596dca14d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430160896",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_pure_white_115g_x_3s/p/1564405684702552872"
+    },
+    {
+      "id": "1564405684702552905",
+      "store_id": "2052",
+      "like_code": "164348",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱278.50",
+      "unit_price": 278.5,
+      "popularity": 4181,
+      "upc": "490243061217",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430612173",
+      "reference_ids": [
+        "04902430612173",
+        "04902430220873"
+      ],
+      "name": "Safeguard Bar Soap Pure White | 115g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552905/caf9e57ffc3b51a6e991e7378b40e440",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430612173",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_pure_white_115g_x_6s/p/1564405684702552905"
+    },
+    {
+      "id": "1564405684702552910",
+      "store_id": "2052",
+      "like_code": "121622",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱68.00",
+      "unit_price": 68.0,
+      "popularity": 492,
+      "upc": "490243022289",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04902430222891",
+      "reference_ids": [
+        "04902430222891"
+      ],
+      "name": "Safeguard Bar Soap Pure White | 160g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552910/8d8adac0a2dd8095fc484c76fb3ffb07",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430222891",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_pure_white_160g/p/1564405684702552910"
+    },
+    {
+      "id": "1564405684702553587",
+      "store_id": "2052",
+      "like_code": "212830",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱194.75",
+      "unit_price": 194.75,
+      "popularity": 1264,
+      "upc": "490243067540",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430675406",
+      "reference_ids": [
+        "04902430675406"
+      ],
+      "name": "Safeguard Bar Soap Pure White | 160g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553587/d72760648e7029a356ae872e6c533e75",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430675406",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_pure_white_160g_x_3s/p/1564405684702553587"
+    },
+    {
+      "id": "1564405684702553909",
+      "store_id": "2052",
+      "like_code": "96287",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱20.50",
+      "unit_price": 20.5,
+      "popularity": 218,
+      "upc": "490243094555",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430945554",
+      "reference_ids": [
+        "04902430945554"
+      ],
+      "name": "Safeguard Bar Soap Pure White | 65g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553909/74b77ee4973c20faad363c6dc4cea5ff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430945554",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_bar_soap_pure_white_65g/p/1564405684702553909"
+    },
+    {
+      "id": "1564405684715419153",
+      "store_id": "2052",
+      "like_code": "406515",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 735,
+      "upc": "498717622070",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176220707",
+      "reference_ids": [
+        "04987176220707"
+      ],
+      "name": "Safeguard Bar Soap White Camellia | 115g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715419153/4b654255cd0c9b1c09d25d22c95ff55d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176220707",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_bar_soap_white_camellia_115g/p/1564405684715419153"
+    },
+    {
+      "id": "1564405684715419149",
+      "store_id": "2052",
+      "like_code": "406513",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.25",
+      "unit_price": 129.25,
+      "popularity": 394,
+      "quantity_step": 1.0,
+      "upc": "498717622068",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176220684",
+      "reference_ids": [
+        "04987176220684"
+      ],
+      "name": "Safeguard Bar Soap White Camellia | 115g x 3s",
+      "size": "pc",
+      "price_disclaimer": "SAVE 10",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715419149/dae519aaf90bac80694e692544fa676f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176220684",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_bar_soap_white_camellia_115g_x_3s/p/1564405684715419149"
+    },
+    {
+      "id": "1564405684715419151",
+      "store_id": "2052",
+      "like_code": "406514",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱68.00",
+      "unit_price": 68.0,
+      "popularity": 1110,
+      "upc": "498717622069",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176220691",
+      "reference_ids": [
+        "04987176220691"
+      ],
+      "name": "Safeguard Bar Soap White Camellia | 160g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715419151/97fcf69a717ae13bc3b9effdb77b67c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176220691",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_bar_soap_white_camellia_160g/p/1564405684715419151"
+    },
+    {
+      "id": "1564405684715419145",
+      "store_id": "2052",
+      "like_code": "406516",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱193.50",
+      "unit_price": 193.5,
+      "popularity": 366,
+      "upc": "498717622067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176220677",
+      "reference_ids": [
+        "04987176220677"
+      ],
+      "name": "Safeguard Bar Soap White Camellia | 160g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715419145/96f949a7d2331d20179229641f2fae2b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176220677",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_bar_soap_white_camellia_160g_x_3s/p/1564405684715419145"
+    },
+    {
+      "id": "1564405684715419147",
+      "store_id": "2052",
+      "like_code": "406512",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱20.50",
+      "unit_price": 20.5,
+      "popularity": 117,
+      "upc": "498717622065",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176220653",
+      "reference_ids": [
+        "04987176220653"
+      ],
+      "name": "Safeguard Bar Soap White Camellia | 65g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715419147/315a4dd33032997b63e2cb6908e947f2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176220653",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_bar_soap_white_camellia_65g/p/1564405684715419147"
+    },
+    {
+      "id": "1564405684715690801",
+      "store_id": "2052",
+      "like_code": "410109",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 5830,
+      "quantity_step": 1.0,
+      "upc": "498717625680",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176256805",
+      "reference_ids": [
+        "04987176256805"
+      ],
+      "name": "Safeguard Body Wash Arctic Fresh | 450ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 20",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715690801/c15d5af482002a78522a958054690a4d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176256805",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_arctic_fresh_450ml/p/1564405684715690801"
+    },
+    {
+      "id": "1564405684715040745",
+      "store_id": "2052",
+      "like_code": "402179",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱289.00",
+      "unit_price": 289.0,
+      "popularity": 5911,
+      "upc": "498717623350",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176233509",
+      "reference_ids": [
+        "04987176233509"
+      ],
+      "name": "Safeguard Body Wash Arctic Fresh | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715040745/c869415f190db4c731a8458f805de33f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176233509",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_arctic_fresh_900ml/p/1564405684715040745"
+    },
+    {
+      "id": "1764405684715063632",
+      "store_id": "2052",
+      "like_code": "438763",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱322.50",
+      "unit_price": 322.5,
+      "popularity": 9824,
+      "upc": "498717631489",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176314895",
+      "reference_ids": [
+        "04987176314895"
+      ],
+      "name": "Safeguard Body Wash Arctic Fresh (Buy 1 Get 2nd at 50% Off) | 650ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715063632/2a537518f6b2945ca0a43f72e7444aed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176314895",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_arctic_fresh_buy_1_get_2nd_at_50_off_650ml_x_2s/p/1764405684715063632"
+    },
+    {
+      "id": "1564405684715040751",
+      "store_id": "2052",
+      "like_code": "402180",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 4752,
+      "upc": "498717623352",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176233523",
+      "reference_ids": [
+        "04987176233523"
+      ],
+      "name": "Safeguard Body Wash Floral Pink | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715040751/f10daa42a15f26dc6aeca35234ba6643",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176233523",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_floral_pink_1_l/p/1564405684715040751"
+    },
+    {
+      "id": "1564405684715690797",
+      "store_id": "2052",
+      "like_code": "410107",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 5195,
+      "quantity_step": 1.0,
+      "upc": "498717607684",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176076847",
+      "reference_ids": [
+        "04987176076847"
+      ],
+      "name": "Safeguard Body Wash Floral Pink | 450ml Pump",
+      "size": "pc",
+      "price_disclaimer": "SAVE 20",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715690797/3192ef90fda74aa3667f04737842fba5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176076847",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_floral_pink_450ml_pump/p/1564405684715690797"
+    },
+    {
+      "id": "1764405684715063626",
+      "store_id": "2052",
+      "like_code": "438759",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱253.50",
+      "unit_price": 253.5,
+      "popularity": 10130,
+      "upc": "498717631453",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176314536",
+      "reference_ids": [
+        "04987176314536"
+      ],
+      "name": "Safeguard Body Wash Floral Pink (Buy 1 Get 2nd at 50% Off) | 620ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715063626/df0b5077e36226675aa57368eb597bed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176314536",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_floral_pink_buy_1_get_2nd_at_50_off_620ml_x_2s/p/1764405684715063626"
+    },
+    {
+      "id": "1764405684715063628",
+      "store_id": "2052",
+      "like_code": "438762",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱343.50",
+      "unit_price": 343.5,
+      "popularity": 8952,
+      "upc": "498717631487",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176314871",
+      "reference_ids": [
+        "04987176314871"
+      ],
+      "name": "Safeguard Body Wash Floral Pink (Buy 1 Get 2nd at 50% Off) | 720ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715063628/0bee190d75db85f4e39f65bc80a3ec52",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176314871",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_floral_pink_buy_1_get_2nd_at_50_off_720ml_x_2s/p/1764405684715063628"
+    },
+    {
+      "id": "1564405684715040749",
+      "store_id": "2052",
+      "like_code": "402178",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 4717,
+      "upc": "498717623351",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176233516",
+      "reference_ids": [
+        "04987176233516"
+      ],
+      "name": "Safeguard Body Wash Lemon Fresh | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715040749/fb1bfa9e40d6337c799417762c6e63db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176233516",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_lemon_fresh_1_l/p/1564405684715040749"
+    },
+    {
+      "id": "1764405684715063634",
+      "store_id": "2052",
+      "like_code": "438764",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱343.50",
+      "unit_price": 343.5,
+      "popularity": 9959,
+      "upc": "498717631491",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176314918",
+      "reference_ids": [
+        "04987176314918"
+      ],
+      "name": "Safeguard Body Wash Lemon Fresh (Buy 1 Get 2nd at 50% Off) | 720ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715063634/443a5d180d9f8a748867851515743583",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176314918",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_lemon_fresh_buy_1_get_2nd_at_50_off_720ml_x_2s/p/1764405684715063634"
+    },
+    {
+      "id": "1564405684715040753",
+      "store_id": "2052",
+      "like_code": "402181",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 7037,
+      "upc": "498717623353",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176233530",
+      "reference_ids": [
+        "04987176233530"
+      ],
+      "name": "Safeguard Body Wash Pure White | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715040753/c8df80a7a539eb7eace7901e1e7994da",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176233530",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_pure_white_1_l/p/1564405684715040753"
+    },
+    {
+      "id": "1564405684715690795",
+      "store_id": "2052",
+      "like_code": "410108",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 4205,
+      "quantity_step": 1.0,
+      "upc": "498717607683",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176076830",
+      "reference_ids": [
+        "04987176076830"
+      ],
+      "name": "Safeguard Body Wash Pure White | 450ml Pump",
+      "size": "pc",
+      "price_disclaimer": "SAVE 20",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715690795/8684502029bacf56967fde0d5f448f54",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176076830",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_pure_white_450ml_pump/p/1564405684715690795"
+    },
+    {
+      "id": "1764405684715063624",
+      "store_id": "2052",
+      "like_code": "438760",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱253.50",
+      "unit_price": 253.5,
+      "popularity": 9506,
+      "upc": "498717631450",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176314505",
+      "reference_ids": [
+        "04987176314505"
+      ],
+      "name": "Safeguard Body Wash Pure White (Buy 1 Get 2nd at 50% Off) | 620ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715063624/182218d23b0a5d8aa4b864fcf7f0628a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176314505",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_pure_white_buy_1_get_2nd_at_50_off_620ml_x_2s/p/1764405684715063624"
+    },
+    {
+      "id": "1764405684715063630",
+      "store_id": "2052",
+      "like_code": "438761",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱343.50",
+      "unit_price": 343.5,
+      "popularity": 9758,
+      "upc": "498717631488",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176314888",
+      "reference_ids": [
+        "04987176314888"
+      ],
+      "name": "Safeguard Body Wash Pure White (Buy 1 Get 2nd at 50% Off) | 720ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715063630/753f327e72182b440ecc0718049643f4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176314888",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_pure_white_buy_1_get_2nd_at_50_off_720ml_x_2s/p/1764405684715063630"
+    },
+    {
+      "id": "1564405684713638647",
+      "store_id": "2052",
+      "like_code": "379969",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 2191,
+      "upc": "498717615568",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176155689",
+      "reference_ids": [
+        "04987176155689"
+      ],
+      "name": "Safeguard Body Wash Refill Pack Pure White | 620ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713638647/8e23556f3bf897c6e999eab69236548c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176155689",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_body_wash_refill_pack_pure_white_620ml/p/1564405684713638647"
+    },
+    {
+      "id": "1764405684714937720",
+      "store_id": "2052",
+      "like_code": "430257",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 4757,
+      "upc": "498717629912",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176299123",
+      "reference_ids": [
+        "04987176299123"
+      ],
+      "name": "Safeguard Floral Pink Body Wash | 450ml + Loofah",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714937720/f07977deb5a035e26e468cebb68f01d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176299123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_floral_pink_body_wash_450ml_loofah/p/1764405684714937720"
+    },
+    {
+      "id": "1564405684714523935",
+      "store_id": "2052",
+      "like_code": "305347",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 7132,
+      "upc": "490243083627",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430836272",
+      "reference_ids": [
+        "04902430836272",
+        "04987176152695"
+      ],
+      "name": "Safeguard Floral Pink Body Wash | 720ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714523935/71cedca075943fe07ed4ab8db3c94f7f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430836272",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_floral_pink_body_wash_720ml/p/1564405684714523935"
+    },
+    {
+      "id": "1564405684713638644",
+      "store_id": "2052",
+      "like_code": "379968",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 1149,
+      "upc": "498717615567",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176155672",
+      "reference_ids": [
+        "04987176155672"
+      ],
+      "name": "Safeguard Floral Pink Bodywash Refill | 620ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713638644/d8c6134c034652f564328f5fd2303822",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176155672",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_floral_pink_bodywash_refill_620ml/p/1564405684713638644"
+    },
+    {
+      "id": "1564405684712299351",
+      "store_id": "2052",
+      "like_code": "359372",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 4572,
+      "upc": "498717604954",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176049544",
+      "reference_ids": [
+        "04987176049544"
+      ],
+      "name": "SAFEGUARD HANDWASH LEMON | 620ML REFILL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712299351/1287541a55f7a4ece095f332be6dab39",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176049544",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_handwash_lemon_620_ml_refill/p/1564405684712299351"
+    },
+    {
+      "id": "1564405684712299353",
+      "store_id": "2052",
+      "like_code": "359371",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 4293,
+      "upc": "498717604953",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176049537",
+      "reference_ids": [
+        "04987176049537"
+      ],
+      "name": "SAFEGUARD HANDWASH PINK | 620ML REFILL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712299353/4731117c0ffa42ddbe1997dbe5d3f1ee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176049537",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_handwash_pink_620_ml_refill/p/1564405684712299353"
+    },
+    {
+      "id": "1564405684712299352",
+      "store_id": "2052",
+      "like_code": "359370",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 4421,
+      "upc": "498717604952",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176049520",
+      "reference_ids": [
+        "04987176049520"
+      ],
+      "name": "SAFEGUARD HANDWASH WHITE | 620ML REFILL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712299352/8666087f0f7a28d6f0ce1a55bad3a6d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176049520",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_handwash_white_620_ml_refill/p/1564405684712299352"
+    },
+    {
+      "id": "1564405684711864475",
+      "store_id": "2052",
+      "like_code": "354086",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 6807,
+      "upc": "498717604999",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176049995",
+      "reference_ids": [
+        "04987176049995"
+      ],
+      "name": "SAFEGUARD LEMON FOAMING HANDWASH | 400ML REFILL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711864475/cce05843e74a6d0d74b3c0a1f5ef109c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176049995",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_lemon_foaming_handwash_400_ml_refill/p/1564405684711864475"
+    },
+    {
+      "id": "1564405684711864474",
+      "store_id": "2052",
+      "like_code": "354085",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "498717604998",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176049988",
+      "reference_ids": [
+        "04987176049988"
+      ],
+      "name": "SAFEGUARD LEMON FOAMING HANDWASH | 450ML",
+      "size": "pc",
+      "price_disclaimer": "SAVE 49",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711864474/aca9e3128ea57c0993dcaec9f3b51b1c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04987176049988",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/safeguard_lemon_foaming_handwash_450_ml/p/1564405684711864474"
+    },
+    {
+      "id": "1564405684713638639",
+      "store_id": "2052",
+      "like_code": "379965",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 6781,
+      "upc": "498717615270",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176152701",
+      "reference_ids": [
+        "04987176152701"
+      ],
+      "name": "Safeguard Lemon Fresh Body Wash | 720ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713638639/566cf999c54fbf60395840273e336ca8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176152701",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_lemon_fresh_body_wash_720ml/p/1564405684713638639"
+    },
+    {
+      "id": "1564405684713638643",
+      "store_id": "2052",
+      "like_code": "379967",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 1925,
+      "upc": "498717615566",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176155665",
+      "reference_ids": [
+        "04987176155665"
+      ],
+      "name": "Safeguard Lemon Fresh Bodywash Refill | 620ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713638643/c8f8a6b1dee75abb176043e659830899",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176155665",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_lemon_fresh_bodywash_refill_620ml/p/1564405684713638643"
+    },
+    {
+      "id": "1564405684713538060",
+      "store_id": "2052",
+      "like_code": "376845",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱194.75",
+      "unit_price": 194.75,
+      "popularity": 999999,
+      "upc": "498717626752",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176267528",
+      "reference_ids": [
+        "04987176267528",
+        "04987176140470"
+      ],
+      "name": "Safeguard Lemon Fresh Soap | 175g + FREE 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713538060/90c6517b0b708e02c6b5cd4e47d778eb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04987176267528",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_lemon_fresh_soap_175g_free_60g/p/1564405684713538060"
+    },
+    {
+      "id": "1564405684711308332",
+      "store_id": "2052",
+      "like_code": "348803",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 8577,
+      "quantity_step": 1.0,
+      "upc": "498717602799",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176027993",
+      "reference_ids": [
+        "04987176027993"
+      ],
+      "name": "Safeguard Liquid Hand Soap Floral Pink | 450ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 26",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711308332/362049d8423bee38deab96a7a4518676",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176027993",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_liquid_hand_soap_floral_pink_450ml/p/1564405684711308332"
+    },
+    {
+      "id": "1564405684702553306",
+      "store_id": "2052",
+      "like_code": "158076",
+      "department_id": [
+        "22256133"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 2406,
+      "upc": "490243053375",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430533751",
+      "reference_ids": [
+        "04902430533751"
+      ],
+      "name": "Safeguard Liquid Hand Soap Lemon Fresh | 225ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553306/d704473c7dd6f5fd2140ddae83578d20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430533751",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hand_hygiene/safeguard_liquid_hand_soap_lemon_fresh_225ml/p/1564405684702553306"
+    },
+    {
+      "id": "1564405684704158498",
+      "store_id": "2052",
+      "like_code": "299116",
+      "department_id": [
+        "22256133"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 5987,
+      "upc": "490243080533",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430805339",
+      "reference_ids": [
+        "04902430805339"
+      ],
+      "name": "Safeguard Liquid Hand Soap Lemon Fresh | 450ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704158498/7c29ecc7e73976ca13b10447452c045b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430805339",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hand_hygiene/safeguard_liquid_hand_soap_lemon_fresh_450ml/p/1564405684704158498"
+    },
+    {
+      "id": "1564405684704158497",
+      "store_id": "2052",
+      "like_code": "299117",
+      "department_id": [
+        "22256133"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 1821,
+      "upc": "490243080532",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430805322",
+      "reference_ids": [
+        "04902430805322"
+      ],
+      "name": "Safeguard Liquid Hand Soap Pure White | 450ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704158497/a252ac50e9d63bc58450147d84ec9745",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430805322",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hand_hygiene/safeguard_liquid_hand_soap_pure_white_450ml/p/1564405684704158497"
+    },
+    {
+      "id": "1564405684711308333",
+      "store_id": "2052",
+      "like_code": "348804",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 6787,
+      "quantity_step": 1.0,
+      "upc": "498717602798",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176027986",
+      "reference_ids": [
+        "04987176027986"
+      ],
+      "name": "Safeguard Liquid Hand Soap Refill Floral Pink | 420ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 16",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711308333/d8aac722955d65537c98554d94989844",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176027986",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/safeguard_liquid_hand_soap_refill_floral_pink_420ml/p/1564405684711308333"
+    },
+    {
+      "id": "1564405684704158501",
+      "store_id": "2052",
+      "like_code": "296525",
+      "department_id": [
+        "22256133"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 1967,
+      "quantity_step": 1.0,
+      "upc": "490243080539",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430805391",
+      "reference_ids": [
+        "04902430805391"
+      ],
+      "name": "Safeguard Liquid Hand Soap Refill Lemon Fresh | 200ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 10",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704158501/e2107e70190c5902860d5e8b32877fe7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430805391",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hand_hygiene/safeguard_liquid_hand_soap_refill_lemon_fresh_200ml/p/1564405684704158501"
+    },
+    {
+      "id": "1564405684704158500",
+      "store_id": "2052",
+      "like_code": "296528",
+      "department_id": [
+        "22256133"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 5724,
+      "quantity_step": 1.0,
+      "upc": "490243080536",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430805360",
+      "reference_ids": [
+        "04902430805360"
+      ],
+      "name": "Safeguard Liquid Hand Soap Refill Lemon Fresh | 420ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 16",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704158500/7e4e9409a8d681f5ecb33f16a4e876d9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430805360",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hand_hygiene/safeguard_liquid_hand_soap_refill_lemon_fresh_420ml/p/1564405684704158500"
+    },
+    {
+      "id": "1564405684704158502",
+      "store_id": "2052",
+      "like_code": "296526",
+      "department_id": [
+        "22256133"
+      ],
+      "price": "₱69.00",
+      "unit_price": 69.0,
+      "popularity": 2237,
+      "upc": "490243080538",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430805384",
+      "reference_ids": [
+        "04902430805384"
+      ],
+      "name": "Safeguard Liquid Hand Soap Refill Pack Pure White | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704158502/8cbce4843c8cde4e2220305279fab5e2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430805384",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hand_hygiene/safeguard_liquid_hand_soap_refill_pack_pure_white_200ml/p/1564405684704158502"
+    }
+  ]
+}

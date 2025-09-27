@@ -1,0 +1,2370 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1764405684715178234",
+      "store_id": "2052",
+      "like_code": "440665",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 10197,
+      "upc": "480008605065",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800086050656",
+      "reference_ids": [
+        "04800086050656"
+      ],
+      "name": "Cornetto Apple Crumble | 115ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715178234/54ed065ae6ab0fe3a786ee05caaf15e8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800086050656",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cornetto_apple_crumble_115ml/p/1764405684715178234"
+    },
+    {
+      "id": "1564405684713689745",
+      "store_id": "2052",
+      "like_code": "381062",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱380.00",
+      "unit_price": 380.0,
+      "popularity": 999999,
+      "upc": "691587822158",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06915878221584",
+      "reference_ids": [
+        "06915878221584"
+      ],
+      "name": "Corona Extra | 330ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713689745/4d92cbf9a9a7adb5c0baa375da32bf6b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06915878221584",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/corona_extra_330ml_x_6s/p/1564405684713689745"
+    },
+    {
+      "id": "1564405684712876106",
+      "store_id": "2052",
+      "like_code": "366282",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 3352,
+      "upc": "691587822157",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06915878221577",
+      "reference_ids": [
+        "06915878221577"
+      ],
+      "name": "Corona Extra Beer | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712876106/0d529e97ffb374e616cd3fb686ff6b10",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3699262569903569734",
+          "reference_id": "tpr_2052_06915878221577_72_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712876106"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3352,
+          "product_tag_ids": [
+            "1496196",
+            "22356782",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "829e81c81a3f251ab42cd9adc93dcff1",
+          "similarity_priority": 5,
+          "name": "Corona Extra Beer | 330ml",
+          "sale_price": "₱72.00",
+          "sale_price_md": "**₱72.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3699263688465725913",
+          "reference_id": "ad_2052_06915878221577_1_72_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712876106"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1676,
+          "product_tag_ids": [
+            "1496196",
+            "22356782",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c0df851bfed92e8b5224a4257774a531",
+          "similarity_priority": 6,
+          "name": "Corona Extra Beer | 330ml",
+          "sale_price": "₱72.00",
+          "sale_price_md": "**₱72.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱72.00",
+      "sale_price_md": "**₱72.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3699262569903569734",
+        "reference_id": "tpr_2052_06915878221577_72_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712876106"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3352,
+        "product_tag_ids": [
+          "1496196",
+          "22356782",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "829e81c81a3f251ab42cd9adc93dcff1",
+        "similarity_priority": 5,
+        "name": "Corona Extra Beer | 330ml",
+        "sale_price": "₱72.00",
+        "sale_price_md": "**₱72.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 72.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱72.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06915878221577",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/corona_extra_beer_330ml/p/1564405684712876106"
+    },
+    {
+      "id": "1564405684702503255",
+      "store_id": "2052",
+      "like_code": "154051",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 999999,
+      "upc": "7503271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00000075032715",
+      "reference_ids": [
+        "00000075032715"
+      ],
+      "name": "Corona Extra Beer | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503255/9be69c5341d4a73b7865cf5e7693d102",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000075032715",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/corona_extra_beer_355ml/p/1564405684702503255"
+    },
+    {
+      "id": "1564405684702559472",
+      "store_id": "2052",
+      "like_code": "162916",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 5989,
+      "upc": "931169710125",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09311697101255",
+      "reference_ids": [
+        "09311697101255"
+      ],
+      "name": "Cosi Pet Food Milk Lactose Free | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559472/9c8a1289747346e9f0ac4fe07de2aca0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09311697101255",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 41",
+        "sequence": 41,
+        "identifier": "0ca6910f-67ac-4bd3-a9df-3185ffbca56f",
+        "id": "22356804"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cosi_pet_food_milk_lactose_free_1_l/p/1564405684702559472"
+    },
+    {
+      "id": "1564405684702514821",
+      "store_id": "2052",
+      "like_code": "147374",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 999999,
+      "upc": "200001473743",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000014737433",
+      "reference_ids": [
+        "02000014737433"
+      ],
+      "name": "Cosmic Combs 2000",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000014737433",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cosmic_combs_2000/p/1564405684702514821"
+    },
+    {
+      "id": "1564405684702514897",
+      "store_id": "2052",
+      "like_code": "147459",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 3247,
+      "upc": "200001474592",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000014745926",
+      "reference_ids": [
+        "02000014745926"
+      ],
+      "name": "Cosmic Nail Care 2000",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000014745926",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cosmic_nail_care_2000/p/1564405684702514897"
+    },
+    {
+      "id": "1564405684710112324",
+      "store_id": "2052",
+      "like_code": "341531",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱186.00",
+      "unit_price": 186.0,
+      "popularity": 6826,
+      "upc": "480651538001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515380011",
+      "reference_ids": [
+        "04806515380011"
+      ],
+      "name": "Country Pride Chicken Nuggets | 453g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710112324/d9811134d75d8e4fd5a51ffe701b80da",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515380011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/country_pride_chicken_nuggets_453g/p/1564405684710112324"
+    },
+    {
+      "id": "1564405684710112321",
+      "store_id": "2052",
+      "like_code": "341530",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱142.75",
+      "unit_price": 142.75,
+      "popularity": 5610,
+      "upc": "480651538019",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515380196",
+      "reference_ids": [
+        "04806515380196"
+      ],
+      "name": "Country Pride Chicken Patties | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710112321/5894aa368b86929b4a41e1b5c28cf5ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515380196",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/country_pride_chicken_patties_350g/p/1564405684710112321"
+    },
+    {
+      "id": "1564405684710451522",
+      "store_id": "2052",
+      "like_code": "345242",
+      "department_id": [
+        "1548787"
+      ],
+      "price": "₱340.00",
+      "unit_price": 340.0,
+      "popularity": 10033,
+      "upc": "480652087152",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520871528",
+      "reference_ids": [
+        "04806520871528"
+      ],
+      "name": "Cov-X Air & Surface Disinfectant Spray | 360g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710451522/06337033614d3aa4980fbf043c34ace5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806520871528",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/safety_essentials/cleaning_disinfection/cov_x_air_surface_disinfectant_spray_360g/p/1564405684710451522"
+    },
+    {
+      "id": "1564405684711111392",
+      "store_id": "2052",
+      "like_code": "347719",
+      "department_id": [
+        "1548787"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "upc": "480652087153",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520871535",
+      "reference_ids": [
+        "04806520871535"
+      ],
+      "name": "Cov-X Multi-Surface Disinfecting Wipes | 80s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711111392/c085900fec5d71c01fdcd9434940dafc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806520871535",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/safety_essentials/cleaning_disinfection/cov_x_multi_surface_disinfecting_wipes_80s/p/1564405684711111392"
+    },
+    {
+      "id": "1764405684715383134",
+      "store_id": "2052",
+      "like_code": "448191",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 6284,
+      "upc": "480057514357",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575143579",
+      "reference_ids": [
+        "04800575143579"
+      ],
+      "name": "Cowbell Condensada  | 1kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715383134/2b46511b6bff1ae5696e692750a1dafc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800575143579",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cowbell_condensada_1kg/p/1764405684715383134"
+    },
+    {
+      "id": "1564405684714596881",
+      "store_id": "2052",
+      "like_code": "390444",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱42.25",
+      "unit_price": 42.25,
+      "popularity": 46,
+      "upc": "480057514491",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575144910",
+      "reference_ids": [
+        "04800575144910"
+      ],
+      "name": "Cowbell Condensarap | 374g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714596881/330f4e7a5c1d72772a4b034eb117816c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800575144910",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/cowbell_condensarap_374g/p/1564405684714596881"
+    },
+    {
+      "id": "1564405684714596882",
+      "store_id": "2052",
+      "like_code": "390441",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱30.75",
+      "unit_price": 30.75,
+      "popularity": 84,
+      "upc": "480057514495",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575144958",
+      "reference_ids": [
+        "04800575144958"
+      ],
+      "name": "Cowbell Evapsarap | 360ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684714596882/c83c302e907548779f8b9f85e42dc215",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800575144958",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/cowbell_evapsarap_360ml/p/1564405684714596882"
+    },
+    {
+      "id": "1564405684702558421",
+      "store_id": "2052",
+      "like_code": "265660",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 999999,
+      "upc": "888844001061",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440010610",
+      "reference_ids": [
+        "08888440010610"
+      ],
+      "name": "Cowhead Danish Butter Cookies | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558421/b244b68c514f106c38a4aaddd8e5cbd7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08888440010610",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/cowhead_danish_butter_cookies_150g/p/1564405684702558421"
+    },
+    {
+      "id": "1564405684702558422",
+      "store_id": "2052",
+      "like_code": "265661",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱327.00",
+      "unit_price": 327.0,
+      "popularity": 999999,
+      "upc": "888844001062",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440010627",
+      "reference_ids": [
+        "08888440010627"
+      ],
+      "name": "Cowhead Danish Butter Cookies | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558422/b7c907397e9a6ec9bf0d3ea0fb7e9acf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08888440010627",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/cowhead_danish_butter_cookies_400g/p/1564405684702558422"
+    },
+    {
+      "id": "1564405684702558419",
+      "store_id": "2052",
+      "like_code": "149758",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱132.25",
+      "unit_price": 132.25,
+      "popularity": 5836,
+      "upc": "888844000871",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440008716",
+      "reference_ids": [
+        "08888440008716"
+      ],
+      "name": "Cowhead Lactose Free Pure Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558419/eaad1ce68df5a8845498f9bd47a02e59",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440008716",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_lactose_free_pure_milk_1_l/p/1564405684702558419"
+    },
+    {
+      "id": "1564405684702558403",
+      "store_id": "2052",
+      "like_code": "80923",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 7297,
+      "upc": "888844000595",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440005951",
+      "reference_ids": [
+        "08888440005951"
+      ],
+      "name": "Cowhead Lite Pure Milk Low Fat | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558403/28c40c306225e1c8fc8722ccfd9eb710",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440005951",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_lite_pure_milk_low_fat_200ml/p/1564405684702558403"
+    },
+    {
+      "id": "1564405684702558410",
+      "store_id": "2052",
+      "like_code": "10328",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱113.25",
+      "unit_price": 113.25,
+      "popularity": 9069,
+      "upc": "888844000710",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440007108",
+      "reference_ids": [
+        "08888440007108"
+      ],
+      "name": "Cowhead Lite UHT Pure Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558410/d2fb7eba9b7e3c0182bb126cb6918df4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440007108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_lite_uht_pure_milk_1_l/p/1564405684702558410"
+    },
+    {
+      "id": "1564405684702558394",
+      "store_id": "2052",
+      "like_code": "10332",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱125.75",
+      "unit_price": 125.75,
+      "popularity": 8318,
+      "upc": "888844000176",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440001762",
+      "reference_ids": [
+        "08888440001762"
+      ],
+      "name": "Cowhead Premium Chocolate Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702558394/94810550b88b84e51e73468b315e6eee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440001762",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_premium_chocolate_milk_1_l/p/1564405684702558394"
+    },
+    {
+      "id": "1564405684702558402",
+      "store_id": "2052",
+      "like_code": "117533",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 8941,
+      "upc": "888844000596",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440005968",
+      "reference_ids": [
+        "08888440005968"
+      ],
+      "name": "Cowhead Premium Chocolate Milk Drink | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558402/81b1cbf37b957b1461cb1ea2d7de8a0b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440005968",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/cowhead_premium_chocolate_milk_drink_200ml/p/1564405684702558402"
+    },
+    {
+      "id": "1564405684702558405",
+      "store_id": "2052",
+      "like_code": "117531",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱119.75",
+      "unit_price": 119.75,
+      "popularity": 999999,
+      "upc": "888844000700",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440007009",
+      "reference_ids": [
+        "08888440007009"
+      ],
+      "name": "Cowhead Premium Strawberry Flavored Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558405/5e6c48dd6cd92cbdaa7d6447b09bfe98",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08888440007009",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_premium_strawberry_flavored_milk_1_l/p/1564405684702558405"
+    },
+    {
+      "id": "1564405684702558400",
+      "store_id": "2052",
+      "like_code": "72328",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱112.75",
+      "unit_price": 112.75,
+      "popularity": 9275,
+      "upc": "888844000564",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440005647",
+      "reference_ids": [
+        "08888440005647"
+      ],
+      "name": "Cowhead Slim Pure Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558400/149684dcc16f354918d0a2347a6f10fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440005647",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_slim_pure_milk_1_l/p/1564405684702558400"
+    },
+    {
+      "id": "1564405684702558390",
+      "store_id": "2052",
+      "like_code": "10317",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱106.50",
+      "unit_price": 106.5,
+      "popularity": 654,
+      "upc": "931169710438",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09311697104386",
+      "reference_ids": [
+        "09311697104386",
+        "08888440000048"
+      ],
+      "name": "Cowhead UHT Pure Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702558390/dab1057d016642aa7e8afe1c25bc433d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09311697104386",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_uht_pure_milk_1_l/p/1564405684702558390"
+    },
+    {
+      "id": "1564405684702558393",
+      "store_id": "2052",
+      "like_code": "10336",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱39.00",
+      "unit_price": 39.0,
+      "popularity": 2081,
+      "upc": "888844000173",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08888440001731",
+      "reference_ids": [
+        "08888440001731"
+      ],
+      "name": "Cowhead UHT Pure Milk | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "08888440001731/e85302d02be12174fe1f017d12ecb00d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08888440001731",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/cowhead_uht_pure_milk_200ml/p/1564405684702558393"
+    },
+    {
+      "id": "1764405684715726448",
+      "store_id": "2052",
+      "like_code": "457022",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱319.00",
+      "unit_price": 319.0,
+      "popularity": 999999,
+      "upc": "490152501065",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901525010658",
+      "reference_ids": [
+        "04901525010658"
+      ],
+      "name": "Cow-soap Beauty Soap Blue 85g 6s",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901525010658",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cow_soap_beauty_soap_blue_85g_6s/p/1764405684715726448"
+    },
+    {
+      "id": "1764405684715726408",
+      "store_id": "2052",
+      "like_code": "457023",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱319.00",
+      "unit_price": 319.0,
+      "popularity": 999999,
+      "upc": "490152501092",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901525010924",
+      "reference_ids": [
+        "04901525010924"
+      ],
+      "name": "Cow-soap Beauty Soap Red 85g 6s",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901525010924",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cow_soap_beauty_soap_red_85g_6s/p/1764405684715726408"
+    },
+    {
+      "id": "1564405684712669616",
+      "store_id": "2052",
+      "like_code": "364078",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 3677,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364078",
+      "reference_ids": [
+        "00000000364078"
+      ],
+      "name": "CP Chicken Breast Fillet | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712669616/10e3daea0a66b2a451bb09f3eb4e26af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364078",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_chicken_breast_fillet_kg/p/1564405684712669616"
+    },
+    {
+      "id": "1564405684712668541",
+      "store_id": "2052",
+      "like_code": "364076",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 3274,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364076",
+      "reference_ids": [
+        "00000000364076"
+      ],
+      "name": "CP Chicken Breast | kg",
+      "size": "kg",
+      "price_disclaimer": "BUY P900 WORTH OF PARTICIPATING ITEMS, GET FREE DELIVERY. USE PROMO CODE: MEATFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704680861/809dfb9898541417034b14ead5725651",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364076",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_chicken_breast_kg/p/1564405684712668541"
+    },
+    {
+      "id": "1564405684712669619",
+      "store_id": "2052",
+      "like_code": "364081",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 3267,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36408",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364081",
+      "reference_ids": [
+        "00000000364081"
+      ],
+      "name": "CP Chicken Drumsticks | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704997558/04d974ace11b58c5a23a846fbc17cac7",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557006219032636",
+          "reference_id": "tpr_2052_00000000364081_222_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712669619"
+          ],
+          "start_date": "2025-09-12T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3267,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21512974",
+            "21681648",
+            "22356784",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2fd89fa42fd2e33d5d6635a293a6ce56",
+          "similarity_priority": 5,
+          "name": "CP Chicken Drumsticks | kg",
+          "sale_price": "₱222.00",
+          "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+          "display_start_date": "2025-09-12",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3719557564304734251",
+          "reference_id": "ad_2052_00000000364081_1_222_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712669619"
+          ],
+          "start_date": "2025-09-12T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1634,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21512974",
+            "21681648",
+            "22356784",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "46aa98e48900096f696ae14377735b62",
+          "similarity_priority": 6,
+          "name": "CP Chicken Drumsticks | kg",
+          "sale_price": "₱222.00",
+          "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+          "display_start_date": "2025-09-12",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-12",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱222.00",
+      "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557006219032636",
+        "reference_id": "tpr_2052_00000000364081_222_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712669619"
+        ],
+        "start_date": "2025-09-12T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3267,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "21512974",
+          "21681648",
+          "22356784",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2fd89fa42fd2e33d5d6635a293a6ce56",
+        "similarity_priority": 5,
+        "name": "CP Chicken Drumsticks | kg",
+        "sale_price": "₱222.00",
+        "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+        "display_start_date": "2025-09-12",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 222.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱222.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364081",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_chicken_drumsticks_kg/p/1564405684712669619"
+    },
+    {
+      "id": "1564405684712669617",
+      "store_id": "2052",
+      "like_code": "364079",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱330.00",
+      "unit_price": 330.0,
+      "popularity": 3268,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364079",
+      "reference_ids": [
+        "00000000364079"
+      ],
+      "name": "CP Chicken Thigh Fillet | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712669617/6a3ccbc3d8ed711fe1cf816ba674e058",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364079",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_chicken_thigh_fillet_kg/p/1564405684712669617"
+    },
+    {
+      "id": "1564405684712668539",
+      "store_id": "2052",
+      "like_code": "364074",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 3285,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364074",
+      "reference_ids": [
+        "00000000364074"
+      ],
+      "name": "CP Chicken Thigh | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712668539/b99c3aacf4e84e308d7b6376a0cc746f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557006202255419",
+          "reference_id": "tpr_2052_00000000364074_222_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712668539"
+          ],
+          "start_date": "2025-09-12T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3285,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21512974",
+            "21681648",
+            "22356784",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2fd89fa42fd2e33d5d6635a293a6ce56",
+          "similarity_priority": 5,
+          "name": "CP Chicken Thigh | kg",
+          "sale_price": "₱222.00",
+          "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+          "display_start_date": "2025-09-12",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3719557564246013994",
+          "reference_id": "ad_2052_00000000364074_1_222_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712668539"
+          ],
+          "start_date": "2025-09-12T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1643,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21512974",
+            "21681648",
+            "22356784",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "46aa98e48900096f696ae14377735b62",
+          "similarity_priority": 6,
+          "name": "CP Chicken Thigh | kg",
+          "sale_price": "₱222.00",
+          "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+          "display_start_date": "2025-09-12",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-12",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱222.00",
+      "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557006202255419",
+        "reference_id": "tpr_2052_00000000364074_222_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712668539"
+        ],
+        "start_date": "2025-09-12T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3285,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "21512974",
+          "21681648",
+          "22356784",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2fd89fa42fd2e33d5d6635a293a6ce56",
+        "similarity_priority": 5,
+        "name": "CP Chicken Thigh | kg",
+        "sale_price": "₱222.00",
+        "sale_price_md": "**₱222.00** (09/12/25 - 09/30/25)",
+        "display_start_date": "2025-09-12",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 222.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱222.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364074",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_chicken_thigh_kg/p/1564405684712668539"
+    },
+    {
+      "id": "1564405684712668540",
+      "store_id": "2052",
+      "like_code": "364075",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 3277,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364075",
+      "reference_ids": [
+        "00000000364075"
+      ],
+      "name": "CP Chicken Wings | kg",
+      "size": "kg",
+      "price_disclaimer": "BUY P900 WORTH OF PARTICIPATING ITEMS, GET FREE DELIVERY. USE PROMO CODE: MEATFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684712668540/89a36083497ff6b96d9d2d995f8b538d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364075",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_chicken_wings_kg/p/1564405684712668540"
+    },
+    {
+      "id": "1564405684712672869",
+      "store_id": "2052",
+      "like_code": "364108",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱225.00",
+      "unit_price": 225.0,
+      "popularity": 3266,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36410",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364108",
+      "reference_ids": [
+        "00000000364108"
+      ],
+      "name": "CP Unbranded Whole Chicken | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712672869/ab48b2509415effcc6ee29ccc0c20e16",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364108",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_unbranded_whole_chicken_kg/p/1564405684712672869"
+    },
+    {
+      "id": "1564405684712668538",
+      "store_id": "2052",
+      "like_code": "364073",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱230.00",
+      "unit_price": 230.0,
+      "popularity": 3286,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "36407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000364073",
+      "reference_ids": [
+        "00000000364073"
+      ],
+      "name": "CP Whole Chicken | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712668538/fdf7ded638a6b31d96c27cd1b188139e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000364073",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cp_whole_chicken_kg/p/1564405684712668538"
+    },
+    {
+      "id": "1564405684710382959",
+      "store_id": "2052",
+      "like_code": "344445",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "upc": "480901399014",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013990140",
+      "reference_ids": [
+        "04809013990140"
+      ],
+      "name": "Cradle Baby Bottle & Nipper Cleaner | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684710382959/a280e11cbdf8b63f590d6f0d01b4d671",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809013990140",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cradle_baby_bottle_nipper_cleaner_200ml/p/1564405684710382959"
+    },
+    {
+      "id": "1564405684702552276",
+      "store_id": "2052",
+      "like_code": "144879",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱344.00",
+      "unit_price": 344.0,
+      "popularity": 8181,
+      "upc": "480901399011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013990119",
+      "reference_ids": [
+        "04809013990119"
+      ],
+      "name": "Cradle Baby Bottle & Nipple Cleanser | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552276/533f53763198180f3fe21a62217425be",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013990119",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cradle_baby_bottle_nipple_cleanser_700ml/p/1564405684702552276"
+    },
+    {
+      "id": "1564405684702552274",
+      "store_id": "2052",
+      "like_code": "144880",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱314.00",
+      "unit_price": 314.0,
+      "popularity": 9007,
+      "upc": "480901399012",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013990126",
+      "reference_ids": [
+        "04809013990126"
+      ],
+      "name": "Cradle Natural Bottle & Nipple Cleanser Refill | 500ml Free 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702552274/9bda050fc4316c660a61030d258aee3a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013990126",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cradle_natural_bottle_nipple_cleanser_refill_500ml_free_200ml/p/1564405684702552274"
+    },
+    {
+      "id": "1764405684715340664",
+      "store_id": "2052",
+      "like_code": "445878",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 5627,
+      "upc": "490177742911",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901777429116",
+      "reference_ids": [
+        "04901777429116"
+      ],
+      "name": "Craft Boss Soda Lemon and Kabosu | 500ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715340664/c6013e0d5e2ab459a5eeab0db625d178",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04901777429116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/craft_boss_soda_lemon_and_kabosu_500ml/p/1764405684715340664"
+    },
+    {
+      "id": "1564405684716171207",
+      "store_id": "2052",
+      "like_code": "415833",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 999999,
+      "upc": "480653332350",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533323502",
+      "reference_ids": [
+        "04806533323502"
+      ],
+      "name": "Crazy Pretzels Dark Chocolate with Himalayan Salt | 38g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716171207/55baee9becc03e8041c22cd0679e28bb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806533323502",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/crazy_pretzels_dark_chocolate_with_himalayan_salt_38g/p/1564405684716171207"
+    },
+    {
+      "id": "1564405684716171205",
+      "store_id": "2052",
+      "like_code": "415834",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 999999,
+      "upc": "480653332351",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533323519",
+      "reference_ids": [
+        "04806533323519"
+      ],
+      "name": "Crazy Pretzels Strawberry Yogurt | 38g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716171205/fea9385582f165d6f208f807650f78fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806533323519",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/crazy_pretzels_strawberry_yogurt_38g/p/1564405684716171205"
+    },
+    {
+      "id": "1564405684702535609",
+      "store_id": "2052",
+      "like_code": "3160",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱65.75",
+      "unit_price": 65.75,
+      "popularity": 3903,
+      "upc": "480001601178",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016011788",
+      "reference_ids": [
+        "04800016011788"
+      ],
+      "name": "Cream All Coffee Creamer | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535609/569e033e6e951594e3af490c53cae763",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016011788",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/cream_all_coffee_creamer_250g/p/1564405684702535609"
+    },
+    {
+      "id": "1564405684702535615",
+      "store_id": "2052",
+      "like_code": "116465",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱108.00",
+      "unit_price": 108.0,
+      "popularity": 752,
+      "upc": "480001601977",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016019777",
+      "reference_ids": [
+        "04800016019777"
+      ],
+      "name": "Cream All Creamer | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535615/85401a3f6b082cc00bfc22a9a11d2ce4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016019777",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/cream_all_creamer_450g/p/1564405684702535615"
+    },
+    {
+      "id": "1564405684702504336",
+      "store_id": "2052",
+      "like_code": "146172",
+      "department_id": [
+        "22459306"
+      ],
+      "price": "₱34.00",
+      "unit_price": 34.0,
+      "popularity": 5228,
+      "upc": "73112601212",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00731126012126",
+      "reference_ids": [
+        "00731126012126"
+      ],
+      "name": "Cream All Purpose Flour | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504336/928e35433de7fce9a5febd55b79b0c2f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00731126012126",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/flour/cream_all_purpose_flour_200g/p/1564405684702504336"
+    },
+    {
+      "id": "1564405684702504338",
+      "store_id": "2052",
+      "like_code": "146173",
+      "department_id": [
+        "22459306"
+      ],
+      "price": "₱56.50",
+      "unit_price": 56.5,
+      "popularity": 4343,
+      "upc": "73112601214",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00731126012140",
+      "reference_ids": [
+        "00731126012140"
+      ],
+      "name": "Cream All Purpose Flour | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504338/2af782a23a86e7679776b6bd62978ca1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00731126012140",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/flour/cream_all_purpose_flour_400g/p/1564405684702504338"
+    },
+    {
+      "id": "1564405684702504339",
+      "store_id": "2052",
+      "like_code": "146174",
+      "department_id": [
+        "22459306"
+      ],
+      "price": "₱109.50",
+      "unit_price": 109.5,
+      "popularity": 7594,
+      "upc": "73112601208",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00731126012089",
+      "reference_ids": [
+        "00731126012089"
+      ],
+      "name": "Cream all Purpose Flour | 800g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504339/24a053bd9ed4d6b4f6486a632d8b78b8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00731126012089",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/flour/cream_all_purpose_flour_800g/p/1564405684702504339"
+    },
+    {
+      "id": "1564405684702504333",
+      "store_id": "2052",
+      "like_code": "6287",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 8442,
+      "upc": "73112601110",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00731126011105",
+      "reference_ids": [
+        "00731126011105"
+      ],
+      "name": "Cream Cornstarch | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504333/11d948d13264e496b64c7010f55dcf7b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00731126011105",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cream_cornstarch_1kg/p/1564405684702504333"
+    },
+    {
+      "id": "1564405684702504331",
+      "store_id": "2052",
+      "like_code": "6283",
+      "department_id": [
+        "22459305"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 570,
+      "upc": "73112601104",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00731126011044",
+      "reference_ids": [
+        "00731126011044"
+      ],
+      "name": "Cream Cornstarch | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504331/f81bdbd733dddf965a677d1ea6c01b7f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00731126011044",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/corn_starch/cream_cornstarch_400g/p/1564405684702504331"
+    }
+  ]
+}

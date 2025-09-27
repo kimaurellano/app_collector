@@ -1,0 +1,2866 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702546759",
+      "store_id": "2052",
+      "like_code": "32602",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱237.00",
+      "unit_price": 237.0,
+      "popularity": 10296,
+      "upc": "480650475034",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750344",
+      "reference_ids": [
+        "04806504750344"
+      ],
+      "name": "Cleans Up Cotton Mop (Large) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546759/fb9382ef49931156fd0920d7a349ad99",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704462768421361",
+          "reference_id": "tpr_2052_04806504750344_213_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546759"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10296,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634427"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "105ef2ba632b48974bdb9a70d89cf3a6",
+          "similarity_priority": 5,
+          "name": "Cleans Up Cotton Mop (Large) | 1s",
+          "sale_price": "₱213.00",
+          "sale_price_md": "**₱213.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705646157741044",
+          "reference_id": "ad_2052_04806504750344_1_213_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546759"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5148,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634427"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ddb1ab5ae3bedfdec38cec04d9cc358d",
+          "similarity_priority": 6,
+          "name": "Cleans Up Cotton Mop (Large) | 1s",
+          "sale_price": "₱213.00",
+          "sale_price_md": "**₱213.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱213.00",
+      "sale_price_md": "**₱213.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704462768421361",
+        "reference_id": "tpr_2052_04806504750344_213_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546759"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10296,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634427"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "105ef2ba632b48974bdb9a70d89cf3a6",
+        "similarity_priority": 5,
+        "name": "Cleans Up Cotton Mop (Large) | 1s",
+        "sale_price": "₱213.00",
+        "sale_price_md": "**₱213.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 213.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱213.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750344",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cleans_up_cotton_mop_large_1s/p/1564405684702546759"
+    },
+    {
+      "id": "1564405684702546757",
+      "store_id": "2052",
+      "like_code": "32601",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱195.00",
+      "unit_price": 195.0,
+      "popularity": 999999,
+      "upc": "480650475033",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750337",
+      "reference_ids": [
+        "04806504750337"
+      ],
+      "name": "Cleans Up Cotton Mop (Medium) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546757/655864b501abf6cf4e25302c48b0401e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704462684535271",
+          "reference_id": "tpr_2052_04806504750337_175_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546757"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "22356797",
+            "22459225",
+            "22475760",
+            "22634427"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "234d330ffc27484cbce4b74f568e0dd2",
+          "similarity_priority": 5,
+          "name": "Cleans Up Cotton Mop (Medium) | 1s",
+          "sale_price": "₱175.50",
+          "sale_price_md": "**₱175.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705644798786479",
+          "reference_id": "ad_2052_04806504750337_1_175_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546757"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "22356797",
+            "22459225",
+            "22475760",
+            "22634427"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "9ae6d92c8436e0ae429c3afee91b47b1",
+          "similarity_priority": 6,
+          "name": "Cleans Up Cotton Mop (Medium) | 1s",
+          "sale_price": "₱175.50",
+          "sale_price_md": "**₱175.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱175.50",
+      "sale_price_md": "**₱175.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704462684535271",
+        "reference_id": "tpr_2052_04806504750337_175_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546757"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "22356797",
+          "22459225",
+          "22475760",
+          "22634427"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "234d330ffc27484cbce4b74f568e0dd2",
+        "similarity_priority": 5,
+        "name": "Cleans Up Cotton Mop (Medium) | 1s",
+        "sale_price": "₱175.50",
+        "sale_price_md": "**₱175.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 175.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱175.50 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806504750337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/cleans_up_cotton_mop_medium_1s/p/1564405684702546757"
+    },
+    {
+      "id": "1764405684715552820",
+      "store_id": "2052",
+      "like_code": "453771",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱80.00",
+      "unit_price": 80.0,
+      "popularity": 3606,
+      "upc": "480650475023",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750238",
+      "reference_ids": [
+        "04806504750238"
+      ],
+      "name": "Cleans Up Double Purepad Value Pack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715552820/20f373dfe7982abad9dca7b5618de54c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750238",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cleans_up_double_purepad_value_pack/p/1764405684715552820"
+    },
+    {
+      "id": "1564405684702546744",
+      "store_id": "2052",
+      "like_code": "15712",
+      "department_id": [
+        "22459260"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 1196,
+      "upc": "480650475004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750047",
+      "reference_ids": [
+        "04806504750047"
+      ],
+      "name": "Cleans Up Double Purpose Pad | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546744/e0ad024e3eecd278670bbef92ecf66fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750047",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dish_cleaning/cleans_up_double_purpose_pad_pc/p/1564405684702546744"
+    },
+    {
+      "id": "1564405684702546754",
+      "store_id": "2052",
+      "like_code": "15783",
+      "department_id": [
+        "22459260"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 1456,
+      "upc": "480650475021",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750214",
+      "reference_ids": [
+        "04806504750214"
+      ],
+      "name": "Cleans Up Heavy Duty Padblock | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546754/b5b38d0836999e595cfff731c1709d7a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750214",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dish_cleaning/cleans_up_heavy_duty_padblock_pc/p/1564405684702546754"
+    },
+    {
+      "id": "1564405684702546751",
+      "store_id": "2052",
+      "like_code": "15800",
+      "department_id": [
+        "22459260"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 1208,
+      "upc": "480650475020",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750207",
+      "reference_ids": [
+        "04806504750207"
+      ],
+      "name": "Cleans Up Heavy Duty Stainless Cleaner | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546751/a62278d47343cdb5e908cee810a83b51",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750207",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dish_cleaning/cleans_up_heavy_duty_stainless_cleaner_pc/p/1564405684702546751"
+    },
+    {
+      "id": "1764405684714933678",
+      "store_id": "2052",
+      "like_code": "428906",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱84.00",
+      "unit_price": 84.0,
+      "popularity": 1957,
+      "upc": "480650475159",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751594",
+      "reference_ids": [
+        "04806504751594"
+      ],
+      "name": "Cleans Up Microfiber Multipurpose Cloth Towel | 12in x 9in",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714933678/0572462afd9009b69082f735b1f91f12",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504751594",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cleans_up_microfiber_multipurpose_cloth_towel_12in_x_9in/p/1764405684714933678"
+    },
+    {
+      "id": "1564405684702546771",
+      "store_id": "2052",
+      "like_code": "94409",
+      "department_id": [
+        "22459260"
+      ],
+      "price": "₱24.00",
+      "unit_price": 24.0,
+      "popularity": 834,
+      "upc": "480650475059",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750597",
+      "reference_ids": [
+        "04806504750597"
+      ],
+      "name": "Cleans-Up Mini Scrub | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546771/56be09a745850895d27e61e58f10ed9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750597",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dish_cleaning/cleans_up_mini_scrub_1s/p/1564405684702546771"
+    },
+    {
+      "id": "1564405684702546764",
+      "store_id": "2052",
+      "like_code": "45121",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱92.50",
+      "unit_price": 92.5,
+      "popularity": 4310,
+      "upc": "480650475038",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750382",
+      "reference_ids": [
+        "04806504750382"
+      ],
+      "name": "Cleans Up Multi-Purpose Gloves (Medium) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546764/c83f693f4bd5f086c8300c570436df4c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750382",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cleans_up_multi_purpose_gloves_medium_1s/p/1564405684702546764"
+    },
+    {
+      "id": "1564405684702546752",
+      "store_id": "2052",
+      "like_code": "15797",
+      "department_id": [
+        "22459260"
+      ],
+      "price": "₱41.00",
+      "unit_price": 41.0,
+      "popularity": 1797,
+      "upc": "480650475019",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504750191",
+      "reference_ids": [
+        "04806504750191"
+      ],
+      "name": "Cleans Up Net Sponge | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546752/f25969274185eb1299f05f452c21941b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504750191",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dish_cleaning/cleans_up_net_sponge_pc/p/1564405684702546752"
+    },
+    {
+      "id": "1564405684702542177",
+      "store_id": "2052",
+      "like_code": "111047",
+      "department_id": [
+        "1496182"
+      ],
+      "price": "₱43.50",
+      "unit_price": 43.5,
+      "popularity": 1673,
+      "upc": "480088814119",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888141194",
+      "reference_ids": [
+        "04800888141194"
+      ],
+      "name": "Clear Anti Dandruff Shampoo Complete Soft Care | 13ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542177/266023560de9a99b01d7e076ce0822fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888141194",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hair_care/clear_anti_dandruff_shampoo_complete_soft_care_13ml_x_6s/p/1564405684702542177"
+    },
+    {
+      "id": "1564405684702542137",
+      "store_id": "2052",
+      "like_code": "108352",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 7428,
+      "upc": "480088820173",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888201737",
+      "reference_ids": [
+        "04800888201737",
+        "04800888133519",
+        "04800888153760",
+        "04800888160614"
+      ],
+      "name": "Clear Anti Dandruff Shampoo Complete Soft Care | 170mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542137/4800326ccf01812bc5ebb24f7d2b3919",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888201737",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/clear_anti_dandruff_shampoo_complete_soft_care_170m_l/p/1564405684702542137"
+    },
+    {
+      "id": "1564405684702542140",
+      "store_id": "2052",
+      "like_code": "108342",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱226.00",
+      "unit_price": 226.0,
+      "popularity": 6972,
+      "quantity_step": 1.0,
+      "upc": "480088813363",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800888133632",
+      "reference_ids": [
+        "04800888133632"
+      ],
+      "name": "Clear Anti Dandruff Shampoo Complete Soft Care | 320ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 20",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542140/069641f9debca2c0f337ea5a00f9979e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888133632",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/clear_anti_dandruff_shampoo_complete_soft_care_320ml/p/1564405684702542140"
+    },
+    {
+      "id": "1564405684702542707",
+      "store_id": "2052",
+      "like_code": "255418",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱77.00",
+      "unit_price": 77.0,
+      "popularity": 999999,
+      "upc": "480088819736",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888197368",
+      "reference_ids": [
+        "04800888197368"
+      ],
+      "name": "Clear Men Anti-Dandruff Cool Sport Menthol Shampoo 12ml | 11+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542707/c309d9cffcc73ffd94b8fb3d8e91fef1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888197368",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/clear_men_anti_dandruff_cool_sport_menthol_shampoo_12ml_11_1/p/1564405684702542707"
+    },
+    {
+      "id": "1564405684702542175",
+      "store_id": "2052",
+      "like_code": "111048",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 665,
+      "upc": "480088815170",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888151704",
+      "reference_ids": [
+        "04800888151704",
+        "04800888141187"
+      ],
+      "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 12ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542175/55acf48fd6cb794535204ddcc4ec3516",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888151704",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/clear_men_anti_dandruff_shampoo_cool_sport_menthol_12ml/p/1564405684702542175"
+    },
+    {
+      "id": "1564405684702542212",
+      "store_id": "2052",
+      "like_code": "123616",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱181.00",
+      "unit_price": 181.0,
+      "popularity": 5041,
+      "upc": "480088820174",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800888201744",
+      "reference_ids": [
+        "04800888201744",
+        "04800888149510",
+        "04800888153777",
+        "04800888160607",
+        "04800888921635"
+      ],
+      "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 170ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542212/f0dd33f03df12d67f69d97436fcbe274",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888201744",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/clear_men_anti_dandruff_shampoo_cool_sport_menthol_170ml/p/1564405684702542212"
+    },
+    {
+      "id": "1564405684705530563",
+      "store_id": "2052",
+      "like_code": "332711",
+      "department_id": [
+        "1496182"
+      ],
+      "price": "₱272.00",
+      "unit_price": 272.0,
+      "popularity": 6697,
+      "upc": "480088814953",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888149534",
+      "reference_ids": [
+        "04800888149534"
+      ],
+      "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 320ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684705530563/5680fe4b723ad90579f3c9da6ded8ac2",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461919580272928",
+          "reference_id": "tpr_2052_04800888149534_247_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684705530563"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6697,
+          "product_tag_ids": [
+            "216981",
+            "1496182",
+            "22051969",
+            "22212033",
+            "22356768",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "330ed2a6c5d002bd012ae5d1dc4a0ba1",
+          "similarity_priority": 5,
+          "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 320ml",
+          "sale_price": "₱247.00",
+          "sale_price_md": "**₱247.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461653099362467",
+          "reference_id": "ad_2052_04800888149534_1_247_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684705530563"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3349,
+          "product_tag_ids": [
+            "216981",
+            "1496182",
+            "22051969",
+            "22212033",
+            "22356768",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5f4ea400027b4015c53f3d07f93f6c89",
+          "similarity_priority": 6,
+          "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 320ml",
+          "sale_price": "₱247.00",
+          "sale_price_md": "**₱247.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱247.00",
+      "sale_price_md": "**₱247.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461919580272928",
+        "reference_id": "tpr_2052_04800888149534_247_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684705530563"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6697,
+        "product_tag_ids": [
+          "216981",
+          "1496182",
+          "22051969",
+          "22212033",
+          "22356768",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "330ed2a6c5d002bd012ae5d1dc4a0ba1",
+        "similarity_priority": 5,
+        "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 320ml",
+        "sale_price": "₱247.00",
+        "sale_price_md": "**₱247.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 247.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱247.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888149534",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hair_care/clear_men_anti_dandruff_shampoo_cool_sport_menthol_320ml/p/1564405684705530563"
+    },
+    {
+      "id": "1564405684712059058",
+      "store_id": "2052",
+      "like_code": "355175",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱527.00",
+      "unit_price": 527.0,
+      "popularity": 7610,
+      "quantity_step": 1.0,
+      "upc": "480088821728",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217288",
+      "reference_ids": [
+        "04800888217288"
+      ],
+      "name": "Clear Men Anti Dandruff Shampoo Cool Sport Menthol | 880ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 50",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712059058/9f0e7ab5ba178ef10fe5b483cd0cbf1b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217288",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/clear_men_anti_dandruff_shampoo_cool_sport_menthol_880ml/p/1564405684712059058"
+    },
+    {
+      "id": "1564405684714560398",
+      "store_id": "2052",
+      "like_code": "391542",
+      "department_id": [
+        "1496182"
+      ],
+      "price": "₱430.00",
+      "unit_price": 430.0,
+      "popularity": 999999,
+      "upc": "480088824021",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888240217",
+      "reference_ids": [
+        "04800888240217"
+      ],
+      "name": "Clear Men Anti-Dandruff Shampoo Cool Sport Menthol Refill | 650ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714560398/d1a6486cd0276beddffd665357cef28d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888240217",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hair_care/clear_men_anti_dandruff_shampoo_cool_sport_menthol_refill_650ml/p/1564405684714560398"
+    },
+    {
+      "id": "1564405684713394679",
+      "store_id": "2052",
+      "like_code": "374128",
+      "department_id": [
+        "1496182"
+      ],
+      "price": "₱272.00",
+      "unit_price": 272.0,
+      "popularity": 999999,
+      "upc": "480088828212",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888282125",
+      "reference_ids": [
+        "04800888282125",
+        "04800888221698"
+      ],
+      "name": "Clear Men Cool Sport Menthol Anti-Dandruff Shampoo | 170ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713394679/65d85dcec0ae3f7a0b0482be3436489d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888282125",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hair_care/clear_men_cool_sport_menthol_anti_dandruff_shampoo_170ml_x_2s/p/1564405684713394679"
+    },
+    {
+      "id": "1564405684712577737",
+      "store_id": "2052",
+      "like_code": "357597",
+      "department_id": [
+        "21884433"
+      ],
+      "price": "₱413.00",
+      "unit_price": 413.0,
+      "popularity": 4473,
+      "upc": "480088822516",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888225160",
+      "reference_ids": [
+        "04800888225160",
+        "04800888223579"
+      ],
+      "name": "Clear Shampoo Cool Sport Menthol Bogo 50% | 320ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712577737/ade5863f854b706b54d9d9f5145113fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888225160",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-unilever-official/clear_shampoo_cool_sport_menthol_bogo_50_320ml/p/1564405684712577737"
+    },
+    {
+      "id": "1564405684712039018",
+      "store_id": "2052",
+      "like_code": "356413",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱212.00",
+      "unit_price": 212.0,
+      "popularity": 5986,
+      "upc": "480006713008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067130087",
+      "reference_ids": [
+        "04800067130087"
+      ],
+      "name": "Cleene 70% Ethyl Alcohol | 1L Pump",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712039018/f9cd550e3199ed1c5070681dfd6619e4",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3631900786948061459",
+          "reference_id": "tpr_2052_04800067130087_159_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712039018"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5986,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6f207953c74d39d0fdc3bde0cccc8b0b",
+          "similarity_priority": 5,
+          "name": "Cleene 70% Ethyl Alcohol | 1L Pump",
+          "sale_price": "₱159.00",
+          "sale_price_md": "**₱159.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3631894901718793053",
+          "reference_id": "ad_2052_04800067130087_1_159_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712039018"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2993,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0e56dbfd69bfffb10a92712e6b61bf34",
+          "similarity_priority": 6,
+          "name": "Cleene 70% Ethyl Alcohol | 1L Pump",
+          "sale_price": "₱159.00",
+          "sale_price_md": "**₱159.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱159.00",
+      "sale_price_md": "**₱159.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3631900786948061459",
+        "reference_id": "tpr_2052_04800067130087_159_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712039018"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5986,
+        "product_tag_ids": [
+          "1496183",
+          "22356771",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "6f207953c74d39d0fdc3bde0cccc8b0b",
+        "similarity_priority": 5,
+        "name": "Cleene 70% Ethyl Alcohol | 1L Pump",
+        "sale_price": "₱159.00",
+        "sale_price_md": "**₱159.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 159.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱159.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067130087",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/cleene_70_ethyl_alcohol_1_l_pump/p/1564405684712039018"
+    },
+    {
+      "id": "1564405684712039022",
+      "store_id": "2052",
+      "like_code": "356414",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱94.00",
+      "unit_price": 94.0,
+      "popularity": 2168,
+      "upc": "480006713321",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067133217",
+      "reference_ids": [
+        "04800067133217",
+        "04800067130063"
+      ],
+      "name": "Cleene 70% Ethyl Alcohol | 350ml Spray",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712039022/71c8558f95842d86870cf56a5b8354ce",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3631900790941038942",
+          "reference_id": "tpr_2052_04800067133217_70_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712039022"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2168,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a005af6fac6c0900ca612e09fa43049d",
+          "similarity_priority": 5,
+          "name": "Cleene 70% Ethyl Alcohol | 350ml Spray",
+          "sale_price": "₱70.50",
+          "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3631894903094524768",
+          "reference_id": "ad_2052_04800067133217_1_70_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712039022"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1084,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "30551de01e3b2a5a73eb6e6fe9cc8d30",
+          "similarity_priority": 6,
+          "name": "Cleene 70% Ethyl Alcohol | 350ml Spray",
+          "sale_price": "₱70.50",
+          "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱70.50",
+      "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3631900790941038942",
+        "reference_id": "tpr_2052_04800067133217_70_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712039022"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2168,
+        "product_tag_ids": [
+          "1496183",
+          "22356771",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "a005af6fac6c0900ca612e09fa43049d",
+        "similarity_priority": 5,
+        "name": "Cleene 70% Ethyl Alcohol | 350ml Spray",
+        "sale_price": "₱70.50",
+        "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 70.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱70.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067133217",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/cleene_70_ethyl_alcohol_350ml_spray/p/1564405684712039022"
+    },
+    {
+      "id": "1564405684702537146",
+      "store_id": "2052",
+      "like_code": "7474",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱65.50",
+      "unit_price": 65.5,
+      "popularity": 5537,
+      "upc": "480006711212",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067112120",
+      "reference_ids": [
+        "04800067112120"
+      ],
+      "name": "Cleene Cotton Absorbent | 100G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537146/1b143cf7dddf2b0ad94e97ed24a88782",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067112120",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_absorbent_100_g/p/1564405684702537146"
+    },
+    {
+      "id": "1564405684702537148",
+      "store_id": "2052",
+      "like_code": "7476",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱92.75",
+      "unit_price": 92.75,
+      "popularity": 5095,
+      "upc": "480006712421",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067124215",
+      "reference_ids": [
+        "04800067124215",
+        "04800067112151"
+      ],
+      "name": "Cleene Cotton Absorbent | 150G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800067112151/bf879d43944d7b70c8f744a79f501a65",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067124215",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_absorbent_150_g/p/1564405684702537148"
+    },
+    {
+      "id": "1564405684702537145",
+      "store_id": "2052",
+      "like_code": "7461",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱17.75",
+      "unit_price": 17.75,
+      "popularity": 4580,
+      "upc": "480006711206",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067112069",
+      "reference_ids": [
+        "04800067112069"
+      ],
+      "name": "Cleene Cotton Absorbent | 25G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537145/e88d7f9a2e65af1ffee87d1d126b58b7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067112069",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_absorbent_25_g/p/1564405684702537145"
+    },
+    {
+      "id": "1564405684702537147",
+      "store_id": "2052",
+      "like_code": "7465",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱34.75",
+      "unit_price": 34.75,
+      "popularity": 995,
+      "upc": "480006711209",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800067112090",
+      "reference_ids": [
+        "04800067112090"
+      ],
+      "name": "Cleene Cotton Absorbent | 50G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537147/3072f93e7b9f2563cbb694dde6aab7fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067112090",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_absorbent_50_g/p/1564405684702537147"
+    },
+    {
+      "id": "1564405684702537158",
+      "store_id": "2052",
+      "like_code": "7554",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱50.75",
+      "unit_price": 50.75,
+      "popularity": 1503,
+      "upc": "480006711657",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067116579",
+      "reference_ids": [
+        "04800067116579"
+      ],
+      "name": "Cleene Cotton Balls | 150S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800067116579/a7c1037626244215620329f3564a1a5c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067116579",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_balls_150_s/p/1564405684702537158"
+    },
+    {
+      "id": "1564405684702537165",
+      "store_id": "2052",
+      "like_code": "254899",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 999999,
+      "upc": "480006712010",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120101",
+      "reference_ids": [
+        "04800067120101"
+      ],
+      "name": "Cleene Cotton Balls 2X Bigger | 100S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537165/eeef81fe35289e696f4ca08308eff344",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800067120101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_balls_2_x_bigger_100_s/p/1564405684702537165"
+    },
+    {
+      "id": "1564405684702537164",
+      "store_id": "2052",
+      "like_code": "254925",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱27.00",
+      "unit_price": 27.0,
+      "popularity": 4614,
+      "upc": "480006712009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120095",
+      "reference_ids": [
+        "04800067120095"
+      ],
+      "name": "Cleene Cotton Balls 2X Bigger | 50S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537164/edbaf332e6fa1e599a7c96fb150104bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067120095",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_balls_2_x_bigger_50_s/p/1564405684702537164"
+    },
+    {
+      "id": "1564405684702537159",
+      "store_id": "2052",
+      "like_code": "7479",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱22.50",
+      "unit_price": 22.5,
+      "popularity": 2290,
+      "upc": "480006711644",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067116449",
+      "reference_ids": [
+        "04800067116449"
+      ],
+      "name": "Cleene Cotton Balls | 50S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537159/39de37f90c19050599f02f84fa35fd55",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067116449",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_balls_50_s/p/1564405684702537159"
+    },
+    {
+      "id": "1564405684702537163",
+      "store_id": "2052",
+      "like_code": "254897",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 3895,
+      "upc": "480006712011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120118",
+      "reference_ids": [
+        "04800067120118"
+      ],
+      "name": "Cleene Cotton Maxi Balls 3X Bigger | 50S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537163/aa4b461382fc930a5e17822fb73a60e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067120118",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_maxi_balls_3_x_bigger_50_s/p/1564405684702537163"
+    },
+    {
+      "id": "1564405684702537160",
+      "store_id": "2052",
+      "like_code": "173007",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱57.75",
+      "unit_price": 57.75,
+      "popularity": 3890,
+      "upc": "480006711676",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067116760",
+      "reference_ids": [
+        "04800067116760"
+      ],
+      "name": "Cleene Cotton Rounds | 50S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537160/35e58837e4c10eca48663ffc786b9f39",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067116760",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_rounds_50_s/p/1564405684702537160"
+    },
+    {
+      "id": "1564405684702537162",
+      "store_id": "2052",
+      "like_code": "173008",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱78.00",
+      "unit_price": 78.0,
+      "popularity": 1212,
+      "upc": "480006712654",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067126547",
+      "reference_ids": [
+        "04800067126547",
+        "04800067117040"
+      ],
+      "name": "Cleene Cotton Rounds | 80S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537162/cb4350bd30ff72ef2d43f6737ad68788",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067126547",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_cotton_rounds_80_s/p/1564405684702537162"
+    },
+    {
+      "id": "1564405684702537178",
+      "store_id": "2052",
+      "like_code": "121392",
+      "department_id": [
+        "22459184"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 2199,
+      "upc": "480006714708",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067147085",
+      "reference_ids": [
+        "04800067147085"
+      ],
+      "name": "Cleene Dental Floss Mint Waxed | 20m",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537178/bd5797824ded7a1500ed960b6620c517",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067147085",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/dental_floss/cleene_dental_floss_mint_waxed_20m/p/1564405684702537178"
+    },
+    {
+      "id": "1564405684702537172",
+      "store_id": "2052",
+      "like_code": "111451",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 1730,
+      "upc": "480006713318",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067133187",
+      "reference_ids": [
+        "04800067133187",
+        "04800067126929"
+      ],
+      "name": "Cleene Ethyl Alcohol 70% | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537172/ac0418a76c47dfd5afc6615a9885f80d",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3631900789833742666",
+          "reference_id": "tpr_2052_04800067133187_41_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702537172"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1730,
+          "product_tag_ids": [
+            "1548787",
+            "22356771",
+            "22459223",
+            "22475760",
+            "22634539",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ab8fce9fcb2463fbb2318f1ff1cd0c75",
+          "similarity_priority": 5,
+          "name": "Cleene Ethyl Alcohol 70% | 250ml",
+          "sale_price": "₱41.00",
+          "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3631894902037560158",
+          "reference_id": "ad_2052_04800067133187_1_41_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702537172"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 865,
+          "product_tag_ids": [
+            "1548787",
+            "22356771",
+            "22459223",
+            "22475760",
+            "22634539",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5c3043b14ad9bff379655d45e0f832db",
+          "similarity_priority": 6,
+          "name": "Cleene Ethyl Alcohol 70% | 250ml",
+          "sale_price": "₱41.00",
+          "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱41.00",
+      "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3631900789833742666",
+        "reference_id": "tpr_2052_04800067133187_41_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702537172"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1730,
+        "product_tag_ids": [
+          "1548787",
+          "22356771",
+          "22459223",
+          "22475760",
+          "22634539",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ab8fce9fcb2463fbb2318f1ff1cd0c75",
+        "similarity_priority": 5,
+        "name": "Cleene Ethyl Alcohol 70% | 250ml",
+        "sale_price": "₱41.00",
+        "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 41.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱41.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067133187",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/cleene_ethyl_alcohol_70_250ml/p/1564405684702537172"
+    },
+    {
+      "id": "1564405684702537173",
+      "store_id": "2052",
+      "like_code": "111452",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱97.00",
+      "unit_price": 97.0,
+      "popularity": 523,
+      "upc": "480006713320",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067133200",
+      "reference_ids": [
+        "04800067133200",
+        "04800067126943",
+        "04800067123003"
+      ],
+      "name": "Cleene Ethyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537173/96ff048c71d3d2ed3034a7935c1498e8",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3631900790043457869",
+          "reference_id": "tpr_2052_04800067133200_72_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702537173"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 523,
+          "product_tag_ids": [
+            "22356771",
+            "22459223",
+            "22475760",
+            "22634539",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a3be01ad571c38d921838bb2b17b09a0",
+          "similarity_priority": 5,
+          "name": "Cleene Ethyl Alcohol 70% Solution | 500ml",
+          "sale_price": "₱72.50",
+          "sale_price_md": "**₱72.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3631894905351060327",
+          "reference_id": "ad_2052_04800067133200_1_72_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702537173"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 262,
+          "product_tag_ids": [
+            "22356771",
+            "22459223",
+            "22475760",
+            "22634539",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ecf52f4f465d00a4582df95fb2e0f8d5",
+          "similarity_priority": 6,
+          "name": "Cleene Ethyl Alcohol 70% Solution | 500ml",
+          "sale_price": "₱72.50",
+          "sale_price_md": "**₱72.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱72.50",
+      "sale_price_md": "**₱72.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3631900790043457869",
+        "reference_id": "tpr_2052_04800067133200_72_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702537173"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 523,
+        "product_tag_ids": [
+          "22356771",
+          "22459223",
+          "22475760",
+          "22634539",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "a3be01ad571c38d921838bb2b17b09a0",
+        "similarity_priority": 5,
+        "name": "Cleene Ethyl Alcohol 70% Solution | 500ml",
+        "sale_price": "₱72.50",
+        "sale_price_md": "**₱72.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 72.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱72.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067133200",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/cleene_ethyl_alcohol_70_solution_500ml/p/1564405684702537173"
+    },
+    {
+      "id": "1564405684702537167",
+      "store_id": "2052",
+      "like_code": "254892",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱76.00",
+      "unit_price": 76.0,
+      "popularity": 4856,
+      "upc": "480006712012",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120125",
+      "reference_ids": [
+        "04800067120125"
+      ],
+      "name": "Cleene Maxi Cotton Balls 3X Bigger | 100s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537167/ce4860e0b5b33bfbcb1c1fd1540487fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067120125",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_maxi_cotton_balls_3_x_bigger_100s/p/1564405684702537167"
+    },
+    {
+      "id": "1564405684707110795",
+      "store_id": "2052",
+      "like_code": "337448",
+      "department_id": [
+        "22459252"
+      ],
+      "price": "₱95.00",
+      "unit_price": 95.0,
+      "popularity": 8801,
+      "upc": "480006712821",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067128213",
+      "reference_ids": [
+        "04800067128213"
+      ],
+      "name": "Cleene Maxi Oval Pads | Aloe Vera",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707110795/c6591431e466d03cc36901a6a8bc9857",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067128213",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/feminine_care/cleene_maxi_oval_pads_aloe_vera/p/1564405684707110795"
+    },
+    {
+      "id": "1564405684707110796",
+      "store_id": "2052",
+      "like_code": "337447",
+      "department_id": [
+        "1496180"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 6064,
+      "upc": "480006712819",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067128190",
+      "reference_ids": [
+        "04800067128190"
+      ],
+      "name": "Cleene Maxi Oval Pads | Classic",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707110796/b31a8a0bbcff47e803989f97bc684143",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067128190",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/facial_care/cleene_maxi_oval_pads_classic/p/1564405684707110796"
+    },
+    {
+      "id": "1564405684702537151",
+      "store_id": "2052",
+      "like_code": "254855",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱84.00",
+      "unit_price": 84.0,
+      "popularity": 999999,
+      "upc": "480006711257",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067112571",
+      "reference_ids": [
+        "04800067112571"
+      ],
+      "name": "Cleene Premium Shower Cotton Buds | 180 Tips",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537151/d332be264eea2c097b79b848be2f4210",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800067112571",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cleene_premium_shower_cotton_buds_180_tips/p/1564405684702537151"
+    },
+    {
+      "id": "1564405684711949582",
+      "store_id": "2052",
+      "like_code": "354885",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱69.00",
+      "unit_price": 69.0,
+      "popularity": 721,
+      "upc": "480006712181",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067121818",
+      "reference_ids": [
+        "04800067121818"
+      ],
+      "name": "Cleene Toothbrush Clio Dentaclean | 2+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711949582/d69264fa636083c1b296ca4f9a54b75a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067121818",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleene_toothbrush_clio_dentaclean_2_1/p/1564405684711949582"
+    },
+    {
+      "id": "1564405684711949581",
+      "store_id": "2052",
+      "like_code": "354884",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 1492,
+      "upc": "480006713254",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067132548",
+      "reference_ids": [
+        "04800067132548"
+      ],
+      "name": "Cleene Toothbrush Clio Kids | 3 to 6 Years",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711949581/ff0ff1febf3a8d8ce5b4d2399a5b9167",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067132548",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleene_toothbrush_clio_kids_3_to_6_years/p/1564405684711949581"
+    },
+    {
+      "id": "1564405684702537177",
+      "store_id": "2052",
+      "like_code": "138786",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 1371,
+      "upc": "480006714473",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067144732",
+      "reference_ids": [
+        "04800067144732"
+      ],
+      "name": "Cleene Zest Alcohol Spray | 60ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537177/a16ea60d8b7c68fae3af74ffad6b2c1e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3631900791184308578",
+          "reference_id": "tpr_2052_04800067144732_33_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702537177"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1371,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "69e864a397fc22fee6b0df064625a197",
+          "similarity_priority": 5,
+          "name": "Cleene Zest Alcohol Spray | 60ml",
+          "sale_price": "₱33.50",
+          "sale_price_md": "**₱33.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3631894903463623521",
+          "reference_id": "ad_2052_04800067144732_1_33_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702537177"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 686,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f5b0a1467f5aa4af1be2d3714543a0d8",
+          "similarity_priority": 6,
+          "name": "Cleene Zest Alcohol Spray | 60ml",
+          "sale_price": "₱33.50",
+          "sale_price_md": "**₱33.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱33.50",
+      "sale_price_md": "**₱33.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3631900791184308578",
+        "reference_id": "tpr_2052_04800067144732_33_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702537177"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1371,
+        "product_tag_ids": [
+          "1496183",
+          "22356771",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "69e864a397fc22fee6b0df064625a197",
+        "similarity_priority": 5,
+        "name": "Cleene Zest Alcohol Spray | 60ml",
+        "sale_price": "₱33.50",
+        "sale_price_md": "**₱33.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 33.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱33.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067144732",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/cleene_zest_alcohol_spray_60ml/p/1564405684702537177"
+    },
+    {
+      "id": "7383639",
+      "store_id": "2052",
+      "like_code": "166499",
+      "department_id": [
+        "21958116"
+      ],
+      "price": "₱269.00",
+      "unit_price": 269.0,
+      "popularity": 999999,
+      "upc": "502199162514",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05021991625145",
+      "reference_ids": [
+        "05021991625145",
+        "00832544000419"
+      ],
+      "name": "Clipper Organic Chamomile Herbal Tea | 1.06oz",
+      "size": "20 ea",
+      "shelf_tag_ids": [
+        "214132"
+      ],
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00832544000419/58263d5071c968239867ab2981f07d4e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05021991625145",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/european/clipper_organic_chamomile_herbal_tea_1_06oz/p/7383639"
+    },
+    {
+      "id": "1564405684709760325",
+      "store_id": "2052",
+      "like_code": "339449",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 1623,
+      "upc": "899999955628",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08999999556280",
+      "reference_ids": [
+        "08999999556280"
+      ],
+      "name": "Close Up All Around Fresh Cool Mint | 10g 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709760325/6315430a92174c12487cb0e7941c8bc3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08999999556280",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/close_up_all_around_fresh_cool_mint_10g_2s/p/1564405684709760325"
+    },
+    {
+      "id": "1564405684709768981",
+      "store_id": "2052",
+      "like_code": "339453",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 999999,
+      "upc": "893483912582",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839125820",
+      "reference_ids": [
+        "08934839125820"
+      ],
+      "name": "Close Up All Around Fresh Cool Mint | 120g 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08934839125820",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_all_around_fresh_cool_mint_120g_2s/p/1564405684709768981"
+    },
+    {
+      "id": "1564405684709769489",
+      "store_id": "2052",
+      "like_code": "339458",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 3841,
+      "upc": "893483912581",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839125813",
+      "reference_ids": [
+        "08934839125813"
+      ],
+      "name": "Close Up All Around Fresh Cool Mint | 173g 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709769489/7debdf59ebd76b4dd78104ce9826609f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839125813",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_all_around_fresh_cool_mint_173g_2s/p/1564405684709769489"
+    }
+  ]
+}

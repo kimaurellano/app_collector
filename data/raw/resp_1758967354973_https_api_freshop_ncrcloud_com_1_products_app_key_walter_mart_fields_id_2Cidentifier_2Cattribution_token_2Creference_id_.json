@@ -1,0 +1,2851 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684716305473",
+      "store_id": "2052",
+      "like_code": "421326",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱495.00",
+      "unit_price": 495.0,
+      "popularity": 8938,
+      "quantity_step": 1.0,
+      "upc": "480088828575",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888285751",
+      "reference_ids": [
+        "04800888285751"
+      ],
+      "name": "Baby Dove Hair to Toe Wash Sensitive Moisture Refill | 650mL",
+      "size": "pc",
+      "price_disclaimer": "SAVE 50",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716305473/98d932efab2e08997d813267b7cef2fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888285751",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_dove_hair_to_toe_wash_sensitive_moisture_refill_650m_l/p/1564405684716305473"
+    },
+    {
+      "id": "1564405684716305469",
+      "store_id": "2052",
+      "like_code": "421327",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱495.00",
+      "unit_price": 495.0,
+      "popularity": 9169,
+      "quantity_step": 1.0,
+      "upc": "480088828576",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888285768",
+      "reference_ids": [
+        "04800888285768"
+      ],
+      "name": "Baby Dove Hair to Toe Wash Soothing Moisture Refill | 650mL",
+      "size": "pc",
+      "price_disclaimer": "SAVE 50",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716305469/43a1f081590dfec9d13b7af4c7a0fbdc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888285768",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_dove_hair_to_toe_wash_soothing_moisture_refill_650m_l/p/1564405684716305469"
+    },
+    {
+      "id": "1564405684703675211",
+      "store_id": "2052",
+      "like_code": "278219",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 9692,
+      "upc": "871090874880",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08710908748806",
+      "reference_ids": [
+        "08710908748806"
+      ],
+      "name": "Baby Dove Nourishing Baby Lotion Rich Moisture | 200ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675211/6b284131a9e403c3ce6f3f0f24d6ed93",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08710908748806",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_nourishing_baby_lotion_rich_moisture_200_ml/p/1564405684703675211"
+    },
+    {
+      "id": "1564405684703675206",
+      "store_id": "2052",
+      "like_code": "278214",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱320.00",
+      "unit_price": 320.0,
+      "popularity": 9977,
+      "upc": "871090865800",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08710908658006",
+      "reference_ids": [
+        "08710908658006"
+      ],
+      "name": "Baby Dove Nourishing Baby Lotion Sensitive Moisture | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675206/eca0d947a91d1188dd30d4382f7e439c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08710908658006",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_nourishing_baby_lotion_sensitive_moisture_200ml/p/1564405684703675206"
+    },
+    {
+      "id": "1564405684702552018",
+      "store_id": "2052",
+      "like_code": "123357",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱69.00",
+      "unit_price": 69.0,
+      "popularity": 4875,
+      "upc": "480901263491",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809012634915",
+      "reference_ids": [
+        "04809012634915"
+      ],
+      "name": "Baby First Baby Wipes | 30s x 2",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552018/db5b8e0b97dd96eaf86ff812654dd1dd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809012634915",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_first_baby_wipes_30s_x_2/p/1564405684702552018"
+    },
+    {
+      "id": "1564405684702552020",
+      "store_id": "2052",
+      "like_code": "123358",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 2104,
+      "upc": "480901263492",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809012634922",
+      "reference_ids": [
+        "04809012634922"
+      ],
+      "name": "Baby First Baby Wipes 60 Sheets | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552020/3403306890c4fa6b2e1db1c041a6ab33",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3481107139114580785",
+          "reference_id": "tpr_2052_04809012634922_89_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3480719904636680433",
+            "3655961381712182056"
+          ],
+          "product_ids": [
+            "1564405684702552020"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4486,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "e202a62ce7eed33c366d0a5e94af637e",
+          "similarity_priority": 5,
+          "name": "Baby First Baby Wipes 60 Sheets | 2s",
+          "sale_price": "₱89.00",
+          "sale_price_md": "**₱89.00** (09/01/25 - 12/31/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3481107763277347183",
+          "reference_id": "ad_2052_04809012634922_1_89_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3480719904636680433",
+            "3655961381712182056"
+          ],
+          "product_ids": [
+            "1564405684702552020"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2243,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "08b66d1149173eef9e880dfe1a228965",
+          "similarity_priority": 6,
+          "name": "Baby First Baby Wipes 60 Sheets | 2s",
+          "sale_price": "₱89.00",
+          "sale_price_md": "**₱89.00** (09/01/25 - 12/31/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱89.00",
+      "sale_price_md": "**₱89.00** (09/01/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3481107139114580785",
+        "reference_id": "tpr_2052_04809012634922_89_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3480719904636680433",
+          "3655961381712182056"
+        ],
+        "product_ids": [
+          "1564405684702552020"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4486,
+        "product_tag_ids": [
+          "22356766",
+          "22459313",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "e202a62ce7eed33c366d0a5e94af637e",
+        "similarity_priority": 5,
+        "name": "Baby First Baby Wipes 60 Sheets | 2s",
+        "sale_price": "₱89.00",
+        "sale_price_md": "**₱89.00** (09/01/25 - 12/31/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 89.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱89.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809012634922",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_first_baby_wipes_60_sheets_2s/p/1564405684702552020"
+    },
+    {
+      "id": "1564405684702552021",
+      "store_id": "2052",
+      "like_code": "152875",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 5713,
+      "upc": "480901263493",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809012634939",
+      "reference_ids": [
+        "04809012634939"
+      ],
+      "name": "Baby First Baby Wipes 90 Sheets | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702552021/187ad0e5eac9c4517c21a458dabddc40",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3481107140439980863",
+          "reference_id": "tpr_2052_04809012634939_149_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702552021"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8794,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ca09fa98188a9754be01e4251c7ab196",
+          "similarity_priority": 5,
+          "name": "Baby First Baby Wipes 90 Sheets | 2s",
+          "sale_price": "₱149.00",
+          "sale_price_md": "**₱149.00** (09/01/25 - 12/31/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3481107763092797805",
+          "reference_id": "ad_2052_04809012634939_1_149_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702552021"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2857,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ebea94ad06307032aee9c35fcec4f32a",
+          "similarity_priority": 6,
+          "name": "Baby First Baby Wipes 90 Sheets | 2s",
+          "sale_price": "₱149.00",
+          "sale_price_md": "**₱149.00** (09/01/25 - 12/31/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱149.00",
+      "sale_price_md": "**₱149.00** (09/01/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3481107140439980863",
+        "reference_id": "tpr_2052_04809012634939_149_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702552021"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8794,
+        "product_tag_ids": [
+          "22356766",
+          "22459313",
+          "22475760",
+          "22967205"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ca09fa98188a9754be01e4251c7ab196",
+        "similarity_priority": 5,
+        "name": "Baby First Baby Wipes 90 Sheets | 2s",
+        "sale_price": "₱149.00",
+        "sale_price_md": "**₱149.00** (09/01/25 - 12/31/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 149.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱149.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809012634939",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_first_baby_wipes_90_sheets_2s/p/1564405684702552021"
+    },
+    {
+      "id": "1564405684713004868",
+      "store_id": "2052",
+      "like_code": "367358",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱261.00",
+      "unit_price": 261.0,
+      "popularity": 8175,
+      "upc": "480651982249",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519822494",
+      "reference_ids": [
+        "04806519822494"
+      ],
+      "name": "Baby First Baby Wipes | 90s Promo Pack 3+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713004868/2a116f13bfc73349fe8d8bc265b11af8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806519822494",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_baby_wipes_90s_promo_pack_3_1/p/1564405684713004868"
+    },
+    {
+      "id": "1764405684715324680",
+      "store_id": "2052",
+      "like_code": "444467",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 7342,
+      "upc": "480603369837",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806033698377",
+      "reference_ids": [
+        "04806033698377"
+      ],
+      "name": "Baby First Kiddie 2-in-1 Shampoo & Body Wash Cool Powder | 650ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715324680/d26fd63a6dac82a9eb6c72f7ea7e79e4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806033698377",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_kiddie_2_in_1_shampoo_body_wash_cool_powder_650ml/p/1764405684715324680"
+    },
+    {
+      "id": "1764405684715324682",
+      "store_id": "2052",
+      "like_code": "444468",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 7728,
+      "upc": "480603369839",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806033698391",
+      "reference_ids": [
+        "04806033698391"
+      ],
+      "name": "Baby First Kiddie 2-in-1 Shampoo & Body Wash Iced Berry | 650ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715324682/d1d1046fb3704a43beea0d55a8c4ad33",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806033698391",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_kiddie_2_in_1_shampoo_body_wash_iced_berry_650ml/p/1764405684715324682"
+    },
+    {
+      "id": "1564405684714584633",
+      "store_id": "2052",
+      "like_code": "392011",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 5614,
+      "upc": "480603369776",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806033697769",
+      "reference_ids": [
+        "04806033697769",
+        "00000000392011"
+      ],
+      "name": "Baby First Kiddie Shampoo & Body Wash Cool Powder | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714584633/187f18abb3b7f09af52079466913f5ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806033697769",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_kiddie_shampoo_body_wash_cool_powder_300ml/p/1564405684714584633"
+    },
+    {
+      "id": "1564405684714584635",
+      "store_id": "2052",
+      "like_code": "392013",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "upc": "480603369778",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806033697783",
+      "reference_ids": [
+        "04806033697783"
+      ],
+      "name": "Baby First Kiddie Shampoo & Body Wash Iced Berry | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714584635/cf64307ee55ff2f77e3eef2f601c5d17",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806033697783",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_kiddie_shampoo_body_wash_iced_berry_300ml/p/1564405684714584635"
+    },
+    {
+      "id": "1564405684714584634",
+      "store_id": "2052",
+      "like_code": "392012",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 6194,
+      "upc": "480603369777",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806033697776",
+      "reference_ids": [
+        "04806033697776"
+      ],
+      "name": "Baby First Kiddie Shampoo & Body Wash Watermelon Frost | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714584634/b407639bb15e3d5ee036b9bf75b9b6fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806033697776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_kiddie_shampoo_body_wash_watermelon_frost_300ml/p/1564405684714584634"
+    },
+    {
+      "id": "1564405684711741075",
+      "store_id": "2052",
+      "like_code": "321294",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 1818,
+      "upc": "480651982457",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519824573",
+      "reference_ids": [
+        "04806519824573"
+      ],
+      "name": "Baby First Kiddie Toothbrush with Cap | 1 to 2 years old",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711741075/5b1f035ea5c3505f1b4d1e08c9d928ca",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3567355877914589865",
+          "reference_id": "tpr_2052_04806519824573_23_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711741075"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1818,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "554170847230686ce97073c37743b472",
+          "similarity_priority": 5,
+          "name": "Baby First Kiddie Toothbrush with Cap | 1 to 2 years old",
+          "sale_price": "₱23.00",
+          "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3567357040760207737",
+          "reference_id": "ad_2052_04806519824573_1_23_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711741075"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 909,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f67139397a7b98904fe380638bd16767",
+          "similarity_priority": 6,
+          "name": "Baby First Kiddie Toothbrush with Cap | 1 to 2 years old",
+          "sale_price": "₱23.00",
+          "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱23.00",
+      "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3567355877914589865",
+        "reference_id": "tpr_2052_04806519824573_23_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711741075"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1818,
+        "product_tag_ids": [
+          "1496184",
+          "22356772",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "554170847230686ce97073c37743b472",
+        "similarity_priority": 5,
+        "name": "Baby First Kiddie Toothbrush with Cap | 1 to 2 years old",
+        "sale_price": "₱23.00",
+        "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 23.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱23.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806519824573",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/baby_first_kiddie_toothbrush_with_cap_1_to_2_years_old/p/1564405684711741075"
+    },
+    {
+      "id": "1564405684711741073",
+      "store_id": "2052",
+      "like_code": "321295",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 4747,
+      "upc": "480651982456",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519824566",
+      "reference_ids": [
+        "04806519824566"
+      ],
+      "name": "Baby First Kiddie Toothbrush with Cap | 2 to 4 years old",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711741073/8382c0465ded354ab63438a330efd3ac",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3631900930586196760",
+          "reference_id": "tpr_2052_04806519824566_23_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711741073"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4747,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "554170847230686ce97073c37743b472",
+          "similarity_priority": 5,
+          "name": "Baby First Kiddie Toothbrush with Cap | 2 to 4 years old",
+          "sale_price": "₱23.00",
+          "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3631894998967924746",
+          "reference_id": "ad_2052_04806519824566_1_23_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711741073"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2374,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f67139397a7b98904fe380638bd16767",
+          "similarity_priority": 6,
+          "name": "Baby First Kiddie Toothbrush with Cap | 2 to 4 years old",
+          "sale_price": "₱23.00",
+          "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱23.00",
+      "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3631900930586196760",
+        "reference_id": "tpr_2052_04806519824566_23_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711741073"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4747,
+        "product_tag_ids": [
+          "1496184",
+          "22356772",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "554170847230686ce97073c37743b472",
+        "similarity_priority": 5,
+        "name": "Baby First Kiddie Toothbrush with Cap | 2 to 4 years old",
+        "sale_price": "₱23.00",
+        "sale_price_md": "**₱23.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 23.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱23.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806519824566",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/baby_first_kiddie_toothbrush_with_cap_2_to_4_years_old/p/1564405684711741073"
+    },
+    {
+      "id": "1564405684702549164",
+      "store_id": "2052",
+      "like_code": "145083",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱97.50",
+      "unit_price": 97.5,
+      "popularity": 5632,
+      "upc": "480651982322",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519823224",
+      "reference_ids": [
+        "04806519823224"
+      ],
+      "name": "Baby First Kiddie Wipes | 20s",
+      "size": "pc",
+      "price_disclaimer": "with Mixed Berries Scent Buy 3+1 FREE",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549164/3fc5ce18f6693f5cdabf95c484f3c5b6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806519823224",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_first_kiddie_wipes_20s/p/1564405684702549164"
+    },
+    {
+      "id": "1564405684712883201",
+      "store_id": "2052",
+      "like_code": "366324",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱279.00",
+      "unit_price": 279.0,
+      "popularity": 999999,
+      "upc": "480651983265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519832653",
+      "reference_ids": [
+        "04806519832653"
+      ],
+      "name": "Baby First Natural Baby Wipes | 72s x 3s Promo Pack",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712883201/7a682a548c2b1e9120325e3c7ca41003",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806519832653",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_first_natural_baby_wipes_72s_x_3s_promo_pack/p/1564405684712883201"
+    },
+    {
+      "id": "1564405684702549176",
+      "store_id": "2052",
+      "like_code": "158452",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 8002,
+      "upc": "480651982561",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519825617",
+      "reference_ids": [
+        "04806519825617"
+      ],
+      "name": "Baby First Wipes Strawberry | 60s x 2",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549176/8883bf9244ad2b1cc71a6f424a776a2e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806519825617",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_first_wipes_strawberry_60s_x_2/p/1564405684702549176"
+    },
+    {
+      "id": "1564405684702549140",
+      "store_id": "2052",
+      "like_code": "113386",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 5034,
+      "upc": "480651982008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806519820087",
+      "reference_ids": [
+        "04806519820087"
+      ],
+      "name": "Baby Firts Wipes | 3 Packs 30s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549140/139dd6c66520ed8ea32a73a19c19301c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806519820087",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_firts_wipes_3_packs_30s/p/1564405684702549140"
+    },
+    {
+      "id": "1564405684702537084",
+      "store_id": "2052",
+      "like_code": "230577",
+      "department_id": [
+        "528514"
+      ],
+      "price": "₱31.50",
+      "unit_price": 31.5,
+      "popularity": 1917,
+      "upc": "480006705428",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800067054284",
+      "reference_ids": [
+        "04800067054284"
+      ],
+      "name": "Babyflo Baby Cotton Buds | 200S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537084/a76c92c110a9d35ae017f6ca4e65ffdf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067054284",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_baby_cotton_buds_200_s/p/1564405684702537084"
+    },
+    {
+      "id": "1564405684702537086",
+      "store_id": "2052",
+      "like_code": "230578",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 1703,
+      "upc": "480006705535",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067055359",
+      "reference_ids": [
+        "04800067055359"
+      ],
+      "name": "Babyflo Baby Cotton Buds | 300S Can",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537086/2b807eb0f634773466c9c0599f0ad7b1",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3652272439636802011",
+          "reference_id": "tpr_2052_04800067055359_38_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702537086"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1329,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "8e42349528867d0a5be51bf29d8d1d58",
+          "similarity_priority": 5,
+          "name": "Babyflo Baby Cotton Buds | 300S Can",
+          "sale_price": "₱38.75",
+          "sale_price_md": "**₱38.75** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3652273504880966254",
+          "reference_id": "ad_2052_04800067055359_1_38_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702537086"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 665,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a6a3891f8656841cf630d9339a00fc24",
+          "similarity_priority": 6,
+          "name": "Babyflo Baby Cotton Buds | 300S Can",
+          "sale_price": "₱38.75",
+          "sale_price_md": "**₱38.75** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱38.75",
+      "sale_price_md": "**₱38.75** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3652272439636802011",
+        "reference_id": "tpr_2052_04800067055359_38_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702537086"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1329,
+        "product_tag_ids": [
+          "22356771",
+          "22459175",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "8e42349528867d0a5be51bf29d8d1d58",
+        "similarity_priority": 5,
+        "name": "Babyflo Baby Cotton Buds | 300S Can",
+        "sale_price": "₱38.75",
+        "sale_price_md": "**₱38.75** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 38.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱38.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067055359",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/babyflo_baby_cotton_buds_300_s_can/p/1564405684702537086"
+    },
+    {
+      "id": "1564405684702537048",
+      "store_id": "2052",
+      "like_code": "137457",
+      "department_id": [
+        "528514"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 3136,
+      "upc": "480006705117",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067051177",
+      "reference_ids": [
+        "04800067051177"
+      ],
+      "name": "Babyflo Bottle Tri-Pack | 8oz x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537048/222db7fd0d640a5a9c53042901d5b97b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067051177",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_bottle_tri_pack_8oz_x_3s/p/1564405684702537048"
+    },
+    {
+      "id": "1564405684702537044",
+      "store_id": "2052",
+      "like_code": "205867",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 6161,
+      "upc": "480006704925",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067049259",
+      "reference_ids": [
+        "04800067049259"
+      ],
+      "name": "Baby Flo Cleansing Aids Feeding Bottle & Nipple Cleanser | 500ML Refill",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537044/0e88e5061701d2b1fb13edc787b80a58",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067049259",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_flo_cleansing_aids_feeding_bottle_nipple_cleanser_500_ml_refill/p/1564405684702537044"
+    },
+    {
+      "id": "1564405684702537046",
+      "store_id": "2052",
+      "like_code": "205866",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱304.00",
+      "unit_price": 304.0,
+      "popularity": 999999,
+      "upc": "480006704924",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067049242",
+      "reference_ids": [
+        "04800067049242"
+      ],
+      "name": "Baby Flo Cleansing Aids Feeding Bottle & Nipple Cleanser | 750ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537046/3eeba990a2dcc10138fe525e7739eff5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800067049242",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_flo_cleansing_aids_feeding_bottle_nipple_cleanser_750_ml/p/1564405684702537046"
+    },
+    {
+      "id": "1564405684702537117",
+      "store_id": "2052",
+      "like_code": "153863",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱96.50",
+      "unit_price": 96.5,
+      "popularity": 6370,
+      "upc": "480006706090",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067060902",
+      "reference_ids": [
+        "04800067060902"
+      ],
+      "name": "Babyflo Conditioning Shampoo | 125ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537117/6acf222091ed6fc2560bc05a1bc48d7b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067060902",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_conditioning_shampoo_125_ml/p/1564405684702537117"
+    },
+    {
+      "id": "1564405684702537119",
+      "store_id": "2052",
+      "like_code": "153864",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱96.50",
+      "unit_price": 96.5,
+      "popularity": 5926,
+      "upc": "480006706094",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067060940",
+      "reference_ids": [
+        "04800067060940"
+      ],
+      "name": "Babyflo Natural Shampoo | 125ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537119/556c39f2d63e6a32211c25dacdfab62c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067060940",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_natural_shampoo_125_ml/p/1564405684702537119"
+    },
+    {
+      "id": "1564405684702537125",
+      "store_id": "2052",
+      "like_code": "258872",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱254.00",
+      "unit_price": 254.0,
+      "popularity": 6658,
+      "upc": "480006706541",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067065419",
+      "reference_ids": [
+        "04800067065419"
+      ],
+      "name": "Babyflo Oatmeal Bath Pump | 500ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537125/f8e9c911ffa6623c7d286957aac185fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067065419",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_oatmeal_bath_pump_500_ml/p/1564405684702537125"
+    },
+    {
+      "id": "1564405684702537104",
+      "store_id": "2052",
+      "like_code": "147531",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱95.00",
+      "unit_price": 95.0,
+      "popularity": 5724,
+      "upc": "480006705723",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067057230",
+      "reference_ids": [
+        "04800067057230"
+      ],
+      "name": "Babyflo Regular Baby Oil | 100ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537104/c3d5c6d0bd8cd905442d118c936d683d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067057230",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_regular_baby_oil_100_ml/p/1564405684702537104"
+    },
+    {
+      "id": "1564405684702537131",
+      "store_id": "2052",
+      "like_code": "124927",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱75.00",
+      "unit_price": 75.0,
+      "popularity": 7041,
+      "upc": "480006707077",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067070772",
+      "reference_ids": [
+        "04800067070772"
+      ],
+      "name": "Babyflo Soothing & Relaxing Petroleum Jelly | 50G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537131/cd2df185098741af2a6369ab50bc24fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067070772",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/babyflo_soothing_relaxing_petroleum_jelly_50_g/p/1564405684702537131"
+    },
+    {
+      "id": "1564405684702537056",
+      "store_id": "2052",
+      "like_code": "144801",
+      "department_id": [
+        "528514"
+      ],
+      "price": "₱299.75",
+      "unit_price": 299.75,
+      "popularity": 3111,
+      "upc": "480006705132",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067051320",
+      "reference_ids": [
+        "04800067051320"
+      ],
+      "name": "Baby Flo Trendy Bottle | 8Oz 3s Pack",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537056/7ecb643e04be83e926d0ab3472ec61a0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067051320",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_flo_trendy_bottle_8_oz_3s_pack/p/1564405684702537056"
+    },
+    {
+      "id": "1564405684702554649",
+      "store_id": "2052",
+      "like_code": "139766",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱1,125.00",
+      "unit_price": 1125.0,
+      "popularity": 999999,
+      "upc": "501067704400",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "05010677044004",
+      "reference_ids": [
+        "05010677044004"
+      ],
+      "name": "Bacardi Lemon | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554649/77a05b29d6a6206bbe8654b279638147",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05010677044004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/bacardi_lemon_700ml/p/1564405684702554649"
+    },
+    {
+      "id": "3258428",
+      "store_id": "2052",
+      "like_code": "156825",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱935.00",
+      "unit_price": 935.0,
+      "popularity": 999999,
+      "upc": "8048000526",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00080480005269",
+      "reference_ids": [
+        "00080480005269",
+        "05010677035002"
+      ],
+      "name": "Bacardi Rum Black | 750ml",
+      "size": "750 ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00080480005269/c7ab10e482315299c77ad05ee7ad46be",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00080480005269",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/bacardi_rum_black_750ml/p/3258428"
+    },
+    {
+      "id": "1564405684702554646",
+      "store_id": "2052",
+      "like_code": "115165",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱775.00",
+      "unit_price": 775.0,
+      "popularity": 3262,
+      "upc": "8048002540",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00080480025403",
+      "reference_ids": [
+        "00080480025403",
+        "05010677025003",
+        "05010677025010"
+      ],
+      "name": "Bacardi Rum Oro | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554646/027f5b1d05723e535f2b4da8d732fca7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00080480025403",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/bacardi_rum_oro_750ml/p/1564405684702554646"
+    },
+    {
+      "id": "181749",
+      "store_id": "2052",
+      "like_code": "118962",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱745.00",
+      "unit_price": 745.0,
+      "popularity": 99999,
+      "upc": "8048001540",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00080480015404",
+      "reference_ids": [
+        "00080480015404",
+        "05010677015615",
+        "07501008603017"
+      ],
+      "name": "Bacardi White Rum Superior | 750ml",
+      "size": "750 ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00080480015404/81c97702fd7557ba6114e1868d954525",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00080480015404",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/bacardi_white_rum_superior_750ml/p/181749"
+    },
+    {
+      "id": "1564405684702544919",
+      "store_id": "2052",
+      "like_code": "96722",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱192.50",
+      "unit_price": 192.5,
+      "popularity": 999999,
+      "upc": "480488906529",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804889065299",
+      "reference_ids": [
+        "04804889065299"
+      ],
+      "name": "Bacolod Biscuit Special Biscocho | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544919/25bfb2212850f990a0a50628b8d1e594",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04804889065299",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bacolod_biscuit_special_biscocho_420g/p/1564405684702544919"
+    },
+    {
+      "id": "1564405684702538398",
+      "store_id": "2052",
+      "like_code": "7330",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱241.00",
+      "unit_price": 241.0,
+      "popularity": 3806,
+      "upc": "480101022120",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04801010221203",
+      "reference_ids": [
+        "04801010221203",
+        "04800140001099",
+        "04800140900781",
+        "04800140901115"
+      ],
+      "name": "Bactidol Mouthwash | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538398/5813c7eb047afc1bba560e5172b18e92",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704444548364378",
+          "reference_id": "tpr_2052_04801010221203_192_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702538398"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3806,
+          "product_tag_ids": [
+            "1496184",
+            "22174575",
+            "22356772",
+            "22475760",
+            "22634374",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6ca7dfa46d49fcb3be9b0b366356f0c1",
+          "similarity_priority": 5,
+          "name": "Bactidol Mouthwash | 120ml",
+          "sale_price": "₱192.00",
+          "sale_price_md": "**₱192.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705627929295491",
+          "reference_id": "ad_2052_04801010221203_1_192_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702538398"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1903,
+          "product_tag_ids": [
+            "1496184",
+            "22174575",
+            "22356772",
+            "22475760",
+            "22634374",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c79c759a15d364331045d504ea147972",
+          "similarity_priority": 6,
+          "name": "Bactidol Mouthwash | 120ml",
+          "sale_price": "₱192.00",
+          "sale_price_md": "**₱192.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱192.00",
+      "sale_price_md": "**₱192.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704444548364378",
+        "reference_id": "tpr_2052_04801010221203_192_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702538398"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3806,
+        "product_tag_ids": [
+          "1496184",
+          "22174575",
+          "22356772",
+          "22475760",
+          "22634374",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "6ca7dfa46d49fcb3be9b0b366356f0c1",
+        "similarity_priority": 5,
+        "name": "Bactidol Mouthwash | 120ml",
+        "sale_price": "₱192.00",
+        "sale_price_md": "**₱192.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 192.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱192.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801010221203",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/bactidol_mouthwash_120ml/p/1564405684702538398"
+    },
+    {
+      "id": "1564405684702538400",
+      "store_id": "2052",
+      "like_code": "7333",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 1,
+      "upc": "480101022130",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04801010221302",
+      "reference_ids": [
+        "04801010221302",
+        "04800140001105",
+        "04800140901092",
+        "04800140902464"
+      ],
+      "name": "Bactidol Mouthwash | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538400/b17d95bed385189df6a79d2ed86534e2",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704445747935391",
+          "reference_id": "tpr_2052_04801010221302_360_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702538400"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496184",
+            "22174568",
+            "22174575",
+            "22459179",
+            "22474153",
+            "22475760",
+            "22634374",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d59c438b9036439e0ba2af0e423207ca",
+          "similarity_priority": 5,
+          "name": "Bactidol Mouthwash | 250ml",
+          "sale_price": "₱360.00",
+          "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705628105456281",
+          "reference_id": "ad_2052_04801010221302_1_360_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702538400"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496184",
+            "22174568",
+            "22174575",
+            "22459179",
+            "22474153",
+            "22475760",
+            "22634374",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "83ec16e4e9a97b31358ebd65a2fd2372",
+          "similarity_priority": 6,
+          "name": "Bactidol Mouthwash | 250ml",
+          "sale_price": "₱360.00",
+          "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱360.00",
+      "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704445747935391",
+        "reference_id": "tpr_2052_04801010221302_360_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702538400"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1,
+        "product_tag_ids": [
+          "1496184",
+          "22174568",
+          "22174575",
+          "22459179",
+          "22474153",
+          "22475760",
+          "22634374",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "d59c438b9036439e0ba2af0e423207ca",
+        "similarity_priority": 5,
+        "name": "Bactidol Mouthwash | 250ml",
+        "sale_price": "₱360.00",
+        "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 360.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱360.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801010221302",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/bactidol_mouthwash_250ml/p/1564405684702538400"
+    },
+    {
+      "id": "1564405684711655757",
+      "store_id": "2052",
+      "like_code": "327283",
+      "department_id": [
+        "22459181"
+      ],
+      "price": "₱444.00",
+      "unit_price": 444.0,
+      "popularity": 6787,
+      "upc": "480101022194",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801010221944",
+      "reference_ids": [
+        "04801010221944"
+      ],
+      "name": "Bactidol Mouthwash | 250ml + 30ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711655757/b6bd376005635bcd3489bb9b234f6625",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801010221944",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/mouthwash/bactidol_mouthwash_250ml_30ml/p/1564405684711655757"
+    },
+    {
+      "id": "1564405684709537656",
+      "store_id": "2052",
+      "like_code": "7324",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱146.00",
+      "unit_price": 146.0,
+      "popularity": 1679,
+      "upc": "480101022110",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801010221104",
+      "reference_ids": [
+        "04801010221104",
+        "04800140001082",
+        "04800140903126"
+      ],
+      "name": "Bactidol Mouthwash | 60ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709537656/c4e8097ee6ae4d467fe77e5937b433cd",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704444422535248",
+          "reference_id": "tpr_2052_04801010221104_116_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684709537656"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1679,
+          "product_tag_ids": [
+            "1496184",
+            "22174575",
+            "22356772",
+            "22475760",
+            "22634374",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b6921bcf3cd44514d455a6ec607334e0",
+          "similarity_priority": 5,
+          "name": "Bactidol Mouthwash | 60ml",
+          "sale_price": "₱116.50",
+          "sale_price_md": "**₱116.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705627535030864",
+          "reference_id": "ad_2052_04801010221104_1_116_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684709537656"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 840,
+          "product_tag_ids": [
+            "1496184",
+            "22174575",
+            "22356772",
+            "22475760",
+            "22634374",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f53d2387a0a4d493c429a9ef61162b81",
+          "similarity_priority": 6,
+          "name": "Bactidol Mouthwash | 60ml",
+          "sale_price": "₱116.50",
+          "sale_price_md": "**₱116.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱116.50",
+      "sale_price_md": "**₱116.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704444422535248",
+        "reference_id": "tpr_2052_04801010221104_116_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684709537656"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1679,
+        "product_tag_ids": [
+          "1496184",
+          "22174575",
+          "22356772",
+          "22475760",
+          "22634374",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b6921bcf3cd44514d455a6ec607334e0",
+        "similarity_priority": 5,
+        "name": "Bactidol Mouthwash | 60ml",
+        "sale_price": "₱116.50",
+        "sale_price_md": "**₱116.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 116.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱116.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801010221104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/bactidol_mouthwash_60ml/p/1564405684709537656"
+    },
+    {
+      "id": "1564405684702544432",
+      "store_id": "2052",
+      "like_code": "268261",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱217.00",
+      "unit_price": 217.0,
+      "popularity": 5861,
+      "upc": "480488023315",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233154",
+      "reference_ids": [
+        "04804880233154"
+      ],
+      "name": "Baguio Canola Oil | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544432/000d0c3ead3c98ed5ec3db69b52ed655",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233154",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_canola_oil_1_5_l/p/1564405684702544432"
+    },
+    {
+      "id": "1564405684702544429",
+      "store_id": "2052",
+      "like_code": "162737",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 7904,
+      "upc": "480488023312",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233123",
+      "reference_ids": [
+        "04804880233123"
+      ],
+      "name": "Baguio Canola Oil | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544429/3ad7ea5be735b07d19023c65b8f38588",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_canola_oil_900ml/p/1564405684702544429"
+    },
+    {
+      "id": "1564405684704729515",
+      "store_id": "2052",
+      "like_code": "291782",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱138.00",
+      "unit_price": 138.0,
+      "popularity": 4776,
+      "upc": "480488023316",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233161",
+      "reference_ids": [
+        "04804880233161"
+      ],
+      "name": "Baguio Canola Oil | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729515/6a8ef40b098666d6620f5e89213c39bd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233161",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_canola_oil_900ml/p/1564405684704729515"
+    },
+    {
+      "id": "1564405684704729516",
+      "store_id": "2052",
+      "like_code": "291766",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱266.00",
+      "unit_price": 266.0,
+      "popularity": 6840,
+      "upc": "480488023317",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233178",
+      "reference_ids": [
+        "04804880233178"
+      ],
+      "name": "Baguio Canola Oil | 900ml x 2pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729516/a20dd1e1369da5f70d77ebe3144e1374",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233178",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_canola_oil_900ml_x_2pcs/p/1564405684704729516"
+    },
+    {
+      "id": "1564405684702544431",
+      "store_id": "2052",
+      "like_code": "224267",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱274.00",
+      "unit_price": 274.0,
+      "popularity": 10120,
+      "upc": "480488023314",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233147",
+      "reference_ids": [
+        "04804880233147"
+      ],
+      "name": "Baguio Canola Oil | 900ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544431/74022ca352efc5522262b7d98accf3a1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233147",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_canola_oil_900ml_x_2s/p/1564405684702544431"
+    },
+    {
+      "id": "1564405684702544428",
+      "store_id": "2052",
+      "like_code": "162736",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱273.00",
+      "unit_price": 273.0,
+      "popularity": 8732,
+      "upc": "480488023313",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233130",
+      "reference_ids": [
+        "04804880233130"
+      ],
+      "name": "Baguio Canola Oil Pet | 1.L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544428/ea238c66035ec22f3235c2cfbcb754b6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233130",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_canola_oil_pet_1_l/p/1564405684702544428"
+    },
+    {
+      "id": "1564405684712690265",
+      "store_id": "2052",
+      "like_code": "299450",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,388.00",
+      "unit_price": 2388.0,
+      "popularity": 9541,
+      "upc": "480488023318",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880233185",
+      "reference_ids": [
+        "04804880233185"
+      ],
+      "name": "Baguio Canola Oil Tin | 16k",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712690265/341ad3488cbad84c9c2c8104c59c05a9_3402ecd0-d8c8-4cd6-8e58-c380b318da79",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880233185",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baguio_canola_oil_tin_16k/p/1564405684712690265"
+    },
+    {
+      "id": "1564405684702544413",
+      "store_id": "2052",
+      "like_code": "126304",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱394.00",
+      "unit_price": 394.0,
+      "popularity": 673,
+      "upc": "480488021324",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880213248",
+      "reference_ids": [
+        "04804880213248"
+      ],
+      "name": "Baguio Coconut Oil | 1.8L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702544413/3452d0dd57e3f0bf7fc7852522da4c71",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880213248",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_coconut_oil_1_8_l/p/1564405684702544413"
+    },
+    {
+      "id": "1564405684702544424",
+      "store_id": "2052",
+      "like_code": "258643",
+      "department_id": [
+        "22459192"
+      ],
+      "price": "₱436.00",
+      "unit_price": 436.0,
+      "popularity": 5046,
+      "upc": "480488022417",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804880224176",
+      "reference_ids": [
+        "04804880224176"
+      ],
+      "name": "Baguio Coconut Oil | 1L x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544424/f1a19022a99cea04c6434295759a587d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804880224176",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_oil/baguio_coconut_oil_1_l_x_2s/p/1564405684702544424"
+    }
+  ]
+}

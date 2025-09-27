@@ -1,0 +1,3227 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702557118",
+      "store_id": "2052",
+      "like_code": "148896",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 3141,
+      "upc": "880110417205",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104172059",
+      "reference_ids": [
+        "08801104172059"
+      ],
+      "name": "Binggrae Cledor Berry Mix Bar | 90ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557118/a69260211cb93fd6514c3deb70ec7ec6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104172059",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/binggrae_cledor_berry_mix_bar_90ml/p/1564405684702557118"
+    },
+    {
+      "id": "1564405684702557117",
+      "store_id": "2052",
+      "like_code": "148897",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 3139,
+      "upc": "880110417204",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104172042",
+      "reference_ids": [
+        "08801104172042"
+      ],
+      "name": "Binggrae Cledor Espresso Bar | 90ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557117/458a425577298cfe137807de9d474c12",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104172042",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/binggrae_cledor_espresso_bar_90ml/p/1564405684702557117"
+    },
+    {
+      "id": "1564405684712662034",
+      "store_id": "2052",
+      "like_code": "364035",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱57.00",
+      "unit_price": 57.0,
+      "popularity": 3370,
+      "upc": "880110494023",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104940238",
+      "reference_ids": [
+        "08801104940238"
+      ],
+      "name": "Binggrae Coffee Flavored Milk Drink | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712662034/3d86d9afe6b7fdec73a092e2330b7f9a",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3641280461017201158",
+          "reference_id": "ad_2052_08801104940238_4_171_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 4",
+          "product_ids": [
+            "1564405684712662034"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1685,
+          "product_tag_ids": [
+            "361068",
+            "1496163",
+            "1511066",
+            "22356785",
+            "22459233",
+            "22475760",
+            "22706612"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "23296a7748973bd1601f2b00c7d83225",
+          "similarity_priority": 6,
+          "name": "Binggrae Coffee Flavored Milk Drink | 200ml",
+          "sale_price": "4 for ₱171.00 with purchase of 4",
+          "sale_price_md": "**4 for ₱171.00 with purchase of 4** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "4 for ₱171.00 with purchase of 4",
+      "sale_price_md": "**4 for ₱171.00 with purchase of 4** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3641280461017201158",
+        "reference_id": "ad_2052_08801104940238_4_171_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 4",
+        "product_ids": [
+          "1564405684712662034"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1685,
+        "product_tag_ids": [
+          "361068",
+          "1496163",
+          "1511066",
+          "22356785",
+          "22459233",
+          "22475760",
+          "22706612"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "23296a7748973bd1601f2b00c7d83225",
+        "similarity_priority": 6,
+        "name": "Binggrae Coffee Flavored Milk Drink | 200ml",
+        "sale_price": "4 for ₱171.00 with purchase of 4",
+        "sale_price_md": "**4 for ₱171.00 with purchase of 4** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 4",
+      "offer_sale_price": 42.75,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104940238",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/binggrae_coffee_flavored_milk_drink_200ml/p/1564405684712662034"
+    },
+    {
+      "id": "1564405684702557100",
+      "store_id": "2052",
+      "like_code": "132298",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱39.00",
+      "unit_price": 39.0,
+      "popularity": 3135,
+      "upc": "880110412252",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104122528",
+      "reference_ids": [
+        "08801104122528",
+        "08801104123150"
+      ],
+      "name": "Binggrae Encho Bar Ice Cream | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557100/f9374a3b56018b9b63d976cfcd4a19b1",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3709409430769514566",
+          "reference_id": "tpr_2052_08801104122528_31_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702557100"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2345,
+          "product_tag_ids": [
+            "1511066",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "712b6cb3dd25758f2c4a3ad146b083d0",
+          "similarity_priority": 5,
+          "name": "Binggrae Encho Bar Ice Cream | 70ml",
+          "sale_price": "₱31.50",
+          "sale_price_md": "**₱31.50** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3709414105749141722",
+          "reference_id": "ad_2052_08801104122528_1_31_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702557100"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1173,
+          "product_tag_ids": [
+            "1511066",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "331b880d7f3785dbc2cbae5036b07689",
+          "similarity_priority": 6,
+          "name": "Binggrae Encho Bar Ice Cream | 70ml",
+          "sale_price": "₱31.50",
+          "sale_price_md": "**₱31.50** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱31.50",
+      "sale_price_md": "**₱31.50** (09/01/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3709409430769514566",
+        "reference_id": "tpr_2052_08801104122528_31_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702557100"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2345,
+        "product_tag_ids": [
+          "1511066",
+          "22474153",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "712b6cb3dd25758f2c4a3ad146b083d0",
+        "similarity_priority": 5,
+        "name": "Binggrae Encho Bar Ice Cream | 70ml",
+        "sale_price": "₱31.50",
+        "sale_price_md": "**₱31.50** (09/01/25 - 10/15/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 31.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱31.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104122528",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/binggrae_encho_bar_ice_cream_70ml/p/1564405684702557100"
+    },
+    {
+      "id": "8133384",
+      "store_id": "2052",
+      "like_code": "142571",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 3500,
+      "upc": "76982812084",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00769828120849",
+      "reference_ids": [
+        "00769828120849",
+        "00769828120313"
+      ],
+      "name": "Binggrae Melona Banana Bar | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8133384/7938285b399592d3b2b2fc42f1d3aec9",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593247567526399",
+          "reference_id": "tpr_2052_00769828120849_28_0",
+          "type_id": "1",
+          "product_ids": [
+            "8133384"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3698,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+          "similarity_priority": 5,
+          "name": "Binggrae Melona Banana Bar | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3711589667620010153",
+          "reference_id": "ad_2052_00769828120849_1_28_0",
+          "type_id": "2",
+          "product_ids": [
+            "8133384"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1849,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70c6555aec06cd9c830f6d02560ddce3",
+          "similarity_priority": 6,
+          "name": "Binggrae Melona Banana Bar | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱28.00",
+      "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3711593247567526399",
+        "reference_id": "tpr_2052_00769828120849_28_0",
+        "type_id": "1",
+        "product_ids": [
+          "8133384"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3698,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+        "similarity_priority": 5,
+        "name": "Binggrae Melona Banana Bar | 70ml",
+        "sale_price": "₱28.00",
+        "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 28.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱28.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00769828120849",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_melona_banana_bar_70ml/p/8133384"
+    },
+    {
+      "id": "8131255",
+      "store_id": "2052",
+      "like_code": "132297",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 20,
+      "upc": "76982812080",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00769828120801",
+      "reference_ids": [
+        "00769828120801",
+        "00769828120023",
+        "08801104122504",
+        "08801104123174"
+      ],
+      "name": "Binggrae Melona Honeydew Melon | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8131255/bb2703065bb0ae2ded52e33a5d3fa6e0",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3491252354597009764",
+          "reference_id": "tpr_2052_00769828120801_28_0",
+          "type_id": "1",
+          "product_ids": [
+            "8131255"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 20,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+          "similarity_priority": 5,
+          "name": "Binggrae Melona Honeydew Melon | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3491253356012256174",
+          "reference_id": "ad_2052_00769828120801_1_28_0",
+          "type_id": "2",
+          "product_ids": [
+            "8131255"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70c6555aec06cd9c830f6d02560ddce3",
+          "similarity_priority": 6,
+          "name": "Binggrae Melona Honeydew Melon | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱28.00",
+      "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3491252354597009764",
+        "reference_id": "tpr_2052_00769828120801_28_0",
+        "type_id": "1",
+        "product_ids": [
+          "8131255"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 20,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+        "similarity_priority": 5,
+        "name": "Binggrae Melona Honeydew Melon | 70ml",
+        "sale_price": "₱28.00",
+        "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 28.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱28.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00769828120801",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_melona_honeydew_melon_70ml/p/8131255"
+    },
+    {
+      "id": "8131256",
+      "store_id": "2052",
+      "like_code": "142569",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 3502,
+      "upc": "76982812086",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00769828120863",
+      "reference_ids": [
+        "00769828120863",
+        "00769828120214"
+      ],
+      "name": "Binggrae Melona Mango Bar | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8131256/81799bacb36ed10ed96de8a180b37991",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593248213449228",
+          "reference_id": "tpr_2052_00769828120863_28_0",
+          "type_id": "1",
+          "product_ids": [
+            "8131256"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3499,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+          "similarity_priority": 5,
+          "name": "Binggrae Melona Mango Bar | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3711589667779393707",
+          "reference_id": "ad_2052_00769828120863_1_28_0",
+          "type_id": "2",
+          "product_ids": [
+            "8131256"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1750,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70c6555aec06cd9c830f6d02560ddce3",
+          "similarity_priority": 6,
+          "name": "Binggrae Melona Mango Bar | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱28.00",
+      "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3711593248213449228",
+        "reference_id": "tpr_2052_00769828120863_28_0",
+        "type_id": "1",
+        "product_ids": [
+          "8131256"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3499,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+        "similarity_priority": 5,
+        "name": "Binggrae Melona Mango Bar | 70ml",
+        "sale_price": "₱28.00",
+        "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 28.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱28.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00769828120863",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_melona_mango_bar_70ml/p/8131256"
+    },
+    {
+      "id": "8131257",
+      "store_id": "2052",
+      "like_code": "142570",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 3501,
+      "upc": "76982812082",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00769828120825",
+      "reference_ids": [
+        "00769828120825",
+        "00769828120412"
+      ],
+      "name": "Binggrae Melona Strawberry Bar | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8131257/273d72f52856a2e338f1a836c41e644c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3491252357457525172",
+          "reference_id": "tpr_2052_00769828120825_28_0",
+          "type_id": "1",
+          "product_ids": [
+            "8131257"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3697,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+          "similarity_priority": 5,
+          "name": "Binggrae Melona Strawberry Bar | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3491253356893060040",
+          "reference_id": "ad_2052_00769828120825_1_28_0",
+          "type_id": "2",
+          "product_ids": [
+            "8131257"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1849,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70c6555aec06cd9c830f6d02560ddce3",
+          "similarity_priority": 6,
+          "name": "Binggrae Melona Strawberry Bar | 70ml",
+          "sale_price": "₱28.00",
+          "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱28.00",
+      "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3491252357457525172",
+        "reference_id": "tpr_2052_00769828120825_28_0",
+        "type_id": "1",
+        "product_ids": [
+          "8131257"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3697,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "62ce301a037e71ce132d317f73b9bac8",
+        "similarity_priority": 5,
+        "name": "Binggrae Melona Strawberry Bar | 70ml",
+        "sale_price": "₱28.00",
+        "sale_price_md": "**₱28.00** (09/01/25 - 10/15/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 28.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱28.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00769828120825",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_melona_strawberry_bar_70ml/p/8131257"
+    },
+    {
+      "id": "1564405684702557131",
+      "store_id": "2052",
+      "like_code": "185799",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱57.00",
+      "unit_price": 57.0,
+      "popularity": 3042,
+      "upc": "880110494014",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104940146",
+      "reference_ids": [
+        "08801104940146"
+      ],
+      "name": "Binggrae Melon Flavored Milk Drink | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557131/77f3852af5a7bd85fa381f4fcadeba30",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3578228444925802967",
+          "reference_id": "tpr_2052_08801104940146_47_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702557131"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3042,
+          "product_tag_ids": [
+            "1511066",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c08099c40eebc1ee52e71e5e16a58cd6",
+          "similarity_priority": 5,
+          "name": "Binggrae Melon Flavored Milk Drink | 200ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-10-31"
+        },
+        {
+          "id": "3578229069273119588",
+          "reference_id": "ad_2052_08801104940146_1_47_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702557131"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1521,
+          "product_tag_ids": [
+            "1511066",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "63872c149eff70e0f9310d2d2b7c2809",
+          "similarity_priority": 6,
+          "name": "Binggrae Melon Flavored Milk Drink | 200ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-10-31"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-10-31",
+      "sale_price": "₱47.00",
+      "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+      "sale_offer": {
+        "id": "3578228444925802967",
+        "reference_id": "tpr_2052_08801104940146_47_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702557131"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-10-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3042,
+        "product_tag_ids": [
+          "1511066",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c08099c40eebc1ee52e71e5e16a58cd6",
+        "similarity_priority": 5,
+        "name": "Binggrae Melon Flavored Milk Drink | 200ml",
+        "sale_price": "₱47.00",
+        "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-10-31"
+      },
+      "offer_sale_price": 47.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱47.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104940146",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/binggrae_melon_flavored_milk_drink_200ml/p/1564405684702557131"
+    },
+    {
+      "id": "1564405684702504697",
+      "store_id": "2052",
+      "like_code": "132318",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 999999,
+      "upc": "76982819072",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00769828190729",
+      "reference_ids": [
+        "00769828190729",
+        "08801104190947"
+      ],
+      "name": "Binggrae Original Pangtoa Ice Cream | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504697/fd2c54a55f7ed54244a9e1066386a500",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00769828190729",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/binggrae_original_pangtoa_ice_cream_150ml/p/1564405684702504697"
+    },
+    {
+      "id": "1564405684702557129",
+      "store_id": "2052",
+      "like_code": "142975",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱59.50",
+      "unit_price": 59.5,
+      "popularity": 3133,
+      "upc": "880110490050",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104900508",
+      "reference_ids": [
+        "08801104900508"
+      ],
+      "name": "Binggrae Pangtoa Choco Chiffon | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557129/ebdc2f4d82cdefaecab3abdea1be7d4c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3709409432866666657",
+          "reference_id": "tpr_2052_08801104900508_47_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702557129"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3133,
+          "product_tag_ids": [
+            "1511066",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "dc1c1684b87e04a94102defa812506fd",
+          "similarity_priority": 5,
+          "name": "Binggrae Pangtoa Choco Chiffon | 150ml",
+          "sale_price": "₱47.50",
+          "sale_price_md": "**₱47.50** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3709414106235681001",
+          "reference_id": "ad_2052_08801104900508_1_47_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702557129"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1567,
+          "product_tag_ids": [
+            "1511066",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b270e9ac59dc61cd9326625dbdf2e69a",
+          "similarity_priority": 6,
+          "name": "Binggrae Pangtoa Choco Chiffon | 150ml",
+          "sale_price": "₱47.50",
+          "sale_price_md": "**₱47.50** (09/01/25 - 10/15/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱47.50",
+      "sale_price_md": "**₱47.50** (09/01/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3709409432866666657",
+        "reference_id": "tpr_2052_08801104900508_47_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702557129"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3133,
+        "product_tag_ids": [
+          "1511066",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "dc1c1684b87e04a94102defa812506fd",
+        "similarity_priority": 5,
+        "name": "Binggrae Pangtoa Choco Chiffon | 150ml",
+        "sale_price": "₱47.50",
+        "sale_price_md": "**₱47.50** (09/01/25 - 10/15/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 47.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱47.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104900508",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/binggrae_pangtoa_choco_chiffon_150ml/p/1564405684702557129"
+    },
+    {
+      "id": "1564405684702504695",
+      "store_id": "2052",
+      "like_code": "132325",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 3134,
+      "upc": "880110419092",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104190923",
+      "reference_ids": [
+        "08801104190923",
+        "00769828190118"
+      ],
+      "name": "Binggrae Samanco Red Bean Ice Cream Sandwich | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504695/788b33f7fa4f5fc1ed0db561c48f0296",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3710136240973036093",
+          "reference_id": "ad_2052_08801104190923_2_100_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702504695"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1171,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+          "similarity_priority": 6,
+          "name": "Binggrae Samanco Red Bean Ice Cream Sandwich | 150ml",
+          "sale_price": "2 for ₱100.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱100.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3710136240973036093",
+        "reference_id": "ad_2052_08801104190923_2_100_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702504695"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1171,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+        "similarity_priority": 6,
+        "name": "Binggrae Samanco Red Bean Ice Cream Sandwich | 150ml",
+        "sale_price": "2 for ₱100.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 50.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104190923",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_samanco_red_bean_ice_cream_sandwich_150ml/p/1564405684702504695"
+    },
+    {
+      "id": "1564405684702557121",
+      "store_id": "2052",
+      "like_code": "145880",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 3268,
+      "upc": "880110418011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104180115",
+      "reference_ids": [
+        "08801104180115"
+      ],
+      "name": "Binggrae Samanco Strawberry Ice Cream Bar | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557121/9057a282cdf3fa905cd800c4eadcb4a6",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3710136240746543676",
+          "reference_id": "ad_2052_08801104180115_2_100_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702557121"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1337,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+          "similarity_priority": 6,
+          "name": "Binggrae Samanco Strawberry Ice Cream Bar | 150ml",
+          "sale_price": "2 for ₱100.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱100.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3710136240746543676",
+        "reference_id": "ad_2052_08801104180115_2_100_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702557121"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1337,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+        "similarity_priority": 6,
+        "name": "Binggrae Samanco Strawberry Ice Cream Bar | 150ml",
+        "sale_price": "2 for ₱100.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 50.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104180115",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_samanco_strawberry_ice_cream_bar_150ml/p/1564405684702557121"
+    },
+    {
+      "id": "1564405684690192730",
+      "store_id": "2052",
+      "like_code": "148900",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 3138,
+      "upc": "880110491001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104910019",
+      "reference_ids": [
+        "08801104910019"
+      ],
+      "name": "Binggrae Samanco Waffle Ice Cream | 150ml x 4s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684690192730/1afb60adab1362d18c809c0aaa589843",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104910019",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/binggrae_samanco_waffle_ice_cream_150ml_x_4s/p/1564405684690192730"
+    },
+    {
+      "id": "1564405684714578400",
+      "store_id": "2052",
+      "like_code": "391933",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱57.00",
+      "unit_price": 57.0,
+      "popularity": 3350,
+      "upc": "76982894030",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00769828940300",
+      "reference_ids": [
+        "00769828940300"
+      ],
+      "name": "Binggrae Taro Flavored Milk Drink | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714578400/315a061cae8397684e46b78cf5f7e7db",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3578228134413088889",
+          "reference_id": "tpr_2052_00769828940300_47_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684714578400"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3350,
+          "product_tag_ids": [
+            "361068",
+            "1496135",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c08099c40eebc1ee52e71e5e16a58cd6",
+          "similarity_priority": 5,
+          "name": "Binggrae Taro Flavored Milk Drink | 200ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-10-31"
+        },
+        {
+          "id": "3578228641990982542",
+          "reference_id": "ad_2052_00769828940300_1_47_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684714578400"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1675,
+          "product_tag_ids": [
+            "361068",
+            "1496135",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "63872c149eff70e0f9310d2d2b7c2809",
+          "similarity_priority": 6,
+          "name": "Binggrae Taro Flavored Milk Drink | 200ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-10-31"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-10-31",
+      "sale_price": "₱47.00",
+      "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+      "sale_offer": {
+        "id": "3578228134413088889",
+        "reference_id": "tpr_2052_00769828940300_47_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684714578400"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-10-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3350,
+        "product_tag_ids": [
+          "361068",
+          "1496135",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c08099c40eebc1ee52e71e5e16a58cd6",
+        "similarity_priority": 5,
+        "name": "Binggrae Taro Flavored Milk Drink | 200ml",
+        "sale_price": "₱47.00",
+        "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-10-31"
+      },
+      "offer_sale_price": 47.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱47.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00769828940300",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/binggrae_taro_flavored_milk_drink_200ml/p/1564405684714578400"
+    },
+    {
+      "id": "1564405684712127012",
+      "store_id": "2052",
+      "like_code": "357783",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱57.00",
+      "unit_price": 57.0,
+      "popularity": 999999,
+      "upc": "880110467110",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104671101",
+      "reference_ids": [
+        "08801104671101"
+      ],
+      "name": "Binggrae Vanilla Flavored Milk Drink | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712127012/de4510cd1aeab4b6a9592ce1172a4d06",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3578228445487839730",
+          "reference_id": "tpr_2052_08801104671101_47_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712127012"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "1496162",
+            "1511066",
+            "22356764",
+            "22459233",
+            "22475760",
+            "22706612"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "c08099c40eebc1ee52e71e5e16a58cd6",
+          "similarity_priority": 5,
+          "name": "Binggrae Vanilla Flavored Milk Drink | 200ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-10-31"
+        },
+        {
+          "id": "3578229067905776469",
+          "reference_id": "ad_2052_08801104671101_1_47_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712127012"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "1496162",
+            "1511066",
+            "22356764",
+            "22459233",
+            "22475760",
+            "22706612"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "63872c149eff70e0f9310d2d2b7c2809",
+          "similarity_priority": 6,
+          "name": "Binggrae Vanilla Flavored Milk Drink | 200ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-10-31"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-10-31",
+      "sale_price": "₱47.00",
+      "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+      "sale_offer": {
+        "id": "3578228445487839730",
+        "reference_id": "tpr_2052_08801104671101_47_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712127012"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-10-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "1496162",
+          "1511066",
+          "22356764",
+          "22459233",
+          "22475760",
+          "22706612"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "c08099c40eebc1ee52e71e5e16a58cd6",
+        "similarity_priority": 5,
+        "name": "Binggrae Vanilla Flavored Milk Drink | 200ml",
+        "sale_price": "₱47.00",
+        "sale_price_md": "**₱47.00** (09/15/25 - 10/31/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-10-31"
+      },
+      "offer_sale_price": 47.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱47.00 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801104671101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/binggrae_vanilla_flavored_milk_drink_200ml/p/1564405684712127012"
+    },
+    {
+      "id": "1564405684690192724",
+      "store_id": "2052",
+      "like_code": "145879",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 3269,
+      "upc": "880110417012",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104170123",
+      "reference_ids": [
+        "08801104170123"
+      ],
+      "name": "Binggrae Waffle Chocolate Ice Cream | 150ml x 4s",
+      "size": "4 ea",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684690192724/13a768ec58fe7e6f7fcf69196bb30bff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104170123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/binggrae_waffle_chocolate_ice_cream_150ml_x_4s/p/1564405684690192724"
+    },
+    {
+      "id": "1564405684706814648",
+      "store_id": "2052",
+      "like_code": "283097",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 99999,
+      "upc": "880110430513",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104305136",
+      "reference_ids": [
+        "08801104305136"
+      ],
+      "name": "Binggrae Waffle Green Tea | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706814648/80090de7a3ae77669efbb8cc448985fc",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3710136241014979134",
+          "reference_id": "ad_2052_08801104305136_2_100_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684706814648"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 50000,
+          "product_tag_ids": [
+            "1511066",
+            "21910605",
+            "22356764",
+            "22459119",
+            "22475760",
+            "22706612"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+          "similarity_priority": 6,
+          "name": "Binggrae Waffle Green Tea | 150ml",
+          "sale_price": "2 for ₱100.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱100.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3710136241014979134",
+        "reference_id": "ad_2052_08801104305136_2_100_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684706814648"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 50000,
+        "product_tag_ids": [
+          "1511066",
+          "21910605",
+          "22356764",
+          "22459119",
+          "22475760",
+          "22706612"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+        "similarity_priority": 6,
+        "name": "Binggrae Waffle Green Tea | 150ml",
+        "sale_price": "2 for ₱100.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 50.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104305136",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_waffle_green_tea_150ml/p/1564405684706814648"
+    },
+    {
+      "id": "1564405684690192723",
+      "store_id": "2052",
+      "like_code": "145881",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 20,
+      "upc": "880110417011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801104170116",
+      "reference_ids": [
+        "08801104170116"
+      ],
+      "name": "Binggrae Waffle Ice Chocolate | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684690192723/1ec1e1daac45f9980bd1da5165466cfb",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3710136239362423353",
+          "reference_id": "ad_2052_08801104170116_2_100_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684690192723"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "1511066",
+            "22356764",
+            "22459119",
+            "22459233",
+            "22475760",
+            "22706612",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+          "similarity_priority": 6,
+          "name": "Binggrae Waffle Ice Chocolate | 150ml",
+          "sale_price": "2 for ₱100.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱100.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3710136239362423353",
+        "reference_id": "ad_2052_08801104170116_2_100_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684690192723"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "1511066",
+          "22356764",
+          "22459119",
+          "22459233",
+          "22475760",
+          "22706612",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4ffa848f614926b27aba5a2cb07dbc91",
+        "similarity_priority": 6,
+        "name": "Binggrae Waffle Ice Chocolate | 150ml",
+        "sale_price": "2 for ₱100.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱100.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 50.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801104170116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/binggrae_waffle_ice_chocolate_150ml/p/1564405684690192723"
+    },
+    {
+      "id": "1564405684702539716",
+      "store_id": "2052",
+      "like_code": "132276",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱19.50",
+      "unit_price": 19.5,
+      "popularity": 1510,
+      "upc": "480024900864",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249008647",
+      "reference_ids": [
+        "04800249008647"
+      ],
+      "name": "Bingo Beef Loaf | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539716/e3ae77ed238de864377f3ef6b26c116f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249008647",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/bingo_beef_loaf_150g/p/1564405684702539716"
+    },
+    {
+      "id": "1564405684702539689",
+      "store_id": "2052",
+      "like_code": "129879",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱62.25",
+      "unit_price": 62.25,
+      "popularity": 5578,
+      "upc": "480024900611",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249006117",
+      "reference_ids": [
+        "04800249006117"
+      ],
+      "name": "Bingo Classic Chicken Nuggets | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539689/8e053f45ac20dcf81d24f1f075fa8262",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249006117",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/bingo_classic_chicken_nuggets_200g/p/1564405684702539689"
+    },
+    {
+      "id": "1564405684702550065",
+      "store_id": "2052",
+      "like_code": "5179",
+      "department_id": [
+        "22448446"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 943,
+      "upc": "480777010061",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807770100611",
+      "reference_ids": [
+        "04807770100611"
+      ],
+      "name": "Bingo Cookie Sandwich Choco Coated Chocolate Sandwich | 28g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550065/f586223ea1789002e375ff43dbce093c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807770100611",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/monde-nissin/bingo_cookie_sandwich_choco_coated_chocolate_sandwich_28g_x_10s/p/1564405684702550065"
+    },
+    {
+      "id": "1564405684702550063",
+      "store_id": "2052",
+      "like_code": "5174",
+      "department_id": [
+        "22448446"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 912,
+      "upc": "480777010053",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807770100536",
+      "reference_ids": [
+        "04807770100536"
+      ],
+      "name": "Bingo Cookie Sandwich Orange Filled Choco | 28g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550063/89dc5d6c412de4ce4a327500e412b67f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807770100536",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/monde-nissin/bingo_cookie_sandwich_orange_filled_choco_28g_x_10s/p/1564405684702550063"
+    },
+    {
+      "id": "1564405684702550064",
+      "store_id": "2052",
+      "like_code": "5177",
+      "department_id": [
+        "22448446"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 1977,
+      "upc": "480777010069",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807770100697",
+      "reference_ids": [
+        "04807770100697",
+        "04807770100604"
+      ],
+      "name": "Bingo Cookie Sandwich Vanilla Filled Choco | 28g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550064/b48881ffba628a080faafac1ae76c96e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807770100697",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/monde-nissin/bingo_cookie_sandwich_vanilla_filled_choco_28g_x_10s/p/1564405684702550064"
+    },
+    {
+      "id": "1564405684702539677",
+      "store_id": "2052",
+      "like_code": "123518",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 3730,
+      "upc": "480024900577",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249005776",
+      "reference_ids": [
+        "04800249005776"
+      ],
+      "name": "Bingo Corned Beef | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539677/fe6a4fc1ac3c07d059c0d86d0b687e39",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249005776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/bingo_corned_beef_150g/p/1564405684702539677"
+    },
+    {
+      "id": "1564405684716321241",
+      "store_id": "2052",
+      "like_code": "421901",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 305,
+      "upc": "480001114989",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011149899",
+      "reference_ids": [
+        "04800011149899"
+      ],
+      "name": "Bioderm Cooling + Germicidal Soap Intense Coolness | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716321241/e0cc22f9d17d4039857f6a2b0278bf7c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011149899",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bioderm_cooling_germicidal_soap_intense_coolness_135g/p/1564405684716321241"
+    },
+    {
+      "id": "1564405684716321237",
+      "store_id": "2052",
+      "like_code": "421902",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱19.00",
+      "unit_price": 19.0,
+      "popularity": 563,
+      "upc": "480001114987",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011149875",
+      "reference_ids": [
+        "04800011149875"
+      ],
+      "name": "Bioderm Cooling + Germicidal Soap Intense Coolness | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716321237/175a4faed2123ad3c37a84d9959cac80",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011149875",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bioderm_cooling_germicidal_soap_intense_coolness_60g/p/1564405684716321237"
+    },
+    {
+      "id": "1564405684702535510",
+      "store_id": "2052",
+      "like_code": "200249",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 172,
+      "upc": "480001111396",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011113968",
+      "reference_ids": [
+        "04800011113968"
+      ],
+      "name": "Bioderm Coolness | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535510/b556ccb343729264b1f54e33818b50d6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011113968",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bioderm_coolness_135g/p/1564405684702535510"
+    },
+    {
+      "id": "1564405684702535507",
+      "store_id": "2052",
+      "like_code": "165220",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 267,
+      "upc": "480001111393",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011113937",
+      "reference_ids": [
+        "04800011113937"
+      ],
+      "name": "Bioderm Coolness | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535507/cb33900be69026de836e3d628d933c65",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011113937",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bioderm_coolness_60g/p/1564405684702535507"
+    },
+    {
+      "id": "1564405684702535508",
+      "store_id": "2052",
+      "like_code": "200248",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 440,
+      "upc": "480001111394",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011113944",
+      "reference_ids": [
+        "04800011113944"
+      ],
+      "name": "Bioderm Soap Coolness | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535508/4e39848a0e7afe6399dcc6226a9f72f7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011113944",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bioderm_soap_coolness_90g/p/1564405684702535508"
+    },
+    {
+      "id": "1564405684702535512",
+      "store_id": "2052",
+      "like_code": "7874",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 514,
+      "upc": "480001111426",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011114262",
+      "reference_ids": [
+        "04800011114262"
+      ],
+      "name": "Bioderm Soap Green | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535512/0ec86c108c70a7e0e9064707edc463fa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011114262",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bioderm_soap_green_135g/p/1564405684702535512"
+    },
+    {
+      "id": "1564405684702535555",
+      "store_id": "2052",
+      "like_code": "127986",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱19.00",
+      "unit_price": 19.0,
+      "popularity": 919,
+      "upc": "480001178273",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011782737",
+      "reference_ids": [
+        "04800011782737"
+      ],
+      "name": "Bioderm Soap Green | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535555/51335d7ad2a969b6798fc1358885b38c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011782737",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bioderm_soap_green_60g/p/1564405684702535555"
+    },
+    {
+      "id": "1564405684702535515",
+      "store_id": "2052",
+      "like_code": "7882",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 273,
+      "upc": "480001111506",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011115061",
+      "reference_ids": [
+        "04800011115061"
+      ],
+      "name": "Bioderm Soap Pink | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535515/996d81cf447f8e222d0e3b2e854e89b1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011115061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bioderm_soap_pink_135g/p/1564405684702535515"
+    },
+    {
+      "id": "1564405684702535556",
+      "store_id": "2052",
+      "like_code": "127987",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱18.00",
+      "unit_price": 18.0,
+      "popularity": 230,
+      "upc": "480001178280",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011782805",
+      "reference_ids": [
+        "04800011782805"
+      ],
+      "name": "Bioderm Soap Pink | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535556/8a129839c1bd18747390a32ded735131",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011782805",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bioderm_soap_pink_60g/p/1564405684702535556"
+    },
+    {
+      "id": "1564405684702535516",
+      "store_id": "2052",
+      "like_code": "7897",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 561,
+      "upc": "480001111526",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011115269",
+      "reference_ids": [
+        "04800011115269"
+      ],
+      "name": "Bioderm Soap White | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535516/289c6842e42830ddb659a4bb521d8966",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011115269",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bioderm_soap_white_135g/p/1564405684702535516"
+    },
+    {
+      "id": "1564405684702535557",
+      "store_id": "2052",
+      "like_code": "127989",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱18.50",
+      "unit_price": 18.5,
+      "popularity": 592,
+      "upc": "480001179533",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011795331",
+      "reference_ids": [
+        "04800011795331"
+      ],
+      "name": "Bioderm Soap Whte | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535557/66e8b1e1ba4c61de381686a6f8cd3183",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011795331",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bioderm_soap_whte_60g/p/1564405684702535557"
+    },
+    {
+      "id": "1564405684702540073",
+      "store_id": "2052",
+      "like_code": "133702",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 4045,
+      "upc": "480030180039",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800301800394",
+      "reference_ids": [
+        "04800301800394"
+      ],
+      "name": "Bio-fit Tea Herbal Slimming Tea | 30s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540073/42f5a3b4973664ff310388d3086d0534",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800301800394",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/bio_fit_tea_herbal_slimming_tea_30s/p/1564405684702540073"
+    },
+    {
+      "id": "1564405684702540072",
+      "store_id": "2052",
+      "like_code": "133703",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱33.75",
+      "unit_price": 33.75,
+      "popularity": 2044,
+      "upc": "480030180038",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800301800387",
+      "reference_ids": [
+        "04800301800387"
+      ],
+      "name": "Biofit Tea Herbal Slimming Tea | 5pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540072/71025156bc604d2393455444b6f4128a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800301800387",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/biofit_tea_herbal_slimming_tea_5pcs/p/1564405684702540072"
+    },
+    {
+      "id": "1564405684702550350",
+      "store_id": "2052",
+      "like_code": "133598",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 9847,
+      "upc": "480778852676",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788526762",
+      "reference_ids": [
+        "04807788526762",
+        "04807788526809"
+      ],
+      "name": "Bioflu 500mg Tablet | 5s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550350/8d2aee3c5d065e7694fc9c3eaf91a8e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788526762",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/bioflu_500mg_tablet_5s/p/1564405684702550350"
+    },
+    {
+      "id": "1564405684712279121",
+      "store_id": "2052",
+      "like_code": "359074",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱93.50",
+      "unit_price": 93.5,
+      "popularity": 3409,
+      "upc": "480013159227",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800131592278",
+      "reference_ids": [
+        "04800131592278"
+      ],
+      "name": "Biogenic 70% Ethyl Alcohol | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712279121/2fe5e0d50194ddc379f195ceb78df524",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800131592278",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/biogenic_70_ethyl_alcohol_500ml/p/1564405684712279121"
+    },
+    {
+      "id": "1564405684702538235",
+      "store_id": "2052",
+      "like_code": "124557",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱82.00",
+      "unit_price": 82.0,
+      "popularity": 4419,
+      "upc": "480013159226",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800131592261",
+      "reference_ids": [
+        "04800131592261"
+      ],
+      "name": "Biogenic Ethyl Alcohol 70% Solution | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538235/d986de68cb782fa674143e27d82c0920",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800131592261",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/biogenic_ethyl_alcohol_70_solution_330ml/p/1564405684702538235"
+    },
+    {
+      "id": "1564405684702538230",
+      "store_id": "2052",
+      "like_code": "107107",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱82.00",
+      "unit_price": 82.0,
+      "popularity": 1058,
+      "upc": "480650783728",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806507837288",
+      "reference_ids": [
+        "04806507837288",
+        "04800131591004"
+      ],
+      "name": "Biogenic Isopropyl Alcohol 70% Solution | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538230/f2bc28e72da1bbb2c841e348c0dbde4b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806507837288",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/biogenic_isopropyl_alcohol_70_solution_330ml/p/1564405684702538230"
+    },
+    {
+      "id": "1564405684702538221",
+      "store_id": "2052",
+      "like_code": "81164",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱89.50",
+      "unit_price": 89.5,
+      "popularity": 662,
+      "upc": "480013129168",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800131291683",
+      "reference_ids": [
+        "04800131291683"
+      ],
+      "name": "Biogenic Isopropyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538221/91f4f1550641ee5052a7890241cd8b64",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800131291683",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/biogenic_isopropyl_alcohol_70_solution_500ml/p/1564405684702538221"
+    },
+    {
+      "id": "1564405684702538234",
+      "store_id": "2052",
+      "like_code": "125369",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱32.00",
+      "unit_price": 32.0,
+      "popularity": 506,
+      "upc": "480013159275",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800131592759",
+      "reference_ids": [
+        "04800131592759"
+      ],
+      "name": "Biogenic Isopropyl Alcohol 70% Solution | 50ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538234/2690a9ebf251c0dcb9b95b7580651d86",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800131592759",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/biogenic_isopropyl_alcohol_70_solution_50ml/p/1564405684702538234"
+    },
+    {
+      "id": "1564405684702550382",
+      "store_id": "2052",
+      "like_code": "205713",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 7404,
+      "upc": "480778856184",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788561848",
+      "reference_ids": [
+        "04807788561848"
+      ],
+      "name": "Biogesic 500mg Tablet | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550382/3bd2d8d4a68c96e1d643020bf2f337a3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788561848",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/biogesic_500mg_tablet_10s/p/1564405684702550382"
+    },
+    {
+      "id": "1764405684715726436",
+      "store_id": "2052",
+      "like_code": "457019",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱479.00",
+      "unit_price": 479.0,
+      "popularity": 999999,
+      "upc": "490130144764",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901301447647",
+      "reference_ids": [
+        "04901301447647"
+      ],
+      "name": "Biore Facial Cream Uv Aqua Rich Watery Essence 70g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901301447647",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/biore_facial_cream_uv_aqua_rich_watery_essence_70g/p/1764405684715726436"
+    },
+    {
+      "id": "1764405684715726440",
+      "store_id": "2052",
+      "like_code": "457018",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱479.00",
+      "unit_price": 479.0,
+      "popularity": 999999,
+      "upc": "490130140686",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901301406866",
+      "reference_ids": [
+        "04901301406866"
+      ],
+      "name": "Biore Lotion Uv Aqua Rich Aqua Protect 70ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901301406866",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/biore_lotion_uv_aqua_rich_aqua_protect_70ml/p/1764405684715726440"
+    },
+    {
+      "id": "1764405684715726412",
+      "store_id": "2052",
+      "like_code": "457021",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱479.00",
+      "unit_price": 479.0,
+      "popularity": 999999,
+      "upc": "490130141312",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901301413123",
+      "reference_ids": [
+        "04901301413123"
+      ],
+      "name": "Biore Rub Cooling Mist Unscented 120ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901301413123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/biore_rub_cooling_mist_unscented_120ml/p/1764405684715726412"
+    }
+  ]
+}

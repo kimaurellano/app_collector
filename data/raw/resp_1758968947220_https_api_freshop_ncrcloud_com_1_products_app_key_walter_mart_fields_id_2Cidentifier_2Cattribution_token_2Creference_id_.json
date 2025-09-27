@@ -1,0 +1,2739 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702504551",
+      "store_id": "2052",
+      "like_code": "3608",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "4 for ₱92.00",
+      "unit_price": 23.0,
+      "popularity": 15,
+      "quantity_step": 4.0,
+      "upc": "74848580009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800097",
+      "reference_ids": [
+        "00748485800097"
+      ],
+      "name": "Argentina Beef Loaf | 170g",
+      "size": "pc",
+      "price_disclaimer": "BUY 4 SAVE 8",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504551/1099cb947add7e28731e8d8eead0fc77",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800097",
+      "quantity_initial": 4.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_beef_loaf_170g/p/1564405684702504551"
+    },
+    {
+      "id": "1564405684702504553",
+      "store_id": "2052",
+      "like_code": "3613",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "3 for ₱95.50",
+      "unit_price": 31.83,
+      "popularity": 465,
+      "quantity_step": 3.0,
+      "upc": "74848580011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800110",
+      "reference_ids": [
+        "00748485800110"
+      ],
+      "name": "Argentina Beef Loaf | 260g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504553/26f0b4714c58c84476be0bb42bae4968",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800110",
+      "quantity_initial": 3.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_beef_loaf_260g/p/1564405684702504553"
+    },
+    {
+      "id": "1564405684709318219",
+      "store_id": "2052",
+      "like_code": "338917",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 7697,
+      "upc": "74848560197",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485601977",
+      "reference_ids": [
+        "00748485601977"
+      ],
+      "name": "Argentina Beef Tapa | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709318219/e0d33cf0075d922c83ce122055829ab7",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3716658746206731037",
+          "reference_id": "tpr_2052_00748485601977_135_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684709318219"
+          ],
+          "start_date": "2025-09-08T00:00:00.000+00:00",
+          "finish_date": "2025-10-08T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4690,
+          "product_tag_ids": [
+            "430957",
+            "1501969",
+            "22356784",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "dd805e643c94cae8404103fdf4f8fdbf",
+          "similarity_priority": 5,
+          "name": "Argentina Beef Tapa | 400g",
+          "sale_price": "₱135.00",
+          "sale_price_md": "**₱135.00** (09/08/25 - 10/08/25)",
+          "display_start_date": "2025-09-08",
+          "display_finish_date": "2025-10-08"
+        },
+        {
+          "id": "3716658768973412590",
+          "reference_id": "ad_2052_00748485601977_1_135_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684709318219"
+          ],
+          "start_date": "2025-09-08T00:00:00.000+00:00",
+          "finish_date": "2025-10-08T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2345,
+          "product_tag_ids": [
+            "430957",
+            "1501969",
+            "22356784",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "1e87d133644b21d5a075ffe64630d038",
+          "similarity_priority": 6,
+          "name": "Argentina Beef Tapa | 400g",
+          "sale_price": "₱135.00",
+          "sale_price_md": "**₱135.00** (09/08/25 - 10/08/25)",
+          "display_start_date": "2025-09-08",
+          "display_finish_date": "2025-10-08"
+        }
+      ],
+      "sale_start_date": "2025-09-08",
+      "sale_finish_date": "2025-10-08",
+      "sale_price": "₱135.00",
+      "sale_price_md": "**₱135.00** (09/08/25 - 10/08/25)",
+      "sale_offer": {
+        "id": "3716658746206731037",
+        "reference_id": "tpr_2052_00748485601977_135_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684709318219"
+        ],
+        "start_date": "2025-09-08T00:00:00.000+00:00",
+        "finish_date": "2025-10-08T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4690,
+        "product_tag_ids": [
+          "430957",
+          "1501969",
+          "22356784",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "dd805e643c94cae8404103fdf4f8fdbf",
+        "similarity_priority": 5,
+        "name": "Argentina Beef Tapa | 400g",
+        "sale_price": "₱135.00",
+        "sale_price_md": "**₱135.00** (09/08/25 - 10/08/25)",
+        "display_start_date": "2025-09-08",
+        "display_finish_date": "2025-10-08"
+      },
+      "offer_sale_price": 135.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱135.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485601977",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/argentina_beef_tapa_400g/p/1564405684709318219"
+    },
+    {
+      "id": "1764405684715133724",
+      "store_id": "2052",
+      "like_code": "439717",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 8380,
+      "upc": "480002240011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022400118",
+      "reference_ids": [
+        "04800022400118"
+      ],
+      "name": "Argentina Cheesedog Loaf | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715133724/6af166cd3bd76dd52b0774c885c599f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022400118",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_cheesedog_loaf_150g/p/1764405684715133724"
+    },
+    {
+      "id": "1564405684702504588",
+      "store_id": "2052",
+      "like_code": "97350",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱28.00",
+      "unit_price": 28.0,
+      "popularity": 379,
+      "upc": "74848580180",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485801803",
+      "reference_ids": [
+        "00748485801803"
+      ],
+      "name": "Argentina Corned Beef | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504588/2ccf4c3f99f005448dbeb63e8e8bf00c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485801803",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_corned_beef_100g/p/1564405684702504588"
+    },
+    {
+      "id": "1564405684702504559",
+      "store_id": "2052",
+      "like_code": "62039",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱35.75",
+      "unit_price": 35.75,
+      "popularity": 192,
+      "upc": "74848580043",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800431",
+      "reference_ids": [
+        "00748485800431"
+      ],
+      "name": "Argentina Corned Beef | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504559/89d4a739dec9a4eb7c4f06d5d8c17887",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800431",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_corned_beef_150g/p/1564405684702504559"
+    },
+    {
+      "id": "1564405684712125850",
+      "store_id": "2052",
+      "like_code": "357771",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱1,700.00",
+      "unit_price": 1700.0,
+      "popularity": 1,
+      "upc": "1074848580043",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "10748485800438",
+      "reference_ids": [
+        "10748485800438"
+      ],
+      "name": "Argentina Corned Beef | 150g x 48s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712125850/8194306595d464c134cb91de3137fd29",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "10748485800438",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_corned_beef_150g_x_48s/p/1564405684712125850"
+    },
+    {
+      "id": "8150622",
+      "store_id": "2052",
+      "like_code": "3578",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "3 for ₱117.25",
+      "unit_price": 39.08,
+      "popularity": 15,
+      "quantity_step": 3.0,
+      "upc": "74848580001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800011",
+      "reference_ids": [
+        "00748485800011"
+      ],
+      "name": "Argentina Corned Beef | 175g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "8150622/03e59c5c28d62a794b279b85e2482ef2",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461905671960626",
+          "reference_id": "tpr_2052_00748485800011_39_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3722685834017651634"
+          ],
+          "product_ids": [
+            "8150622"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 15,
+          "product_tag_ids": [
+            "430957",
+            "1496148",
+            "22072785",
+            "22072790",
+            "22197754",
+            "22356791",
+            "22475760",
+            "22547975",
+            "22555084",
+            "22690541",
+            "22775806",
+            "22883851",
+            "22983185",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "cfbd96c01caa4f20209a3b0ec6decfda",
+          "similarity_priority": 5,
+          "name": "Argentina Corned Beef | 175g",
+          "sale_price": "₱39.00",
+          "sale_price_md": "**₱39.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461646631745573",
+          "reference_id": "ad_2052_00748485800011_1_39_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3722685834017651634"
+          ],
+          "product_ids": [
+            "8150622"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8,
+          "product_tag_ids": [
+            "430957",
+            "1496148",
+            "22072785",
+            "22072790",
+            "22197754",
+            "22356791",
+            "22475760",
+            "22547975",
+            "22555084",
+            "22690541",
+            "22775806",
+            "22883851",
+            "22983185",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4a2563c08b5c374c5a89956e2a1d11a2",
+          "similarity_priority": 6,
+          "name": "Argentina Corned Beef | 175g",
+          "sale_price": "₱39.00",
+          "sale_price_md": "**₱39.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱39.00",
+      "sale_price_md": "**₱39.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461905671960626",
+        "reference_id": "tpr_2052_00748485800011_39_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183112460587"
+        ],
+        "circular_page_ids": [
+          "3719247209875651551"
+        ],
+        "circular_spot_ids": [
+          "3722685834017651634"
+        ],
+        "product_ids": [
+          "8150622"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 15,
+        "product_tag_ids": [
+          "430957",
+          "1496148",
+          "22072785",
+          "22072790",
+          "22197754",
+          "22356791",
+          "22475760",
+          "22547975",
+          "22555084",
+          "22690541",
+          "22775806",
+          "22883851",
+          "22983185",
+          "23087576",
+          "23087588"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "cfbd96c01caa4f20209a3b0ec6decfda",
+        "similarity_priority": 5,
+        "name": "Argentina Corned Beef | 175g",
+        "sale_price": "₱39.00",
+        "sale_price_md": "**₱39.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 39.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱39.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800011",
+      "quantity_initial": 3.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_corned_beef_175g/p/8150622"
+    },
+    {
+      "id": "1564405684712125852",
+      "store_id": "2052",
+      "like_code": "357770",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱1,940.00",
+      "unit_price": 1940.0,
+      "popularity": 1,
+      "upc": "1074848580001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "10748485800018",
+      "reference_ids": [
+        "10748485800018"
+      ],
+      "name": "Argentina Corned Beef | 175g x 48s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712125852/0ebea798214ed8daa4e3cb85f751adff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "10748485800018",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_corned_beef_175g_x_48s/p/1564405684712125852"
+    },
+    {
+      "id": "1564405684702504550",
+      "store_id": "2052",
+      "like_code": "3580",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "2 for ₱110.50",
+      "unit_price": 55.25,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848580003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800035",
+      "reference_ids": [
+        "00748485800035"
+      ],
+      "name": "Argentina Corned Beef | 260g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 4",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504550/9dedb9c0d619d1f2d26a9c384619b1ad",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461905923618876",
+          "reference_id": "tpr_2052_00748485800035_55_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3722685881606224822"
+          ],
+          "product_ids": [
+            "1564405684702504550"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 15,
+          "product_tag_ids": [
+            "430957",
+            "1496148",
+            "22072785",
+            "22072790",
+            "22356791",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22883851",
+            "22983185",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ee3112240f91fb41ce82afcd23a73b2d",
+          "similarity_priority": 5,
+          "name": "Argentina Corned Beef | 260g",
+          "sale_price": "₱55.00",
+          "sale_price_md": "**₱55.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461646648522790",
+          "reference_id": "ad_2052_00748485800035_1_55_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3722685881606224822"
+          ],
+          "product_ids": [
+            "1564405684702504550"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8,
+          "product_tag_ids": [
+            "430957",
+            "1496148",
+            "22072785",
+            "22072790",
+            "22356791",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22883851",
+            "22983185",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "893cd59255bf20a023fc260cc3dc0518",
+          "similarity_priority": 6,
+          "name": "Argentina Corned Beef | 260g",
+          "sale_price": "₱55.00",
+          "sale_price_md": "**₱55.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱55.00",
+      "sale_price_md": "**₱55.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461905923618876",
+        "reference_id": "tpr_2052_00748485800035_55_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183112460587"
+        ],
+        "circular_page_ids": [
+          "3719247209875651551"
+        ],
+        "circular_spot_ids": [
+          "3722685881606224822"
+        ],
+        "product_ids": [
+          "1564405684702504550"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 15,
+        "product_tag_ids": [
+          "430957",
+          "1496148",
+          "22072785",
+          "22072790",
+          "22356791",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22883851",
+          "22983185",
+          "23087576",
+          "23087588"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ee3112240f91fb41ce82afcd23a73b2d",
+        "similarity_priority": 5,
+        "name": "Argentina Corned Beef | 260g",
+        "sale_price": "₱55.00",
+        "sale_price_md": "**₱55.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 55.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱55.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800035",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_corned_beef_260g/p/1564405684702504550"
+    },
+    {
+      "id": "1564405684712125849",
+      "store_id": "2052",
+      "like_code": "357772",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱2,730.00",
+      "unit_price": 2730.0,
+      "popularity": 1,
+      "upc": "1074848580003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "10748485800032",
+      "reference_ids": [
+        "10748485800032"
+      ],
+      "name": "Argentina Corned Beef | 260g x 48s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712125849/8801ba3a2f022d17c9d75a5ef05c03bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "10748485800032",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_corned_beef_260g_x_48s/p/1564405684712125849"
+    },
+    {
+      "id": "1764405684715129352",
+      "store_id": "2052",
+      "like_code": "439565",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱100.25",
+      "unit_price": 100.25,
+      "popularity": 968,
+      "upc": "480002293031",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022930318",
+      "reference_ids": [
+        "04800022930318"
+      ],
+      "name": "Argentina Corned Beef (Save P7) | 150g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715129352/e530dd9921fd120b5ee3c3a8c15171a3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022930318",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_corned_beef_save_p7_150g_x_3s/p/1764405684715129352"
+    },
+    {
+      "id": "1564405684704729483",
+      "store_id": "2052",
+      "like_code": "310380",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 3918,
+      "upc": "74848580247",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485802473",
+      "reference_ids": [
+        "00748485802473"
+      ],
+      "name": "Argentina Corned Chicken Regular | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729483/7b0404a01fda847d48ae32115ee40595",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485802473",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_corned_chicken_regular_150g/p/1564405684704729483"
+    },
+    {
+      "id": "1564405684704729484",
+      "store_id": "2052",
+      "like_code": "310379",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 6325,
+      "upc": "74848580368",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485803685",
+      "reference_ids": [
+        "00748485803685"
+      ],
+      "name": "Argentina Corned Chicken Spicy | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729484/5df68735c12944cf4e8e054a520803c0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485803685",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_corned_chicken_spicy_150g/p/1564405684704729484"
+    },
+    {
+      "id": "1564405684702504565",
+      "store_id": "2052",
+      "like_code": "144447",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 1992,
+      "upc": "74848580079",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800790",
+      "reference_ids": [
+        "00748485800790"
+      ],
+      "name": "Argentina Fiesta Sausage | 175g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504565/fc0fcc8b0730f39b5b8576aecfffcaed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800790",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_fiesta_sausage_175g/p/1564405684702504565"
+    },
+    {
+      "id": "1564405684714612779",
+      "store_id": "2052",
+      "like_code": "393671",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 960,
+      "upc": "480002240017",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022400170",
+      "reference_ids": [
+        "04800022400170",
+        "00748485804170",
+        "00000000393671"
+      ],
+      "name": "Argentina Giniling Ground Pork Mix | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714612779/a25983c1ba409b957733e103ecf3565c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022400170",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_giniling_ground_pork_mix_150g/p/1564405684714612779"
+    },
+    {
+      "id": "1764405684715133718",
+      "store_id": "2052",
+      "like_code": "439716",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 3822,
+      "upc": "480002240010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022400101",
+      "reference_ids": [
+        "04800022400101"
+      ],
+      "name": "Argentina Hotdog Loaf | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715133718/d5b1481823d6357935755c5f19e934b1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022400101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_hotdog_loaf_150g/p/1764405684715133718"
+    },
+    {
+      "id": "8150620",
+      "store_id": "2052",
+      "like_code": "3597",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱25.50",
+      "unit_price": 25.5,
+      "popularity": 1392,
+      "upc": "74848580033",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800332",
+      "reference_ids": [
+        "00748485800332"
+      ],
+      "name": "Argentina Liverspread | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8150620/3697c7e2e4d7dbe508ac2e741795b935",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800332",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_liverspread_85g/p/8150620"
+    },
+    {
+      "id": "1564405684702504581",
+      "store_id": "2052",
+      "like_code": "63356",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱22.00",
+      "unit_price": 22.0,
+      "popularity": 1099,
+      "upc": "74848580149",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485801490",
+      "reference_ids": [
+        "00748485801490"
+      ],
+      "name": "Argentina Meat Loaf | 150g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504581/bca9abd44f6e5afb307e99995a07063a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485801490",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_meat_loaf_150g/p/1564405684702504581"
+    },
+    {
+      "id": "1564405684706793743",
+      "store_id": "2052",
+      "like_code": "3614",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "3 for ₱69.75",
+      "unit_price": 23.25,
+      "popularity": 15,
+      "quantity_step": 3.0,
+      "upc": "74848580023",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800233",
+      "reference_ids": [
+        "00748485800233"
+      ],
+      "name": "Argentina Meat Loaf | 170g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684706793743/9381553c66a0400542c72825ce94fb35",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800233",
+      "quantity_initial": 3.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_meat_loaf_170g/p/1564405684706793743"
+    },
+    {
+      "id": "1564405684702504558",
+      "store_id": "2052",
+      "like_code": "3620",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "4 for ₱130.00",
+      "unit_price": 32.5,
+      "popularity": 15,
+      "quantity_step": 4.0,
+      "upc": "748485800448",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07484858004480",
+      "reference_ids": [
+        "07484858004480",
+        "00748485800448"
+      ],
+      "name": "Argentina Meat Loaf | 250g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504558/f1d9ea0f554f3798305fbbd4260e6bc5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07484858004480",
+      "quantity_initial": 4.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_meat_loaf_250g/p/1564405684702504558"
+    },
+    {
+      "id": "1564405684711739805",
+      "store_id": "2052",
+      "like_code": "353640",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 1977,
+      "upc": "74848560222",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485602226",
+      "reference_ids": [
+        "00748485602226"
+      ],
+      "name": "Argentina Pork Sisig | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711739805/72d2c9ade4dfbbb179bd2dca4f794e4c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485602226",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/argentina_pork_sisig_300g/p/1564405684711739805"
+    },
+    {
+      "id": "1564405684709318220",
+      "store_id": "2052",
+      "like_code": "338916",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱83.75",
+      "unit_price": 83.75,
+      "popularity": 4199,
+      "upc": "74848560195",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485601953",
+      "reference_ids": [
+        "00748485601953"
+      ],
+      "name": "Argentina Pork Tocino | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709318220/948cdac8c3e551df50687d1e593483b5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485601953",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/argentina_pork_tocino_220g/p/1564405684709318220"
+    },
+    {
+      "id": "1564405684711701956",
+      "store_id": "2052",
+      "like_code": "352643",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "2 for ₱80.00",
+      "unit_price": 40.0,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848580406",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485804064",
+      "reference_ids": [
+        "00748485804064"
+      ],
+      "name": "Argentina Ready to Use Giniling 1/4 Kilo | 250g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 4",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711701956/8c37e9d5aba98f73a3bb3c862a6f0b09",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485804064",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_ready_to_use_giniling_1_4_kilo_250g/p/1564405684711701956"
+    },
+    {
+      "id": "1564405684711701955",
+      "store_id": "2052",
+      "like_code": "352641",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 923,
+      "upc": "74848580405",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485804057",
+      "reference_ids": [
+        "00748485804057"
+      ],
+      "name": "Argentina Ready to Use Giniling 1 Guhit | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711701955/3a2d0f67a205ab4b7f5ad7752a688e1a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485804057",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/argentina_ready_to_use_giniling_1_guhit_100g/p/1564405684711701955"
+    },
+    {
+      "id": "1564405684709318221",
+      "store_id": "2052",
+      "like_code": "338913",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱76.50",
+      "unit_price": 76.5,
+      "popularity": 4918,
+      "upc": "74848560194",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485601946",
+      "reference_ids": [
+        "00748485601946"
+      ],
+      "name": "Argentina Skinless Longganisa | 230g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709318221/5e4dca7bf61c721023c6447a64079305",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485601946",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/argentina_skinless_longganisa_230g/p/1564405684709318221"
+    },
+    {
+      "id": "1564405684702504563",
+      "store_id": "2052",
+      "like_code": "144446",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 1497,
+      "upc": "74848580049",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485800493",
+      "reference_ids": [
+        "00748485800493"
+      ],
+      "name": "Argentina Vienna Sausage | 260g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504563/9bda59d51614f3bae41e651efbf1955c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485800493",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/argentina_vienna_sausage_260g/p/1564405684702504563"
+    },
+    {
+      "id": "1564405684702553571",
+      "store_id": "2052",
+      "like_code": "258525",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 3837,
+      "quantity_step": 1.0,
+      "upc": "490243067159",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430671590",
+      "reference_ids": [
+        "04902430671590"
+      ],
+      "name": "Ariel Detergent Liquid Downy Passion Refill | 715g",
+      "size": "pc",
+      "price_disclaimer": "SAVE 25",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553571/e7e4a18fe710df7b131402432b8c0ef0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430671590",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_detergent_liquid_downy_passion_refill_715g/p/1564405684702553571"
+    },
+    {
+      "id": "1564405684702553570",
+      "store_id": "2052",
+      "like_code": "258524",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 1392,
+      "quantity_step": 1.0,
+      "upc": "490243067156",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430671569",
+      "reference_ids": [
+        "04902430671569"
+      ],
+      "name": "Ariel Detergent Liquid Refill Sunrise Fresh | 730g",
+      "size": "pc",
+      "price_disclaimer": "SAVE 25",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553570/f8f93e0cef1175960eb629500fe838d7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430671569",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_detergent_liquid_refill_sunrise_fresh_730g/p/1564405684702553570"
+    },
+    {
+      "id": "1564405684702553223",
+      "store_id": "2052",
+      "like_code": "149729",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 4950,
+      "quantity_step": 1.0,
+      "upc": "490243047357",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473576",
+      "reference_ids": [
+        "04902430473576"
+      ],
+      "name": "Ariel Detergent Powder Antibac | 1.16kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 23",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553223/2adeb11cb7355133a3194bdce336dcb7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473576",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_antibac_1_16kg/p/1564405684702553223"
+    },
+    {
+      "id": "1564405684702553206",
+      "store_id": "2052",
+      "like_code": "149727",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 1961,
+      "upc": "490243046370",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430463706",
+      "reference_ids": [
+        "04902430463706"
+      ],
+      "name": "Ariel Detergent Powder Antibac | 54g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553206/c3b769cdf47330b91170eea856d56099",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430463706",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_antibac_54g_x_6s/p/1564405684702553206"
+    },
+    {
+      "id": "1564405684716221395",
+      "store_id": "2052",
+      "like_code": "418908",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱263.00",
+      "unit_price": 263.0,
+      "popularity": 6590,
+      "upc": "498717624784",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176247841",
+      "reference_ids": [
+        "04987176247841"
+      ],
+      "name": "Ariel Detergent Powder Clean and Bright | 1190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716221395/15da601fddd46ad5ea5c6900273c2091",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176247841",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_clean_and_bright_1190g/p/1564405684716221395"
+    },
+    {
+      "id": "1564405684716221391",
+      "store_id": "2052",
+      "like_code": "418910",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 1633,
+      "upc": "498717625579",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176255792",
+      "reference_ids": [
+        "04987176255792"
+      ],
+      "name": "Ariel Detergent Powder Clean and Bright | 66g 6+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716221391/b54c6c7bddabdc15736af8dbc4e1b4ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176255792",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_clean_and_bright_66g_6_1/p/1564405684716221391"
+    },
+    {
+      "id": "1564405684716221389",
+      "store_id": "2052",
+      "like_code": "418904",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 2309,
+      "upc": "498717624789",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176247896",
+      "reference_ids": [
+        "04987176247896"
+      ],
+      "name": "Ariel Detergent Powder Clean and Bright | 66g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716221389/7d9c1d7fe200fe7756ac1e2ef1a6bfab",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176247896",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_clean_and_bright_66g_x_6s/p/1564405684716221389"
+    },
+    {
+      "id": "1564405684716221397",
+      "store_id": "2052",
+      "like_code": "418913",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 6995,
+      "upc": "498717625651",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176256515",
+      "reference_ids": [
+        "04987176256515"
+      ],
+      "name": "Ariel Detergent Powder Clean and Bright Tripid | 90g 6+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716221397/550d37c4f0242e4253c4e0d4093d16c0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176256515",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_clean_and_bright_tripid_90g_6_1/p/1564405684716221397"
+    },
+    {
+      "id": "1564405684716221393",
+      "store_id": "2052",
+      "like_code": "418907",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 7051,
+      "upc": "498717624785",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176247858",
+      "reference_ids": [
+        "04987176247858"
+      ],
+      "name": "Ariel Detergent Powder Clean and Bright Tripid | 90g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716221393/7d5acb7c1b18c6dc9ef976db2ac30ad3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176247858",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_clean_and_bright_tripid_90g_x_6s/p/1564405684716221393"
+    },
+    {
+      "id": "1564405684702553882",
+      "store_id": "2052",
+      "like_code": "270124",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱87.00",
+      "unit_price": 87.0,
+      "popularity": 999999,
+      "upc": "490243076891",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430768917",
+      "reference_ids": [
+        "04902430768917"
+      ],
+      "name": "Ariel Detergent Powder Golden Bloom | 54g x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553882/26dbb407337a7887c3d1777b411dc639",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04902430768917",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_golden_bloom_54g_x_6_s/p/1564405684702553882"
+    },
+    {
+      "id": "1564405684704510319",
+      "store_id": "2052",
+      "like_code": "314879",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱1,289.00",
+      "unit_price": 1289.0,
+      "popularity": 6951,
+      "quantity_step": 1.0,
+      "upc": "490243064604",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430646048",
+      "reference_ids": [
+        "04902430646048"
+      ],
+      "name": "Ariel Detergent Powder Professional | 7.5kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 140",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704510319/a67aa42d4e358458abffc052f5dbfdcf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430646048",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_professional_7_5kg/p/1564405684704510319"
+    },
+    {
+      "id": "1564405684702553222",
+      "store_id": "2052",
+      "like_code": "149717",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 1430,
+      "quantity_step": 1.0,
+      "upc": "490243047352",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473521",
+      "reference_ids": [
+        "04902430473521"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 1.19kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 23",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553222/d30512178a43d94056f0c0148eeb5b5d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473521",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 39",
+        "sequence": 39,
+        "identifier": "7f1b7a69-d52a-4033-b315-9fa1b46e605d",
+        "id": "22356802"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_sunrise_fresh_1_19kg/p/1564405684702553222"
+    },
+    {
+      "id": "1564405684702553221",
+      "store_id": "2052",
+      "like_code": "149718",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱359.00",
+      "unit_price": 359.0,
+      "popularity": 5087,
+      "quantity_step": 1.0,
+      "upc": "490243047351",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473514",
+      "reference_ids": [
+        "04902430473514"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 1.81kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 39",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553221/c93a24ee4c1a467521aaa8e2861c7be9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473514",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_sunrise_fresh_1_81kg/p/1564405684702553221"
+    },
+    {
+      "id": "1564405684702553220",
+      "store_id": "2052",
+      "like_code": "149719",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱515.00",
+      "unit_price": 515.0,
+      "popularity": 3533,
+      "upc": "490243047350",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473507",
+      "reference_ids": [
+        "04902430473507"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 2.465kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702553220/121945eb2b04547a98fc49b131b7a542",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3721730953266084443",
+          "reference_id": "tpr_2052_04902430473507_438_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702553220"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3533,
+          "product_tag_ids": [
+            "217784",
+            "21946397",
+            "22356801",
+            "22459227",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22883837",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0015ccd5bcc12397b65dac75e82ce9ba",
+          "similarity_priority": 5,
+          "name": "Ariel Detergent Powder Sunrise Fresh | 2.465kg",
+          "sale_price": "₱438.00",
+          "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3721731734471981241",
+          "reference_id": "ad_2052_04902430473507_1_438_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702553220"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1767,
+          "product_tag_ids": [
+            "217784",
+            "21946397",
+            "22356801",
+            "22459227",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22883837",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "737c15204d10540af423b9eb0052c06e",
+          "similarity_priority": 6,
+          "name": "Ariel Detergent Powder Sunrise Fresh | 2.465kg",
+          "sale_price": "₱438.00",
+          "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱438.00",
+      "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3721730953266084443",
+        "reference_id": "tpr_2052_04902430473507_438_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702553220"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3533,
+        "product_tag_ids": [
+          "217784",
+          "21946397",
+          "22356801",
+          "22459227",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22883837",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0015ccd5bcc12397b65dac75e82ce9ba",
+        "similarity_priority": 5,
+        "name": "Ariel Detergent Powder Sunrise Fresh | 2.465kg",
+        "sale_price": "₱438.00",
+        "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 438.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱438.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473507",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_sunrise_fresh_2_465kg/p/1564405684702553220"
+    },
+    {
+      "id": "1564405684704285089",
+      "store_id": "2052",
+      "like_code": "307170",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱605.00",
+      "unit_price": 605.0,
+      "popularity": 4658,
+      "quantity_step": 1.0,
+      "upc": "490243084156",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430841566",
+      "reference_ids": [
+        "04902430841566"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 3.35kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 65",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704285089/37e2d02dde160694efd4bc185e918a16",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430841566",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_sunrise_fresh_3_35kg/p/1564405684704285089"
+    },
+    {
+      "id": "1564405684702553217",
+      "store_id": "2052",
+      "like_code": "149716",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱126.00",
+      "unit_price": 126.0,
+      "popularity": 4602,
+      "upc": "490243047349",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473491",
+      "reference_ids": [
+        "04902430473491"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 565g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553217/ff97281d3d0cd791f6ba2d72aa0401ee",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3721730952813099607",
+          "reference_id": "tpr_2052_04902430473491_107_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702553217"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4602,
+          "product_tag_ids": [
+            "217784",
+            "21946397",
+            "22356801",
+            "22459227",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "16e430cd8e23bb55360fdc3d4b235f03",
+          "similarity_priority": 5,
+          "name": "Ariel Detergent Powder Sunrise Fresh | 565g",
+          "sale_price": "₱107.00",
+          "sale_price_md": "**₱107.00** (09/15/25 - 09/30/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3721731734413260984",
+          "reference_id": "ad_2052_04902430473491_1_107_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702553217"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2301,
+          "product_tag_ids": [
+            "217784",
+            "21946397",
+            "22356801",
+            "22459227",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "fd68f4a66f6856ec957135a96ff836c5",
+          "similarity_priority": 6,
+          "name": "Ariel Detergent Powder Sunrise Fresh | 565g",
+          "sale_price": "₱107.00",
+          "sale_price_md": "**₱107.00** (09/15/25 - 09/30/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱107.00",
+      "sale_price_md": "**₱107.00** (09/15/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3721730952813099607",
+        "reference_id": "tpr_2052_04902430473491_107_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702553217"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4602,
+        "product_tag_ids": [
+          "217784",
+          "21946397",
+          "22356801",
+          "22459227",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "16e430cd8e23bb55360fdc3d4b235f03",
+        "similarity_priority": 5,
+        "name": "Ariel Detergent Powder Sunrise Fresh | 565g",
+        "sale_price": "₱107.00",
+        "sale_price_md": "**₱107.00** (09/15/25 - 09/30/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 107.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱107.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473491",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_sunrise_fresh_565g/p/1564405684702553217"
+    },
+    {
+      "id": "1564405684702553350",
+      "store_id": "2052",
+      "like_code": "161726",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 169,
+      "upc": "490243058316",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430583169",
+      "reference_ids": [
+        "04902430583169"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 58g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553350/d3a87e15d555ab2a3844a5c212fb6c46",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430583169",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_sunrise_fresh_58g_x_6s/p/1564405684702553350"
+    },
+    {
+      "id": "1564405684702553643",
+      "store_id": "2052",
+      "like_code": "218781",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 10000,
+      "upc": "490243070823",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430708234",
+      "reference_ids": [
+        "04902430708234",
+        "04902430691161",
+        "04902430708227"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 70g x 6s+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553643/deb0bea62faba21109c2a8aa8059cd75",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430708234",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_sunrise_fresh_70g_x_6s_1/p/1564405684702553643"
+    },
+    {
+      "id": "1564405684712978800",
+      "store_id": "2052",
+      "like_code": "367083",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 430,
+      "upc": "498717611683",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176116833",
+      "reference_ids": [
+        "04987176116833"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh | 90g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712978800/55a1d66e983d5c443639362e7968f64b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176116833",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_sunrise_fresh_90g_x_6s/p/1564405684712978800"
+    },
+    {
+      "id": "1564405684714500191",
+      "store_id": "2052",
+      "like_code": "379829",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 1152,
+      "upc": "498717612625",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176126252",
+      "reference_ids": [
+        "04987176126252"
+      ],
+      "name": "Ariel Detergent Powder Sunrise Fresh Tripid | 90g (BUY 6 GET 1 FREE)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714500191/9e708404440448ab4ad1c964d562da3d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176126252",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_sunrise_fresh_tripid_90g_buy_6_get_1_free/p/1564405684714500191"
+    },
+    {
+      "id": "1564405684702553224",
+      "store_id": "2052",
+      "like_code": "149724",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 3597,
+      "quantity_step": 1.0,
+      "upc": "490243047354",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473545",
+      "reference_ids": [
+        "04902430473545"
+      ],
+      "name": "Ariel Detergent Powder with Downy Floral Passion | 1.16kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 23",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553224/3ee3332378bfb1adeb078bc139b3f379",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473545",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_floral_passion_1_16kg/p/1564405684702553224"
+    }
+  ]
+}

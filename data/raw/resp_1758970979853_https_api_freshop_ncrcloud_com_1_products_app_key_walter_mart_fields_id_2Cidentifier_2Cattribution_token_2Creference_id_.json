@@ -1,0 +1,2008 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702556382",
+      "store_id": "2052",
+      "like_code": "6321",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱318.00",
+      "unit_price": 318.0,
+      "popularity": 8769,
+      "upc": "789802439507",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07898024395072",
+      "reference_ids": [
+        "07898024395072",
+        "08000500005026"
+      ],
+      "name": "Ferrero Rocher | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556382/21b09c6df4df1979351fc72bb780f863",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07898024395072",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_100g/p/1564405684702556382"
+    },
+    {
+      "id": "1564405684716297857",
+      "store_id": "2052",
+      "like_code": "414428",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱725.00",
+      "unit_price": 725.0,
+      "popularity": 999999,
+      "upc": "800050003223",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500032237",
+      "reference_ids": [
+        "08000500032237"
+      ],
+      "name": "Ferrero Rocher | 375g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716297857/c9eb84dd8f4d34f6b127152d21d695e4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08000500032237",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_375g/p/1564405684716297857"
+    },
+    {
+      "id": "1564405684702503267",
+      "store_id": "2052",
+      "like_code": "6318",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱81.50",
+      "unit_price": 81.5,
+      "popularity": 3874,
+      "upc": "8005027",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000080050278",
+      "reference_ids": [
+        "00000080050278",
+        "08000500010709"
+      ],
+      "name": "Ferrero Rocher | 3pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702503267/2c890aff331d73b1427ecc036446e749",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000080050278",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_3pcs/p/1564405684702503267"
+    },
+    {
+      "id": "1564405684702503268",
+      "store_id": "2052",
+      "like_code": "6320",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 3790,
+      "upc": "8013590",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000080135906",
+      "reference_ids": [
+        "00000080135906"
+      ],
+      "name": "Ferrero Rocher | 5pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702503268/7735f9e6cbae791711d532191f4318c6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000080135906",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_5pcs/p/1564405684702503268"
+    },
+    {
+      "id": "1564405684702556430",
+      "store_id": "2052",
+      "like_code": "6323",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱441.00",
+      "unit_price": 441.0,
+      "popularity": 7708,
+      "upc": "800050000378",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500003787",
+      "reference_ids": [
+        "08000500003787"
+      ],
+      "name": "Ferrero Rocher Chocolate | 16s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702556430/2e19f9be1f07f4fe527e7b2022c1cdc0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08000500003787",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_chocolate_16s/p/1564405684702556430"
+    },
+    {
+      "id": "1564405684702556431",
+      "store_id": "2052",
+      "like_code": "6325",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱741.00",
+      "unit_price": 741.0,
+      "popularity": 9609,
+      "upc": "800050000967",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500009673",
+      "reference_ids": [
+        "08000500009673",
+        "08000500045565"
+      ],
+      "name": "Ferrero Rocher Chocolate | 24pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702556431/3c93c7d5cfd08dac36991fc9eee6cf57",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08000500009673",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_chocolate_24pcs/p/1564405684702556431"
+    },
+    {
+      "id": "1564405684702556433",
+      "store_id": "2052",
+      "like_code": "251497",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱276.00",
+      "unit_price": 276.0,
+      "popularity": 5182,
+      "upc": "800050013317",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500133170",
+      "reference_ids": [
+        "08000500133170"
+      ],
+      "name": "Ferrero Rocher Chocolate | 8pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702556433/5d95d2175d61e4a369e1f57598ced420",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08000500133170",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/ferrero_rocher_chocolate_8pcs/p/1564405684702556433"
+    },
+    {
+      "id": "1764405684715222446",
+      "store_id": "2052",
+      "like_code": "359708",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱795.00",
+      "unit_price": 795.0,
+      "popularity": 999999,
+      "upc": "800050018072",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500180723",
+      "reference_ids": [
+        "08000500180723"
+      ],
+      "name": "Ferrero Rocher Chocolate T24 Collection | 259.2g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715222446/90af883dfbae9289f2b0b9f1b08d3c9f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08000500180723",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_chocolate_t24_collection_259_2g/p/1764405684715222446"
+    },
+    {
+      "id": "1564405684702556435",
+      "store_id": "2052",
+      "like_code": "177933",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱534.00",
+      "unit_price": 534.0,
+      "popularity": 10069,
+      "upc": "800050022767",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500227671",
+      "reference_ids": [
+        "08000500227671",
+        "08000500178652"
+      ],
+      "name": "Ferrero Rocher Collection | 162g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556435/ace2cabd9c3129c03c33658f7b3e2f64",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08000500227671",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/ferrero_rocher_collection_162g/p/1564405684702556435"
+    },
+    {
+      "id": "1764405684715345646",
+      "store_id": "2052",
+      "like_code": "446218",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱499.00",
+      "unit_price": 499.0,
+      "popularity": 999999,
+      "upc": "800050036353",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500363539",
+      "reference_ids": [
+        "08000500363539"
+      ],
+      "name": "Ferrero Rocher Ice Cream Stick 4x70ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08000500363539",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ferrero_rocher_ice_cream_stick_4x70ml/p/1764405684715345646"
+    },
+    {
+      "id": "1764405684715345640",
+      "store_id": "2052",
+      "like_code": "446221",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱499.00",
+      "unit_price": 499.0,
+      "popularity": 999999,
+      "upc": "800050040559",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08000500405598",
+      "reference_ids": [
+        "08000500405598"
+      ],
+      "name": "Ferrero Rondnoir Stick 4x70ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08000500405598",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ferrero_rondnoir_stick_4x70ml/p/1764405684715345640"
+    },
+    {
+      "id": "1564405684702536505",
+      "store_id": "2052",
+      "like_code": "8105",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 1427,
+      "upc": "480004034263",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040342636",
+      "reference_ids": [
+        "04800040342636"
+      ],
+      "name": "Fibisco Hiro Biscuits | 10pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536505/9c470550e7622f95fec258092d15b8d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040342636",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/fibisco_hiro_biscuits_10pcs/p/1564405684702536505"
+    },
+    {
+      "id": "1564405684702545123",
+      "store_id": "2052",
+      "like_code": "129287",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱21.25",
+      "unit_price": 21.25,
+      "popularity": 865,
+      "upc": "480601190002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806011900027",
+      "reference_ids": [
+        "04806011900027"
+      ],
+      "name": "Fidel Iodized Salt Coarse Sea Salt | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545123/640eac3b431e49b14fc953bbb11c11ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806011900027",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/fidel_iodized_salt_coarse_sea_salt_500g/p/1564405684702545123"
+    },
+    {
+      "id": "1564405684702545122",
+      "store_id": "2052",
+      "like_code": "129288",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 5469,
+      "upc": "480601190005",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806011900058",
+      "reference_ids": [
+        "04806011900058"
+      ],
+      "name": "Fidel Iodized Salt Refined Sea Salt | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545122/703708f24700796c52e63d504ab406de",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806011900058",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/fidel_iodized_salt_refined_sea_salt_500g/p/1564405684702545122"
+    },
+    {
+      "id": "1564405684702545124",
+      "store_id": "2052",
+      "like_code": "129286",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 6338,
+      "upc": "480601190026",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806011900263",
+      "reference_ids": [
+        "04806011900263"
+      ],
+      "name": "Fidel Iodized Salt Table Salt for Seasoning | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545124/f5ca429fb2d7f86912bdc5ec69bebdae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806011900263",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/fidel_iodized_salt_table_salt_for_seasoning_500g/p/1564405684702545124"
+    },
+    {
+      "id": "1564405684702537866",
+      "store_id": "2052",
+      "like_code": "162179",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 4799,
+      "upc": "480011006867",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110068671",
+      "reference_ids": [
+        "04800110068671"
+      ],
+      "name": "Fiesta 3-Cheese Spaghetti Sauce | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537866/75ab740b9d6f32cc3b82f754afba7085",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110068671",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/fiesta_3_cheese_spaghetti_sauce_900g/p/1564405684702537866"
+    },
+    {
+      "id": "1564405684702537837",
+      "store_id": "2052",
+      "like_code": "5437",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱87.00",
+      "unit_price": 87.0,
+      "popularity": 1909,
+      "upc": "480011006067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110060675",
+      "reference_ids": [
+        "04800110060675",
+        "04800110060637"
+      ],
+      "name": "Fiesta Elbow Macaroni | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537837/5a3544cdbe2430d5d9da7c57b4b62ae9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110060675",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/fiesta_elbow_macaroni_1kg/p/1564405684702537837"
+    },
+    {
+      "id": "1564405684702537839",
+      "store_id": "2052",
+      "like_code": "5432",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱45.50",
+      "unit_price": 45.5,
+      "popularity": 762,
+      "upc": "480011006066",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110060668",
+      "reference_ids": [
+        "04800110060668",
+        "04800110060644"
+      ],
+      "name": "Fiesta Elbow Macaroni | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537839/0a095c17fdb3df408062fb368bee03fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110060668",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/fiesta_elbow_macaroni_400g/p/1564405684702537839"
+    },
+    {
+      "id": "8191188",
+      "store_id": "2052",
+      "like_code": "50960",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 884,
+      "upc": "480011006072",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110060729",
+      "reference_ids": [
+        "04800110060729"
+      ],
+      "name": "Fiesta Firm Spaghetti | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "8191188/b483f1eab608a9158e66747378403169",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110060729",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/fiesta_firm_spaghetti_450g/p/8191188"
+    },
+    {
+      "id": "8189480",
+      "store_id": "2052",
+      "like_code": "5431",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 810,
+      "upc": "480011003340",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110033402",
+      "reference_ids": [
+        "04800110033402",
+        "04800110003016"
+      ],
+      "name": "Fiesta Firm Spaghetti | 800g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8189480/26d8f57f004d93b0b66c5ce4b5808366",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110033402",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/fiesta_firm_spaghetti_800g/p/8189480"
+    },
+    {
+      "id": "1564405684702537846",
+      "store_id": "2052",
+      "like_code": "141485",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱45.50",
+      "unit_price": 45.5,
+      "popularity": 5608,
+      "upc": "480011006084",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110060842",
+      "reference_ids": [
+        "04800110060842"
+      ],
+      "name": "Fiesta Macaroni Salad | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537846/a55afbdb206d25ab5aaf20333c25b3a7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110060842",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/fiesta_macaroni_salad_400g/p/1564405684702537846"
+    },
+    {
+      "id": "1564405684702537844",
+      "store_id": "2052",
+      "like_code": "138072",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱74.50",
+      "unit_price": 74.5,
+      "popularity": 6822,
+      "upc": "480011006100",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110061009",
+      "reference_ids": [
+        "04800110061009"
+      ],
+      "name": "Fiesta Small Sweet Spaghettipid | 850g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537844/d7245b7b9eb91edcda30eb2fff6ed9ea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110061009",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/fiesta_small_sweet_spaghettipid_850g/p/1564405684702537844"
+    },
+    {
+      "id": "8195310",
+      "store_id": "2052",
+      "like_code": "138381",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 6573,
+      "upc": "480011006612",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110066127",
+      "reference_ids": [
+        "04800110066127"
+      ],
+      "name": "Fiesta Sweet Spaghetti Sauce | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "8195310/9ceafb1e9c2e08b383d8290bd31a38ad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110066127",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/fiesta_sweet_spaghetti_sauce_900g/p/8195310"
+    },
+    {
+      "id": "1564405684712891044",
+      "store_id": "2052",
+      "like_code": "348753",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487530",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034875306",
+      "reference_ids": [
+        "02000034875306"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Aqua | Size 10",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891044/c3eddbde16564408eebaa1ddbe10673b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034875306",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_aqua_size_10/p/1564405684712891044"
+    },
+    {
+      "id": "1564405684712891049",
+      "store_id": "2052",
+      "like_code": "348749",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487490",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874903",
+      "reference_ids": [
+        "02000034874903"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Aqua | Size 6",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891049/9601d3b7e35d8975256c84ae831651a9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874903",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_aqua_size_6/p/1564405684712891049"
+    },
+    {
+      "id": "1564405684712891055",
+      "store_id": "2052",
+      "like_code": "348750",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487500",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034875009",
+      "reference_ids": [
+        "02000034875009"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Aqua | Size 7",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891055/c7b3ec14ca65225776f96b46a1182df1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034875009",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_aqua_size_7/p/1564405684712891055"
+    },
+    {
+      "id": "1564405684712891053",
+      "store_id": "2052",
+      "like_code": "348751",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034875108",
+      "reference_ids": [
+        "02000034875108"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Aqua | Size 8",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891053/f2dcd1d367ec822a9d6deaab6fb284fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034875108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_aqua_size_8/p/1564405684712891053"
+    },
+    {
+      "id": "1564405684712891042",
+      "store_id": "2052",
+      "like_code": "348752",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487520",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034875207",
+      "reference_ids": [
+        "02000034875207"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Aqua | Size 9",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891042/3d1a6666c1d3f198a84684636972d945",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034875207",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_aqua_size_9/p/1564405684712891042"
+    },
+    {
+      "id": "1564405684712891050",
+      "store_id": "2052",
+      "like_code": "348748",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487480",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874804",
+      "reference_ids": [
+        "02000034874804"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Pink | Size 10",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891050/ef69e65c4a28c4a9a635b783276e6ce2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874804",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_pink_size_10/p/1564405684712891050"
+    },
+    {
+      "id": "1564405684712891047",
+      "store_id": "2052",
+      "like_code": "348744",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487440",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874408",
+      "reference_ids": [
+        "02000034874408"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Pink | Size 6",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891047/322c5377a80954eeed57bbfb2252cff6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874408",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_pink_size_6/p/1564405684712891047"
+    },
+    {
+      "id": "1564405684712891051",
+      "store_id": "2052",
+      "like_code": "348745",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487450",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874507",
+      "reference_ids": [
+        "02000034874507"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Pink | Size 7",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891051/30894771ff53f19e54a1dd462f13471c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874507",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_pink_size_7/p/1564405684712891051"
+    },
+    {
+      "id": "1564405684712891052",
+      "store_id": "2052",
+      "like_code": "348746",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487460",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874606",
+      "reference_ids": [
+        "02000034874606"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Pink | Size 8",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891052/ca1767679325d77596aa6da65e379ecb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874606",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_pink_size_8/p/1564405684712891052"
+    },
+    {
+      "id": "1564405684712891048",
+      "store_id": "2052",
+      "like_code": "348747",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487470",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874705",
+      "reference_ids": [
+        "02000034874705"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Pink | Size 9",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891048/69ac8a294e2c73a0dc23f248564e10e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874705",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_pink_size_9/p/1564405684712891048"
+    },
+    {
+      "id": "1564405684712891041",
+      "store_id": "2052",
+      "like_code": "348743",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487430",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874309",
+      "reference_ids": [
+        "02000034874309"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Red | Size 10",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891041/e3d19e090bf377087ba1827a72013aa5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874309",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_red_size_10/p/1564405684712891041"
+    },
+    {
+      "id": "1564405684712891038",
+      "store_id": "2052",
+      "like_code": "348740",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487400",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874002",
+      "reference_ids": [
+        "02000034874002"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Red | Size 7",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891038/9174c45d4b81e633616ed2a8c9aa038d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_red_size_7/p/1564405684712891038"
+    },
+    {
+      "id": "1564405684712891039",
+      "store_id": "2052",
+      "like_code": "348741",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487410",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874101",
+      "reference_ids": [
+        "02000034874101"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Red | Size 8",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891039/bdab43f29a7337c6578543a0a9fa2913",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_red_size_8/p/1564405684712891039"
+    },
+    {
+      "id": "1564405684712891040",
+      "store_id": "2052",
+      "like_code": "348742",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487420",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034874200",
+      "reference_ids": [
+        "02000034874200"
+      ],
+      "name": "FILA Ladies' Gelato Slides | Red | Size 9",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891040/7d60063effb17821b0a1c9633ba35a4c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034874200",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_red_size_9/p/1564405684712891040"
+    },
+    {
+      "id": "1564405684712891054",
+      "store_id": "2052",
+      "like_code": "353270",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱999.00",
+      "unit_price": 999.0,
+      "popularity": 999999,
+      "upc": "200003532700",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035327002",
+      "reference_ids": [
+        "02000035327002"
+      ],
+      "name": "FILA Ladies' Gelato Slides Steps | Navy",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891054/75c1d3aee3f928097eb8bfa5d530ab41",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035327002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_steps_navy/p/1564405684712891054"
+    },
+    {
+      "id": "1564405684712891045",
+      "store_id": "2052",
+      "like_code": "353268",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱999.00",
+      "unit_price": 999.0,
+      "popularity": 999999,
+      "upc": "200003532680",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035326807",
+      "reference_ids": [
+        "02000035326807"
+      ],
+      "name": "FILA Ladies' Gelato Slides Tonic | Gray",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891045/20afe36af5fde23525b8cbba78cce323",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035326807",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_ladies_gelato_slides_tonic_gray/p/1564405684712891045"
+    },
+    {
+      "id": "1564405684712891036",
+      "store_id": "2052",
+      "like_code": "348736",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487360",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034873609",
+      "reference_ids": [
+        "02000034873609"
+      ],
+      "name": "FILA Men's Gelato Slides | Black | Size 10",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891036/c9d23688388dea3e32fa705a8439b8df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034873609",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_black_size_10/p/1564405684712891036"
+    },
+    {
+      "id": "1564405684712891037",
+      "store_id": "2052",
+      "like_code": "348737",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487370",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034873708",
+      "reference_ids": [
+        "02000034873708"
+      ],
+      "name": "FILA Men's Gelato Slides | Black | Size 11",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891037/69f8850d54ab1f07a6b21af0d1c373cb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034873708",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_black_size_11/p/1564405684712891037"
+    },
+    {
+      "id": "1564405684712891033",
+      "store_id": "2052",
+      "like_code": "348733",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487330",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034873302",
+      "reference_ids": [
+        "02000034873302"
+      ],
+      "name": "FILA Men's Gelato Slides | Black | Size 7",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891033/0968f588a651964fc4c0b6c27a5b95b9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034873302",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_black_size_7/p/1564405684712891033"
+    },
+    {
+      "id": "1564405684712891034",
+      "store_id": "2052",
+      "like_code": "348734",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487340",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034873401",
+      "reference_ids": [
+        "02000034873401"
+      ],
+      "name": "FILA Men's Gelato Slides | Black | Size 8",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891034/07f4505f127e553edc9973964cd686f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034873401",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_black_size_8/p/1564405684712891034"
+    },
+    {
+      "id": "1564405684712891035",
+      "store_id": "2052",
+      "like_code": "348735",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487350",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034873500",
+      "reference_ids": [
+        "02000034873500"
+      ],
+      "name": "FILA Men's Gelato Slides | Black | Size 9",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891035/f70a67c5a7cd19c1af3fb52625014cb8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034873500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_black_size_9/p/1564405684712891035"
+    },
+    {
+      "id": "1564405684712891026",
+      "store_id": "2052",
+      "like_code": "348724",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487240",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872404",
+      "reference_ids": [
+        "02000034872404"
+      ],
+      "name": "FILA Men's Gelato Slides | Navy Blue | Size 10",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891026/e1e1531202fd7f27a52ef4b645b7bd4a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872404",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_navy_blue_size_10/p/1564405684712891026"
+    },
+    {
+      "id": "1564405684712891027",
+      "store_id": "2052",
+      "like_code": "348725",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487250",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872503",
+      "reference_ids": [
+        "02000034872503"
+      ],
+      "name": "FILA Men's Gelato Slides | Navy Blue | Size 11",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891027/5d7ca2f8e637b658abbadf03ed327d2e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872503",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_navy_blue_size_11/p/1564405684712891027"
+    },
+    {
+      "id": "1564405684712891025",
+      "store_id": "2052",
+      "like_code": "348726",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487260",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872602",
+      "reference_ids": [
+        "02000034872602"
+      ],
+      "name": "FILA Men's Gelato Slides | Navy Blue | Size 12",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891025/db0758bfcb98a38b5f4e7167942a60d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872602",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_navy_blue_size_12/p/1564405684712891025"
+    },
+    {
+      "id": "1564405684712891028",
+      "store_id": "2052",
+      "like_code": "348723",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487230",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872305",
+      "reference_ids": [
+        "02000034872305"
+      ],
+      "name": "FILA Men's Gelato Slides | Navy Blue | Size 9",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891028/6fa5d26bd04e9910d7f5b8e195bff139",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872305",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_navy_blue_size_9/p/1564405684712891028"
+    }
+  ]
+}

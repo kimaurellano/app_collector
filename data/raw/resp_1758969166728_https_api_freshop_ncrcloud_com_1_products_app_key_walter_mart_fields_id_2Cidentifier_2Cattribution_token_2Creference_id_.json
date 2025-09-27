@@ -1,0 +1,2275 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684705548951",
+      "store_id": "2052",
+      "like_code": "332810",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱228.00",
+      "unit_price": 228.0,
+      "popularity": 999999,
+      "upc": "480651069005",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510690054",
+      "reference_ids": [
+        "04806510690054",
+        "04806510690344"
+      ],
+      "name": "Cherifer Forte Syrup | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705548951/d1f85e5eab958fb6acd894efd3f211b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510690054",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/cherifer_forte_syrup_120ml/p/1564405684705548951"
+    },
+    {
+      "id": "1564405684705548948",
+      "store_id": "2052",
+      "like_code": "332813",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 9771,
+      "upc": "480651069003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510690030",
+      "reference_ids": [
+        "04806510690030"
+      ],
+      "name": "Cherifer Syrup | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705548948/602db54d2e3e360ad3370f8ab66df729",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510690030",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/cherifer_syrup_120ml/p/1564405684705548948"
+    },
+    {
+      "id": "1564405684705548950",
+      "store_id": "2052",
+      "like_code": "332812",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱203.00",
+      "unit_price": 203.0,
+      "popularity": 8915,
+      "upc": "480651069025",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510690252",
+      "reference_ids": [
+        "04806510690252"
+      ],
+      "name": "Cherifer with Zinc Syrup | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705548950/f3d518d344786cf4c1f6fd62d588744f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510690252",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/cherifer_with_zinc_syrup_120ml/p/1564405684705548950"
+    },
+    {
+      "id": "1564405684713527632",
+      "store_id": "2052",
+      "like_code": "336962",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003369620",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033696209",
+      "reference_ids": [
+        "02000033696209"
+      ],
+      "name": "Chess Set | Medium",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000033696209",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chess_set_medium/p/1564405684713527632"
+    },
+    {
+      "id": "1564405684702536878",
+      "store_id": "2052",
+      "like_code": "111223",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 4957,
+      "upc": "480005615101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800056151017",
+      "reference_ids": [
+        "04800056151017"
+      ],
+      "name": "Che Vital Quickmelt Cheese | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536878/b03e77607006991e68fb03e4d82f722e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800056151017",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/che_vital_quickmelt_cheese_200g/p/1564405684702536878"
+    },
+    {
+      "id": "1564405684702503337",
+      "store_id": "2052",
+      "like_code": "3973",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱225.00",
+      "unit_price": 225.0,
+      "popularity": 9571,
+      "upc": "480005615102",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800056151024",
+      "reference_ids": [
+        "04800056151024",
+        "00004800056151"
+      ],
+      "name": "Che Vital Quickmelt Cheese | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503337/5e20bbb9e790a7da36721d4efc635034",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800056151024",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/che_vital_quickmelt_cheese_500g/p/1564405684702503337"
+    },
+    {
+      "id": "1564405684715387491",
+      "store_id": "2052",
+      "like_code": "406348",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 999999,
+      "upc": "1600015840",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00016000158405",
+      "reference_ids": [
+        "00016000158405"
+      ],
+      "name": "Chex Mix Cheddar Snack Mix | 8.75oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715387491/8de71161081c190aaa8a14993fb8f892",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00016000158405",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chex_mix_cheddar_snack_mix_8_75oz/p/1564405684715387491"
+    },
+    {
+      "id": "1564405684702504017",
+      "store_id": "2052",
+      "like_code": "93578",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱310.00",
+      "unit_price": 310.0,
+      "popularity": 8283,
+      "upc": "9292132511",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00092921325119",
+      "reference_ids": [
+        "00092921325119"
+      ],
+      "name": "Chianti Parmesan Shaker Cheese | 227g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504017/7df3941517cf8159e71063dc0e8b5609",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00092921325119",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/chianti_parmesan_shaker_cheese_227g/p/1564405684702504017"
+    },
+    {
+      "id": "8195199",
+      "store_id": "2052",
+      "like_code": "135632",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 667,
+      "upc": "480001611052",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016110528",
+      "reference_ids": [
+        "04800016110528"
+      ],
+      "name": "Chicharron ni Mang Juan Espesyal Suka't Sili | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195199/c182e78f83098a2f5d9aafa80f013f9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016110528",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chicharron_ni_mang_juan_espesyal_suka_t_sili_90g/p/8195199"
+    },
+    {
+      "id": "8195198",
+      "store_id": "2052",
+      "like_code": "135631",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 973,
+      "upc": "480001611051",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016110511",
+      "reference_ids": [
+        "04800016110511"
+      ],
+      "name": "Chicharron ni Mang Juan Sukang Paombong | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195198/98246c0ed40c0ce687615fc5df95565f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016110511",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chicharron_ni_mang_juan_sukang_paombong_90g/p/8195198"
+    },
+    {
+      "id": "1564405684702547021",
+      "store_id": "2052",
+      "like_code": "258233",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱20.25",
+      "unit_price": 20.25,
+      "popularity": 1581,
+      "upc": "480650585442",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806505854423",
+      "reference_ids": [
+        "04806505854423"
+      ],
+      "name": "Chick Boy California Crunch Onion & Garlic | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547021/bf172c8cceecef42e4c7b76453854e85",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806505854423",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chick_boy_california_crunch_onion_garlic_100g/p/1564405684702547021"
+    },
+    {
+      "id": "1564405684702547018",
+      "store_id": "2052",
+      "like_code": "167792",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱7.00",
+      "unit_price": 7.0,
+      "popularity": 2322,
+      "upc": "480650585416",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806505854164",
+      "reference_ids": [
+        "04806505854164"
+      ],
+      "name": "Chick Boy Pop-nik Cheese | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547018/6c0689576629df2864d77db4d9e0504c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806505854164",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/chick_boy_pop_nik_cheese_25g/p/1564405684702547018"
+    },
+    {
+      "id": "1564405684702535787",
+      "store_id": "2052",
+      "like_code": "233160",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱22.00",
+      "unit_price": 22.0,
+      "popularity": 895,
+      "upc": "480001611525",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016115257",
+      "reference_ids": [
+        "04800016115257"
+      ],
+      "name": "Chik'n Skin ni Mang Juan | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535787/fe29a086bf4efbc395d4b7a599f6880e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016115257",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chik_n_skin_ni_mang_juan_70g/p/1564405684702535787"
+    },
+    {
+      "id": "1564405684711917304",
+      "store_id": "2052",
+      "like_code": "335388",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200003353880",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033538806",
+      "reference_ids": [
+        "02000033538806"
+      ],
+      "name": "Children's Baseball Cap | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917304/b41beb2a7315f53298226babefcea13d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033538806",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/children_s_baseball_cap_assorted_colors/p/1564405684711917304"
+    },
+    {
+      "id": "1564405684711917290",
+      "store_id": "2052",
+      "like_code": "326729",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 999999,
+      "upc": "200003267290",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032672907",
+      "reference_ids": [
+        "02000032672907"
+      ],
+      "name": "Childrens Cap Rainbow | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917290/85d070a7e17f57f83c21152668d46944",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032672907",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/childrens_cap_rainbow_assorted_colors/p/1564405684711917290"
+    },
+    {
+      "id": "1564405684711917309",
+      "store_id": "2052",
+      "like_code": "335397",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 999999,
+      "upc": "200003353970",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033539704",
+      "reference_ids": [
+        "02000033539704"
+      ],
+      "name": "Children's Cap Shark Design | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917309/de35d0e9e96272c4e885f774874866d9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033539704",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/children_s_cap_shark_design_assorted_colors/p/1564405684711917309"
+    },
+    {
+      "id": "1564405684711917301",
+      "store_id": "2052",
+      "like_code": "335383",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 999999,
+      "upc": "200003353830",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033538301",
+      "reference_ids": [
+        "02000033538301"
+      ],
+      "name": "Children's Printed Bucket Hat | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917301/fc05b1391396967474bca5ff0b2273d9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033538301",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/children_s_printed_bucket_hat_assorted_colors/p/1564405684711917301"
+    },
+    {
+      "id": "1564405684711917300",
+      "store_id": "2052",
+      "like_code": "335385",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200003353850",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033538509",
+      "reference_ids": [
+        "02000033538509"
+      ],
+      "name": "Children's Printed Cap | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917300/68b6c2870606df64ee716eada90b2962",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033538509",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/children_s_printed_cap_assorted_colors/p/1564405684711917300"
+    },
+    {
+      "id": "1564405684711917277",
+      "store_id": "2052",
+      "like_code": "287039",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200002870390",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000028703905",
+      "reference_ids": [
+        "02000028703905"
+      ],
+      "name": "Childrens School Socks | Pack of 3's | White | 18-20",
+      "size": "pack",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917277/5065dd6a6d31f119fae5df1918824c45",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000028703905",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/childrens_school_socks_pack_of_3_s_white_18_20/p/1564405684711917277"
+    },
+    {
+      "id": "1564405684702554938",
+      "store_id": "2052",
+      "like_code": "164510",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱190.00",
+      "unit_price": 190.0,
+      "popularity": 999999,
+      "upc": "541090800003",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "05410908000036",
+      "reference_ids": [
+        "05410908000036"
+      ],
+      "name": "Chimay Beer Blue | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554938/df62d3a8993e6b784e2f6c509c0d3280",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05410908000036",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/chimay_beer_blue_330ml/p/1564405684702554938"
+    },
+    {
+      "id": "1564405684702554936",
+      "store_id": "2052",
+      "like_code": "164512",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "upc": "541090800002",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "05410908000029",
+      "reference_ids": [
+        "05410908000029"
+      ],
+      "name": "Chimay Beer White | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554936/4444993e57d925cd7663f38e26d73c2c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05410908000029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/chimay_beer_white_330ml/p/1564405684702554936"
+    },
+    {
+      "id": "1564405684702554937",
+      "store_id": "2052",
+      "like_code": "164511",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 999999,
+      "upc": "541090800001",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "05410908000012",
+      "reference_ids": [
+        "05410908000012"
+      ],
+      "name": "Chimay Red Beer | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554937/7c3617b84bbb0a26e0ed76af5180e952",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05410908000012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/chimay_red_beer_330ml/p/1564405684702554937"
+    },
+    {
+      "id": "1764405684714927814",
+      "store_id": "2052",
+      "like_code": "427316",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱82.00",
+      "unit_price": 82.0,
+      "popularity": 999999,
+      "upc": "471048705156",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04710487051568",
+      "reference_ids": [
+        "04710487051568"
+      ],
+      "name": "Chin Chin Almond Jelly | 19oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714927814/5858c3d0553d28648dea90f939723424",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04710487051568",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chin_chin_almond_jelly_19oz/p/1764405684714927814"
+    },
+    {
+      "id": "1764405684714993058",
+      "store_id": "2052",
+      "like_code": "434104",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 3968,
+      "upc": "480166860974",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801668609743",
+      "reference_ids": [
+        "04801668609743"
+      ],
+      "name": "Chingu Cafe Green Grape Ade Juice | 190ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714993058/7e14e7618f452cc5741a32b8b7d145db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801668609743",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/chingu_cafe_green_grape_ade_juice_190ml/p/1764405684714993058"
+    },
+    {
+      "id": "1764405684715494098",
+      "store_id": "2052",
+      "like_code": "435510",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 8357,
+      "upc": "480166860972",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801668609729",
+      "reference_ids": [
+        "04801668609729"
+      ],
+      "name": "Chingu Cafe Matcha Latte | 190ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715494098/2890827acf5c30a2a47f2618441d9fbf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801668609729",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chingu_cafe_matcha_latte_190ml/p/1764405684715494098"
+    },
+    {
+      "id": "1764405684714993060",
+      "store_id": "2052",
+      "like_code": "434103",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 2047,
+      "upc": "480166860976",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801668609767",
+      "reference_ids": [
+        "04801668609767"
+      ],
+      "name": "Chingu Cafe Strawberry Lemonade Juice | 190ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714993060/2321397fec1ced281d307519b2094c7a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801668609767",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/chingu_cafe_strawberry_lemonade_juice_190ml/p/1764405684714993060"
+    },
+    {
+      "id": "4852",
+      "store_id": "2052",
+      "like_code": "67548",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 999999,
+      "upc": "4400003223",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00044000032234",
+      "reference_ids": [
+        "00044000032234",
+        "00000004401100",
+        "00044000010607",
+        "00044000024505"
+      ],
+      "name": "Chips Ahoy! Chewy | 13oz",
+      "size": "13 oz",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00044000032234/864381bd99e05aba3e46c5517afc1370",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00044000032234",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/chips_ahoy_chewy_13oz/p/4852"
+    },
+    {
+      "id": "31908",
+      "store_id": "2052",
+      "like_code": "67546",
+      "department_id": [
+        "21884429"
+      ],
+      "price": "₱308.00",
+      "unit_price": 308.0,
+      "popularity": 999999,
+      "upc": "4400003219",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00044000032197",
+      "reference_ids": [
+        "00044000032197",
+        "00000004465904",
+        "00044000006594",
+        "00044000017965",
+        "00044000028503"
+      ],
+      "name": "Chips Ahoy! Original | 13oz",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00044000032197/51fafe311199f1b054ce8c199b64d793",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00044000032197",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/biscuits/chips_ahoy_original_13oz/p/31908"
+    },
+    {
+      "id": "1564405684702547227",
+      "store_id": "2052",
+      "like_code": "6943",
+      "department_id": [
+        "22207114"
+      ],
+      "price": "₱93.00",
+      "unit_price": 93.0,
+      "popularity": 6334,
+      "upc": "489304900041",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04893049000416",
+      "reference_ids": [
+        "04893049000416",
+        "04806507010520"
+      ],
+      "name": "Chips Ahoy! Original | 142.5g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702547227/b1d5cf959f57a232be6e1dcb95d7dfb7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04893049000416",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/chips-ahoy/chips_ahoy_original_142_5g/p/1564405684702547227"
+    },
+    {
+      "id": "3022",
+      "store_id": "2052",
+      "like_code": "255284",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱395.00",
+      "unit_price": 395.0,
+      "popularity": 999999,
+      "upc": "4400003338",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00044000033385",
+      "reference_ids": [
+        "00044000033385"
+      ],
+      "name": "Chips Ahoy! Original | 18.2oz",
+      "size": "18.2 oz",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00044000033385/49c586321a28e0767e3465b493e39361",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00044000033385",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/chips_ahoy_original_18_2oz/p/3022"
+    },
+    {
+      "id": "1564405684702547226",
+      "store_id": "2052",
+      "like_code": "6955",
+      "department_id": [
+        "22207114"
+      ],
+      "price": "₱162.00",
+      "unit_price": 162.0,
+      "popularity": 12,
+      "upc": "489304900042",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04893049000423",
+      "reference_ids": [
+        "04893049000423",
+        "04806507010513"
+      ],
+      "name": "Chips Ahoy! Original | 266g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702547226/3dde59e3a6bce4862cce8d5b61a2e087",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04893049000423",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/chips-ahoy/chips_ahoy_original_266g/p/1564405684702547226"
+    },
+    {
+      "id": "1564405684702552618",
+      "store_id": "2052",
+      "like_code": "6923",
+      "department_id": [
+        "22207114"
+      ],
+      "price": "₱25.50",
+      "unit_price": 25.5,
+      "popularity": 1026,
+      "upc": "489304900043",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04893049000430",
+      "reference_ids": [
+        "04893049000430"
+      ],
+      "name": "Chips Ahoy! Original | 38g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552618/ffdbc5f43dc48f9062906beb981e1353",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04893049000430",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/chips-ahoy/chips_ahoy_original_38g/p/1564405684702552618"
+    },
+    {
+      "id": "1564405684702555256",
+      "store_id": "2052",
+      "like_code": "7034",
+      "department_id": [
+        "22207114"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 4381,
+      "upc": "690166806209",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06901668062093",
+      "reference_ids": [
+        "06901668062093"
+      ],
+      "name": "Chips Ahoy! Original | 85.5g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702555256/ebfbe55d71143bcd5ccfeff47f758368",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06901668062093",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/chips-ahoy/chips_ahoy_original_85_5g/p/1564405684702555256"
+    },
+    {
+      "id": "1564405684702541652",
+      "store_id": "2052",
+      "like_code": "255674",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 9632,
+      "upc": "480055288812",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800552888127",
+      "reference_ids": [
+        "04800552888127"
+      ],
+      "name": "Chips Delight Assorted Cookies | 445g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541652/cec564db245b68a7452b83dcc96ff690",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888127",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_assorted_cookies_445g/p/1564405684702541652"
+    },
+    {
+      "id": "1564405684702541645",
+      "store_id": "2052",
+      "like_code": "31350",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 3895,
+      "upc": "480055288800",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888004",
+      "reference_ids": [
+        "04800552888004"
+      ],
+      "name": "Chips Delight Chocolate Chip Cookies | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800552888004/8a571a1d5aa0039985965ff13da0a8ad",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3684041960496052746",
+          "reference_id": "tpr_2052_04800552888004_68_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702541645"
+          ],
+          "start_date": "2025-07-25T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3750,
+          "product_tag_ids": [
+            "22356776",
+            "22459148",
+            "22475760",
+            "22634468",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c94ddb5a0aa7d08cab45258b2b0bf881",
+          "similarity_priority": 5,
+          "name": "Chips Delight Chocolate Chip Cookies | 200g",
+          "sale_price": "₱68.00",
+          "sale_price_md": "**₱68.00** (07/25/25 - 10/15/25)",
+          "display_start_date": "2025-07-25",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3684042524286007430",
+          "reference_id": "ad_2052_04800552888004_1_68_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702541645"
+          ],
+          "start_date": "2025-07-25T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1875,
+          "product_tag_ids": [
+            "22356776",
+            "22459148",
+            "22475760",
+            "22634468",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "45f1e8efc62d97bbaf57ebc7845809a0",
+          "similarity_priority": 6,
+          "name": "Chips Delight Chocolate Chip Cookies | 200g",
+          "sale_price": "₱68.00",
+          "sale_price_md": "**₱68.00** (07/25/25 - 10/15/25)",
+          "display_start_date": "2025-07-25",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-07-25",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱68.00",
+      "sale_price_md": "**₱68.00** (07/25/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3684041960496052746",
+        "reference_id": "tpr_2052_04800552888004_68_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702541645"
+        ],
+        "start_date": "2025-07-25T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3750,
+        "product_tag_ids": [
+          "22356776",
+          "22459148",
+          "22475760",
+          "22634468",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c94ddb5a0aa7d08cab45258b2b0bf881",
+        "similarity_priority": 5,
+        "name": "Chips Delight Chocolate Chip Cookies | 200g",
+        "sale_price": "₱68.00",
+        "sale_price_md": "**₱68.00** (07/25/25 - 10/15/25)",
+        "display_start_date": "2025-07-25",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 68.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱68.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_chocolate_chip_cookies_200g/p/1564405684702541645"
+    },
+    {
+      "id": "1564405684702541647",
+      "store_id": "2052",
+      "like_code": "31355",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱16.00",
+      "unit_price": 16.0,
+      "popularity": 1987,
+      "upc": "480055288801",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888011",
+      "reference_ids": [
+        "04800552888011"
+      ],
+      "name": "Chips Delight Chocolate Chip Cookies | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541647/bdd7347f11ce0b34bea0b1e65b78731b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_chocolate_chip_cookies_40g/p/1564405684702541647"
+    },
+    {
+      "id": "1564405684702541648",
+      "store_id": "2052",
+      "like_code": "250183",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 7243,
+      "upc": "480055288811",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888110",
+      "reference_ids": [
+        "04800552888110"
+      ],
+      "name": "Chips Delight Chocolate Chip Cookies | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541648/2f42c55726b4e40ade44a37f3b080393",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888110",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_chocolate_chip_cookies_600g/p/1564405684702541648"
+    },
+    {
+      "id": "1564405684702541650",
+      "store_id": "2052",
+      "like_code": "31351",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱31.00",
+      "unit_price": 31.0,
+      "popularity": 2003,
+      "upc": "480055288805",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888059",
+      "reference_ids": [
+        "04800552888059"
+      ],
+      "name": "Chips Delight Chocolate Chip Cookies Snackpack | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800552888059/8ad59a125e3a8de4a16dd65671911cc2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888059",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_chocolate_chip_cookies_snackpack_80g/p/1564405684702541650"
+    },
+    {
+      "id": "1564405684702541649",
+      "store_id": "2052",
+      "like_code": "31352",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱56.00",
+      "unit_price": 56.0,
+      "popularity": 7311,
+      "upc": "480055288808",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888080",
+      "reference_ids": [
+        "04800552888080"
+      ],
+      "name": "Chips Delight Mini Chocolate Chip Cookies | 130g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541649/ed599685c040a4629c67b7fadee71f33",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888080",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_mini_chocolate_chip_cookies_130g/p/1564405684702541649"
+    },
+    {
+      "id": "1564405684702541646",
+      "store_id": "2052",
+      "like_code": "31356",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱15.00",
+      "unit_price": 15.0,
+      "popularity": 1211,
+      "upc": "480055288803",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888035",
+      "reference_ids": [
+        "04800552888035"
+      ],
+      "name": "Chips Delight Mini Chocolate Chip Cookies | 35g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800552888035/66685de201c28694ddf49613e6cf501e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888035",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_mini_chocolate_chip_cookies_35g/p/1564405684702541646"
+    },
+    {
+      "id": "1564405684702541656",
+      "store_id": "2052",
+      "like_code": "69844",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱8.50",
+      "unit_price": 8.5,
+      "popularity": 504,
+      "upc": "480055288861",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888615",
+      "reference_ids": [
+        "04800552888615",
+        "04800552888305"
+      ],
+      "name": "Chips Delight Rainbow Candy Cookies | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800552888615/e995f121da17a140cbfb93eb01e3e76d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888615",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_rainbow_candy_cookies_20g/p/1564405684702541656"
+    },
+    {
+      "id": "1564405684702541661",
+      "store_id": "2052",
+      "like_code": "69855",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱31.00",
+      "unit_price": 31.0,
+      "popularity": 3911,
+      "upc": "480055288860",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888608",
+      "reference_ids": [
+        "04800552888608"
+      ],
+      "name": "Chips Delight Rainbow Candy Cookies Snackpack | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541661/bb7ff4d99e93583dd6b246b523d67111",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888608",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_rainbow_candy_cookies_snackpack_80g/p/1564405684702541661"
+    },
+    {
+      "id": "1564405684716290593",
+      "store_id": "2052",
+      "like_code": "421114",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "upc": "480055255823",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552558235",
+      "reference_ids": [
+        "04800552558235"
+      ],
+      "name": "Chips Delight Snack Attack Assorted Cookies | 451g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716290593/3ac6467fd0653217a9fc476e5c003f8d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800552558235",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_delight_snack_attack_assorted_cookies_451g/p/1564405684716290593"
+    },
+    {
+      "id": "1564405684702541654",
+      "store_id": "2052",
+      "like_code": "31360",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 6791,
+      "upc": "480055288821",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888219",
+      "reference_ids": [
+        "04800552888219"
+      ],
+      "name": "Chips Delight Soft Brownie Cookies | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800552888219/6498c262a877793c4b444275ba05076b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888219",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_soft_brownie_cookies_200g/p/1564405684702541654"
+    },
+    {
+      "id": "1564405684702541653",
+      "store_id": "2052",
+      "like_code": "31359",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱78.00",
+      "unit_price": 78.0,
+      "popularity": 5922,
+      "upc": "480055288815",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888158",
+      "reference_ids": [
+        "04800552888158"
+      ],
+      "name": "Chips Delight Striped Chocolate Chips Cookies | 175g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541653/58cbd03401ab223e71af3197bea3b480",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888158",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_striped_chocolate_chips_cookies_175g/p/1564405684702541653"
+    },
+    {
+      "id": "1564405684702541651",
+      "store_id": "2052",
+      "like_code": "31357",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 5054,
+      "upc": "480055288810",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888103",
+      "reference_ids": [
+        "04800552888103"
+      ],
+      "name": "Chips Delight Striped Chocolate Chips Cookies | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541651/6beaa2fcaa6e299283cdd0bdb6c68668",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888103",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_striped_chocolate_chips_cookies_70g/p/1564405684702541651"
+    },
+    {
+      "id": "1564405684702541668",
+      "store_id": "2052",
+      "like_code": "236990",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 4441,
+      "upc": "480055288889",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800552888899",
+      "reference_ids": [
+        "04800552888899"
+      ],
+      "name": "Chips Delight Triple Choco Overload Cookies | 73g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541668/32e0292c362908a7c8826c3fdd73b0f3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800552888899",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chips_delight_triple_choco_overload_cookies_73g/p/1564405684702541668"
+    },
+    {
+      "id": "537891",
+      "store_id": "2052",
+      "like_code": "103541",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱1,275.00",
+      "unit_price": 1275.0,
+      "popularity": 3148,
+      "upc": "8043240293",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00080432402931",
+      "reference_ids": [
+        "00080432402931",
+        "00080432400395",
+        "01111199700097"
+      ],
+      "name": "Chivas Regal Blended Scotch Whisky | 750ml",
+      "size": "750 ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00080432400395/6173367c2230fd0f07f396b2839c431f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3603593094898923746",
+          "reference_id": "tpr_2052_00080432402931_1049_0",
+          "type_id": "1",
+          "product_ids": [
+            "537891"
+          ],
+          "start_date": "2025-08-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3148,
+          "product_tag_ids": [
+            "253505",
+            "1496197",
+            "22356782",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2057614c0c8cf9b0b45ae3a5f1006ab6",
+          "similarity_priority": 5,
+          "name": "Chivas Regal Blended Scotch Whisky | 750ml",
+          "sale_price": "₱1,049.00",
+          "sale_price_md": "**₱1,049.00** (08/01/25 - 09/30/25)",
+          "display_start_date": "2025-08-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3603593065815619682",
+          "reference_id": "ad_2052_00080432402931_1_1049_0",
+          "type_id": "2",
+          "product_ids": [
+            "537891"
+          ],
+          "start_date": "2025-08-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1574,
+          "product_tag_ids": [
+            "253505",
+            "1496197",
+            "22356782",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "acf533436203f31a0aabbdf3548a5586",
+          "similarity_priority": 6,
+          "name": "Chivas Regal Blended Scotch Whisky | 750ml",
+          "sale_price": "₱1,049.00",
+          "sale_price_md": "**₱1,049.00** (08/01/25 - 09/30/25)",
+          "display_start_date": "2025-08-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-08-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱1,049.00",
+      "sale_price_md": "**₱1,049.00** (08/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3603593094898923746",
+        "reference_id": "tpr_2052_00080432402931_1049_0",
+        "type_id": "1",
+        "product_ids": [
+          "537891"
+        ],
+        "start_date": "2025-08-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3148,
+        "product_tag_ids": [
+          "253505",
+          "1496197",
+          "22356782",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2057614c0c8cf9b0b45ae3a5f1006ab6",
+        "similarity_priority": 5,
+        "name": "Chivas Regal Blended Scotch Whisky | 750ml",
+        "sale_price": "₱1,049.00",
+        "sale_price_md": "**₱1,049.00** (08/01/25 - 09/30/25)",
+        "display_start_date": "2025-08-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 1049.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱1,049.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00080432402931",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/chivas_regal_blended_scotch_whisky_750ml/p/537891"
+    }
+  ]
+}

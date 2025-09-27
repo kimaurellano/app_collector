@@ -1,0 +1,2561 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702503278",
+      "store_id": "2052",
+      "like_code": "73924",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱135.00",
+      "unit_price": 135.0,
+      "popularity": 8741,
+      "upc": "8800822",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000088008226",
+      "reference_ids": [
+        "00000088008226"
+      ],
+      "name": "Arla Cheese Kid Sticks | 18g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503278/0079dc2947f9d1db74d176ca688f8700",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000088008226",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_cheese_kid_sticks_18g_x_6s/p/1564405684702503278"
+    },
+    {
+      "id": "1764405684715333430",
+      "store_id": "2052",
+      "like_code": "445340",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 7373,
+      "upc": "571195319051",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953190513",
+      "reference_ids": [
+        "05711953190513"
+      ],
+      "name": "Arla Cheesy Cheddar Spread | 140g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715333430/4db4491cd075a6f28df8c892dbfaf91b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953190513",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/arla_cheesy_cheddar_spread_140g/p/1764405684715333430"
+    },
+    {
+      "id": "1564405684702555043",
+      "store_id": "2052",
+      "like_code": "238951",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 1685,
+      "upc": "576046673809",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466738095",
+      "reference_ids": [
+        "05760466738095"
+      ],
+      "name": "Arla Cheesy Spread | 240g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702555043/49a019b76d8385d5b5e1bcc3caa8551d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466738095",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/arla_cheesy_spread_240g/p/1564405684702555043"
+    },
+    {
+      "id": "1564405684702555044",
+      "store_id": "2052",
+      "like_code": "166209",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱278.00",
+      "unit_price": 278.0,
+      "popularity": 7454,
+      "upc": "480065232495",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800652324952",
+      "reference_ids": [
+        "04800652324952",
+        "05760466738040"
+      ],
+      "name": "Arla Cheesy Spread | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555044/7fc80faec3041a15301926a898336737",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800652324952",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/arla_cheesy_spread_500g/p/1564405684702555044"
+    },
+    {
+      "id": "1564405684708556972",
+      "store_id": "2052",
+      "like_code": "338243",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 4706,
+      "upc": "628104810781",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06281048107812",
+      "reference_ids": [
+        "06281048107812"
+      ],
+      "name": "Arla Cheesy Spread Cheddar | 240g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708556972/2fa55abb3b1d3e1893597401bff0643f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06281048107812",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/arla_cheesy_spread_cheddar_240g/p/1564405684708556972"
+    },
+    {
+      "id": "1564405684708556970",
+      "store_id": "2052",
+      "like_code": "338242",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 5584,
+      "upc": "628104811081",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06281048110812",
+      "reference_ids": [
+        "06281048110812"
+      ],
+      "name": "Arla Cheesy Spread Light | 240g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708556970/b36714a4fa4511cdd5c3f85f228cafcb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06281048110812",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/arla_cheesy_spread_light_240g/p/1564405684708556970"
+    },
+    {
+      "id": "1764405684715365352",
+      "store_id": "2052",
+      "like_code": "437221",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 4780,
+      "upc": "576046631303",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466313032",
+      "reference_ids": [
+        "05760466313032"
+      ],
+      "name": "Arla Cheesy Triangles 8 Portion 120g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715365352/31d42c0252db27b1e62081e96f7bfe33",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466313032",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/arla_cheesy_triangles_8_portion_120g/p/1764405684715365352"
+    },
+    {
+      "id": "1564405684711530920",
+      "store_id": "2052",
+      "like_code": "295819",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 999999,
+      "upc": "571195305285",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953052859",
+      "reference_ids": [
+        "05711953052859"
+      ],
+      "name": "Arla Chocolate Drink | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711530920/25f418b642551bd61892722beba1a0de",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05711953052859",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/arla_chocolate_drink_1_l/p/1564405684711530920"
+    },
+    {
+      "id": "1564405684714561113",
+      "store_id": "2052",
+      "like_code": "391739",
+      "department_id": [
+        "1496141"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 4857,
+      "upc": "571195315966",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953159664",
+      "reference_ids": [
+        "05711953159664"
+      ],
+      "name": "Arla Natural Cherry Yogurt | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714561113/962072c5b6c7b75d7d839e95c6bf8520",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953159664",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/yogurt_cultured_milk/arla_natural_cherry_yogurt_100g/p/1564405684714561113"
+    },
+    {
+      "id": "1564405684702535175",
+      "store_id": "2052",
+      "like_code": "215754",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱113.00",
+      "unit_price": 113.0,
+      "popularity": 451,
+      "upc": "410029000355",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04100290003555",
+      "reference_ids": [
+        "04100290003555"
+      ],
+      "name": "Arla Natural Full Cream Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702535175/962c2cd43911076c4f7b7f370ac1b0ed_5d10b2e3-8e25-4b0e-bc4c-2d45402978d0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04100290003555",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/arla_natural_full_cream_milk_1_l/p/1564405684702535175"
+    },
+    {
+      "id": "1564405684702555008",
+      "store_id": "2052",
+      "like_code": "212338",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 999999,
+      "upc": "571195301308",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953013089",
+      "reference_ids": [
+        "05711953013089"
+      ],
+      "name": "Arla Natural Gouda Cheese Slices | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555008/2c10e6523066563bd38a286603967aa4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05711953013089",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_gouda_cheese_slices_150g/p/1564405684702555008"
+    },
+    {
+      "id": "1564405684702555009",
+      "store_id": "2052",
+      "like_code": "212337",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 999999,
+      "upc": "571195301310",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953013102",
+      "reference_ids": [
+        "05711953013102"
+      ],
+      "name": "Arla Natural Havarti Cheese Slices | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555009/4d45e8ec73573ca75589b6520cbaf7f3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05711953013102",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_havarti_cheese_slices_150g/p/1564405684702555009"
+    },
+    {
+      "id": "1564405684702555038",
+      "store_id": "2052",
+      "like_code": "46526",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 8207,
+      "upc": "576046673594",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466735940",
+      "reference_ids": [
+        "05760466735940"
+      ],
+      "name": "Arla Natural Mozzarella Cheese Chunk | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555038/1885cb80a76c1321a620f20c16e9ae68",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466735940",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_mozzarella_cheese_chunk_200g/p/1564405684702555038"
+    },
+    {
+      "id": "1564405684702555036",
+      "store_id": "2052",
+      "like_code": "46530",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 10,
+      "upc": "571195309194",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953091940",
+      "reference_ids": [
+        "05711953091940",
+        "05760466735520"
+      ],
+      "name": "Arla Natural Mozzarella Cheese Shredded | 175g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555036/f880c12b60cf01471c7fe295bb10435b",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461936449763979",
+          "reference_id": "tpr_2052_05711953091940_249_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182701418793"
+          ],
+          "circular_page_ids": [
+            "3719247209514941406"
+          ],
+          "circular_spot_ids": [
+            "3722684957550721733"
+          ],
+          "product_ids": [
+            "1564405684702555036"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "1496135",
+            "1496137",
+            "22356764",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f0cb5aca73d50331030c1b2c40f66c02",
+          "similarity_priority": 5,
+          "name": "Arla Natural Mozzarella Cheese Shredded | 175g",
+          "sale_price": "₱249.00",
+          "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461660556835155",
+          "reference_id": "ad_2052_05711953091940_1_249_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182701418793"
+          ],
+          "circular_page_ids": [
+            "3719247209514941406"
+          ],
+          "circular_spot_ids": [
+            "3722684957550721733"
+          ],
+          "product_ids": [
+            "1564405684702555036"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "1496135",
+            "1496137",
+            "22356764",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "600f19e2cb48316105714e02e2996b50",
+          "similarity_priority": 6,
+          "name": "Arla Natural Mozzarella Cheese Shredded | 175g",
+          "sale_price": "₱249.00",
+          "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱249.00",
+      "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461936449763979",
+        "reference_id": "tpr_2052_05711953091940_249_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245182701418793"
+        ],
+        "circular_page_ids": [
+          "3719247209514941406"
+        ],
+        "circular_spot_ids": [
+          "3722684957550721733"
+        ],
+        "product_ids": [
+          "1564405684702555036"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "1496135",
+          "1496137",
+          "22356764",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "f0cb5aca73d50331030c1b2c40f66c02",
+        "similarity_priority": 5,
+        "name": "Arla Natural Mozzarella Cheese Shredded | 175g",
+        "sale_price": "₱249.00",
+        "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 249.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱249.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953091940",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_mozzarella_cheese_shredded_175g/p/1564405684702555036"
+    },
+    {
+      "id": "1564405684702555004",
+      "store_id": "2052",
+      "like_code": "212340",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 8274,
+      "upc": "571195300642",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953006425",
+      "reference_ids": [
+        "05711953006425"
+      ],
+      "name": "Arla Natural Mozzarella Cheese Slices | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555004/4b0b18d9234957f6fce836218e50e835",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953006425",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_mozzarella_cheese_slices_150g/p/1564405684702555004"
+    },
+    {
+      "id": "1564405684709924697",
+      "store_id": "2052",
+      "like_code": "323649",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱279.00",
+      "unit_price": 279.0,
+      "popularity": 10,
+      "upc": "571195309198",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953091988",
+      "reference_ids": [
+        "05711953091988"
+      ],
+      "name": "Arla Natural Pizza Topping Shreddded Cheese | 175g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709924697/5fab7e15bc9ece4060b4014f57697770",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461937070520982",
+          "reference_id": "tpr_2052_05711953091988_249_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182701418793"
+          ],
+          "circular_page_ids": [
+            "3719247209514941406"
+          ],
+          "circular_spot_ids": [
+            "3722685256369716001"
+          ],
+          "product_ids": [
+            "1564405684709924697"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "1496135",
+            "1496137",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f0cb5aca73d50331030c1b2c40f66c02",
+          "similarity_priority": 5,
+          "name": "Arla Natural Pizza Topping Shreddded Cheese | 175g",
+          "sale_price": "₱249.00",
+          "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461660825270620",
+          "reference_id": "ad_2052_05711953091988_1_249_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182701418793"
+          ],
+          "circular_page_ids": [
+            "3719247209514941406"
+          ],
+          "circular_spot_ids": [
+            "3722685256369716001"
+          ],
+          "product_ids": [
+            "1564405684709924697"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "1496135",
+            "1496137",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "600f19e2cb48316105714e02e2996b50",
+          "similarity_priority": 6,
+          "name": "Arla Natural Pizza Topping Shreddded Cheese | 175g",
+          "sale_price": "₱249.00",
+          "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱249.00",
+      "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461937070520982",
+        "reference_id": "tpr_2052_05711953091988_249_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245182701418793"
+        ],
+        "circular_page_ids": [
+          "3719247209514941406"
+        ],
+        "circular_spot_ids": [
+          "3722685256369716001"
+        ],
+        "product_ids": [
+          "1564405684709924697"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "1496135",
+          "1496137",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "f0cb5aca73d50331030c1b2c40f66c02",
+        "similarity_priority": 5,
+        "name": "Arla Natural Pizza Topping Shreddded Cheese | 175g",
+        "sale_price": "₱249.00",
+        "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 249.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱249.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953091988",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_pizza_topping_shreddded_cheese_175g/p/1564405684709924697"
+    },
+    {
+      "id": "1564405684714561114",
+      "store_id": "2052",
+      "like_code": "391738",
+      "department_id": [
+        "1496141"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 4076,
+      "upc": "571195315964",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953159640",
+      "reference_ids": [
+        "05711953159640"
+      ],
+      "name": "Arla Natural Strawberry Yogurt | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714561114/4b277ea5f840ceaf0e2795d783c44743",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953159640",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/yogurt_cultured_milk/arla_natural_strawberry_yogurt_100g/p/1564405684714561114"
+    },
+    {
+      "id": "1564405684709924696",
+      "store_id": "2052",
+      "like_code": "323647",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱279.00",
+      "unit_price": 279.0,
+      "popularity": 10,
+      "upc": "571195309196",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953091964",
+      "reference_ids": [
+        "05711953091964"
+      ],
+      "name": "Arla Natural Tex Mex Shredded Cheese | 175g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709924696/ad125a38d4a90f1e50ab66464f2c6a72",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461936852417171",
+          "reference_id": "tpr_2052_05711953091964_249_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182701418793"
+          ],
+          "circular_page_ids": [
+            "3719247209514941406"
+          ],
+          "circular_spot_ids": [
+            "3722685229702331163"
+          ],
+          "product_ids": [
+            "1564405684709924696"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "1496135",
+            "1496137",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f0cb5aca73d50331030c1b2c40f66c02",
+          "similarity_priority": 5,
+          "name": "Arla Natural Tex Mex Shredded Cheese | 175g",
+          "sale_price": "₱249.00",
+          "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461660573612372",
+          "reference_id": "ad_2052_05711953091964_1_249_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182701418793"
+          ],
+          "circular_page_ids": [
+            "3719247209514941406"
+          ],
+          "circular_spot_ids": [
+            "3722685229702331163"
+          ],
+          "product_ids": [
+            "1564405684709924696"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "1496135",
+            "1496137",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "600f19e2cb48316105714e02e2996b50",
+          "similarity_priority": 6,
+          "name": "Arla Natural Tex Mex Shredded Cheese | 175g",
+          "sale_price": "₱249.00",
+          "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱249.00",
+      "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461936852417171",
+        "reference_id": "tpr_2052_05711953091964_249_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245182701418793"
+        ],
+        "circular_page_ids": [
+          "3719247209514941406"
+        ],
+        "circular_spot_ids": [
+          "3722685229702331163"
+        ],
+        "product_ids": [
+          "1564405684709924696"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "1496135",
+          "1496137",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "f0cb5aca73d50331030c1b2c40f66c02",
+        "similarity_priority": 5,
+        "name": "Arla Natural Tex Mex Shredded Cheese | 175g",
+        "sale_price": "₱249.00",
+        "sale_price_md": "**₱249.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 249.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱249.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953091964",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_natural_tex_mex_shredded_cheese_175g/p/1564405684709924696"
+    },
+    {
+      "id": "1564405684711576092",
+      "store_id": "2052",
+      "like_code": "347067",
+      "department_id": [
+        "22459165"
+      ],
+      "price": "₱282.00",
+      "unit_price": 282.0,
+      "popularity": 999999,
+      "upc": "571195300980",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953009808",
+      "reference_ids": [
+        "05711953009808"
+      ],
+      "name": "Arla Organic Full Cream Milk | 1L x 2s (Save 10)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711576092/27b6d870f592ca218e6cbf170b4d790b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05711953009808",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/arla_organic_full_cream_milk_1_l_x_2s_save_10/p/1564405684711576092"
+    },
+    {
+      "id": "1564405684705262540",
+      "store_id": "2052",
+      "like_code": "330611",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱42.50",
+      "unit_price": 42.5,
+      "popularity": 999999,
+      "upc": "571195309404",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953094040",
+      "reference_ids": [
+        "05711953094040"
+      ],
+      "name": "Arla Organic Full Cream Milk | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705262540/d93ec30a23bc5517805a03056f281fa9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05711953094040",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/arla_organic_full_cream_milk_200ml/p/1564405684705262540"
+    },
+    {
+      "id": "1564405684705262541",
+      "store_id": "2052",
+      "like_code": "330612",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱157.75",
+      "unit_price": 157.75,
+      "popularity": 7455,
+      "upc": "571195309407",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953094071",
+      "reference_ids": [
+        "05711953094071"
+      ],
+      "name": "Arla Organic Low Fat Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705262541/65da43d4cf154e851234c289919898f7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953094071",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/arla_organic_low_fat_milk_1_l/p/1564405684705262541"
+    },
+    {
+      "id": "1564405684704723595",
+      "store_id": "2052",
+      "like_code": "295820",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱144.75",
+      "unit_price": 144.75,
+      "popularity": 999999,
+      "upc": "571195305288",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953052880",
+      "reference_ids": [
+        "05711953052880"
+      ],
+      "name": "Arla Strawberry Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723595/c1211240f199268faa8e0e3420db984a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05711953052880",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/arla_strawberry_milk_1_l/p/1564405684704723595"
+    },
+    {
+      "id": "1564405684702555046",
+      "store_id": "2052",
+      "like_code": "73926",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱530.00",
+      "unit_price": 530.0,
+      "popularity": 999999,
+      "upc": "576046678623",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466786232",
+      "reference_ids": [
+        "05760466786232"
+      ],
+      "name": "Arla Whipping Cream | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555046/8d4f096c44133ff0f7f977f4190fb24e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05760466786232",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/arla_whipping_cream_1_l/p/1564405684702555046"
+    },
+    {
+      "id": "8037651",
+      "store_id": "2052",
+      "like_code": "112870",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱177.00",
+      "unit_price": 177.0,
+      "popularity": 999999,
+      "upc": "6533300821",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00065333008215",
+      "reference_ids": [
+        "00065333008215"
+      ],
+      "name": "Arm & Hammer AdvanceWhite 3 in 1 Power Toothpaste | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8037651/9a5bf51ada4f331edb35279d9fa49fff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00065333008215",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/arm_hammer_advance_white_3_in_1_power_toothpaste_120ml/p/8037651"
+    },
+    {
+      "id": "5379",
+      "store_id": "2052",
+      "like_code": "76211",
+      "department_id": [
+        "22459309"
+      ],
+      "price": "₱247.50",
+      "unit_price": 247.5,
+      "popularity": 7991,
+      "upc": "3320001170",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00033200011705",
+      "reference_ids": [
+        "00033200011705"
+      ],
+      "name": "Arm & Hammer Pure Baking Soda | 1.81kg",
+      "size": "4 lb",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00033200011705/a8b7b88c9419d4e72829247d7b4ac74c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00033200011705",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/baking_soda/arm_hammer_pure_baking_soda_1_81kg/p/5379"
+    },
+    {
+      "id": "23331",
+      "store_id": "2052",
+      "like_code": "36933",
+      "department_id": [
+        "22459309"
+      ],
+      "price": "₱44.50",
+      "unit_price": 44.5,
+      "popularity": 5391,
+      "upc": "3320001130",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00033200011309",
+      "reference_ids": [
+        "00033200011309",
+        "00033200011200"
+      ],
+      "name": "Arm & Hammer Pure Baking Soda | 227g",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00033200011309/42f53c70d29508fbf2bfe1bf905c9d62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00033200011309",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/baking_soda/arm_hammer_pure_baking_soda_227g/p/23331"
+    },
+    {
+      "id": "23330",
+      "store_id": "2052",
+      "like_code": "36935",
+      "department_id": [
+        "22459309"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 5162,
+      "upc": "3320001110",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00033200011101",
+      "reference_ids": [
+        "00033200011101"
+      ],
+      "name": "Arm & Hammer Pure Baking Soda | 454g",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00033200011101/b2d5741257912cc929cdd667df8cf99f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00033200011101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/baking_soda/arm_hammer_pure_baking_soda_454g/p/23330"
+    },
+    {
+      "id": "23332",
+      "store_id": "2052",
+      "like_code": "36936",
+      "department_id": [
+        "22459309"
+      ],
+      "price": "₱133.75",
+      "unit_price": 133.75,
+      "popularity": 6942,
+      "upc": "480651181298",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511812981",
+      "reference_ids": [
+        "04806511812981",
+        "00033200011408"
+      ],
+      "name": "Arm & Hammer Pure Baking Soda | 907g",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00033200011408/d3c9f16b1c010ebbc430d869830ef3bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806511812981",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/baking_soda/arm_hammer_pure_baking_soda_907g/p/23332"
+    },
+    {
+      "id": "1564405684711973977",
+      "store_id": "2052",
+      "like_code": "354119",
+      "department_id": [
+        "22459317"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 9720,
+      "upc": "7061210252",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00070612102522",
+      "reference_ids": [
+        "05020144227328",
+        "00070612102522"
+      ],
+      "name": "Armor All Protectant Gloss Finish | 125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711973977/f9ce183861ae758091f8b8373ed500cf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00070612102522",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 40",
+        "sequence": 40,
+        "identifier": "a39800e4-5f02-411e-a27d-1d96e7c973c8",
+        "id": "22356803"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/automotive/armor_all_protectant_gloss_finish_125ml/p/1564405684711973977"
+    },
+    {
+      "id": "1564405684711976244",
+      "store_id": "2052",
+      "like_code": "354124",
+      "department_id": [
+        "22459317"
+      ],
+      "price": "₱355.00",
+      "unit_price": 355.0,
+      "popularity": 999999,
+      "upc": "502014423259",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05020144232599",
+      "reference_ids": [
+        "05020144232599",
+        "05020144226710"
+      ],
+      "name": "Armor All Protectant Gloss Finish | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711976244/7b606d2384888129f9b5fbffc138f5e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05020144232599",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 40",
+        "sequence": 40,
+        "identifier": "a39800e4-5f02-411e-a27d-1d96e7c973c8",
+        "id": "22356803"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/automotive/armor_all_protectant_gloss_finish_300ml/p/1564405684711976244"
+    },
+    {
+      "id": "1564405684702558202",
+      "store_id": "2052",
+      "like_code": "6438",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱19.50",
+      "unit_price": 19.5,
+      "popularity": 6021,
+      "upc": "888601540103",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08886015401030",
+      "reference_ids": [
+        "08886015401030"
+      ],
+      "name": "Arnott's Nyam Nyam Chocolate Biscuits | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558202/7361a0854398feb115cf3796a05a0930",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08886015401030",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/arnott_s_nyam_nyam_chocolate_biscuits_25g/p/1564405684702558202"
+    },
+    {
+      "id": "1564405684702194156",
+      "store_id": "2052",
+      "like_code": "107922",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 8955,
+      "upc": "931007201385",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310072013855",
+      "reference_ids": [
+        "09310072013855"
+      ],
+      "name": "Arnott's Tim Tam Double Coat Biscuits | 200g",
+      "size": "9 ea",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702194156/f2625bd4e12b61076bcc471f80b75f29",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310072013855",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/arnott_s_tim_tam_double_coat_biscuits_200g/p/1564405684702194156"
+    },
+    {
+      "id": "1764405684715488792",
+      "store_id": "2052",
+      "like_code": "451918",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱190.00",
+      "unit_price": 190.0,
+      "popularity": 6,
+      "upc": "885027311134",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850273111345",
+      "reference_ids": [
+        "08850273111345"
+      ],
+      "name": "ARS Jet Pink Mosquito Killer | 300ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715488792/c2d2453caf7a943e645efa02b8576bb6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850273111345",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ars_jet_pink_mosquito_killer_300ml/p/1764405684715488792"
+    },
+    {
+      "id": "1764405684715488808",
+      "store_id": "2052",
+      "like_code": "451919",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱286.00",
+      "unit_price": 286.0,
+      "popularity": 6514,
+      "upc": "885027311234",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850273112342",
+      "reference_ids": [
+        "08850273112342"
+      ],
+      "name": "ARS Jet Pink Mosquito Killer | 500ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715488808/35bca102ce669b54b36a1b6dea44aec1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850273112342",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ars_jet_pink_mosquito_killer_500ml/p/1764405684715488808"
+    },
+    {
+      "id": "1564405684702548045",
+      "store_id": "2052",
+      "like_code": "164588",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱760.00",
+      "unit_price": 760.0,
+      "popularity": 550,
+      "upc": "480651348037",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806513480379",
+      "reference_ids": [
+        "04806513480379"
+      ],
+      "name": "Artisans Coffee Espresso Blend | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548045/625df51c240992ca498170932d3b41ab",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806513480379",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/artisans_coffee_espresso_blend_500g/p/1564405684702548045"
+    },
+    {
+      "id": "1564405684702558062",
+      "store_id": "2052",
+      "like_code": "155818",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱82.50",
+      "unit_price": 82.5,
+      "popularity": 4792,
+      "upc": "490100402107",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04901004021076",
+      "reference_ids": [
+        "04901004021076",
+        "08855366004467"
+      ],
+      "name": "Asahi Super Dry | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558062/c5d00535e75c2c08a3aa6003865ed1ee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04901004021076",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/asahi_super_dry_330ml/p/1564405684702558062"
+    },
+    {
+      "id": "1764405684715340646",
+      "store_id": "2052",
+      "like_code": "445876",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 6056,
+      "upc": "451460346131",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04514603461312",
+      "reference_ids": [
+        "04514603461312"
+      ],
+      "name": "Asahi Tea Jurokucha | 660ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715340646/91e843be64146d20d2b0f1bb80773c34",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04514603461312",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/asahi_tea_jurokucha_660ml/p/1764405684715340646"
+    },
+    {
+      "id": "1564405684715342617",
+      "store_id": "2052",
+      "like_code": "405549",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,449.00",
+      "unit_price": 2449.0,
+      "popularity": 8336,
+      "upc": "888647210766",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08886472107667",
+      "reference_ids": [
+        "08886472107667"
+      ],
+      "name": "Ascenda Kid Milk Vanilla 3+ (3-7yrs old) | 1.6kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715342617/e489a3bc7733cb10f2b7b0f8ca5b6e43",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3652273794917088177",
+          "reference_id": "ad_2052_08886472107667_2_4598_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "circular_ids": [
+            "3662714119909292414",
+            "3683730244201625787"
+          ],
+          "circular_file_ids": [
+            "3662714157691582856",
+            "3683730246122617031"
+          ],
+          "circular_page_ids": [
+            "3666989562225245119",
+            "3683731587570088428"
+          ],
+          "circular_spot_ids": [
+            "3667507850944461554",
+            "3688744507773303226"
+          ],
+          "product_ids": [
+            "1564405684715342617"
+          ],
+          "start_date": "2025-07-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4168,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "528514",
+            "21884432",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22917317",
+            "22974205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "251d66e3967a7b5288b0126be00cecd1",
+          "similarity_priority": 6,
+          "name": "Ascenda Kid Milk Vanilla 3+ (3-7yrs old) | 1.6kg",
+          "sale_price": "2 for ₱4,598.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱4,598.00 with purchase of 2** (07/01/25 - 09/30/25)",
+          "display_start_date": "2025-07-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-07-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱4,598.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱4,598.00 with purchase of 2** (07/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3652273794917088177",
+        "reference_id": "ad_2052_08886472107667_2_4598_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "circular_ids": [
+          "3662714119909292414",
+          "3683730244201625787"
+        ],
+        "circular_file_ids": [
+          "3662714157691582856",
+          "3683730246122617031"
+        ],
+        "circular_page_ids": [
+          "3666989562225245119",
+          "3683731587570088428"
+        ],
+        "circular_spot_ids": [
+          "3667507850944461554",
+          "3688744507773303226"
+        ],
+        "product_ids": [
+          "1564405684715342617"
+        ],
+        "start_date": "2025-07-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4168,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "528514",
+          "21884432",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22917317",
+          "22974205"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "251d66e3967a7b5288b0126be00cecd1",
+        "similarity_priority": 6,
+        "name": "Ascenda Kid Milk Vanilla 3+ (3-7yrs old) | 1.6kg",
+        "sale_price": "2 for ₱4,598.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱4,598.00 with purchase of 2** (07/01/25 - 09/30/25)",
+        "display_start_date": "2025-07-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 2299.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08886472107667",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ascenda_kid_milk_vanilla_3_3_7yrs_old_1_6kg/p/1564405684715342617"
+    },
+    {
+      "id": "1564405684715342615",
+      "store_id": "2052",
+      "like_code": "405550",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱702.00",
+      "unit_price": 702.0,
+      "popularity": 5398,
+      "upc": "888647210765",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08886472107650",
+      "reference_ids": [
+        "08886472107650"
+      ],
+      "name": "Ascenda Kid Milk Vanilla 3+ (3-7yrs old) | 400g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715342615/809cfe932c94a67cf3fcb5b21b5145e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08886472107650",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ascenda_kid_milk_vanilla_3_3_7yrs_old_400g/p/1564405684715342615"
+    },
+    {
+      "id": "1564405684715342611",
+      "store_id": "2052",
+      "like_code": "405547",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,495.00",
+      "unit_price": 2495.0,
+      "popularity": 9656,
+      "upc": "888647210764",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08886472107643",
+      "reference_ids": [
+        "08886472107643"
+      ],
+      "name": "Ascenda Milk Vanilla 1+ (1-3yrs old) | 1.6kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715342611/f8d2c1e0a69d26e96f141873cbc794c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08886472107643",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ascenda_milk_vanilla_1_1_3yrs_old_1_6kg/p/1564405684715342611"
+    },
+    {
+      "id": "1564405684715342613",
+      "store_id": "2052",
+      "like_code": "405548",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱697.00",
+      "unit_price": 697.0,
+      "popularity": 9881,
+      "upc": "888647210763",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08886472107636",
+      "reference_ids": [
+        "08886472107636"
+      ],
+      "name": "Ascenda Milk Vanilla 1+ (1-3yrs old) | 400g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715342613/748f8abf4e3d83e696ee9a2f2b4d9307",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08886472107636",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ascenda_milk_vanilla_1_1_3yrs_old_400g/p/1564405684715342613"
+    },
+    {
+      "id": "1564405684702539325",
+      "store_id": "2052",
+      "like_code": "123718",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱198.00",
+      "unit_price": 198.0,
+      "popularity": 999999,
+      "upc": "480020403201",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800204032014",
+      "reference_ids": [
+        "04800204032014"
+      ],
+      "name": "Ascof Forte Lagundi Syrup Menthol | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539325/38db887513c7de51e7b683e0206e0631",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800204032014",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ascof_forte_lagundi_syrup_menthol_120ml/p/1564405684702539325"
+    },
+    {
+      "id": "1564405684702550331",
+      "store_id": "2052",
+      "like_code": "124816",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱320.00",
+      "unit_price": 320.0,
+      "popularity": 5038,
+      "upc": "480778852365",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788523655",
+      "reference_ids": [
+        "04807788523655",
+        "04807788417244"
+      ],
+      "name": "Ascorbic Acid Ceelin Plus Syrup Apple | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550331/f8867960e319e404d79c4d60915bd34b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788523655",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ascorbic_acid_ceelin_plus_syrup_apple_250ml/p/1564405684702550331"
+    },
+    {
+      "id": "1564405684713010049",
+      "store_id": "2052",
+      "like_code": "367687",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.50",
+      "unit_price": 115.5,
+      "popularity": 3362,
+      "upc": "1520583010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00015205830109",
+      "reference_ids": [
+        "00015205830109"
+      ],
+      "name": "Asian Home Gourmet Cantonese Lemon Chicken | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713010049/67dae58b1be14ccd44ecb3f0fe1e49b3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00015205830109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/asian_home_gourmet_cantonese_lemon_chicken_50g/p/1564405684713010049"
+    },
+    {
+      "id": "7860714",
+      "store_id": "2052",
+      "like_code": "275016",
+      "department_id": [
+        "21958112"
+      ],
+      "price": "₱115.50",
+      "unit_price": 115.5,
+      "popularity": 2641,
+      "upc": "1520572030",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00015205720301",
+      "reference_ids": [
+        "00015205720301"
+      ],
+      "name": "Asian Home Gourmet Indian Butter Chicken Makhani | 50g",
+      "size": "1.75 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00015205720301/bf8904bcc33683974ca53305b5c758db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00015205720301",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/asian/asian_home_gourmet_indian_butter_chicken_makhani_50g/p/7860714"
+    },
+    {
+      "id": "1564405684709672480",
+      "store_id": "2052",
+      "like_code": "339222",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱115.50",
+      "unit_price": 115.5,
+      "popularity": 3285,
+      "upc": "1520542500",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00015205425008",
+      "reference_ids": [
+        "00015205425008"
+      ],
+      "name": "Asian Home Gourmet Indian Tandoori Tikka | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00015205425008/d859ba111db317ba70ac8b43ea1e989d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00015205425008",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/asian_home_gourmet_indian_tandoori_tikka_50g/p/1564405684709672480"
+    },
+    {
+      "id": "1564405684713010045",
+      "store_id": "2052",
+      "like_code": "367693",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.50",
+      "unit_price": 115.5,
+      "popularity": 3505,
+      "upc": "1520541810",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00015205418109",
+      "reference_ids": [
+        "00015205418109"
+      ],
+      "name": "Asian Home Gourmet Indonesian Nasi Goreng | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713010045/d324ab862c57f5665c50e53c2a98d8ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00015205418109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/asian_home_gourmet_indonesian_nasi_goreng_50g/p/1564405684713010045"
+    },
+    {
+      "id": "1564405684713010046",
+      "store_id": "2052",
+      "like_code": "367695",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.50",
+      "unit_price": 115.5,
+      "popularity": 3450,
+      "upc": "1520550040",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00015205500408",
+      "reference_ids": [
+        "00015205500408",
+        "00015205500507"
+      ],
+      "name": "Asian Home Gourmet Pad Thai Noodles | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713010046/60c567dd86c95b4daa8d0a4a748daec8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00015205500408",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/asian_home_gourmet_pad_thai_noodles_50g/p/1564405684713010046"
+    }
+  ]
+}

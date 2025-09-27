@@ -1,0 +1,2012 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1764405684715638964",
+      "store_id": "2052",
+      "like_code": "453233",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱86.00",
+      "unit_price": 86.0,
+      "popularity": 999999,
+      "upc": "480650216926",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502169261",
+      "reference_ids": [
+        "04806502169261"
+      ],
+      "name": "Naturale Sugarcane Bagasse Clam Shell Box 6x6 10s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715638964/94c49969f50190c4d254040bceb459e9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806502169261",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/naturale_sugarcane_bagasse_clam_shell_box_6x6_10s/p/1764405684715638964"
+    },
+    {
+      "id": "1764405684715542980",
+      "store_id": "2052",
+      "like_code": "453234",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱82.00",
+      "unit_price": 82.0,
+      "popularity": 6,
+      "upc": "480650216927",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502169278",
+      "reference_ids": [
+        "04806502169278"
+      ],
+      "name": "Naturale Sugarcane Bagasse Oval Container | 800ml x 5s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715542980/d16bbae81916d0b07bb18933d724d54c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502169278",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/naturale_sugarcane_bagasse_oval_container_800ml_x_5s/p/1764405684715542980"
+    },
+    {
+      "id": "1764405684715542988",
+      "store_id": "2052",
+      "like_code": "453232",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱53.00",
+      "unit_price": 53.0,
+      "popularity": 6,
+      "upc": "480650216925",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502169254",
+      "reference_ids": [
+        "04806502169254"
+      ],
+      "name": "Naturale Sugarcane Bagasse Printed Plate | 9in x 8s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715542988/b0bccd8a786e781c3bd9457c6f2ffe60",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502169254",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/naturale_sugarcane_bagasse_printed_plate_9in_x_8s/p/1764405684715542988"
+    },
+    {
+      "id": "1764405684715658616",
+      "store_id": "2052",
+      "like_code": "454987",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱41.00",
+      "unit_price": 41.0,
+      "popularity": 7855,
+      "upc": "480650216923",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502169230",
+      "reference_ids": [
+        "04806502169230"
+      ],
+      "name": "Naturale Wooden Spork 20s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715658616/726909659b8966cbc0805587edf01607",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502169230",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/naturale_wooden_spork_20s/p/1764405684715658616"
+    },
+    {
+      "id": "1764405684715024934",
+      "store_id": "2052",
+      "like_code": "435735",
+      "department_id": [
+        "1496198"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "480601800701",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806018007019",
+      "reference_ids": [
+        "04806018007019"
+      ],
+      "name": "Naturalle Bentonite Cat Litter | 5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715024934/70d4b58d84387465a714cf1d053253b3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806018007019",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/naturalle_bentonite_cat_litter_5_l/p/1764405684715024934"
+    },
+    {
+      "id": "1564405684712578995",
+      "store_id": "2052",
+      "like_code": "302461",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱339.00",
+      "unit_price": 339.0,
+      "popularity": 999999,
+      "upc": "789991691091",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07899916910915",
+      "reference_ids": [
+        "07899916910915"
+      ],
+      "name": "Natural One Apple Juice | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578995/ce0f97be4ff9f428cf2e8837b3420331",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07899916910915",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natural_one_apple_juice_1_5_l/p/1564405684712578995"
+    },
+    {
+      "id": "1564405684712578987",
+      "store_id": "2052",
+      "like_code": "363659",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "upc": "789991690481",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07899916904815",
+      "reference_ids": [
+        "07899916904815"
+      ],
+      "name": "Natural One Apple Juice | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578987/92189eeee37031274c16f892c7a3a984",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07899916904815",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natural_one_apple_juice_900ml/p/1564405684712578987"
+    },
+    {
+      "id": "1564405684712578998",
+      "store_id": "2052",
+      "like_code": "302463",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱339.00",
+      "unit_price": 339.0,
+      "popularity": 999999,
+      "upc": "789991691095",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07899916910953",
+      "reference_ids": [
+        "07899916910953"
+      ],
+      "name": "Natural One Grape Blended Juice | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578998/336a433f5dc675f620b19d74a4f7c74c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07899916910953",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natural_one_grape_blended_juice_1_5_l/p/1564405684712578998"
+    },
+    {
+      "id": "1564405684712578993",
+      "store_id": "2052",
+      "like_code": "363660",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 9824,
+      "upc": "789991690483",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07899916904839",
+      "reference_ids": [
+        "07899916904839"
+      ],
+      "name": "Natural One Grape Juice | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578993/abcafec6153104667b212ba52b29108d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07899916904839",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natural_one_grape_juice_900ml/p/1564405684712578993"
+    },
+    {
+      "id": "1564405684712578994",
+      "store_id": "2052",
+      "like_code": "302460",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱339.00",
+      "unit_price": 339.0,
+      "popularity": 999999,
+      "upc": "789991691089",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07899916910892",
+      "reference_ids": [
+        "07899916910892"
+      ],
+      "name": "Natural One Orange Juice | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578994/518775492848b0ee839ce302b7341544",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07899916910892",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natural_one_orange_juice_1_5_l/p/1564405684712578994"
+    },
+    {
+      "id": "1564405684712578991",
+      "store_id": "2052",
+      "like_code": "363661",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "upc": "789991690477",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07899916904778",
+      "reference_ids": [
+        "07899916904778"
+      ],
+      "name": "Natural One Orange Juice | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578991/81bbbdff9208f190f1b16f1df47a28db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07899916904778",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natural_one_orange_juice_900ml/p/1564405684712578991"
+    },
+    {
+      "id": "1564405684702556269",
+      "store_id": "2052",
+      "like_code": "182860",
+      "department_id": [
+        "22459307"
+      ],
+      "price": "₱194.00",
+      "unit_price": 194.0,
+      "popularity": 3960,
+      "upc": "764011070650",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07640110706503",
+      "reference_ids": [
+        "07640110706503"
+      ],
+      "name": "Naturals Sugar Stevia | 40pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556269/714a7ec9cfd721e9bf6c6395d81786ff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07640110706503",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/sugar/naturals_sugar_stevia_40pcs/p/1564405684702556269"
+    },
+    {
+      "id": "1564405684714508922",
+      "store_id": "2052",
+      "like_code": "389467",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 3693,
+      "upc": "880138214928",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382149286",
+      "reference_ids": [
+        "08801382149286"
+      ],
+      "name": "Natures 140 Days Shine Muscat | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508922/66de19557918d22b0c3a6292a07dee95",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382149286",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_140_days_shine_muscat_1_5_l/p/1564405684714508922"
+    },
+    {
+      "id": "1564405684714508921",
+      "store_id": "2052",
+      "like_code": "389468",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 3296,
+      "upc": "880138214926",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382149262",
+      "reference_ids": [
+        "08801382149262"
+      ],
+      "name": "Natures 140 Days Shine Muscat | 340ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508921/2038b3ca0f6685e323ae78d2d4a4bd20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382149262",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_140_days_shine_muscat_340ml/p/1564405684714508921"
+    },
+    {
+      "id": "1564405684714508916",
+      "store_id": "2052",
+      "like_code": "389469",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 3297,
+      "upc": "880138214423",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382144236",
+      "reference_ids": [
+        "08801382144236"
+      ],
+      "name": "Natures 170 Days Pear | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508916/46345446948f74dddcaf93a4999717e0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382144236",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_170_days_pear_1_5_l/p/1564405684714508916"
+    },
+    {
+      "id": "1564405684714521378",
+      "store_id": "2052",
+      "like_code": "390372",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 3208,
+      "upc": "880138212796",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382127963",
+      "reference_ids": [
+        "08801382127963"
+      ],
+      "name": "Natures 210 Days Jeju Mandarin | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714521378/bda96a917f84b27e6b4a3acdffae5c55",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382127963",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_210_days_jeju_mandarin_1_5_l/p/1564405684714521378"
+    },
+    {
+      "id": "1564405684702504280",
+      "store_id": "2052",
+      "like_code": "20851",
+      "department_id": [
+        "22459307"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 6104,
+      "upc": "71393011126",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00713930111264",
+      "reference_ids": [
+        "00713930111264"
+      ],
+      "name": "Nature's Muscovado Specialty Sugar | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504280/952e0a3de410f6dcbd5460e6521bfc9c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00713930111264",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/sugar/nature_s_muscovado_specialty_sugar_500g/p/1564405684702504280"
+    },
+    {
+      "id": "1564405684702536828",
+      "store_id": "2052",
+      "like_code": "145901",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱121.00",
+      "unit_price": 121.0,
+      "popularity": 452,
+      "upc": "480004972055",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720558",
+      "reference_ids": [
+        "04800049720558"
+      ],
+      "name": "Nature's Spring Alkaline pH9 Water | 10L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536828/b830161f9477a12a7ae9ded98658f5d0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720558",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_alkaline_p_h9_water_10_l/p/1564405684702536828"
+    },
+    {
+      "id": "1564405684702536826",
+      "store_id": "2052",
+      "like_code": "163635",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 431,
+      "upc": "480004972051",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720510",
+      "reference_ids": [
+        "04800049720510"
+      ],
+      "name": "Nature's Spring Alkaline pH9 Water | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536826/9159b99d4b8a65e758912b709863d2e9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720510",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_alkaline_p_h9_water_1_l/p/1564405684702536826"
+    },
+    {
+      "id": "1564405684702536822",
+      "store_id": "2052",
+      "like_code": "163634",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱21.50",
+      "unit_price": 21.5,
+      "popularity": 303,
+      "upc": "480004972017",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720176",
+      "reference_ids": [
+        "04800049720176"
+      ],
+      "name": "Nature's Spring Alkaline pH9 Water | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536822/95cc93e3321bf21706f0777e63e8a055",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720176",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_alkaline_p_h9_water_500ml/p/1564405684702536822"
+    },
+    {
+      "id": "1564405684702536827",
+      "store_id": "2052",
+      "like_code": "163636",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱92.50",
+      "unit_price": 92.5,
+      "popularity": 5462,
+      "upc": "480004972054",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720541",
+      "reference_ids": [
+        "04800049720541"
+      ],
+      "name": "Nature's Spring Alkaline pH9 Water | 6.6L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536827/9b0f872aa17dc99372a5b017a1050d5f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720541",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_alkaline_p_h9_water_6_6_l/p/1564405684702536827"
+    },
+    {
+      "id": "1564405684702536829",
+      "store_id": "2052",
+      "like_code": "129284",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱91.00",
+      "unit_price": 91.0,
+      "popularity": 2003,
+      "upc": "480004972024",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720244",
+      "reference_ids": [
+        "04800049720244"
+      ],
+      "name": "Nature's Spring Distilled Drinking Water | 10L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536829/9f0c90e21305ac310c9b6ae4fba40383",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720244",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_distilled_drinking_water_10_l/p/1564405684702536829"
+    },
+    {
+      "id": "1564405684702536825",
+      "store_id": "2052",
+      "like_code": "152422",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 3908,
+      "upc": "480004972022",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720220",
+      "reference_ids": [
+        "04800049720220"
+      ],
+      "name": "Nature's Spring Distilled Water | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536825/c6a64e8ab95f8e9cd4cbf65ac8325678",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720220",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_distilled_water_1_l/p/1564405684702536825"
+    },
+    {
+      "id": "1564405684715532107",
+      "store_id": "2052",
+      "like_code": "407459",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 3857,
+      "upc": "480004972143",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049721432",
+      "reference_ids": [
+        "04800049721432"
+      ],
+      "name": "Nature's Spring Distilled Water | 2000mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715532107/815e3cd7f195c7a77849d72e41947dce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049721432",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/nature_s_spring_distilled_water_2000m_l/p/1564405684715532107"
+    },
+    {
+      "id": "1564405684702536814",
+      "store_id": "2052",
+      "like_code": "163510",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱76.25",
+      "unit_price": 76.25,
+      "popularity": 7987,
+      "upc": "480004971560",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049715608",
+      "reference_ids": [
+        "04800049715608"
+      ],
+      "name": "Nature's Spring Distilled Water | 6.6L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536814/118651103f3d4cc89611a2c0e0a1b9fa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049715608",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_distilled_water_6_6_l/p/1564405684702536814"
+    },
+    {
+      "id": "1564405684702536821",
+      "store_id": "2052",
+      "like_code": "129283",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱89.50",
+      "unit_price": 89.5,
+      "popularity": 8420,
+      "upc": "480004972014",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720145",
+      "reference_ids": [
+        "04800049720145"
+      ],
+      "name": "Nature's Spring Drinking Water | 10L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536821/b91bf6b7167f33ca3f0e37d1518a5553",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720145",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_drinking_water_10_l/p/1564405684702536821"
+    },
+    {
+      "id": "1564405684702536820",
+      "store_id": "2052",
+      "like_code": "152421",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱16.50",
+      "unit_price": 16.5,
+      "popularity": 926,
+      "upc": "480004972012",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720121",
+      "reference_ids": [
+        "04800049720121"
+      ],
+      "name": "Nature's Spring Purified Water | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536820/5ad26288cecdc74c503b4899fec56838",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720121",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_purified_water_1_l/p/1564405684702536820"
+    },
+    {
+      "id": "1564405684715532103",
+      "store_id": "2052",
+      "like_code": "407458",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱28.00",
+      "unit_price": 28.0,
+      "popularity": 7977,
+      "upc": "480004972142",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049721425",
+      "reference_ids": [
+        "04800049721425"
+      ],
+      "name": "Nature's Spring Purified Water | 2000mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715532103/d5cc8a1100d39c4c4fd41e809e12d61c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049721425",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/nature_s_spring_purified_water_2000m_l/p/1564405684715532103"
+    },
+    {
+      "id": "1564405684702536818",
+      "store_id": "2052",
+      "like_code": "163631",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱8.00",
+      "unit_price": 8.0,
+      "popularity": 2225,
+      "upc": "480004972010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720107",
+      "reference_ids": [
+        "04800049720107"
+      ],
+      "name": "Nature's Spring Purified Water | 350ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536818/f73df45c9b8845075b35e8a549ca5fd7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720107",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_purified_water_350ml/p/1564405684702536818"
+    },
+    {
+      "id": "1564405684702536819",
+      "store_id": "2052",
+      "like_code": "152420",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱10.50",
+      "unit_price": 10.5,
+      "popularity": 1246,
+      "upc": "480004972011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049720114",
+      "reference_ids": [
+        "04800049720114"
+      ],
+      "name": "Nature's Spring Purified Water | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536819/f36c43bdf2f0dbcfde2ab15403e9f8d3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049720114",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_purified_water_500ml/p/1564405684702536819"
+    },
+    {
+      "id": "1564405684702536812",
+      "store_id": "2052",
+      "like_code": "163632",
+      "department_id": [
+        "1496167"
+      ],
+      "price": "₱65.25",
+      "unit_price": 65.25,
+      "popularity": 6334,
+      "upc": "480004971260",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800049712607",
+      "reference_ids": [
+        "04800049712607"
+      ],
+      "name": "Nature's Spring Purified Water | 6.6L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536812/6147e54cd959352081a66946b81d1208",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800049712607",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/water/nature_s_spring_purified_water_6_6_l/p/1564405684702536812"
+    },
+    {
+      "id": "1564405684702504281",
+      "store_id": "2052",
+      "like_code": "20846",
+      "department_id": [
+        "22459307"
+      ],
+      "price": "₱228.00",
+      "unit_price": 228.0,
+      "popularity": 5456,
+      "upc": "71393022226",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00713930222267",
+      "reference_ids": [
+        "00713930222267"
+      ],
+      "name": "Nature's Sugar Muscovado Special | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504281/03d8742bc922bab1d9acdddbb4d6cc3b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00713930222267",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/sugar/nature_s_sugar_muscovado_special_1kg/p/1564405684702504281"
+    },
+    {
+      "id": "1564405684714508918",
+      "store_id": "2052",
+      "like_code": "389465",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱154.00",
+      "unit_price": 154.0,
+      "popularity": 3280,
+      "upc": "880138214670",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382146704",
+      "reference_ids": [
+        "08801382146704"
+      ],
+      "name": "Natures Yogurt Apple | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508918/0044b1b4328f1797acc3717609fe60ee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382146704",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_yogurt_apple_1_5_l/p/1564405684714508918"
+    },
+    {
+      "id": "1564405684714508920",
+      "store_id": "2052",
+      "like_code": "389466",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 3284,
+      "upc": "880138214692",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382146926",
+      "reference_ids": [
+        "08801382146926"
+      ],
+      "name": "Natures Yogurt Apple | 340ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508920/ef0f09a218ed19100ea8139ad468aa54",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382146926",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_yogurt_apple_340ml/p/1564405684714508920"
+    },
+    {
+      "id": "1564405684714508917",
+      "store_id": "2052",
+      "like_code": "389463",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱154.00",
+      "unit_price": 154.0,
+      "popularity": 3273,
+      "upc": "880138214669",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382146698",
+      "reference_ids": [
+        "08801382146698"
+      ],
+      "name": "Natures Yogurt Peach | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508917/7ec16097e1e4dd0de8e953cad7e1f62b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382146698",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_yogurt_peach_1_5_l/p/1564405684714508917"
+    },
+    {
+      "id": "1564405684714508919",
+      "store_id": "2052",
+      "like_code": "389464",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 3276,
+      "upc": "880138214691",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801382146919",
+      "reference_ids": [
+        "08801382146919"
+      ],
+      "name": "Natures Yogurt Peach | 340ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714508919/5a62a2b8b89312d85b3a7359d5320e20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801382146919",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/natures_yogurt_peach_340ml/p/1564405684714508919"
+    },
+    {
+      "id": "1564405684703893489",
+      "store_id": "2052",
+      "like_code": "280602",
+      "department_id": [
+        "22459265"
+      ],
+      "price": "₱195.50",
+      "unit_price": 195.5,
+      "popularity": 999999,
+      "upc": "480488828793",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888287937",
+      "reference_ids": [
+        "04804888287944",
+        "04804888287937"
+      ],
+      "name": "Navarro's Crab Paste Regular | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703893489/3f693da343582394c4b2d2b13e660d13",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04804888287937",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_pastes/navarro_s_crab_paste_regular_210g/p/1564405684703893489"
+    },
+    {
+      "id": "1564405684703893487",
+      "store_id": "2052",
+      "like_code": "280607",
+      "department_id": [
+        "22459265"
+      ],
+      "price": "₱315.00",
+      "unit_price": 315.0,
+      "popularity": 3225,
+      "upc": "480488828706",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888287067",
+      "reference_ids": [
+        "04804888287067"
+      ],
+      "name": "Navarros' Crab Paste Special | 227g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703893487/fbd4f38c2ea53bb995203aff3c29e53d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888287067",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_pastes/navarros_crab_paste_special_227g/p/1564405684703893487"
+    },
+    {
+      "id": "1564405684704729517",
+      "store_id": "2052",
+      "like_code": "280603",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱153.50",
+      "unit_price": 153.5,
+      "popularity": 2654,
+      "upc": "480488828710",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888287104",
+      "reference_ids": [
+        "04804888287104"
+      ],
+      "name": "Navarros Fermented Mudfish in Rice | 227g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729517/a74d2b3e092df1733ce84cf675653fbd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888287104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/navarros_fermented_mudfish_in_rice_227g/p/1564405684704729517"
+    },
+    {
+      "id": "1564405684703893488",
+      "store_id": "2052",
+      "like_code": "280604",
+      "department_id": [
+        "22459265"
+      ],
+      "price": "₱455.50",
+      "unit_price": 455.5,
+      "popularity": 3224,
+      "upc": "480488828702",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888287029",
+      "reference_ids": [
+        "04804888287029"
+      ],
+      "name": "Navarros Premium Crab Paste | 227g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703893488/7e9c8585cd5b75c238046a43d3fc34ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888287029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_pastes/navarros_premium_crab_paste_227g/p/1564405684703893488"
+    },
+    {
+      "id": "1564405684702524986",
+      "store_id": "2052",
+      "like_code": "196729",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 999999,
+      "upc": "200001967298",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000019672982",
+      "reference_ids": [
+        "02000019672982"
+      ],
+      "name": "Navel Oranges | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702524986/ca8734cf27d80939397f1506bc8cffc6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000019672982",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/navel_oranges_pc/p/1564405684702524986"
+    },
+    {
+      "id": "1764405684715013182",
+      "store_id": "2052",
+      "like_code": "388658",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱466.00",
+      "unit_price": 466.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38865",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000388658",
+      "reference_ids": [
+        "00000000388658"
+      ],
+      "name": "Neltes Tuna Belly | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715013182/16cb78ba327a729f1fa1de1628ea6781",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000388658",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/neltes_tuna_belly_kg/p/1764405684715013182"
+    },
+    {
+      "id": "1564405684702550305",
+      "store_id": "2052",
+      "like_code": "118146",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 999999,
+      "upc": "480778851990",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788519900",
+      "reference_ids": [
+        "04807788521118",
+        "04807788519900",
+        "04807788407337"
+      ],
+      "name": "Neozep Syrup | 60ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550305/4c780310387ba33c1deb3143c1b95b0b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04807788519900",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/neozep_syrup_60ml/p/1564405684702550305"
+    },
+    {
+      "id": "1764405684715322338",
+      "store_id": "2052",
+      "like_code": "444062",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 9173,
+      "upc": "480036142959",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429597",
+      "reference_ids": [
+        "04800361429597"
+      ],
+      "name": "Nescafe 3-in-1 Creamy Latte | 20g x 20s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715322338/e1f381631c8a6a812647c8cfc9118d02",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429597",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_3_in_1_creamy_latte_20g_x_20s/p/1764405684715322338"
+    },
+    {
+      "id": "1764405684715322334",
+      "store_id": "2052",
+      "like_code": "444061",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 5005,
+      "upc": "480036142961",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429610",
+      "reference_ids": [
+        "04800361429610"
+      ],
+      "name": "Nescafe 3-in-1 Creamy White | 20g x 20s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715322334/07eb510972bedcc08a0270c34acb31b6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429610",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_3_in_1_creamy_white_20g_x_20s/p/1764405684715322334"
+    },
+    {
+      "id": "1764405684715322336",
+      "store_id": "2052",
+      "like_code": "444060",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 6306,
+      "upc": "480036142963",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429634",
+      "reference_ids": [
+        "04800361429634"
+      ],
+      "name": "Nescafe 3-in-1 Original | 20g x 20s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715322336/81ee37d1a03dd18c812c9a4a92a9e2da",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429634",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_3_in_1_original_20g_x_20s/p/1764405684715322336"
+    },
+    {
+      "id": "1564405684711078524",
+      "store_id": "2052",
+      "like_code": "346465",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 999999,
+      "upc": "480036141725",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361417259",
+      "reference_ids": [
+        "04800361417259"
+      ],
+      "name": "Nescafe Cafe Creations Double Latte | 33g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711078524/a02bc03d0de171b414946512a358b44b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361417259",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_cafe_creations_double_latte_33g_x_10s/p/1564405684711078524"
+    },
+    {
+      "id": "1564405684712769260",
+      "store_id": "2052",
+      "like_code": "364591",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 999999,
+      "upc": "200003645911",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000036459115",
+      "reference_ids": [
+        "02000036459115"
+      ],
+      "name": "Nescafe Classic 170g & Coffee Mate Creamer 400g | 2s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712769260/f8612b0cc3cc1aebe0b04ed48c9dd6e9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000036459115",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_classic_170g_coffee_mate_creamer_400g_2s/p/1564405684712769260"
+    }
+  ]
+}

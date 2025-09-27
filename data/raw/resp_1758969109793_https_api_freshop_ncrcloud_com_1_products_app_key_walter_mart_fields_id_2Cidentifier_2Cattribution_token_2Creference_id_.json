@@ -1,0 +1,2259 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702541340",
+      "store_id": "2052",
+      "like_code": "136634",
+      "department_id": [
+        "22459319"
+      ],
+      "price": "₱347.75",
+      "unit_price": 347.75,
+      "popularity": 8783,
+      "upc": "480048895862",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488958628",
+      "reference_ids": [
+        "04800488958628"
+      ],
+      "name": "Caress Adult Diaper Maxi Overnight Large | 8s",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMSENIORFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541340/514cec6692a28f3a9ead968d30fd566e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488958628",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 33",
+        "sequence": 33,
+        "identifier": "2dbbe32a-2553-4e6e-897a-c0cb3880c279",
+        "id": "22356796"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/adult_care/caress_adult_diaper_maxi_overnight_large_8s/p/1564405684702541340"
+    },
+    {
+      "id": "1564405684702541338",
+      "store_id": "2052",
+      "like_code": "136448",
+      "department_id": [
+        "22459319"
+      ],
+      "price": "₱342.00",
+      "unit_price": 342.0,
+      "popularity": 8415,
+      "upc": "480048895861",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488958611",
+      "reference_ids": [
+        "04800488958611"
+      ],
+      "name": "Caress Adult Diaper Maxi Overnight Medium | 10S",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMSENIORFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541338/59dd092df7059e244c44017f5e0bf735",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488958611",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 33",
+        "sequence": 33,
+        "identifier": "2dbbe32a-2553-4e6e-897a-c0cb3880c279",
+        "id": "22356796"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/adult_care/caress_adult_diaper_maxi_overnight_medium_10_s/p/1564405684702541338"
+    },
+    {
+      "id": "1564405684702541312",
+      "store_id": "2052",
+      "like_code": "93098",
+      "department_id": [
+        "22459319"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 9773,
+      "upc": "480048809974",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488099741",
+      "reference_ids": [
+        "04800488099741"
+      ],
+      "name": "Caress Adult Diaper Underpads | 10s",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMSENIORFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541312/894a67a33007be9eee4903579fa492f6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488099741",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 33",
+        "sequence": 33,
+        "identifier": "2dbbe32a-2553-4e6e-897a-c0cb3880c279",
+        "id": "22356796"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/adult_care/caress_adult_diaper_underpads_10s/p/1564405684702541312"
+    },
+    {
+      "id": "1564405684704699541",
+      "store_id": "2052",
+      "like_code": "290769",
+      "department_id": [
+        "1496181"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 5987,
+      "upc": "480048809975",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488099758",
+      "reference_ids": [
+        "04800488099758"
+      ],
+      "name": "Caress Adult Diaper Underpads | Large",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMSENIORFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704699541/e4097bdbe04fb527add5ea4b85536655",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488099758",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/feminine_care/caress_adult_diaper_underpads_large/p/1564405684704699541"
+    },
+    {
+      "id": "1564405684705180358",
+      "store_id": "2052",
+      "like_code": "329263",
+      "department_id": [
+        "22459319"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 6399,
+      "upc": "480048895888",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488958888",
+      "reference_ids": [
+        "04800488958888"
+      ],
+      "name": "Caress Adult Diaper Underpads XL | 8S",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMSENIORFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684705180358/3506e31c449c432246acc9a0f5748550",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488958888",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 33",
+        "sequence": 33,
+        "identifier": "2dbbe32a-2553-4e6e-897a-c0cb3880c279",
+        "id": "22356796"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/adult_care/caress_adult_diaper_underpads_xl_8_s/p/1564405684705180358"
+    },
+    {
+      "id": "1564405684702541289",
+      "store_id": "2052",
+      "like_code": "158457",
+      "department_id": [
+        "22459319"
+      ],
+      "price": "₱319.75",
+      "unit_price": 319.75,
+      "popularity": 6571,
+      "upc": "480048807028",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800488070283",
+      "reference_ids": [
+        "04800488070283"
+      ],
+      "name": "Caress Unisex Adult Diaper Basic Scented Extra Large | 10s",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMSENIORFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541289/dc8f3454ae81f892fd260223e56ae652",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800488070283",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 33",
+        "sequence": 33,
+        "identifier": "2dbbe32a-2553-4e6e-897a-c0cb3880c279",
+        "id": "22356796"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/adult_care/caress_unisex_adult_diaper_basic_scented_extra_large_10s/p/1564405684702541289"
+    },
+    {
+      "id": "182046",
+      "store_id": "2052",
+      "like_code": "199783",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱1,590.00",
+      "unit_price": 1590.0,
+      "popularity": 999999,
+      "upc": "8500000694",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000006948",
+      "reference_ids": [
+        "00085000006948"
+      ],
+      "name": "Carlo Rossi Burgundy Red Wine | 4L",
+      "size": "4 l",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00085000006948/c8c515e48cb58ca2607d78fdf0e9607c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000006948",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_burgundy_red_wine_4_l/p/182046"
+    },
+    {
+      "id": "1564405684702503980",
+      "store_id": "2052",
+      "like_code": "199795",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱328.00",
+      "unit_price": 328.0,
+      "popularity": 999999,
+      "upc": "8500000330",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00085000003305",
+      "reference_ids": [
+        "00085000003305"
+      ],
+      "name": "Carlo Rossi Cabernet Sauvignon | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00085000003305/cebaa76654174d3eee9bbcce4150de62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000003305",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_cabernet_sauvignon_750ml/p/1564405684702503980"
+    },
+    {
+      "id": "1564405684702503986",
+      "store_id": "2052",
+      "like_code": "199788",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱1,230.00",
+      "unit_price": 1230.0,
+      "popularity": 999999,
+      "upc": "8500002511",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000025116",
+      "reference_ids": [
+        "00085000025116",
+        "04901777180048"
+      ],
+      "name": "Carlo Rossi California Red Box | 3L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503986/25cc4903ddfec395515eec0ccdb3ebde",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000025116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_california_red_box_3_l/p/1564405684702503986"
+    },
+    {
+      "id": "1564405684702503978",
+      "store_id": "2052",
+      "like_code": "199792",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱708.00",
+      "unit_price": 708.0,
+      "popularity": 999999,
+      "upc": "8500000322",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000003220",
+      "reference_ids": [
+        "00085000003220"
+      ],
+      "name": "Carlo Rossi California Red Wine | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503978/69c4e409f4c53eff432580b35916f2ed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000003220",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_california_red_wine_1_5_l/p/1564405684702503978"
+    },
+    {
+      "id": "1564405684702503987",
+      "store_id": "2052",
+      "like_code": "222017",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "8500002513",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000025130",
+      "reference_ids": [
+        "04901777180147",
+        "00085000025130"
+      ],
+      "name": "Carlo Rossi California Red Wine | 187ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503987/6b9931c860f8922e2b6b10998619ee49",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000025130",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_california_red_wine_187ml/p/1564405684702503987"
+    },
+    {
+      "id": "1564405684702503977",
+      "store_id": "2052",
+      "like_code": "199796",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱360.00",
+      "unit_price": 360.0,
+      "popularity": 9,
+      "upc": "8500000188",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000001882",
+      "reference_ids": [
+        "00085000001882"
+      ],
+      "name": "Carlo Rossi California Red Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00085000001882/c95a3a1b70a4896657d09cabb09785ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000001882",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_california_red_wine_750ml/p/1564405684702503977"
+    },
+    {
+      "id": "182048",
+      "store_id": "2052",
+      "like_code": "199790",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱708.00",
+      "unit_price": 708.0,
+      "popularity": 999999,
+      "upc": "8500000704",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000007044",
+      "reference_ids": [
+        "00085000007044"
+      ],
+      "name": "Carlo Rossi Chablis White Wine | 1.5L",
+      "size": "1.5 l",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "182048/23507ad5796ead4b44af458150e6cbf2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000007044",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_chablis_white_wine_1_5_l/p/182048"
+    },
+    {
+      "id": "1564405684702503976",
+      "store_id": "2052",
+      "like_code": "199798",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱358.00",
+      "unit_price": 358.0,
+      "popularity": 7189,
+      "upc": "8500000186",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00085000001868",
+      "reference_ids": [
+        "00085000001868"
+      ],
+      "name": "Carlo Rossi Chablis White Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00085000001868/0f7b426c09cbb5b1a4a76d21ba8f4475",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000001868",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_chablis_white_wine_750ml/p/1564405684702503976"
+    },
+    {
+      "id": "1564405684702503985",
+      "store_id": "2052",
+      "like_code": "267162",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱358.00",
+      "unit_price": 358.0,
+      "popularity": 9370,
+      "upc": "8500002251",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000022511",
+      "reference_ids": [
+        "00085000022511"
+      ],
+      "name": "Carlo Rossi Moscato White Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503985/8134a2728a596e658672b69d14e8cb73",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000022511",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_moscato_white_wine_750ml/p/1564405684702503985"
+    },
+    {
+      "id": "1564405684704549650",
+      "store_id": "2052",
+      "like_code": "315608",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱358.00",
+      "unit_price": 358.0,
+      "popularity": 9,
+      "upc": "8500002321",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000023211",
+      "reference_ids": [
+        "00085000023211"
+      ],
+      "name": "Carlo Rossi Pink Moscato Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704549650/dca84d1e04d284d515735eb15a6d9b96",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000023211",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_pink_moscato_wine_750ml/p/1564405684704549650"
+    },
+    {
+      "id": "1564405684702503988",
+      "store_id": "2052",
+      "like_code": "199797",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱353.00",
+      "unit_price": 353.0,
+      "popularity": 4635,
+      "upc": "8500002512",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000025123",
+      "reference_ids": [
+        "00085000025123",
+        "00490177718010",
+        "04901777180109"
+      ],
+      "name": "Carlo Rossi Red Moscato Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503988/4d022fffa95ed72ba47134b1b203b898",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000025123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_red_moscato_wine_750ml/p/1564405684702503988"
+    },
+    {
+      "id": "182049",
+      "store_id": "2052",
+      "like_code": "199791",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱708.00",
+      "unit_price": 708.0,
+      "popularity": 999999,
+      "upc": "8500000713",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000007136",
+      "reference_ids": [
+        "00085000007136"
+      ],
+      "name": "Carlo Rossi Sangria Red Wine | 1.5L",
+      "size": "1.5 l",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "182049/25ca72aa97fe560506d4a6744bcdb4b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00085000007136",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_sangria_red_wine_1_5_l/p/182049"
+    },
+    {
+      "id": "1564405684702503981",
+      "store_id": "2052",
+      "like_code": "199799",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱358.00",
+      "unit_price": 358.0,
+      "popularity": 7412,
+      "upc": "8500001669",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000016695",
+      "reference_ids": [
+        "00085000016695"
+      ],
+      "name": "Carlo Rossi Sangria Red Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503981/2229def67bc33f88e1156db7d3a71e82",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000016695",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_sangria_red_wine_750ml/p/1564405684702503981"
+    },
+    {
+      "id": "1564405684702503983",
+      "store_id": "2052",
+      "like_code": "199793",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱365.00",
+      "unit_price": 365.0,
+      "popularity": 7487,
+      "upc": "8500001984",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000019849",
+      "reference_ids": [
+        "00085000019849"
+      ],
+      "name": "Carlo Rossi Sweet Red Wine | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503983/f9f79ebc86c74ea891787fe844828906",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000019849",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_sweet_red_wine_750ml/p/1564405684702503983"
+    },
+    {
+      "id": "1564405684702503982",
+      "store_id": "2052",
+      "like_code": "199787",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱707.00",
+      "unit_price": 707.0,
+      "popularity": 7735,
+      "upc": "8500000568",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00085000005682",
+      "reference_ids": [
+        "00085000019856",
+        "00085000005682"
+      ],
+      "name": "Carlo Rossi Wine Sweet Red | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503982/65a71553d56d2148f8fe0d68d1668c94",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00085000005682",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlo_rossi_wine_sweet_red_1_5_l/p/1564405684702503982"
+    },
+    {
+      "id": "1564405684704734338",
+      "store_id": "2052",
+      "like_code": "289785",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱432.00",
+      "unit_price": 432.0,
+      "popularity": 8846,
+      "upc": "841033701502",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410337015028",
+      "reference_ids": [
+        "08410337015028"
+      ],
+      "name": "Carlos Light Brandy | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704734338/2c8624c0ca4b515985fb0e7deb55e0a9",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3710861859549625335",
+          "reference_id": "tpr_2052_08410337015028_388_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684704734338"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8846,
+          "product_tag_ids": [
+            "1496197",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ddf34411771439b26068a2147cab3fd3",
+          "similarity_priority": 5,
+          "name": "Carlos Light Brandy | 1L",
+          "sale_price": "₱388.75",
+          "sale_price_md": "**₱388.75** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3710864277104507556",
+          "reference_id": "ad_2052_08410337015028_1_388_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684704734338"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4423,
+          "product_tag_ids": [
+            "1496197",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f171a0f0b6d5a4f57286de4606135ffb",
+          "similarity_priority": 6,
+          "name": "Carlos Light Brandy | 1L",
+          "sale_price": "₱388.75",
+          "sale_price_md": "**₱388.75** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱388.75",
+      "sale_price_md": "**₱388.75** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3710861859549625335",
+        "reference_id": "tpr_2052_08410337015028_388_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684704734338"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8846,
+        "product_tag_ids": [
+          "1496197",
+          "22474153",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ddf34411771439b26068a2147cab3fd3",
+        "similarity_priority": 5,
+        "name": "Carlos Light Brandy | 1L",
+        "sale_price": "₱388.75",
+        "sale_price_md": "**₱388.75** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 388.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱388.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410337015028",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/carlos_light_brandy_1_l/p/1564405684704734338"
+    },
+    {
+      "id": "1564405684711970490",
+      "store_id": "2052",
+      "like_code": "354582",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱279.75",
+      "unit_price": 279.75,
+      "popularity": 999999,
+      "upc": "841370026228",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700262289",
+      "reference_ids": [
+        "08413700262289"
+      ],
+      "name": "Carmencita Carmencita Chicken Seasoning | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970490/38fd0b4c1e4e0ef1ece4682bc7dfdeeb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700262289",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_carmencita_chicken_seasoning_70g/p/1564405684711970490"
+    },
+    {
+      "id": "1564405684711970484",
+      "store_id": "2052",
+      "like_code": "354579",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱321.00",
+      "unit_price": 321.0,
+      "popularity": 999999,
+      "upc": "841370007428",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700074288",
+      "reference_ids": [
+        "08413700074288"
+      ],
+      "name": "Carmencita Green Pepper | 35g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970484/63c6cd30da973da4641a0eb238806745",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700074288",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_green_pepper_35g/p/1564405684711970484"
+    },
+    {
+      "id": "1564405684711970482",
+      "store_id": "2052",
+      "like_code": "354577",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 999999,
+      "upc": "841370007038",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700070389",
+      "reference_ids": [
+        "08413700070389"
+      ],
+      "name": "Carmencita Ground Saffron | 0.375g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970482/bf228423bda2317b4ade409466b19db3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700070389",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_ground_saffron_0_375g/p/1564405684711970482"
+    },
+    {
+      "id": "1564405684711970492",
+      "store_id": "2052",
+      "like_code": "354584",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱337.75",
+      "unit_price": 337.75,
+      "popularity": 999999,
+      "upc": "841370055728",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700557286",
+      "reference_ids": [
+        "08413700557286"
+      ],
+      "name": "Carmencita Himalayan Pink Salt Grinder | 110g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970492/6c17181e725c241d09058fcff869eb02",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700557286",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_himalayan_pink_salt_grinder_110g/p/1564405684711970492"
+    },
+    {
+      "id": "1564405684711970493",
+      "store_id": "2052",
+      "like_code": "354583",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱278.50",
+      "unit_price": 278.5,
+      "popularity": 999999,
+      "upc": "841370064846",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700648465",
+      "reference_ids": [
+        "08413700648465"
+      ],
+      "name": "Carmencita Mediterranean Mix Seasoning | 66g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970493/4712f9a106ad7535864103dd6bd303b0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700648465",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_mediterranean_mix_seasoning_66g/p/1564405684711970493"
+    },
+    {
+      "id": "1564405684711970486",
+      "store_id": "2052",
+      "like_code": "354574",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱203.00",
+      "unit_price": 203.0,
+      "popularity": 999999,
+      "upc": "841370022589",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700225895",
+      "reference_ids": [
+        "08413700225895"
+      ],
+      "name": "Carmencita Paellero Marinera | 12g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970486/29095c9fe2d47869547a2ef7ce4a4f9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700225895",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_paellero_marinera_12g/p/1564405684711970486"
+    },
+    {
+      "id": "1564405684711970488",
+      "store_id": "2052",
+      "like_code": "354575",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱203.00",
+      "unit_price": 203.0,
+      "popularity": 999999,
+      "upc": "841370022689",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700226892",
+      "reference_ids": [
+        "08413700226892"
+      ],
+      "name": "Carmencita Paellero Valenciana | 12g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970488/2a5f67b045ca9f5d539680d5b2d8898c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700226892",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_paellero_valenciana_12g/p/1564405684711970488"
+    },
+    {
+      "id": "1564405684711970483",
+      "store_id": "2052",
+      "like_code": "354571",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱208.00",
+      "unit_price": 208.0,
+      "popularity": 999999,
+      "upc": "841370008180",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700081804",
+      "reference_ids": [
+        "08413700081804"
+      ],
+      "name": "Carmencita Paellero With Saffron | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970483/92d40adb415e4803c0a331f90d5f9f97",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700081804",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_paellero_with_saffron_20g/p/1564405684711970483"
+    },
+    {
+      "id": "1564405684711970487",
+      "store_id": "2052",
+      "like_code": "354580",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱221.75",
+      "unit_price": 221.75,
+      "popularity": 999999,
+      "upc": "841370019028",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700190285",
+      "reference_ids": [
+        "08413700190285"
+      ],
+      "name": "Carmencita Sea Salt With Herbs | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970487/c0f6039c88b16f1378ee462a15b1524b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700190285",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_sea_salt_with_herbs_85g/p/1564405684711970487"
+    },
+    {
+      "id": "1564405684711970480",
+      "store_id": "2052",
+      "like_code": "354576",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱337.75",
+      "unit_price": 337.75,
+      "popularity": 999999,
+      "upc": "841370005438",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08413700054389",
+      "reference_ids": [
+        "08413700054389"
+      ],
+      "name": "Carmencita Stigmas Saffron | 0.375g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970480/cfe21b6584e37f60090b2ecfca658e31",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08413700054389",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmencita_stigmas_saffron_0_375g/p/1564405684711970480"
+    },
+    {
+      "id": "1764405684715333358",
+      "store_id": "2052",
+      "like_code": "445455",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "upc": "63424029244",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00634240292446",
+      "reference_ids": [
+        "00634240292446"
+      ],
+      "name": "Carmen's Best Barista Fresh Milk | 1L",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715333358/7bfece2577372cebd675b53c3dae6441",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00634240292446",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmen_s_best_barista_fresh_milk_1_l/p/1764405684715333358"
+    },
+    {
+      "id": "1764405684715136352",
+      "store_id": "2052",
+      "like_code": "439841",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "63424029240",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00634240292408",
+      "reference_ids": [
+        "00634240292408"
+      ],
+      "name": "Carmen's Best Chocolate Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715136352/2b8a37f5253600787ed9c0f722fed736",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00634240292408",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmen_s_best_chocolate_milk_1_l/p/1764405684715136352"
+    },
+    {
+      "id": "1764405684715264838",
+      "store_id": "2052",
+      "like_code": "441728",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 999999,
+      "upc": "63424025673",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00634240256738",
+      "reference_ids": [
+        "00634240256738",
+        "00634246256738"
+      ],
+      "name": "Carmen's Best Kesong Puti | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715264838/c256ac11b8d57c355826c53e23e00813",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00634240256738",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/carmen_s_best_kesong_puti_200g/p/1764405684715264838"
+    },
+    {
+      "id": "1764405684715136354",
+      "store_id": "2052",
+      "like_code": "439840",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "63424029238",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00634240292385",
+      "reference_ids": [
+        "00634240292385"
+      ],
+      "name": "Carmen's Best Low Fat Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715136354/daa14cabdeb5f205663d8dbaa47431fa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00634240292385",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmen_s_best_low_fat_milk_1_l/p/1764405684715136354"
+    },
+    {
+      "id": "1764405684715656826",
+      "store_id": "2052",
+      "like_code": "455096",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "upc": "63424029242",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00634240292422",
+      "reference_ids": [
+        "00634240292422"
+      ],
+      "name": "Carmens Best Salted Caramel Milk 1lt",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00634240292422",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmens_best_salted_caramel_milk_1lt/p/1764405684715656826"
+    },
+    {
+      "id": "1764405684715136350",
+      "store_id": "2052",
+      "like_code": "439839",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱190.00",
+      "unit_price": 190.0,
+      "popularity": 999999,
+      "upc": "63424029236",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00634240292361",
+      "reference_ids": [
+        "00634240292361"
+      ],
+      "name": "Carmen's Best Whole Milk | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715136350/72942af0cb975dd40401c492c2940c1e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00634240292361",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carmen_s_best_whole_milk_1_l/p/1764405684715136350"
+    },
+    {
+      "id": "1564405684702541863",
+      "store_id": "2052",
+      "like_code": "116163",
+      "department_id": [
+        "22459220"
+      ],
+      "price": "₱70.25",
+      "unit_price": 70.25,
+      "popularity": 13,
+      "upc": "480036141930",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361419307",
+      "reference_ids": [
+        "04800361419307",
+        "04800575883505"
+      ],
+      "name": "Carnation Condensada Sweetened Condensed Creamer | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541863/240e524e1d4ca53f3934fcbedf03e7bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361419307",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/cream/carnation_condensada_sweetened_condensed_creamer_300ml/p/1564405684702541863"
+    },
+    {
+      "id": "2531910",
+      "store_id": "2052",
+      "like_code": "15432",
+      "department_id": [
+        "22459247"
+      ],
+      "price": "₱247.50",
+      "unit_price": 247.5,
+      "popularity": 10,
+      "upc": "5000033035",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00050000330355",
+      "reference_ids": [
+        "00050000330355"
+      ],
+      "name": "Carnation Hash Brown Potatoes | 637g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "2531910/21916f5b96c4d717cd2afc68bde968ce",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461904296228888",
+          "reference_id": "tpr_2052_00050000330355_234_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616769500690844"
+          ],
+          "product_ids": [
+            "2531910"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "216193",
+            "22356784",
+            "22459113",
+            "22459247",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "092952908ab7c80d6977f7930ff62a82",
+          "similarity_priority": 5,
+          "name": "Carnation Hash Brown Potatoes | 637g",
+          "sale_price": "₱234.00",
+          "sale_price_md": "**₱234.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461645960656919",
+          "reference_id": "ad_2052_00050000330355_1_234_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616769500690844"
+          ],
+          "product_ids": [
+            "2531910"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "216193",
+            "22356784",
+            "22459113",
+            "22459247",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b3d05b381c2a8bd0ccdb9893d4a4c54f",
+          "similarity_priority": 6,
+          "name": "Carnation Hash Brown Potatoes | 637g",
+          "sale_price": "₱234.00",
+          "sale_price_md": "**₱234.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱234.00",
+      "sale_price_md": "**₱234.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461904296228888",
+        "reference_id": "tpr_2052_00050000330355_234_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616769500690844"
+        ],
+        "product_ids": [
+          "2531910"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "216193",
+          "22356784",
+          "22459113",
+          "22459247",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "092952908ab7c80d6977f7930ff62a82",
+        "similarity_priority": 5,
+        "name": "Carnation Hash Brown Potatoes | 637g",
+        "sale_price": "₱234.00",
+        "sale_price_md": "**₱234.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 234.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱234.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00050000330355",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_fruits_veggies/frozen_veggies/carnation_hash_brown_potatoes_637g/p/2531910"
+    },
+    {
+      "id": "1564405684702503687",
+      "store_id": "2052",
+      "like_code": "151608",
+      "department_id": [
+        "22459247"
+      ],
+      "price": "₱228.25",
+      "unit_price": 228.25,
+      "popularity": 6257,
+      "upc": "5000033036",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00050000330362",
+      "reference_ids": [
+        "00050000330362"
+      ],
+      "name": "Carnation Mini Hash Browns | 18s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503687/b8c477f1d9f7f37529b09c5b36edb419",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00050000330362",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_fruits_veggies/frozen_veggies/carnation_mini_hash_browns_18s/p/1564405684702503687"
+    },
+    {
+      "id": "1564405684702551120",
+      "store_id": "2052",
+      "like_code": "133013",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 6148,
+      "upc": "480901026240",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010262400",
+      "reference_ids": [
+        "04809010262400"
+      ],
+      "name": "Carp Vinegar Sukang Sasa | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551120/5b006708017b42478263335e03c9a50c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809010262400",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/carp_vinegar_sukang_sasa_1_l/p/1564405684702551120"
+    },
+    {
+      "id": "1564405684709842000",
+      "store_id": "2052",
+      "like_code": "338084",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 9034,
+      "upc": "480901020904",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04809010209047",
+      "reference_ids": [
+        "04809010209047"
+      ],
+      "name": "Casa De Tortilla BBQ Flavor | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709842000/2f0255a1e6008ffb64938ce98afe5859",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809010209047",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/casa_de_tortilla_bbq_flavor_500g/p/1564405684709842000"
+    },
+    {
+      "id": "1564405684709842001",
+      "store_id": "2052",
+      "like_code": "338085",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 9035,
+      "upc": "480901020905",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04809010209054",
+      "reference_ids": [
+        "04809010209054"
+      ],
+      "name": "Casa De Tortilla Cheese Flavor | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709842001/49bb886a72f05e45694a93e657f1ab34",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809010209054",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/casa_de_tortilla_cheese_flavor_500g/p/1564405684709842001"
+    },
+    {
+      "id": "1564405684709842002",
+      "store_id": "2052",
+      "like_code": "338086",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 9036,
+      "upc": "480901020946",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04809010209467",
+      "reference_ids": [
+        "04809010209467"
+      ],
+      "name": "Casa De Tortilla Natural Flavor | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709842002/c96146b4322b6cd5a025560ac29853f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809010209467",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/casa_de_tortilla_natural_flavor_500g/p/1564405684709842002"
+    },
+    {
+      "id": "1564405684702556313",
+      "store_id": "2052",
+      "like_code": "86491",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱345.00",
+      "unit_price": 345.0,
+      "popularity": 99999,
+      "upc": "780432102858",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07804321028582",
+      "reference_ids": [
+        "07804321028582"
+      ],
+      "name": "Casa Lo Matta Cabernet Sauvignon | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556313/694ef5f894a3274878cb0735ddb50e54",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07804321028582",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/casa_lo_matta_cabernet_sauvignon_750ml/p/1564405684702556313"
+    },
+    {
+      "id": "1564405684702556316",
+      "store_id": "2052",
+      "like_code": "124801",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱345.00",
+      "unit_price": 345.0,
+      "popularity": 99999,
+      "upc": "780432102860",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07804321028605",
+      "reference_ids": [
+        "07804321028605"
+      ],
+      "name": "Casa Lo Matta Merlot | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556316/9210be6809627c2ace4c3ac1b11bf756",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07804321028605",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/casa_lo_matta_merlot_750ml/p/1564405684702556316"
+    },
+    {
+      "id": "1564405684702556315",
+      "store_id": "2052",
+      "like_code": "86492",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱345.00",
+      "unit_price": 345.0,
+      "popularity": 3274,
+      "upc": "780432102859",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07804321028599",
+      "reference_ids": [
+        "07804321028599"
+      ],
+      "name": "Casa Lo Matta Sauvignon Blanc | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556315/1d706f9e3ff09b9d8d3d9338afb3be17",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07804321028599",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/casa_lo_matta_sauvignon_blanc_750ml/p/1564405684702556315"
+    }
+  ]
+}

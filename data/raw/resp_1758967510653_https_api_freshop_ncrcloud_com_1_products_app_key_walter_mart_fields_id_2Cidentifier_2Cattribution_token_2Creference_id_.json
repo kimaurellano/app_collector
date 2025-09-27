@@ -1,0 +1,2587 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684712827587",
+      "store_id": "2052",
+      "like_code": "348757",
+      "department_id": [
+        "22575948"
+      ],
+      "price": "₱599.00",
+      "unit_price": 599.0,
+      "popularity": 999999,
+      "upc": "200003487570",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034875702",
+      "reference_ids": [
+        "02000034875702"
+      ],
+      "name": "Cascade Slim Trolley with Wheels | 3 Layers",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712827587/0a688f974311a73dd33bd8e1291c09f4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034875702",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/cascade_slim_trolley_with_wheels_3_layers/p/1564405684712827587"
+    },
+    {
+      "id": "1564405684702556299",
+      "store_id": "2052",
+      "like_code": "119349",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱795.00",
+      "unit_price": 795.0,
+      "popularity": 3147,
+      "upc": "780432030317",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07804320303178",
+      "reference_ids": [
+        "07804320303178"
+      ],
+      "name": "Casillero Del Diablo Cabernet Sauvignon | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702556299/99a4576f8cc1c6f1b4d23514abeafec6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07804320303178",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/casillero_del_diablo_cabernet_sauvignon_750ml/p/1564405684702556299"
+    },
+    {
+      "id": "5545042",
+      "store_id": "2052",
+      "like_code": "119347",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱825.00",
+      "unit_price": 825.0,
+      "popularity": 999999,
+      "upc": "780432098563",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07804320985633",
+      "reference_ids": [
+        "07804320985633"
+      ],
+      "name": "Casillero Del Diablo Merlot | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "5545042/02cf9db7af1301ebf463846264593f14",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07804320985633",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/casillero_del_diablo_merlot_750ml/p/5545042"
+    },
+    {
+      "id": "1564405684704734804",
+      "store_id": "2052",
+      "like_code": "289797",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱825.00",
+      "unit_price": 825.0,
+      "popularity": 999999,
+      "upc": "780432051017",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07804320510170",
+      "reference_ids": [
+        "07804320510170"
+      ],
+      "name": "Casillero Del Diablo Wine Shiraz | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704734804/a4fbeebe36cb5d472421867e39d80df5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07804320510170",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/casillero_del_diablo_wine_shiraz_750ml/p/1564405684704734804"
+    },
+    {
+      "id": "1564405684702535519",
+      "store_id": "2052",
+      "like_code": "7913",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 5011,
+      "upc": "480001112122",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011121222",
+      "reference_ids": [
+        "04800011121222",
+        "04800011121529"
+      ],
+      "name": "Casino Ethyl Alcohol 70% Solution | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535519/4f6580a681fb2685fdf8a7235195d242",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3535464204913884024",
+          "reference_id": "tpr_2052_04800011121222_44_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3537760862934677707",
+            "3615995837299046473"
+          ],
+          "product_ids": [
+            "1564405684702535519"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5011,
+          "product_tag_ids": [
+            "1496183",
+            "22474153",
+            "22475760",
+            "22634381",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5f52f892631b46c2bc9218fac4005659",
+          "similarity_priority": 5,
+          "name": "Casino Ethyl Alcohol 70% Solution | 250ml",
+          "sale_price": "₱44.00",
+          "sale_price_md": "**₱44.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3535464719110388142",
+          "reference_id": "ad_2052_04800011121222_1_44_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3537760862934677707",
+            "3615995837299046473"
+          ],
+          "product_ids": [
+            "1564405684702535519"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2506,
+          "product_tag_ids": [
+            "1496183",
+            "22474153",
+            "22475760",
+            "22634381",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "fb74e542dc01e2acc88f981cff18ed99",
+          "similarity_priority": 6,
+          "name": "Casino Ethyl Alcohol 70% Solution | 250ml",
+          "sale_price": "₱44.00",
+          "sale_price_md": "**₱44.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱44.00",
+      "sale_price_md": "**₱44.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3535464204913884024",
+        "reference_id": "tpr_2052_04800011121222_44_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3537760862934677707",
+          "3615995837299046473"
+        ],
+        "product_ids": [
+          "1564405684702535519"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5011,
+        "product_tag_ids": [
+          "1496183",
+          "22474153",
+          "22475760",
+          "22634381",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "5f52f892631b46c2bc9218fac4005659",
+        "similarity_priority": 5,
+        "name": "Casino Ethyl Alcohol 70% Solution | 250ml",
+        "sale_price": "₱44.00",
+        "sale_price_md": "**₱44.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 44.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱44.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011121222",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/casino_ethyl_alcohol_70_solution_250ml/p/1564405684702535519"
+    },
+    {
+      "id": "1564405684702535520",
+      "store_id": "2052",
+      "like_code": "7921",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 1489,
+      "upc": "480001112123",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011121239",
+      "reference_ids": [
+        "04800011121239",
+        "04800011121536"
+      ],
+      "name": "Casino Ethyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535520/085ca638d75f6d180e1ce2f1d93d903a",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3450666965570435962",
+          "reference_id": "tpr_2052_04800011121239_76_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702535520"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1489,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22634381",
+            "22983163"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "06944ffa881b30fd639d4f78d03e8669",
+          "similarity_priority": 5,
+          "name": "Casino Ethyl Alcohol 70% Solution | 500ml",
+          "sale_price": "₱76.50",
+          "sale_price_md": "**₱76.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3450666965771762572",
+          "reference_id": "ad_2052_04800011121239_1_76_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702535520"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 745,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22634381",
+            "22983163"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "58f404d5b6d8b94ac9e088dd32214894",
+          "similarity_priority": 6,
+          "name": "Casino Ethyl Alcohol 70% Solution | 500ml",
+          "sale_price": "₱76.50",
+          "sale_price_md": "**₱76.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱76.50",
+      "sale_price_md": "**₱76.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3450666965570435962",
+        "reference_id": "tpr_2052_04800011121239_76_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702535520"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1489,
+        "product_tag_ids": [
+          "1496183",
+          "22356771",
+          "22475760",
+          "22634381",
+          "22983163"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "06944ffa881b30fd639d4f78d03e8669",
+        "similarity_priority": 5,
+        "name": "Casino Ethyl Alcohol 70% Solution | 500ml",
+        "sale_price": "₱76.50",
+        "sale_price_md": "**₱76.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 76.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱76.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011121239",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/casino_ethyl_alcohol_70_solution_500ml/p/1564405684702535520"
+    },
+    {
+      "id": "1564405684702535527",
+      "store_id": "2052",
+      "like_code": "7981",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱92.00",
+      "unit_price": 92.0,
+      "popularity": 5759,
+      "upc": "480001112163",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011121635",
+      "reference_ids": [
+        "04800011121635"
+      ],
+      "name": "Casino Ethyl Alcohol 70%  Solution Mild Fragrance | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535527/992a6d2731813ada4369a6b680ab5b4f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011121635",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/casino_ethyl_alcohol_70_solution_mild_fragrance_500ml/p/1564405684702535527"
+    },
+    {
+      "id": "1564405684702535533",
+      "store_id": "2052",
+      "like_code": "151069",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 1547,
+      "upc": "480001112222",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011122229",
+      "reference_ids": [
+        "04800011122229"
+      ],
+      "name": "Casino Femme Ethyl Alcohol 70% Solution | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535533/afbc7199c6eeb62967b59b932adc3e0f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3535464204871940981",
+          "reference_id": "tpr_2052_04800011122229_47_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3537760880215210327",
+            "3711844708557798318"
+          ],
+          "product_ids": [
+            "1564405684702535533"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1547,
+          "product_tag_ids": [
+            "1496183",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d5ee19d713f9f021b07a7a4de8909361",
+          "similarity_priority": 5,
+          "name": "Casino Femme Ethyl Alcohol 70% Solution | 250ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3535464720637114838",
+          "reference_id": "ad_2052_04800011122229_1_47_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3537760880215210327",
+            "3711844708557798318"
+          ],
+          "product_ids": [
+            "1564405684702535533"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 774,
+          "product_tag_ids": [
+            "1496183",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "78ad44e4bbcf18127c314238e60042ab",
+          "similarity_priority": 6,
+          "name": "Casino Femme Ethyl Alcohol 70% Solution | 250ml",
+          "sale_price": "₱47.00",
+          "sale_price_md": "**₱47.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱47.00",
+      "sale_price_md": "**₱47.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3535464204871940981",
+        "reference_id": "tpr_2052_04800011122229_47_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3537760880215210327",
+          "3711844708557798318"
+        ],
+        "product_ids": [
+          "1564405684702535533"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1547,
+        "product_tag_ids": [
+          "1496183",
+          "22474153",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "d5ee19d713f9f021b07a7a4de8909361",
+        "similarity_priority": 5,
+        "name": "Casino Femme Ethyl Alcohol 70% Solution | 250ml",
+        "sale_price": "₱47.00",
+        "sale_price_md": "**₱47.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 47.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱47.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011122229",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/casino_femme_ethyl_alcohol_70_solution_250ml/p/1564405684702535533"
+    },
+    {
+      "id": "1564405684702535525",
+      "store_id": "2052",
+      "like_code": "7931",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱92.00",
+      "unit_price": 92.0,
+      "popularity": 1247,
+      "upc": "480001112156",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011121567",
+      "reference_ids": [
+        "04800011121567"
+      ],
+      "name": "Casino Femme Ethyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535525/ddd4aaec86154377e3bef26355cac229",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011121567",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/casino_femme_ethyl_alcohol_70_solution_500ml/p/1564405684702535525"
+    },
+    {
+      "id": "1564405684702535528",
+      "store_id": "2052",
+      "like_code": "165230",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 1341,
+      "upc": "480001112223",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800011122236",
+      "reference_ids": [
+        "04800011122236"
+      ],
+      "name": "Casino Femme Ethyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535528/83170c83669f44a791cc8db0e50d163e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3450666966577068964",
+          "reference_id": "tpr_2052_04800011122236_81_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3579820437284076445",
+            "3623267225932150925"
+          ],
+          "product_ids": [
+            "1564405684702535528"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1060,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22919042",
+            "22983163"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "acfbdbcf8604fac6f0bbdef8694efff6",
+          "similarity_priority": 5,
+          "name": "Casino Femme Ethyl Alcohol 70% Solution | 500ml",
+          "sale_price": "₱81.00",
+          "sale_price_md": "**₱81.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3450666968464504837",
+          "reference_id": "ad_2052_04800011122236_1_81_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3579820437284076445",
+            "3623267225932150925"
+          ],
+          "product_ids": [
+            "1564405684702535528"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 530,
+          "product_tag_ids": [
+            "1496183",
+            "22356771",
+            "22475760",
+            "22919042",
+            "22983163"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b5876764c5473b9df5919fb0c4b4efb0",
+          "similarity_priority": 6,
+          "name": "Casino Femme Ethyl Alcohol 70% Solution | 500ml",
+          "sale_price": "₱81.00",
+          "sale_price_md": "**₱81.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱81.00",
+      "sale_price_md": "**₱81.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3450666966577068964",
+        "reference_id": "tpr_2052_04800011122236_81_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3579820437284076445",
+          "3623267225932150925"
+        ],
+        "product_ids": [
+          "1564405684702535528"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1060,
+        "product_tag_ids": [
+          "1496183",
+          "22356771",
+          "22475760",
+          "22919042",
+          "22983163"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "acfbdbcf8604fac6f0bbdef8694efff6",
+        "similarity_priority": 5,
+        "name": "Casino Femme Ethyl Alcohol 70% Solution | 500ml",
+        "sale_price": "₱81.00",
+        "sale_price_md": "**₱81.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 81.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱81.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800011122236",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/casino_femme_ethyl_alcohol_70_solution_500ml/p/1564405684702535528"
+    },
+    {
+      "id": "1564405684702555037",
+      "store_id": "2052",
+      "like_code": "73583",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱225.00",
+      "unit_price": 225.0,
+      "popularity": 8717,
+      "upc": "576046673615",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466736152",
+      "reference_ids": [
+        "05760466736152",
+        "05760466736107"
+      ],
+      "name": "Castello Blue Cheese Table Pack | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555037/cdb11513cffe2d0980ace1bf32cd018c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466736152",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/castello_blue_cheese_table_pack_100g/p/1564405684702555037"
+    },
+    {
+      "id": "1564405684702555040",
+      "store_id": "2052",
+      "like_code": "73573",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 8129,
+      "upc": "576046673765",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466737654",
+      "reference_ids": [
+        "05760466737654"
+      ],
+      "name": "Castello Danish Brie Cheese | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555040/969cff69d7a0b46b3f1c25f06d138bb0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466737654",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/castello_danish_brie_cheese_125g/p/1564405684702555040"
+    },
+    {
+      "id": "1564405684702555041",
+      "store_id": "2052",
+      "like_code": "73572",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 8128,
+      "upc": "576046673766",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466737661",
+      "reference_ids": [
+        "05760466737661"
+      ],
+      "name": "Castello Danish Camembert Cheese | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555041/b5a2e21e3fa17acbc8618a8d1fe9913b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466737661",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/castello_danish_camembert_cheese_125g/p/1564405684702555041"
+    },
+    {
+      "id": "1564405684702536285",
+      "store_id": "2052",
+      "like_code": "129349",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱41.75",
+      "unit_price": 41.75,
+      "popularity": 999999,
+      "upc": "480002901435",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800029014356",
+      "reference_ids": [
+        "04800029014356"
+      ],
+      "name": "Caterpillar Marshmallows with Fruit Jelly | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536285/2526f94e7c16fc8d6219dfe0bbf8ab17",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800029014356",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/caterpillar_marshmallows_with_fruit_jelly_135g/p/1564405684702536285"
+    },
+    {
+      "id": "1564405684702555352",
+      "store_id": "2052",
+      "like_code": "113911",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱409.00",
+      "unit_price": 409.0,
+      "popularity": 9055,
+      "upc": "691497310845",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06914973108455",
+      "reference_ids": [
+        "06914973108455"
+      ],
+      "name": "Catsan Clumping Cat Litter | 10L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555352/613d6e81d6cc8f2b521e48c5b62082e3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06914973108455",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 42",
+        "sequence": 42,
+        "identifier": "c69a2375-b109-4d38-a52d-45144be5c18d",
+        "id": "22356805"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/catsan_clumping_cat_litter_10_l/p/1564405684702555352"
+    },
+    {
+      "id": "1564405684702555355",
+      "store_id": "2052",
+      "like_code": "122685",
+      "department_id": [
+        "1501983"
+      ],
+      "price": "₱223.00",
+      "unit_price": 223.0,
+      "popularity": 9562,
+      "upc": "691497310846",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06914973108462",
+      "reference_ids": [
+        "06914973108462"
+      ],
+      "name": "Catsan Clumping Cat Litter | 5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555355/9855c60c4b27efd4eaf038a866e316bd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06914973108462",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 42",
+        "sequence": 42,
+        "identifier": "c69a2375-b109-4d38-a52d-45144be5c18d",
+        "id": "22356805"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_grooming/catsan_clumping_cat_litter_5_l/p/1564405684702555355"
+    },
+    {
+      "id": "1564405684712514850",
+      "store_id": "2052",
+      "like_code": "362014",
+      "department_id": [
+        "1496198"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 8387,
+      "upc": "691497370590",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06914973705906",
+      "reference_ids": [
+        "06914973705906"
+      ],
+      "name": "Catsan Light Cat Litter | 3L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712514850/69cfdcfc570cb0383420481c130f9b0d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06914973705906",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 42",
+        "sequence": 42,
+        "identifier": "c69a2375-b109-4d38-a52d-45144be5c18d",
+        "id": "22356805"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/catsan_light_cat_litter_3_l/p/1564405684712514850"
+    },
+    {
+      "id": "1564405684710486173",
+      "store_id": "2052",
+      "like_code": "345564",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱124.25",
+      "unit_price": 124.25,
+      "popularity": 6192,
+      "upc": "480024904375",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043754",
+      "reference_ids": [
+        "04800249043754"
+      ],
+      "name": "CDO Bacon Toppings | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710486173/4d80e961d51ab1bfaa07b0be2eed50ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249043754",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_bacon_toppings_250g/p/1564405684710486173"
+    },
+    {
+      "id": "1564405684710537824",
+      "store_id": "2052",
+      "like_code": "345717",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱134.00",
+      "unit_price": 134.0,
+      "popularity": 8489,
+      "upc": "480024904369",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043693",
+      "reference_ids": [
+        "04800249043693"
+      ],
+      "name": "CDO Beef Franks Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710537824/270a175445ba2479b555cf3d4e34b789",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249043693",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_beef_franks_jumbo_500g/p/1564405684710537824"
+    },
+    {
+      "id": "1564405684710486172",
+      "store_id": "2052",
+      "like_code": "345563",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱194.25",
+      "unit_price": 194.25,
+      "popularity": 7934,
+      "upc": "480024904367",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043679",
+      "reference_ids": [
+        "04800249043679"
+      ],
+      "name": "CDO Beef Franks Regular | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710486172/1e427edf1bba4f9a7774994695810593",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249043679",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_beef_franks_regular_1kg/p/1564405684710486172"
+    },
+    {
+      "id": "1564405684702539928",
+      "store_id": "2052",
+      "like_code": "120573",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱21.75",
+      "unit_price": 21.75,
+      "popularity": 4784,
+      "upc": "480024990931",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249909319",
+      "reference_ids": [
+        "04800249909319"
+      ],
+      "name": "CDO Beef Loaf | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539928/4b6e35aee6fed001cc7d51cdb4d8e1b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249909319",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_beef_loaf_150g/p/1564405684702539928"
+    },
+    {
+      "id": "1564405684702539871",
+      "store_id": "2052",
+      "like_code": "14511",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱96.75",
+      "unit_price": 96.75,
+      "popularity": 8315,
+      "upc": "480024916563",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249165630",
+      "reference_ids": [
+        "04800249165630"
+      ],
+      "name": "CDO Beef Longganisa | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539871/9039f3675a5841485d4e51780106985a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249165630",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_beef_longganisa_250g/p/1564405684702539871"
+    },
+    {
+      "id": "1564405684702539921",
+      "store_id": "2052",
+      "like_code": "97395",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱85.75",
+      "unit_price": 85.75,
+      "popularity": 5331,
+      "upc": "480024990292",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249902921",
+      "reference_ids": [
+        "04800249902921"
+      ],
+      "name": "CDO Beef Luncheon Meat | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539921/c619442b7d3ca15b2889fec3a3cf090b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249902921",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_beef_luncheon_meat_350g/p/1564405684702539921"
+    },
+    {
+      "id": "1564405684711677181",
+      "store_id": "2052",
+      "like_code": "352510",
+      "department_id": [
+        "21512103"
+      ],
+      "price": "₱122.50",
+      "unit_price": 122.5,
+      "popularity": 9038,
+      "upc": "480024904414",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249044140",
+      "reference_ids": [
+        "04800249044140"
+      ],
+      "name": "CDO Cheesy Chicken Franks Super Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711677181/b2aecea93de2e121d4529f46ed391419",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249044140",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/ready_to_cook/cdo_cheesy_chicken_franks_super_jumbo_500g/p/1564405684711677181"
+    },
+    {
+      "id": "1564405684714531853",
+      "store_id": "2052",
+      "like_code": "390447",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱178.00",
+      "unit_price": 178.0,
+      "popularity": 6497,
+      "upc": "480024904994",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249049947",
+      "reference_ids": [
+        "04800249049947"
+      ],
+      "name": "CDO Cheesy Tonkatsu Premium | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714531853/2d2fa1974960f078600275c61f493e08",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249049947",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cdo_cheesy_tonkatsu_premium_420g/p/1564405684714531853"
+    },
+    {
+      "id": "1564405684712294345",
+      "store_id": "2052",
+      "like_code": "348027",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱77.50",
+      "unit_price": 77.5,
+      "popularity": 999999,
+      "upc": "480024904445",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249044454",
+      "reference_ids": [
+        "04800249044454"
+      ],
+      "name": "CDO Chicken Burger Classic | 228g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294345/673215af3da967570f307c491556caa4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800249044454",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_chicken_burger_classic_228g/p/1564405684712294345"
+    },
+    {
+      "id": "1564405684702539850",
+      "store_id": "2052",
+      "like_code": "270395",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱185.75",
+      "unit_price": 185.75,
+      "popularity": 7941,
+      "upc": "480024903340",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249033403",
+      "reference_ids": [
+        "04800249033403"
+      ],
+      "name": "CDO Chicken Franks Cheesy Jumbo | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539850/67072cd253276455233ce81a3717c9a6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249033403",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_chicken_franks_cheesy_jumbo_1kg/p/1564405684702539850"
+    },
+    {
+      "id": "1564405684712294333",
+      "store_id": "2052",
+      "like_code": "329301",
+      "department_id": [
+        "22459183"
+      ],
+      "price": "₱122.50",
+      "unit_price": 122.5,
+      "popularity": 5378,
+      "upc": "480024901702",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249017021",
+      "reference_ids": [
+        "04800249017021"
+      ],
+      "name": "CDO Chicken Franks Cheesy Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294333/68490938057b1381feadb3bd12900173",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249017021",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/hotdogs/cdo_chicken_franks_cheesy_jumbo_500g/p/1564405684712294333"
+    },
+    {
+      "id": "1564405684702539848",
+      "store_id": "2052",
+      "like_code": "270394",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱186.00",
+      "unit_price": 186.0,
+      "popularity": 6253,
+      "upc": "480024903339",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249033397",
+      "reference_ids": [
+        "04800249033397"
+      ],
+      "name": "CDO Chicken Franks Cheesy Regular | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539848/cb073859415604b5e3242609432c19fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249033397",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_chicken_franks_cheesy_regular_1kg/p/1564405684702539848"
+    },
+    {
+      "id": "1564405684702539707",
+      "store_id": "2052",
+      "like_code": "133529",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱185.75",
+      "unit_price": 185.75,
+      "popularity": 2,
+      "upc": "480024900846",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249008463",
+      "reference_ids": [
+        "04800249008463"
+      ],
+      "name": "CDO Chicken Franks Classic Jumbo | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539707/4805dcf1a9dd1ab3e1014263fa1d314b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249008463",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_chicken_franks_classic_jumbo_1kg/p/1564405684702539707"
+    },
+    {
+      "id": "1564405684702539683",
+      "store_id": "2052",
+      "like_code": "123866",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱122.50",
+      "unit_price": 122.5,
+      "popularity": 999999,
+      "upc": "480024900596",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249005967",
+      "reference_ids": [
+        "04800249005967"
+      ],
+      "name": "CDO Chicken Franks Classic Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539683/017c54ebe268165fc5c1f4ceaa63a1d1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800249005967",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_chicken_franks_classic_jumbo_500g/p/1564405684702539683"
+    },
+    {
+      "id": "1564405684702539708",
+      "store_id": "2052",
+      "like_code": "133528",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱185.75",
+      "unit_price": 185.75,
+      "popularity": 7706,
+      "upc": "480024900845",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249008456",
+      "reference_ids": [
+        "04800249008456"
+      ],
+      "name": "CDO Chicken Franks Classic Regular | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539708/18960a3d42bc40ca1aae93e50a5bacee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249008456",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_chicken_franks_classic_regular_1kg/p/1564405684702539708"
+    },
+    {
+      "id": "1564405684712294337",
+      "store_id": "2052",
+      "like_code": "348028",
+      "department_id": [
+        "22459262"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 999999,
+      "upc": "480024904381",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043815",
+      "reference_ids": [
+        "04800249043815"
+      ],
+      "name": "CDO Chicken Ham | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294337/1556e8bd380abe875947474d50e00f87",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800249043815",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/ham/cdo_chicken_ham_250g/p/1564405684712294337"
+    },
+    {
+      "id": "1564405684712294336",
+      "store_id": "2052",
+      "like_code": "348653",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱106.75",
+      "unit_price": 106.75,
+      "popularity": 9488,
+      "upc": "480024904379",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043792",
+      "reference_ids": [
+        "04800249043792"
+      ],
+      "name": "CDO Chicken Nuggets | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294336/f43ccfa27aecad02763dcf6d56b3a047",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249043792",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_chicken_nuggets_200g/p/1564405684712294336"
+    },
+    {
+      "id": "1564405684702539667",
+      "store_id": "2052",
+      "like_code": "117702",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱84.00",
+      "unit_price": 84.0,
+      "popularity": 5050,
+      "upc": "480024900356",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249003567",
+      "reference_ids": [
+        "04800249003567"
+      ],
+      "name": "CDO Chinese Style Luncheon Meat | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539667/e75d832045f1c11905a88f6c15530242",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249003567",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_chinese_style_luncheon_meat_350g/p/1564405684702539667"
+    },
+    {
+      "id": "1564405684711677178",
+      "store_id": "2052",
+      "like_code": "352511",
+      "department_id": [
+        "21512103"
+      ],
+      "price": "₱122.50",
+      "unit_price": 122.5,
+      "popularity": 9219,
+      "upc": "480024904413",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249044133",
+      "reference_ids": [
+        "04800249044133"
+      ],
+      "name": "CDO Classic Chicken Franks Super Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 3.0,
+      "review_count": 2,
+      "cover_image": "1564405684711677178/39b9b783c0f21ac35334f0e21844dbfd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249044133",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/ready_to_cook/cdo_classic_chicken_franks_super_jumbo_500g/p/1564405684711677178"
+    },
+    {
+      "id": "1564405684712294343",
+      "store_id": "2052",
+      "like_code": "357895",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱73.50",
+      "unit_price": 73.5,
+      "popularity": 7557,
+      "upc": "480024904721",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249047219",
+      "reference_ids": [
+        "04800249047219"
+      ],
+      "name": "CDO Crispy Chicken Burger | 228g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294343/875df1a31a2bb87eb1f9bae35f623459",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249047219",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_crispy_chicken_burger_228g/p/1564405684712294343"
+    },
+    {
+      "id": "1564405684710453803",
+      "store_id": "2052",
+      "like_code": "302519",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱101.75",
+      "unit_price": 101.75,
+      "popularity": 6515,
+      "upc": "480024903906",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249039061",
+      "reference_ids": [
+        "04800249039061"
+      ],
+      "name": "CDO Funtastyk Barbecue | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710453803/3354f0f7cddba90dad44fe74764fc033",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249039061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_funtastyk_barbecue_225g/p/1564405684710453803"
+    },
+    {
+      "id": "1564405684712294338",
+      "store_id": "2052",
+      "like_code": "357896",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱195.75",
+      "unit_price": 195.75,
+      "popularity": 8682,
+      "upc": "480024904588",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249045888",
+      "reference_ids": [
+        "04800249045888"
+      ],
+      "name": "Cdo Funtastyk Boneless Chicken Barbeque | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294338/8b7517d1c5d11944aa1d34150820c162",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249045888",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_funtastyk_boneless_chicken_barbeque_450g/p/1564405684712294338"
+    },
+    {
+      "id": "1564405684714531852",
+      "store_id": "2052",
+      "like_code": "390448",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 6382,
+      "upc": "480024904936",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249049367",
+      "reference_ids": [
+        "04800249049367"
+      ],
+      "name": "CDO Funtastyk Chicken Longganisa | 440g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714531852/23003cb8cffa1736d791577cfcbe1ee0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249049367",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_funtastyk_chicken_longganisa_440g/p/1564405684714531852"
+    },
+    {
+      "id": "1564405684702539901",
+      "store_id": "2052",
+      "like_code": "65787",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱100.25",
+      "unit_price": 100.25,
+      "popularity": 6373,
+      "upc": "480024969902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249699029",
+      "reference_ids": [
+        "04800249699029"
+      ],
+      "name": "CDO Funtastyk Longganisa | 240g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539901/27ea9b968f25e2b85378e409fb174c89",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249699029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_funtastyk_longganisa_240g/p/1564405684702539901"
+    },
+    {
+      "id": "1564405684702539900",
+      "store_id": "2052",
+      "like_code": "42232",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱168.75",
+      "unit_price": 168.75,
+      "popularity": 6385,
+      "upc": "480024969900",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249699005",
+      "reference_ids": [
+        "04800249699005"
+      ],
+      "name": "CDO Funtastyk Longganisa | 440g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539900/478d6bba9dfdb8803210249b88633cfd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249699005",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_funtastyk_longganisa_440g/p/1564405684702539900"
+    },
+    {
+      "id": "1564405684712294334",
+      "store_id": "2052",
+      "like_code": "335761",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱101.00",
+      "unit_price": 101.0,
+      "popularity": 5831,
+      "upc": "480024904272",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249042726",
+      "reference_ids": [
+        "04800249042726"
+      ],
+      "name": "CDO Funtastyk Premium Boneless Chicken Tocino | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294334/8f77c7457e0be403c511ec77f29a10bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249042726",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_funtastyk_premium_boneless_chicken_tocino_225g/p/1564405684712294334"
+    },
+    {
+      "id": "1564405684712294335",
+      "store_id": "2052",
+      "like_code": "335760",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱193.00",
+      "unit_price": 193.0,
+      "popularity": 5687,
+      "upc": "480024904273",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249042733",
+      "reference_ids": [
+        "04800249042733"
+      ],
+      "name": "CDO Funtastyk Premium Boneless Chicken Tocino | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712294335/972731326222e04f77ebb431044288ca",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249042733",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_funtastyk_premium_boneless_chicken_tocino_450g/p/1564405684712294335"
+    },
+    {
+      "id": "1564405684712578981",
+      "store_id": "2052",
+      "like_code": "302518",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱192.25",
+      "unit_price": 192.25,
+      "popularity": 8437,
+      "upc": "480024903909",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249039092",
+      "reference_ids": [
+        "04800249039092"
+      ],
+      "name": "CDO Funtastyk Young Pork Barbecue | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712578981/b48ce011225c24da19bd101b5592ce76",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249039092",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_funtastyk_young_pork_barbecue_450g/p/1564405684712578981"
+    },
+    {
+      "id": "1564405684702539676",
+      "store_id": "2052",
+      "like_code": "119820",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱87.50",
+      "unit_price": 87.5,
+      "popularity": 727,
+      "upc": "480024900474",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249004748",
+      "reference_ids": [
+        "04800249004748"
+      ],
+      "name": "CDO Funtastyk Young Pork Tocino | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539676/0765155563452ca4f59ed921a30990b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249004748",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_funtastyk_young_pork_tocino_225g/p/1564405684702539676"
+    },
+    {
+      "id": "1564405684702539673",
+      "store_id": "2052",
+      "like_code": "119821",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱166.50",
+      "unit_price": 166.5,
+      "popularity": 1249,
+      "upc": "480024900473",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249004731",
+      "reference_ids": [
+        "04800249004731"
+      ],
+      "name": "CDO Funtastyk Young Pork Tocino | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539673/1e4438e80bae7e9064ef7317a017ad62",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557621867362982",
+          "reference_id": "ad_2052_04800249004731_2_293_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702539673"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 447,
+          "product_tag_ids": [
+            "22356784",
+            "22459113",
+            "22459130",
+            "22475760",
+            "22547975",
+            "22640942",
+            "22775806",
+            "22883817",
+            "22919042",
+            "22983139",
+            "22983239"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "e7772ab6db8df05128d6903f7db7c013",
+          "similarity_priority": 6,
+          "name": "CDO Funtastyk Young Pork Tocino | 450g",
+          "sale_price": "2 for ₱293.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱293.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱293.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱293.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557621867362982",
+        "reference_id": "ad_2052_04800249004731_2_293_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702539673"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 447,
+        "product_tag_ids": [
+          "22356784",
+          "22459113",
+          "22459130",
+          "22475760",
+          "22547975",
+          "22640942",
+          "22775806",
+          "22883817",
+          "22919042",
+          "22983139",
+          "22983239"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "e7772ab6db8df05128d6903f7db7c013",
+        "similarity_priority": 6,
+        "name": "CDO Funtastyk Young Pork Tocino | 450g",
+        "sale_price": "2 for ₱293.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱293.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 146.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249004731",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_funtastyk_young_pork_tocino_450g/p/1564405684702539673"
+    },
+    {
+      "id": "1564405684702539674",
+      "store_id": "2052",
+      "like_code": "80108",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱94.75",
+      "unit_price": 94.75,
+      "popularity": 5743,
+      "upc": "480024900470",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249004700",
+      "reference_ids": [
+        "04800249004700",
+        "04800249760101"
+      ],
+      "name": "CDO Funtastyk Young Pork Tocino Fatless | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539674/b0bd8a873f3a341aa56f6f7777e93d15",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249004700",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_funtastyk_young_pork_tocino_fatless_225g/p/1564405684702539674"
+    }
+  ]
+}

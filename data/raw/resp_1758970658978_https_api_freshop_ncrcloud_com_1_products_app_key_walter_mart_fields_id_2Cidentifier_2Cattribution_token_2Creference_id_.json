@@ -1,0 +1,2363 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702543706",
+      "store_id": "2052",
+      "like_code": "112465",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱364.00",
+      "unit_price": 364.0,
+      "popularity": 6766,
+      "upc": "480196220366",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962203661",
+      "reference_ids": [
+        "04801962203661"
+      ],
+      "name": "Advanced Aerosol Odorless Multi-Insect Killer | 600ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543706/fb5da468232e193950149e12fa8d1310",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3667374679720475264",
+          "reference_id": "tpr_2052_04801962203661_314_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702543706"
+          ],
+          "start_date": "2025-07-02T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7503,
+          "product_tag_ids": [
+            "22356799",
+            "22459239",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "eacc499b155974e00231dc0893dd311c",
+          "similarity_priority": 5,
+          "name": "Advanced Aerosol Odorless Multi-Insect Killer | 600ml",
+          "sale_price": "₱314.00",
+          "sale_price_md": "**₱314.00** (07/02/25 - 10/31/25)",
+          "display_start_date": "2025-07-02",
+          "display_finish_date": "2025-10-31"
+        },
+        {
+          "id": "3667380556888291340",
+          "reference_id": "ad_2052_04801962203661_1_314_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702543706"
+          ],
+          "start_date": "2025-07-02T00:00:00.000+00:00",
+          "finish_date": "2025-10-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3752,
+          "product_tag_ids": [
+            "22356799",
+            "22459239",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "22602aee28ddfca9e771ac4f7838fd51",
+          "similarity_priority": 6,
+          "name": "Advanced Aerosol Odorless Multi-Insect Killer | 600ml",
+          "sale_price": "₱314.00",
+          "sale_price_md": "**₱314.00** (07/02/25 - 10/31/25)",
+          "display_start_date": "2025-07-02",
+          "display_finish_date": "2025-10-31"
+        }
+      ],
+      "sale_start_date": "2025-07-02",
+      "sale_finish_date": "2025-10-31",
+      "sale_price": "₱314.00",
+      "sale_price_md": "**₱314.00** (07/02/25 - 10/31/25)",
+      "sale_offer": {
+        "id": "3667374679720475264",
+        "reference_id": "tpr_2052_04801962203661_314_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702543706"
+        ],
+        "start_date": "2025-07-02T00:00:00.000+00:00",
+        "finish_date": "2025-10-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7503,
+        "product_tag_ids": [
+          "22356799",
+          "22459239",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "eacc499b155974e00231dc0893dd311c",
+        "similarity_priority": 5,
+        "name": "Advanced Aerosol Odorless Multi-Insect Killer | 600ml",
+        "sale_price": "₱314.00",
+        "sale_price_md": "**₱314.00** (07/02/25 - 10/31/25)",
+        "display_start_date": "2025-07-02",
+        "display_finish_date": "2025-10-31"
+      },
+      "offer_sale_price": 314.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱314.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962203661",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/advanced_aerosol_odorless_multi_insect_killer_600ml/p/1564405684702543706"
+    },
+    {
+      "id": "1564405684702548250",
+      "store_id": "2052",
+      "like_code": "270668",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱202.00",
+      "unit_price": 202.0,
+      "popularity": 999999,
+      "upc": "480651581103",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811034",
+      "reference_ids": [
+        "04806515811034",
+        "04806515811089"
+      ],
+      "name": "Aguila Beef Franks | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548250/8a13142c0fe7265fc7da86d6d44de00d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811034",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/aguila_beef_franks_250g/p/1564405684702548250"
+    },
+    {
+      "id": "1564405684702548249",
+      "store_id": "2052",
+      "like_code": "269661",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "upc": "480651581104",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811041",
+      "reference_ids": [
+        "04806515811041"
+      ],
+      "name": "Aguila Bratwurst Sausage With Cheese | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548249/8e65999b75098ff26bf17d74746045ab",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811041",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/aguila_bratwurst_sausage_with_cheese_250g/p/1564405684702548249"
+    },
+    {
+      "id": "1564405684702548248",
+      "store_id": "2052",
+      "like_code": "269658",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "480651581105",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811058",
+      "reference_ids": [
+        "04806515811058"
+      ],
+      "name": "Aguila Breakfast Susage | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548248/38a9f92cb6f37c593382f749dc1fb3ad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811058",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/aguila_breakfast_susage_250g/p/1564405684702548248"
+    },
+    {
+      "id": "1564405684702548255",
+      "store_id": "2052",
+      "like_code": "268263",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱223.00",
+      "unit_price": 223.0,
+      "popularity": 999999,
+      "upc": "480651581131",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811317",
+      "reference_ids": [
+        "04806515811317"
+      ],
+      "name": "Aguila Corned Beef | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548255/e2cfdf729471fa0ac22de8c6638f5092",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811317",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/aguila_corned_beef_250g/p/1564405684702548255"
+    },
+    {
+      "id": "1564405684716154725",
+      "store_id": "2052",
+      "like_code": "415338",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱256.00",
+      "unit_price": 256.0,
+      "popularity": 999999,
+      "upc": "480651581296",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515812963",
+      "reference_ids": [
+        "04806515812963"
+      ],
+      "name": "Aguila Corned Beef Chili Garlic | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684716154725/7fb392476189eb9705863ebb7896dadd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515812963",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/aguila_corned_beef_chili_garlic_350g/p/1564405684716154725"
+    },
+    {
+      "id": "1564405684716154723",
+      "store_id": "2052",
+      "like_code": "415337",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱231.00",
+      "unit_price": 231.0,
+      "popularity": 999999,
+      "upc": "480651581291",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515812918",
+      "reference_ids": [
+        "04806515812918"
+      ],
+      "name": "Aguila Corned Beef Original | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684716154723/15736c6a7fa9920f750af12b0f7d6e11",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515812918",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/aguila_corned_beef_original_350g/p/1564405684716154723"
+    },
+    {
+      "id": "1564405684702548254",
+      "store_id": "2052",
+      "like_code": "268264",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 999999,
+      "upc": "480651581125",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811256",
+      "reference_ids": [
+        "04806515811256",
+        "04806515811263"
+      ],
+      "name": "Aguila Country Bacon | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548254/41a048a54ad508eb6d3ec3a658b8d411",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811256",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/aguila_country_bacon_250g/p/1564405684702548254"
+    },
+    {
+      "id": "1764405684714910480",
+      "store_id": "2052",
+      "like_code": "281825",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱182.00",
+      "unit_price": 182.0,
+      "popularity": 999999,
+      "upc": "480651581102",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811027",
+      "reference_ids": [
+        "04806515811027"
+      ],
+      "name": "Aguila Gourmet Sausage Bacon and Cheese | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684714910480/ba0ac3a65f64230bed59b9ea6ab0218c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811027",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aguila_gourmet_sausage_bacon_and_cheese_250g/p/1764405684714910480"
+    },
+    {
+      "id": "1564405684709675237",
+      "store_id": "2052",
+      "like_code": "283589",
+      "department_id": [
+        "21512103"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 999999,
+      "upc": "480651581140",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811409",
+      "reference_ids": [
+        "04806515811409"
+      ],
+      "name": "Aguila Honey Bacon | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684709675237/5544a152674f298a72b398e123de82de",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811409",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/ready_to_cook/aguila_honey_bacon_250g/p/1564405684709675237"
+    },
+    {
+      "id": "1764405684714910490",
+      "store_id": "2052",
+      "like_code": "355008",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 999999,
+      "upc": "480651581247",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515812475",
+      "reference_ids": [
+        "04806515812475"
+      ],
+      "name": "Aguila Hungaraian Salami | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684714910490/310b9657b7b3cee2c1e641b7b72d7f46",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515812475",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aguila_hungaraian_salami_150g/p/1764405684714910490"
+    },
+    {
+      "id": "1564405684702548251",
+      "store_id": "2052",
+      "like_code": "268266",
+      "department_id": [
+        "22459183"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 999999,
+      "upc": "480651581109",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811096",
+      "reference_ids": [
+        "04806515811096"
+      ],
+      "name": "Aguila Hungarian Sausage | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548251/c7a6f4a847b7b5115b86fb61a0d51be6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811096",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/hotdogs/aguila_hungarian_sausage_250g/p/1564405684702548251"
+    },
+    {
+      "id": "1564405684702548252",
+      "store_id": "2052",
+      "like_code": "269659",
+      "department_id": [
+        "22459183"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 999999,
+      "upc": "480651581110",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811102",
+      "reference_ids": [
+        "04806515811102"
+      ],
+      "name": "Aguila Italian Garlic Sausage | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548252/0480408e8245cc35e0f4da84e94abcc4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811102",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/hotdogs/aguila_italian_garlic_sausage_250g/p/1564405684702548252"
+    },
+    {
+      "id": "1764405684714910484",
+      "store_id": "2052",
+      "like_code": "283586",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱187.00",
+      "unit_price": 187.0,
+      "popularity": 999999,
+      "upc": "480651581112",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811126",
+      "reference_ids": [
+        "04806515811126"
+      ],
+      "name": "Aguila Keilbasa | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684714910484/b14a6472a571f450749929d70b1ac644",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811126",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aguila_keilbasa_250g/p/1764405684714910484"
+    },
+    {
+      "id": "1764405684714910486",
+      "store_id": "2052",
+      "like_code": "323128",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 999999,
+      "upc": "480651581114",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811140",
+      "reference_ids": [
+        "04806515811140"
+      ],
+      "name": "Aguila Pizza Pepperoni | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684714910486/0763525eb79d58ab1fae4e79ffb88331",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811140",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aguila_pizza_pepperoni_250g/p/1764405684714910486"
+    },
+    {
+      "id": "1764405684714910488",
+      "store_id": "2052",
+      "like_code": "355009",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱208.00",
+      "unit_price": 208.0,
+      "popularity": 999999,
+      "upc": "480651581246",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515812468",
+      "reference_ids": [
+        "04806515812468"
+      ],
+      "name": "Aguila Salami Milano | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684714910488/617cfa51cd02b3d5aa04b0bf50633874",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515812468",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aguila_salami_milano_150g/p/1764405684714910488"
+    },
+    {
+      "id": "1564405684702548253",
+      "store_id": "2052",
+      "like_code": "270667",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱182.00",
+      "unit_price": 182.0,
+      "popularity": 999999,
+      "upc": "480651581115",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515811157",
+      "reference_ids": [
+        "04806515811157"
+      ],
+      "name": "Aguila Schublig Sausage | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702548253/b206133af9bddb85bd8fa8dd81e8d798",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806515811157",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aguila_schublig_sausage_250g/p/1564405684702548253"
+    },
+    {
+      "id": "1764405684714974744",
+      "store_id": "2052",
+      "like_code": "389451",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,499.00",
+      "unit_price": 2499.0,
+      "popularity": 999999,
+      "upc": "200003894510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000038945104",
+      "reference_ids": [
+        "02000038945104"
+      ],
+      "name": "Ahr Gin Luggage | Small | 20\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714974744/e95d75032f5c5afb7af3fbfc1371ee6f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3497051055609362528",
+          "reference_id": "tpr_2052_02000038945104_1249_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714974744"
+          ],
+          "start_date": "2024-12-01T00:00:00.000+00:00",
+          "finish_date": "2025-11-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22897012"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "db358e8ffd37915230294622b2dbce0f",
+          "similarity_priority": 5,
+          "name": "Ahr Gin Luggage | Small | 20\"",
+          "sale_price": "₱1,249.50",
+          "sale_price_md": "**₱1,249.50** (12/01/24 - 11/30/25)",
+          "display_start_date": "2024-12-01",
+          "display_finish_date": "2025-11-30"
+        },
+        {
+          "id": "3497052553059776921",
+          "reference_id": "ad_2052_02000038945104_1_1249_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714974744"
+          ],
+          "start_date": "2024-12-01T00:00:00.000+00:00",
+          "finish_date": "2025-11-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22897012"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "bf96725edea116096c149bab0bdc6356",
+          "similarity_priority": 6,
+          "name": "Ahr Gin Luggage | Small | 20\"",
+          "sale_price": "₱1,249.50",
+          "sale_price_md": "**₱1,249.50** (12/01/24 - 11/30/25)",
+          "display_start_date": "2024-12-01",
+          "display_finish_date": "2025-11-30"
+        }
+      ],
+      "sale_start_date": "2024-12-01",
+      "sale_finish_date": "2025-11-30",
+      "sale_price": "₱1,249.50",
+      "sale_price_md": "**₱1,249.50** (12/01/24 - 11/30/25)",
+      "sale_offer": {
+        "id": "3497051055609362528",
+        "reference_id": "tpr_2052_02000038945104_1249_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714974744"
+        ],
+        "start_date": "2024-12-01T00:00:00.000+00:00",
+        "finish_date": "2025-11-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22897012"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "db358e8ffd37915230294622b2dbce0f",
+        "similarity_priority": 5,
+        "name": "Ahr Gin Luggage | Small | 20\"",
+        "sale_price": "₱1,249.50",
+        "sale_price_md": "**₱1,249.50** (12/01/24 - 11/30/25)",
+        "display_start_date": "2024-12-01",
+        "display_finish_date": "2025-11-30"
+      },
+      "offer_sale_price": 1249.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱1,249.50 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000038945104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ahr_gin_luggage_small_20/p/1764405684714974744"
+    },
+    {
+      "id": "1764405684714974748",
+      "store_id": "2052",
+      "like_code": "389452",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,999.00",
+      "unit_price": 2999.0,
+      "popularity": 999999,
+      "upc": "200003894520",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000038945203",
+      "reference_ids": [
+        "02000038945203"
+      ],
+      "name": "Ahr Gin Luggage | Small | 24\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714974748/649511b4b4dbbef3038ca90bb621a0c2",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3497051055877797990",
+          "reference_id": "tpr_2052_02000038945203_1499_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714974748"
+          ],
+          "start_date": "2024-12-01T00:00:00.000+00:00",
+          "finish_date": "2025-11-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22897012"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "7bd00b25043871c7f01610b31acdf8dc",
+          "similarity_priority": 5,
+          "name": "Ahr Gin Luggage | Small | 24\"",
+          "sale_price": "₱1,499.50",
+          "sale_price_md": "**₱1,499.50** (12/01/24 - 11/30/25)",
+          "display_start_date": "2024-12-01",
+          "display_finish_date": "2025-11-30"
+        },
+        {
+          "id": "3497052553068165530",
+          "reference_id": "ad_2052_02000038945203_1_1499_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714974748"
+          ],
+          "start_date": "2024-12-01T00:00:00.000+00:00",
+          "finish_date": "2025-11-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22897012"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "d9b2ccac8b05b5c02e87a66423b53d51",
+          "similarity_priority": 6,
+          "name": "Ahr Gin Luggage | Small | 24\"",
+          "sale_price": "₱1,499.50",
+          "sale_price_md": "**₱1,499.50** (12/01/24 - 11/30/25)",
+          "display_start_date": "2024-12-01",
+          "display_finish_date": "2025-11-30"
+        }
+      ],
+      "sale_start_date": "2024-12-01",
+      "sale_finish_date": "2025-11-30",
+      "sale_price": "₱1,499.50",
+      "sale_price_md": "**₱1,499.50** (12/01/24 - 11/30/25)",
+      "sale_offer": {
+        "id": "3497051055877797990",
+        "reference_id": "tpr_2052_02000038945203_1499_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714974748"
+        ],
+        "start_date": "2024-12-01T00:00:00.000+00:00",
+        "finish_date": "2025-11-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22897012"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "7bd00b25043871c7f01610b31acdf8dc",
+        "similarity_priority": 5,
+        "name": "Ahr Gin Luggage | Small | 24\"",
+        "sale_price": "₱1,499.50",
+        "sale_price_md": "**₱1,499.50** (12/01/24 - 11/30/25)",
+        "display_start_date": "2024-12-01",
+        "display_finish_date": "2025-11-30"
+      },
+      "offer_sale_price": 1499.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱1,499.50 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000038945203",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ahr_gin_luggage_small_24/p/1764405684714974748"
+    },
+    {
+      "id": "1764405684714974754",
+      "store_id": "2052",
+      "like_code": "389453",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱3,499.00",
+      "unit_price": 3499.0,
+      "popularity": 999999,
+      "upc": "200003894530",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000038945302",
+      "reference_ids": [
+        "02000038945302"
+      ],
+      "name": "Ahr Gin Luggage | Small | 28\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714974754/4fe9263bd6fe79a54c7e2526b34467e7",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3497051058511820950",
+          "reference_id": "tpr_2052_02000038945302_1749_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714974754"
+          ],
+          "start_date": "2024-12-01T00:00:00.000+00:00",
+          "finish_date": "2025-11-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22897012"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "d70b935d2107a6c92b4cb6f85bf97de5",
+          "similarity_priority": 5,
+          "name": "Ahr Gin Luggage | Small | 28\"",
+          "sale_price": "₱1,749.50",
+          "sale_price_md": "**₱1,749.50** (12/01/24 - 11/30/25)",
+          "display_start_date": "2024-12-01",
+          "display_finish_date": "2025-11-30"
+        },
+        {
+          "id": "3497052555282758088",
+          "reference_id": "ad_2052_02000038945302_1_1749_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714974754"
+          ],
+          "start_date": "2024-12-01T00:00:00.000+00:00",
+          "finish_date": "2025-11-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22897012"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "94b3275e4d1f8cde1fc4f2a968684e82",
+          "similarity_priority": 6,
+          "name": "Ahr Gin Luggage | Small | 28\"",
+          "sale_price": "₱1,749.50",
+          "sale_price_md": "**₱1,749.50** (12/01/24 - 11/30/25)",
+          "display_start_date": "2024-12-01",
+          "display_finish_date": "2025-11-30"
+        }
+      ],
+      "sale_start_date": "2024-12-01",
+      "sale_finish_date": "2025-11-30",
+      "sale_price": "₱1,749.50",
+      "sale_price_md": "**₱1,749.50** (12/01/24 - 11/30/25)",
+      "sale_offer": {
+        "id": "3497051058511820950",
+        "reference_id": "tpr_2052_02000038945302_1749_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714974754"
+        ],
+        "start_date": "2024-12-01T00:00:00.000+00:00",
+        "finish_date": "2025-11-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22897012"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "d70b935d2107a6c92b4cb6f85bf97de5",
+        "similarity_priority": 5,
+        "name": "Ahr Gin Luggage | Small | 28\"",
+        "sale_price": "₱1,749.50",
+        "sale_price_md": "**₱1,749.50** (12/01/24 - 11/30/25)",
+        "display_start_date": "2024-12-01",
+        "display_finish_date": "2025-11-30"
+      },
+      "offer_sale_price": 1749.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱1,749.50 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000038945302",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ahr_gin_luggage_small_28/p/1764405684714974754"
+    },
+    {
+      "id": "1764405684714974756",
+      "store_id": "2052",
+      "like_code": "391481",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱4,499.00",
+      "unit_price": 4499.0,
+      "popularity": 999999,
+      "upc": "200003914810",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039148108",
+      "reference_ids": [
+        "02000039148108"
+      ],
+      "name": "AHR Rock Hardcase Luggage (Large) | 28\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714974756/8b29c23ead4f2392bf7d6f780c655f53",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039148108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ahr_rock_hardcase_luggage_large_28/p/1764405684714974756"
+    },
+    {
+      "id": "1764405684714974752",
+      "store_id": "2052",
+      "like_code": "391480",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱3,999.00",
+      "unit_price": 3999.0,
+      "popularity": 999999,
+      "upc": "200003914800",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039148009",
+      "reference_ids": [
+        "02000039148009"
+      ],
+      "name": "AHR Rock Hardcase Luggage (Medium) | 24\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714974752/48a206a66cdcc6e6a271449de5b11644",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039148009",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ahr_rock_hardcase_luggage_medium_24/p/1764405684714974752"
+    },
+    {
+      "id": "1764405684714974746",
+      "store_id": "2052",
+      "like_code": "391479",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱3,499.00",
+      "unit_price": 3499.0,
+      "popularity": 999999,
+      "upc": "200003914790",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039147903",
+      "reference_ids": [
+        "02000039147903"
+      ],
+      "name": "AHR Rock Hardcase Luggage (Small) | 20\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714974746/eebb5fdf889a93a30208a0a1f5e228b7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039147903",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ahr_rock_hardcase_luggage_small_20/p/1764405684714974746"
+    },
+    {
+      "id": "1764405684715494100",
+      "store_id": "2052",
+      "like_code": "435513",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱269.00",
+      "unit_price": 269.0,
+      "popularity": 999999,
+      "upc": "955677100420",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556771004200",
+      "reference_ids": [
+        "09556771004200"
+      ],
+      "name": "Aik Cheong Matcha Latte | 25g x 12s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715494100/b9cbcd498eb8ebf38a47e5b5929c7ffb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09556771004200",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aik_cheong_matcha_latte_25g_x_12s/p/1764405684715494100"
+    },
+    {
+      "id": "1564405684702511687",
+      "store_id": "2052",
+      "like_code": "134160",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱137.50",
+      "unit_price": 137.5,
+      "popularity": 3170,
+      "upc": "200001341601",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000013416018",
+      "reference_ids": [
+        "02000013416018"
+      ],
+      "name": "Aiza's Sweets Assorted Pastillas | 20pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702511687/6a7f5fea87e5e5cb983deda8aa855ee1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000013416018",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/aiza_s_sweets_assorted_pastillas_20pcs/p/1564405684702511687"
+    },
+    {
+      "id": "1564405684702551842",
+      "store_id": "2052",
+      "like_code": "134162",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱247.50",
+      "unit_price": 247.5,
+      "popularity": 3532,
+      "upc": "480901195321",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011953215",
+      "reference_ids": [
+        "04809011953215"
+      ],
+      "name": "Aiza's Sweets Cashew Marzipan | 16pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551842/5474af9887ca6caea63a3a414065ae8e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011953215",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/aiza_s_sweets_cashew_marzipan_16pcs/p/1564405684702551842"
+    },
+    {
+      "id": "1564405684702551844",
+      "store_id": "2052",
+      "like_code": "134163",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱269.50",
+      "unit_price": 269.5,
+      "popularity": 3384,
+      "upc": "480901195323",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011953239",
+      "reference_ids": [
+        "04809011953239"
+      ],
+      "name": "Aiza's Sweets Cashew Marzipan | 18pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551844/f89bed2bd7e7a30023f210992a850f84",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011953239",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/aiza_s_sweets_cashew_marzipan_18pcs/p/1564405684702551844"
+    },
+    {
+      "id": "1564405684702559858",
+      "store_id": "2052",
+      "like_code": "231986",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 8291,
+      "upc": "955603120631",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031206313",
+      "reference_ids": [
+        "09556031206313"
+      ],
+      "name": "Ajax All Purpose Cleaners Fruity Fresh | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559858/65bf879f1a653151f7f9dbc815ef8b0f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031206313",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/ajax_all_purpose_cleaners_fruity_fresh_1_l/p/1564405684702559858"
+    },
+    {
+      "id": "1564405684702559857",
+      "store_id": "2052",
+      "like_code": "231984",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 6211,
+      "upc": "955603120630",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031206306",
+      "reference_ids": [
+        "09556031206306"
+      ],
+      "name": "Ajax All Purpose Cleaners Lavander Fresh | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559857/dbfe60dba4e61cfefe1549f07b5450c9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031206306",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/ajax_all_purpose_cleaners_lavander_fresh_1_l/p/1564405684702559857"
+    },
+    {
+      "id": "1564405684702559860",
+      "store_id": "2052",
+      "like_code": "231988",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 7317,
+      "upc": "955603120633",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031206337",
+      "reference_ids": [
+        "09556031206337"
+      ],
+      "name": "Ajax All Purpose Cleaners Lime Fresh | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559860/8f7ccec6650d81b49763fd3ad38db26c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031206337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/ajax_all_purpose_cleaners_lime_fresh_1_l/p/1564405684702559860"
+    },
+    {
+      "id": "1564405684702559861",
+      "store_id": "2052",
+      "like_code": "231987",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 7204,
+      "upc": "955603120632",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031206320",
+      "reference_ids": [
+        "09556031206320"
+      ],
+      "name": "AJAX ALL PURPOSE CLEANERS ROSE FRESH | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559861/1afe2f46ff5fd469348859f62c75d3f6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031206320",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/ajax_all_purpose_cleaners_rose_fresh_1_l/p/1564405684702559861"
+    },
+    {
+      "id": "1564405684711701969",
+      "store_id": "2052",
+      "like_code": "352620",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱247.00",
+      "unit_price": 247.0,
+      "popularity": 5260,
+      "upc": "955603131332",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031313325",
+      "reference_ids": [
+        "09556031313325"
+      ],
+      "name": "Ajax Lavender Fresh Multi-Purpose Cleaner | 2L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711701969/c3508b2f9be5e69e061d6f182426c625",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031313325",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/ajax_lavender_fresh_multi_purpose_cleaner_2_l/p/1564405684711701969"
+    },
+    {
+      "id": "1564405684712506171",
+      "store_id": "2052",
+      "like_code": "361939",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱53.50",
+      "unit_price": 53.5,
+      "popularity": 524,
+      "upc": "480195884610",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958846100",
+      "reference_ids": [
+        "04801958846100"
+      ],
+      "name": "Aji Ginisa Flavor Seasoning Mix | 8g x 16s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712506171/ef939e8c8ee38821001db6e8e7d09c1b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958846100",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/aji_ginisa_flavor_seasoning_mix_8g_x_16s/p/1564405684712506171"
+    },
+    {
+      "id": "1564405684715075405",
+      "store_id": "2052",
+      "like_code": "403434",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱41.50",
+      "unit_price": 41.5,
+      "popularity": 5005,
+      "upc": "480195884710",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958847107",
+      "reference_ids": [
+        "04801958847107"
+      ],
+      "name": "Aji Ginisa Seasoning Mix Less Sodium | 8g x 12s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715075405/ff1d073660cea943dd2313cddfcbc212",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958847107",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aji_ginisa_seasoning_mix_less_sodium_8g_x_12s/p/1564405684715075405"
+    },
+    {
+      "id": "1764405684715651146",
+      "store_id": "2052",
+      "like_code": "454888",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 1559,
+      "upc": "480195829800",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958298008",
+      "reference_ids": [
+        "04801958298008"
+      ],
+      "name": "Ajinomoto Crispy Fry Breading Extra Spicy | 62g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715651146/c1ee6258c6903be9210e0f4450981f9e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958298008",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ajinomoto_crispy_fry_breading_extra_spicy_62g/p/1764405684715651146"
+    },
+    {
+      "id": "8134579",
+      "store_id": "2052",
+      "like_code": "94687",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱20.25",
+      "unit_price": 20.25,
+      "popularity": 168,
+      "upc": "480195839310",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958393109",
+      "reference_ids": [
+        "04801958393109"
+      ],
+      "name": "Ajinomoto Crispyfry Breading Garlic | 62g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8134579/0bdb4df4c7a4d624b6e65c0ce7bbc73f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958393109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispyfry_breading_garlic_62g/p/8134579"
+    },
+    {
+      "id": "1564405684702543691",
+      "store_id": "2052",
+      "like_code": "121283",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱12.25",
+      "unit_price": 12.25,
+      "popularity": 1202,
+      "upc": "480195846000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958460009",
+      "reference_ids": [
+        "04801958460009"
+      ],
+      "name": "Ajinomoto Crispy Fry Breading Original | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543691/5b19fd5f49199ab2fb3bc84798640177",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958460009",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispy_fry_breading_original_30g/p/1564405684702543691"
+    },
+    {
+      "id": "8195487",
+      "store_id": "2052",
+      "like_code": "94686",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱70.00",
+      "unit_price": 70.0,
+      "popularity": 322,
+      "upc": "480195839200",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958392003",
+      "reference_ids": [
+        "04801958392003"
+      ],
+      "name": "Ajinomoto Crispy Fry Breading Regular | 238g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195487/0f83d6bfbcee1706174fad60e20613f2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958392003",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispy_fry_breading_regular_238g/p/8195487"
+    },
+    {
+      "id": "8134580",
+      "store_id": "2052",
+      "like_code": "63294",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱19.75",
+      "unit_price": 19.75,
+      "popularity": 36,
+      "upc": "480195839010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958390108",
+      "reference_ids": [
+        "04801958390108"
+      ],
+      "name": "Ajinomoto Crispy Fry Breading Regular | 62g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8134580/ec331f8b3f65ae53d7adff6011688a66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958390108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispy_fry_breading_regular_62g/p/8134580"
+    },
+    {
+      "id": "8134578",
+      "store_id": "2052",
+      "like_code": "63296",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱20.25",
+      "unit_price": 20.25,
+      "popularity": 649,
+      "upc": "480195839110",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958391105",
+      "reference_ids": [
+        "04801958391105"
+      ],
+      "name": "Ajinomoto Crispy Fry Breading Spicy | 62g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8134578/14c7c6a0a2edc2f5fe6260e6d8729843",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958391105",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispy_fry_breading_spicy_62g/p/8134578"
+    },
+    {
+      "id": "8195488",
+      "store_id": "2052",
+      "like_code": "112562",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱71.00",
+      "unit_price": 71.0,
+      "popularity": 1092,
+      "upc": "480195839500",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958395004",
+      "reference_ids": [
+        "04801958395004"
+      ],
+      "name": "Ajinomoto Crispy Fry Garlic Breading Mix | 238g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195488/24a4a1d2d867b7e06d6abc7611006bda",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958395004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispy_fry_garlic_breading_mix_238g/p/8195488"
+    },
+    {
+      "id": "1564405684702543698",
+      "store_id": "2052",
+      "like_code": "156603",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱27.00",
+      "unit_price": 27.0,
+      "popularity": 999999,
+      "upc": "480195865200",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958652008",
+      "reference_ids": [
+        "04801958652008"
+      ],
+      "name": "Ajinomoto Crispy Fry Seasoned Crumbs | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543698/3ace57624157d549e272d399662fef61",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04801958652008",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/ajinomoto_crispy_fry_seasoned_crumbs_100g/p/1564405684702543698"
+    },
+    {
+      "id": "1564405684704729514",
+      "store_id": "2052",
+      "like_code": "273713",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱290.00",
+      "unit_price": 290.0,
+      "popularity": 999999,
+      "upc": "480195890500",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958905005",
+      "reference_ids": [
+        "04801958905005"
+      ],
+      "name": "Ajino-moto Flavor Up Liquid Seasoning | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729514/0e4b50ffb68d0bec05d568f387a1c679",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04801958905005",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ajino_moto_flavor_up_liquid_seasoning_1_l/p/1564405684704729514"
+    },
+    {
+      "id": "1564405684707091700",
+      "store_id": "2052",
+      "like_code": "337119",
+      "department_id": [
+        "21958111"
+      ],
+      "price": "₱293.50",
+      "unit_price": 293.5,
+      "popularity": 8432,
+      "upc": "490100108415",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901001084159",
+      "reference_ids": [
+        "04901001084159"
+      ],
+      "name": "Ajinomoto Hondashi | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707091700/9fbf0031024b7c918ef544a24b1ac691",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04901001084159",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/japanese/ajinomoto_hondashi_120g/p/1564405684707091700"
+    },
+    {
+      "id": "1764405684715661622",
+      "store_id": "2052",
+      "like_code": "455512",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 9129,
+      "upc": "480195872400",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958724002",
+      "reference_ids": [
+        "04801958724002"
+      ],
+      "name": "Ajinomoto Japanese Style Mayonnaise 1kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04801958724002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ajinomoto_japanese_style_mayonnaise_1kg/p/1764405684715661622"
+    },
+    {
+      "id": "1764405684714899272",
+      "store_id": "2052",
+      "like_code": "422778",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱19.00",
+      "unit_price": 19.0,
+      "popularity": 5933,
+      "upc": "480195884900",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958849002",
+      "reference_ids": [
+        "04801958849002"
+      ],
+      "name": "Ajinomoto Liquid Seasoning Ginisa | 30g x3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714899272/8e68c347faa133ca86a867ba94f67005",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958849002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ajinomoto_liquid_seasoning_ginisa_30g_x3s/p/1764405684714899272"
+    },
+    {
+      "id": "8195485",
+      "store_id": "2052",
+      "like_code": "121707",
+      "department_id": [
+        "22459193"
+      ],
+      "price": "₱42.25",
+      "unit_price": 42.25,
+      "popularity": 4977,
+      "upc": "480195837700",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958377000",
+      "reference_ids": [
+        "04801958377000"
+      ],
+      "name": "Ajinomoto Seasoning Ginisa | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195485/76733101ea3c0b89a6980f386ca378e4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958377000",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/condiments/ajinomoto_seasoning_ginisa_100g/p/8195485"
+    },
+    {
+      "id": "8195492",
+      "store_id": "2052",
+      "like_code": "159012",
+      "department_id": [
+        "22459193"
+      ],
+      "price": "₱18.50",
+      "unit_price": 18.5,
+      "popularity": 1542,
+      "upc": "480195891100",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958911006",
+      "reference_ids": [
+        "04801958911006"
+      ],
+      "name": "Ajinomoto Seasoning Ginisa | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195492/eaaceae518c8f37d8134803013aeee5b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958911006",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/condiments/ajinomoto_seasoning_ginisa_40g/p/8195492"
+    }
+  ]
+}

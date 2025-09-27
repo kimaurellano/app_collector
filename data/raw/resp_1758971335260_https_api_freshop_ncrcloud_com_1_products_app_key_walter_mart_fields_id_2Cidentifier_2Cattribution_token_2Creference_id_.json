@@ -1,0 +1,2033 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702551311",
+      "store_id": "2052",
+      "like_code": "12655",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 999999,
+      "upc": "480901040895",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010408952",
+      "reference_ids": [
+        "04809010408952"
+      ],
+      "name": "Alfonso Cocoa Chocolate | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551311/4c512caa126a5e4404fabe2133341cc2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809010408952",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/alfonso_cocoa_chocolate_200g/p/1564405684702551311"
+    },
+    {
+      "id": "1564405684704734334",
+      "store_id": "2052",
+      "like_code": "309261",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱535.00",
+      "unit_price": 535.0,
+      "popularity": 999999,
+      "upc": "841002890237",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028902378",
+      "reference_ids": [
+        "08410028902378"
+      ],
+      "name": "Alfonso Light Brandy | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704734334/5076e02102adb553887da6885ed017a3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410028902378",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_light_brandy_1_5_l/p/1564405684704734334"
+    },
+    {
+      "id": "1564405684707214293",
+      "store_id": "2052",
+      "like_code": "337743",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱720.00",
+      "unit_price": 720.0,
+      "popularity": 9550,
+      "upc": "841002890206",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08410028902064",
+      "reference_ids": [
+        "08410028902064"
+      ],
+      "name": "Alfonso Platinum | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707214293/0251794b68f7ca01d9f3d7eb77e662fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028902064",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_platinum_1_75_l/p/1564405684707214293"
+    },
+    {
+      "id": "1564405684702551309",
+      "store_id": "2052",
+      "like_code": "135624",
+      "department_id": [
+        "22459139"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 4016,
+      "upc": "480901040808",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010408082",
+      "reference_ids": [
+        "04809010408082"
+      ],
+      "name": "Alfonso Porridge Champorado Chocolate | 55g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551309/c79325adc3c575b62b4a1212b4de69f2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809010408082",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/oats_cereals/alfonso_porridge_champorado_chocolate_55g/p/1564405684702551309"
+    },
+    {
+      "id": "1564405684704610593",
+      "store_id": "2052",
+      "like_code": "311847",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱365.00",
+      "unit_price": 365.0,
+      "popularity": 9338,
+      "upc": "841002890255",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028902552",
+      "reference_ids": [
+        "08410028902552"
+      ],
+      "name": "Alfonso Zero | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704610593/4c831657f9308132fb733408780f1c2b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028902552",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_zero_1_l/p/1564405684704610593"
+    },
+    {
+      "id": "1564405684702556590",
+      "store_id": "2052",
+      "like_code": "270937",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 999999,
+      "upc": "841002890202",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028902026",
+      "reference_ids": [
+        "08410028902026"
+      ],
+      "name": "Alhambra Brandy light | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556590/e2159ffdf55b521f8c775b915d11c7a9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410028902026",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alhambra_brandy_light_700ml/p/1564405684702556590"
+    },
+    {
+      "id": "1564405684704734333",
+      "store_id": "2052",
+      "like_code": "272872",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱518.00",
+      "unit_price": 518.0,
+      "popularity": 9396,
+      "upc": "841002890200",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028902002",
+      "reference_ids": [
+        "08410028902002"
+      ],
+      "name": "Alhambra Brandy Solera Light | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704734333/03737caa7b904f16ab6c79afb60453d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028902002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alhambra_brandy_solera_light_1_75_l/p/1564405684704734333"
+    },
+    {
+      "id": "1564405684702556591",
+      "store_id": "2052",
+      "like_code": "267164",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱345.75",
+      "unit_price": 345.75,
+      "popularity": 999999,
+      "upc": "841002890175",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028901753",
+      "reference_ids": [
+        "08410028901753"
+      ],
+      "name": "Alhambra Solera Brandy | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556591/d1942282775497324511c1d0e79fa5e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410028901753",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alhambra_solera_brandy_1_l/p/1564405684702556591"
+    },
+    {
+      "id": "1564405684702556588",
+      "store_id": "2052",
+      "like_code": "251177",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 9336,
+      "upc": "841002890165",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028901654",
+      "reference_ids": [
+        "08410028901654"
+      ],
+      "name": "Alhambra Solera Light Brandy | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556588/6f40694309e57958e433ece878a97738",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028901654",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alhambra_solera_light_brandy_1_l/p/1564405684702556588"
+    },
+    {
+      "id": "1564405684704733092",
+      "store_id": "2052",
+      "like_code": "273409",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱19.25",
+      "unit_price": 19.25,
+      "popularity": 4887,
+      "upc": "480901304155",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013041552",
+      "reference_ids": [
+        "04809013041552"
+      ],
+      "name": "Alibaba Crunchy Corn Chips Hot & Spicy | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704733092/457e6fe1338aa3f44d1b2b9e800b4d66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013041552",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/alibaba_crunchy_corn_chips_hot_spicy_120g/p/1564405684704733092"
+    },
+    {
+      "id": "1564405684704733093",
+      "store_id": "2052",
+      "like_code": "273408",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱19.00",
+      "unit_price": 19.0,
+      "popularity": 3887,
+      "upc": "480901304157",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013041576",
+      "reference_ids": [
+        "04809013041576"
+      ],
+      "name": "Alibaba Crunchy Corn Chips Nacho Cheese | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704733093/5b4ebad1eaf08c96aa4b97b106edf1c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013041576",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/alibaba_crunchy_corn_chips_nacho_cheese_120g/p/1564405684704733093"
+    },
+    {
+      "id": "1564405684704733091",
+      "store_id": "2052",
+      "like_code": "273407",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱19.00",
+      "unit_price": 19.0,
+      "popularity": 1690,
+      "upc": "480901304153",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013041538",
+      "reference_ids": [
+        "04809013041538"
+      ],
+      "name": "Alibaba Crunchy Corn Chips Sweet Corn | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704733091/90480c76a34ab673a086f72d35a7d46e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013041538",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/alibaba_crunchy_corn_chips_sweet_corn_120g/p/1564405684704733091"
+    },
+    {
+      "id": "1564405684704732424",
+      "store_id": "2052",
+      "like_code": "311848",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱20.50",
+      "unit_price": 20.5,
+      "popularity": 6540,
+      "upc": "480901304142",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013041422",
+      "reference_ids": [
+        "04809013041422"
+      ],
+      "name": "Alibaba Nuts Snack Mixed | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732424/c159b0c7c5cf070621b7d317fd1e1d81",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013041422",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/alibaba_nuts_snack_mixed_100g/p/1564405684704732424"
+    },
+    {
+      "id": "1564405684713738134",
+      "store_id": "2052",
+      "like_code": "382700",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382700",
+      "reference_ids": [
+        "00000000382700"
+      ],
+      "name": "All Seasons Dole Avocado Hass | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738134/d57ac73bc2c557aea1a38da9e7d1e79f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382700",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_dole_avocado_hass_kg/p/1564405684713738134"
+    },
+    {
+      "id": "1564405684713738132",
+      "store_id": "2052",
+      "like_code": "382698",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38269",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382698",
+      "reference_ids": [
+        "00000000382698"
+      ],
+      "name": "All Seasons Dole Cavendish Banana | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738132/02a7b207ada4f6976e7f724297fd8d5f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382698",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_dole_cavendish_banana_kg/p/1564405684713738132"
+    },
+    {
+      "id": "1564405684713738149",
+      "store_id": "2052",
+      "like_code": "382704",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "upc": "200003827048",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000038270480",
+      "reference_ids": [
+        "02000038270480"
+      ],
+      "name": "All Seasons Dole Pineapple Big | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738149/dd2077b1a44ce0c53def535fb4b9b5bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000038270480",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_dole_pineapple_big_pc/p/1564405684713738149"
+    },
+    {
+      "id": "1564405684713738148",
+      "store_id": "2052",
+      "like_code": "382702",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 999999,
+      "upc": "200003827028",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000038270282",
+      "reference_ids": [
+        "02000038270282"
+      ],
+      "name": "All Seasons Dole Pineapple Small | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738148/e371702d363c2dbb43e09c6756d6a9f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000038270282",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_dole_pineapple_small_pc/p/1564405684713738148"
+    },
+    {
+      "id": "1564405684713738125",
+      "store_id": "2052",
+      "like_code": "382686",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38268",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382686",
+      "reference_ids": [
+        "00000000382686"
+      ],
+      "name": "All Seasons Natural Organic Fruit Banana Arnibal | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738125/b3f505146ff6ff87986c92441b397d7f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382686",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_banana_arnibal_kg/p/1564405684713738125"
+    },
+    {
+      "id": "1564405684713738124",
+      "store_id": "2052",
+      "like_code": "382682",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱135.00",
+      "unit_price": 135.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38268",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382682",
+      "reference_ids": [
+        "00000000382682"
+      ],
+      "name": "All Seasons Natural Organic Fruit Banana Lakatan | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738124/422761f0acbf8559ad4071406b47e718",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382682",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_banana_lakatan_kg/p/1564405684713738124"
+    },
+    {
+      "id": "1564405684713738126",
+      "store_id": "2052",
+      "like_code": "382688",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱80.00",
+      "unit_price": 80.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38268",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382688",
+      "reference_ids": [
+        "00000000382688"
+      ],
+      "name": "All Seasons Natural Organic Fruit Banana Saba | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738126/6a43a07447018a684c7a506ce82bcdaa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382688",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_banana_saba_kg/p/1564405684713738126"
+    },
+    {
+      "id": "1564405684713738227",
+      "store_id": "2052",
+      "like_code": "382706",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382706",
+      "reference_ids": [
+        "00000000382706"
+      ],
+      "name": "All Seasons Natural Organic Fruit Calamansi | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738227/336e53a64df04136a9371f309cb5fb9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382706",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_calamansi_kg/p/1564405684713738227"
+    },
+    {
+      "id": "1564405684713738113",
+      "store_id": "2052",
+      "like_code": "382669",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382669",
+      "reference_ids": [
+        "00000000382669"
+      ],
+      "name": "All Seasons Natural Organic Fruit Cucumber  | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738113/72f9a91bee0dd078b9973f52b4169c23",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382669",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_cucumber_kg/p/1564405684713738113"
+    },
+    {
+      "id": "1564405684713738114",
+      "store_id": "2052",
+      "like_code": "382671",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 2664,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382671",
+      "reference_ids": [
+        "00000000382671"
+      ],
+      "name": "All Seasons Natural Organic Fruit Japanese Cucumber | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738114/8bf30a75c99998fd07689647819971db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382671",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_japanese_cucumber_kg/p/1564405684713738114"
+    },
+    {
+      "id": "1564405684713738127",
+      "store_id": "2052",
+      "like_code": "382690",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38269",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382690",
+      "reference_ids": [
+        "00000000382690"
+      ],
+      "name": "All Seasons Natural Organic Fruit Lemon Local | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738127/34ca892dc0ba0e380d2fbd9cff9ff303",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382690",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_lemon_local_kg/p/1564405684713738127"
+    },
+    {
+      "id": "1564405684713738128",
+      "store_id": "2052",
+      "like_code": "382692",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱70.00",
+      "unit_price": 70.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38269",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382692",
+      "reference_ids": [
+        "00000000382692"
+      ],
+      "name": "All Seasons Natural Organic Fruit Papaya Green | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738128/7482f8d5c0a2b23484669c1374e9482d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382692",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_papaya_green_kg/p/1564405684713738128"
+    },
+    {
+      "id": "1564405684713738130",
+      "store_id": "2052",
+      "like_code": "382694",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38269",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382694",
+      "reference_ids": [
+        "00000000382694"
+      ],
+      "name": "All Seasons Natural Organic Fruit Passion Fruit | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738130/2fc2d85930d402309a985545d4bbe093",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382694",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_passion_fruit_kg/p/1564405684713738130"
+    },
+    {
+      "id": "1564405684713738147",
+      "store_id": "2052",
+      "like_code": "382695",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱130.00",
+      "unit_price": 130.0,
+      "popularity": 999999,
+      "upc": "200003826958",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000038269583",
+      "reference_ids": [
+        "02000038269583"
+      ],
+      "name": "All Seasons Natural Organic Fruit Pineapple | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738147/ebd54e6dabf2f6d4a3a5e6644fca924d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000038269583",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_pineapple_pc/p/1564405684713738147"
+    },
+    {
+      "id": "1564405684713738129",
+      "store_id": "2052",
+      "like_code": "382693",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38269",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382693",
+      "reference_ids": [
+        "00000000382693"
+      ],
+      "name": "All Seasons Natural Organic Fruit Red Lady Papaya | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738129/4b5a51da61088575efb366b0df85d10e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382693",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_red_lady_papaya_kg/p/1564405684713738129"
+    },
+    {
+      "id": "1564405684713738131",
+      "store_id": "2052",
+      "like_code": "382696",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38269",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382696",
+      "reference_ids": [
+        "00000000382696"
+      ],
+      "name": "All Seasons Natural Organic Fruit Santol | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738131/56973e880d10ddf6ea2cef605957e03c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382696",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_fruit_santol_kg/p/1564405684713738131"
+    },
+    {
+      "id": "1564405684713744296",
+      "store_id": "2052",
+      "like_code": "382791",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382791",
+      "reference_ids": [
+        "00000000382791"
+      ],
+      "name": "All Seasons Natural Organic Herb Basil | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744296/0fa1f55615bcd0eec4ed76a267fd83bd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382791",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_basil_kg/p/1564405684713744296"
+    },
+    {
+      "id": "1564405684713744302",
+      "store_id": "2052",
+      "like_code": "382799",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382799",
+      "reference_ids": [
+        "00000000382799"
+      ],
+      "name": "All Seasons Natural Organic Herb Blue Ternate | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744302/681e4ebc6497a9f491222a988d892716",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382799",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_blue_ternate_kg/p/1564405684713744302"
+    },
+    {
+      "id": "1564405684713744297",
+      "store_id": "2052",
+      "like_code": "382792",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382792",
+      "reference_ids": [
+        "00000000382792"
+      ],
+      "name": "All Seasons Natural Organic Herb Dill | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744297/d2cd6d429b9c856f6ff7e6a253dd6dff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382792",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_dill_kg/p/1564405684713744297"
+    },
+    {
+      "id": "1564405684713744299",
+      "store_id": "2052",
+      "like_code": "382794",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382794",
+      "reference_ids": [
+        "00000000382794"
+      ],
+      "name": "All Seasons Natural Organic Herb Mint | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744299/abd508ae9db92917bcc22575d7370b80",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382794",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_mint_kg/p/1564405684713744299"
+    },
+    {
+      "id": "1564405684713744298",
+      "store_id": "2052",
+      "like_code": "382793",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382793",
+      "reference_ids": [
+        "00000000382793"
+      ],
+      "name": "All Seasons Natural Organic Herb Oregano | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744298/55276e5f813f51ffb8091a220333cede",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382793",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_oregano_kg/p/1564405684713744298"
+    },
+    {
+      "id": "1564405684713744301",
+      "store_id": "2052",
+      "like_code": "382796",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382796",
+      "reference_ids": [
+        "00000000382796"
+      ],
+      "name": "All Seasons Natural Organic Herb Roselle Dry | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744301/27bf407fb31232c2648ac32a52229f98",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382796",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_roselle_dry_kg/p/1564405684713744301"
+    },
+    {
+      "id": "1564405684713744300",
+      "store_id": "2052",
+      "like_code": "382795",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382795",
+      "reference_ids": [
+        "00000000382795"
+      ],
+      "name": "All Seasons Natural Organic Herb Rosemary | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744300/905c187ad57104e5dcb6397712aefdcf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382795",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_herb_rosemary_kg/p/1564405684713744300"
+    },
+    {
+      "id": "1564405684713738104",
+      "store_id": "2052",
+      "like_code": "382656",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382656",
+      "reference_ids": [
+        "00000000382656"
+      ],
+      "name": "All Seasons Natural Organic Mushroom Oyster | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738104/d073ab02eff05638c5ada2a26ccb9f15",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382656",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_mushroom_oyster_kg/p/1564405684713738104"
+    },
+    {
+      "id": "1564405684713738105",
+      "store_id": "2052",
+      "like_code": "382657",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382657",
+      "reference_ids": [
+        "00000000382657"
+      ],
+      "name": "All Seasons Natural Organic Shiitake Mushroom | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738105/a555629b983688b11972c0784fd70c05",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382657",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_shiitake_mushroom_kg/p/1564405684713738105"
+    },
+    {
+      "id": "1564405684713738086",
+      "store_id": "2052",
+      "like_code": "382638",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38263",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382638",
+      "reference_ids": [
+        "00000000382638"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Alugbati | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738086/81e23b4f59c87cdb2e0a9b60724d8578",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382638",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_alugbati_kg/p/1564405684713738086"
+    },
+    {
+      "id": "1564405684713738087",
+      "store_id": "2052",
+      "like_code": "382639",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38263",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382639",
+      "reference_ids": [
+        "00000000382639"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Amaranth | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738087/5beeab393c0d991f3621fa610ce51a93",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382639",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_amaranth_kg/p/1564405684713738087"
+    },
+    {
+      "id": "1564405684713738226",
+      "store_id": "2052",
+      "like_code": "382705",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱224.00",
+      "unit_price": 224.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382705",
+      "reference_ids": [
+        "00000000382705"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Ampalaya | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738226/0855c7720f66ba90ab932c0129bb2e6e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382705",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_ampalaya_kg/p/1564405684713738226"
+    },
+    {
+      "id": "1564405684713738106",
+      "store_id": "2052",
+      "like_code": "382661",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382661",
+      "reference_ids": [
+        "00000000382661"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Beans | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738106/c9ba2577bae30d238687460ee1910279",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382661",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_beans_kg/p/1564405684713738106"
+    },
+    {
+      "id": "1564405684713738107",
+      "store_id": "2052",
+      "like_code": "382662",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱400.00",
+      "unit_price": 400.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382662",
+      "reference_ids": [
+        "00000000382662"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Bell Pepper | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738107/e4e2fde8dc80731455f3b46379db7778",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382662",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_bell_pepper_kg/p/1564405684713738107"
+    },
+    {
+      "id": "1564405684713738089",
+      "store_id": "2052",
+      "like_code": "382641",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 2660,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382641",
+      "reference_ids": [
+        "00000000382641"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Bok Choy | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738089/93e11b0619f41a127e46e1ad48ab137f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382641",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_bok_choy_kg/p/1564405684713738089"
+    },
+    {
+      "id": "1564405684713738108",
+      "store_id": "2052",
+      "like_code": "382663",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱390.00",
+      "unit_price": 390.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382663",
+      "reference_ids": [
+        "00000000382663"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Broccoli Untrimmed | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738108/fcc5ded139c05375932c92251bf04827",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382663",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_broccoli_untrimmed_kg/p/1564405684713738108"
+    },
+    {
+      "id": "1564405684713738109",
+      "store_id": "2052",
+      "like_code": "382664",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382664",
+      "reference_ids": [
+        "00000000382664"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Cabbage | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738109/e1dec97a851f7a147a8d2e5195d315f1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382664",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_cabbage_kg/p/1564405684713738109"
+    },
+    {
+      "id": "1564405684713738236",
+      "store_id": "2052",
+      "like_code": "382715",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382715",
+      "reference_ids": [
+        "00000000382715"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Camote Orange | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738236/32ac9e1c039b257fe0ac900596789fb8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382715",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_camote_orange_kg/p/1564405684713738236"
+    },
+    {
+      "id": "1564405684713744304",
+      "store_id": "2052",
+      "like_code": "382804",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38280",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382804",
+      "reference_ids": [
+        "00000000382804"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Camote Tops | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744304/a82d51cbd4b6f7cfb53ba48b82c94999",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382804",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_camote_tops_kg/p/1564405684713744304"
+    }
+  ]
+}

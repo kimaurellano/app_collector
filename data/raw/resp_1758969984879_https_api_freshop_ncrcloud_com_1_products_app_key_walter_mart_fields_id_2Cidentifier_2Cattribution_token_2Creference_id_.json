@@ -1,0 +1,3018 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702546043",
+      "store_id": "2052",
+      "like_code": "264840",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱352.00",
+      "unit_price": 352.0,
+      "popularity": 9441,
+      "upc": "480650159772",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597720",
+      "reference_ids": [
+        "04806501597720"
+      ],
+      "name": "Anlene Chocolate | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546043/95029ba2aad00f3c403b163401c27353",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597720",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_chocolate_600g/p/1564405684702546043"
+    },
+    {
+      "id": "1564405684702546035",
+      "store_id": "2052",
+      "like_code": "180309",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱557.00",
+      "unit_price": 557.0,
+      "popularity": 7665,
+      "upc": "480650159700",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597003",
+      "reference_ids": [
+        "04806501597003"
+      ],
+      "name": "Anlene Chocolate Milk Powder | 980g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546035/55d8748c4b6d92dbca86d61a9ff8c728",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597003",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_chocolate_milk_powder_980g/p/1564405684702546035"
+    },
+    {
+      "id": "1764405684715046724",
+      "store_id": "2052",
+      "like_code": "436607",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱243.50",
+      "unit_price": 243.5,
+      "popularity": 5102,
+      "upc": "480650159105",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501591056",
+      "reference_ids": [
+        "04806501591056"
+      ],
+      "name": "Anlene Gold 5x Dark Chocolate Powdered Milk Drink | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715046724/36d1b511fe7b6cbd4ef021c80b67d8b0",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705635042834648",
+          "reference_id": "ad_2052_04806501591056_2_438_5",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1764405684715046724"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2551,
+          "product_tag_ids": [
+            "668434",
+            "1496135",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "1c903a08232b2b4d9a43087cffb14644",
+          "similarity_priority": 6,
+          "name": "Anlene Gold 5x Dark Chocolate Powdered Milk Drink | 300g",
+          "sale_price": "2 for ₱438.50 with purchase of 2",
+          "sale_price_md": "**2 for ₱438.50 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱438.50 with purchase of 2",
+      "sale_price_md": "**2 for ₱438.50 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705635042834648",
+        "reference_id": "ad_2052_04806501591056_2_438_5",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1764405684715046724"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2551,
+        "product_tag_ids": [
+          "668434",
+          "1496135",
+          "22474153",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "1c903a08232b2b4d9a43087cffb14644",
+        "similarity_priority": 6,
+        "name": "Anlene Gold 5x Dark Chocolate Powdered Milk Drink | 300g",
+        "sale_price": "2 for ₱438.50 with purchase of 2",
+        "sale_price_md": "**2 for ₱438.50 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 219.25,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501591056",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/anlene_gold_5x_dark_chocolate_powdered_milk_drink_300g/p/1764405684715046724"
+    },
+    {
+      "id": "1564405684712266876",
+      "store_id": "2052",
+      "like_code": "358927",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱241.50",
+      "unit_price": 241.5,
+      "popularity": 3903,
+      "upc": "480650159941",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501599410",
+      "reference_ids": [
+        "04806501599410"
+      ],
+      "name": "Anlene Milk Gold 5x Plain | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712266876/94ae9de2c095810b2746227dde48f5a2",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705635202218215",
+          "reference_id": "ad_2052_04806501599410_2_434_75",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684712266876"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1952,
+          "product_tag_ids": [
+            "668434",
+            "1496135",
+            "22356775",
+            "22475760",
+            "22807318",
+            "22809445",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "03e54e29b5c7329ad9293536cd13d6fa",
+          "similarity_priority": 6,
+          "name": "Anlene Milk Gold 5x Plain | 300g",
+          "sale_price": "2 for ₱434.75 with purchase of 2",
+          "sale_price_md": "**2 for ₱434.75 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱434.75 with purchase of 2",
+      "sale_price_md": "**2 for ₱434.75 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705635202218215",
+        "reference_id": "ad_2052_04806501599410_2_434_75",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684712266876"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1952,
+        "product_tag_ids": [
+          "668434",
+          "1496135",
+          "22356775",
+          "22475760",
+          "22807318",
+          "22809445",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "03e54e29b5c7329ad9293536cd13d6fa",
+        "similarity_priority": 6,
+        "name": "Anlene Milk Gold 5x Plain | 300g",
+        "sale_price": "2 for ₱434.75 with purchase of 2",
+        "sale_price_md": "**2 for ₱434.75 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 217.375,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501599410",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/anlene_milk_gold_5x_plain_300g/p/1564405684712266876"
+    },
+    {
+      "id": "1564405684712266877",
+      "store_id": "2052",
+      "like_code": "358928",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱750.00",
+      "unit_price": 750.0,
+      "popularity": 5957,
+      "upc": "480650159964",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501599649",
+      "reference_ids": [
+        "04806501599649",
+        "04806501599427"
+      ],
+      "name": "Anlene Milk Gold 5x Plain | 990g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684712266877/bee68b941fd7cd0930d127257d155c7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501599649",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/anlene_milk_gold_5x_plain_990g/p/1564405684712266877"
+    },
+    {
+      "id": "1564405684702546030",
+      "store_id": "2052",
+      "like_code": "102551",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱181.50",
+      "unit_price": 181.5,
+      "popularity": 1,
+      "upc": "480650159821",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501598215",
+      "reference_ids": [
+        "04806501598215",
+        "04806501596792",
+        "04806501597416",
+        "09415007023319"
+      ],
+      "name": "Anlene Milk Plain Vanilla | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546030/574be500a522823817c492c7ce65d42f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593274360740743",
+          "reference_id": "tpr_2052_04806501598215_161_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546030"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496140",
+            "22081681",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6ea58a413df76453770f8fd6a059ece3",
+          "similarity_priority": 5,
+          "name": "Anlene Milk Plain Vanilla | 300g",
+          "sale_price": "₱161.50",
+          "sale_price_md": "**₱161.50** (09/01/25 - 10/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-30"
+        },
+        {
+          "id": "3711589718287202623",
+          "reference_id": "ad_2052_04806501598215_1_161_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546030"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496140",
+            "22081681",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a5ebe6891a775a90e3f1f536158ce66d",
+          "similarity_priority": 6,
+          "name": "Anlene Milk Plain Vanilla | 300g",
+          "sale_price": "₱161.50",
+          "sale_price_md": "**₱161.50** (09/01/25 - 10/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-30",
+      "sale_price": "₱161.50",
+      "sale_price_md": "**₱161.50** (09/01/25 - 10/30/25)",
+      "sale_offer": {
+        "id": "3711593274360740743",
+        "reference_id": "tpr_2052_04806501598215_161_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546030"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1,
+        "product_tag_ids": [
+          "1496140",
+          "22081681",
+          "22356775",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "6ea58a413df76453770f8fd6a059ece3",
+        "similarity_priority": 5,
+        "name": "Anlene Milk Plain Vanilla | 300g",
+        "sale_price": "₱161.50",
+        "sale_price_md": "**₱161.50** (09/01/25 - 10/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-30"
+      },
+      "offer_sale_price": 161.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱161.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501598215",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_milk_plain_vanilla_300g/p/1564405684702546030"
+    },
+    {
+      "id": "1564405684702546041",
+      "store_id": "2052",
+      "like_code": "260849",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱20.25",
+      "unit_price": 20.25,
+      "popularity": 830,
+      "upc": "480650159760",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597607",
+      "reference_ids": [
+        "04806501597607"
+      ],
+      "name": "Anlene Milk Plain Vanilla | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546041/2dd7b29c88b39f0253326c77cf2750c1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597607",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_milk_plain_vanilla_30g/p/1564405684702546041"
+    },
+    {
+      "id": "1564405684702546025",
+      "store_id": "2052",
+      "like_code": "156003",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱352.00",
+      "unit_price": 352.0,
+      "popularity": 1,
+      "upc": "480650159785",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597850",
+      "reference_ids": [
+        "04806501597850",
+        "04806501596624"
+      ],
+      "name": "Anlene Plain Milk Powder | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546025/8b707b2b3fc6b059baf1e38f3872e627",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593273245055856",
+          "reference_id": "tpr_2052_04806501597850_322_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546025"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496140",
+            "22081681",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22775806"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "04df1b44466de520696b48c33cea1e7b",
+          "similarity_priority": 5,
+          "name": "Anlene Plain Milk Powder | 600g",
+          "sale_price": "₱322.00",
+          "sale_price_md": "**₱322.00** (09/01/25 - 10/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-30"
+        },
+        {
+          "id": "3711589717783886142",
+          "reference_id": "ad_2052_04806501597850_1_322_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546025"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496140",
+            "22081681",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22775806"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "dfa30150b70c82ffd8a9ceac9db6368e",
+          "similarity_priority": 6,
+          "name": "Anlene Plain Milk Powder | 600g",
+          "sale_price": "₱322.00",
+          "sale_price_md": "**₱322.00** (09/01/25 - 10/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-30",
+      "sale_price": "₱322.00",
+      "sale_price_md": "**₱322.00** (09/01/25 - 10/30/25)",
+      "sale_offer": {
+        "id": "3711593273245055856",
+        "reference_id": "tpr_2052_04806501597850_322_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546025"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1,
+        "product_tag_ids": [
+          "1496140",
+          "22081681",
+          "22356775",
+          "22475760",
+          "22547975",
+          "22775806"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "04df1b44466de520696b48c33cea1e7b",
+        "similarity_priority": 5,
+        "name": "Anlene Plain Milk Powder | 600g",
+        "sale_price": "₱322.00",
+        "sale_price_md": "**₱322.00** (09/01/25 - 10/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-30"
+      },
+      "offer_sale_price": 322.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱322.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597850",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_plain_milk_powder_600g/p/1564405684702546025"
+    },
+    {
+      "id": "1564405684702546033",
+      "store_id": "2052",
+      "like_code": "179996",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱557.00",
+      "unit_price": 557.0,
+      "popularity": 1,
+      "upc": "480650159961",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501599618",
+      "reference_ids": [
+        "04806501599618",
+        "04806501596983",
+        "04806501597867"
+      ],
+      "name": "Anlene Plain Milk Powder | 990g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546033/abe80cb4db035afe378d37ec5477f2e9",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3682592483465771565",
+          "reference_id": "tpr_2052_04806501599618_527_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546033"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496140",
+            "22081681",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5dfaec20c35a448372128983846c34f4",
+          "similarity_priority": 5,
+          "name": "Anlene Plain Milk Powder | 990g",
+          "sale_price": "₱527.00",
+          "sale_price_md": "**₱527.00** (09/01/25 - 10/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-30"
+        },
+        {
+          "id": "3682592637916821793",
+          "reference_id": "ad_2052_04806501599618_1_527_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546033"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-10-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "1496140",
+            "22081681",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "97201b4aadc7705eeeb87f928c68b133",
+          "similarity_priority": 6,
+          "name": "Anlene Plain Milk Powder | 990g",
+          "sale_price": "₱527.00",
+          "sale_price_md": "**₱527.00** (09/01/25 - 10/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-10-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-10-30",
+      "sale_price": "₱527.00",
+      "sale_price_md": "**₱527.00** (09/01/25 - 10/30/25)",
+      "sale_offer": {
+        "id": "3682592483465771565",
+        "reference_id": "tpr_2052_04806501599618_527_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546033"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-10-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1,
+        "product_tag_ids": [
+          "1496140",
+          "22081681",
+          "22356775",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "5dfaec20c35a448372128983846c34f4",
+        "similarity_priority": 5,
+        "name": "Anlene Plain Milk Powder | 990g",
+        "sale_price": "₱527.00",
+        "sale_price_md": "**₱527.00** (09/01/25 - 10/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-10-30"
+      },
+      "offer_sale_price": 527.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱527.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501599618",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_plain_milk_powder_990g/p/1564405684702546033"
+    },
+    {
+      "id": "1564405684702546034",
+      "store_id": "2052",
+      "like_code": "180310",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱121.75",
+      "unit_price": 121.75,
+      "popularity": 7639,
+      "upc": "480650159784",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597843",
+      "reference_ids": [
+        "04806501597843",
+        "04806501597027"
+      ],
+      "name": "Anlene Vanilla Milk Powder | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546034/13cfd9203324d5936ad38689e0a7bea9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597843",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_vanilla_milk_powder_180g/p/1564405684702546034"
+    },
+    {
+      "id": "1564405684704723581",
+      "store_id": "2052",
+      "like_code": "280350",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱183.50",
+      "unit_price": 183.5,
+      "popularity": 650,
+      "upc": "480650159798",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597980",
+      "reference_ids": [
+        "04806501597980"
+      ],
+      "name": "Anlene White Coffee | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723581/062297101b623981fa3401aaddaef3e3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597980",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_white_coffee_300g/p/1564405684704723581"
+    },
+    {
+      "id": "1564405684703975533",
+      "store_id": "2052",
+      "like_code": "280349",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱20.25",
+      "unit_price": 20.25,
+      "popularity": 650,
+      "upc": "480650159797",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501597973",
+      "reference_ids": [
+        "04806501597973"
+      ],
+      "name": "Anlene White Coffee | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703975533/ca34405ef2967bfec07f17ebb259e9d5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501597973",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anlene_white_coffee_30g/p/1564405684703975533"
+    },
+    {
+      "id": "1564405684702546036",
+      "store_id": "2052",
+      "like_code": "172413",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱846.00",
+      "unit_price": 846.0,
+      "popularity": 9535,
+      "upc": "480650159693",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501596938",
+      "reference_ids": [
+        "04806501596938"
+      ],
+      "name": "Anmum Materna Choco | 800g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546036/e950e0bf7acd57c7ff91d971b1244749",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501596938",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/anmum_materna_choco_800g/p/1564405684702546036"
+    },
+    {
+      "id": "1564405684702559633",
+      "store_id": "2052",
+      "like_code": "3895",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 8699,
+      "upc": "941500700593",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09415007005933",
+      "reference_ids": [
+        "09415007005933"
+      ],
+      "name": "Anmum Maternal Milk Choco | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559633/527ac1e099bf5d34ca9154e3b6d7f1e3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09415007005933",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anmum_maternal_milk_choco_180g/p/1564405684702559633"
+    },
+    {
+      "id": "1564405684702546021",
+      "store_id": "2052",
+      "like_code": "3898",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱422.00",
+      "unit_price": 422.0,
+      "popularity": 7112,
+      "upc": "480650159624",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501596242",
+      "reference_ids": [
+        "04806501596242",
+        "09415007011729"
+      ],
+      "name": "Anmum Maternal Milk Choco | 375g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546021/f919a9e3e597bc835e59934e4edce01c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501596242",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anmum_maternal_milk_choco_375g/p/1564405684702546021"
+    },
+    {
+      "id": "1564405684702559632",
+      "store_id": "2052",
+      "like_code": "3884",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 9129,
+      "upc": "941500700288",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09415007002888",
+      "reference_ids": [
+        "09415007002888"
+      ],
+      "name": "Anmum Maternal Milk Vanilla | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559632/b001e13686bde0833c3e645bdd47b598",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09415007002888",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anmum_maternal_milk_vanilla_180g/p/1564405684702559632"
+    },
+    {
+      "id": "1564405684702546019",
+      "store_id": "2052",
+      "like_code": "3889",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱422.00",
+      "unit_price": 422.0,
+      "popularity": 8886,
+      "upc": "480650159623",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501596235",
+      "reference_ids": [
+        "09415007011736",
+        "04806501596235"
+      ],
+      "name": "Anmum Maternal Milk Vanilla | 375g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546019/977f73ddbb09afaa1e2d24a78bc36f56",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501596235",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/anmum_maternal_milk_vanilla_375g/p/1564405684702546019"
+    },
+    {
+      "id": "1564405684702546032",
+      "store_id": "2052",
+      "like_code": "172412",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱846.00",
+      "unit_price": 846.0,
+      "popularity": 9982,
+      "upc": "480650159692",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806501596921",
+      "reference_ids": [
+        "04806501596921"
+      ],
+      "name": "Anmun Maternal Milk Vanilla | 800g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546032/6c3e6a169b48ba8985d02c004895cdfc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806501596921",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/anmun_maternal_milk_vanilla_800g/p/1564405684702546032"
+    },
+    {
+      "id": "1564405684711917776",
+      "store_id": "2052",
+      "like_code": "339054",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200003390540",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033905400",
+      "reference_ids": [
+        "02000033905400"
+      ],
+      "name": "Antifog Goggles H360 | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917776/173bd9f9d043076d54706c29e0b37071",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033905400",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 40",
+        "sequence": 40,
+        "identifier": "a39800e4-5f02-411e-a27d-1d96e7c973c8",
+        "id": "22356803"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/antifog_goggles_h360_1s/p/1564405684711917776"
+    },
+    {
+      "id": "1564405684711917777",
+      "store_id": "2052",
+      "like_code": "339055",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200003390550",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033905509",
+      "reference_ids": [
+        "02000033905509"
+      ],
+      "name": "Antifog Goggles H365 | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917777/fe988780e5a989309755cc7182759f2c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033905509",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 40",
+        "sequence": 40,
+        "identifier": "a39800e4-5f02-411e-a27d-1d96e7c973c8",
+        "id": "22356803"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/antifog_goggles_h365_1s/p/1564405684711917777"
+    },
+    {
+      "id": "1564405684702555117",
+      "store_id": "2052",
+      "like_code": "269026",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱573.50",
+      "unit_price": 573.5,
+      "popularity": 999999,
+      "upc": "600150690705",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "06001506907057",
+      "reference_ids": [
+        "06001506907057"
+      ],
+      "name": "Antonella Liqueur Cream Tiramisu | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555117/05f689c28d8493c75c728532134a01f7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06001506907057",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/antonella_liqueur_cream_tiramisu_750ml/p/1564405684702555117"
+    },
+    {
+      "id": "1564405684702538190",
+      "store_id": "2052",
+      "like_code": "94457",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱238.00",
+      "unit_price": 238.0,
+      "popularity": 10,
+      "upc": "480013001021",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800130010216",
+      "reference_ids": [
+        "04800130010216"
+      ],
+      "name": "Antonov Vodka | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538190/ace36a291889ca7611ee09f445832594",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800130010216",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/antonov_vodka_700ml/p/1564405684702538190"
+    },
+    {
+      "id": "1564405684702537237",
+      "store_id": "2052",
+      "like_code": "16566",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱320.00",
+      "unit_price": 320.0,
+      "popularity": 8157,
+      "upc": "480006764050",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067640500",
+      "reference_ids": [
+        "04800067640500"
+      ],
+      "name": "Apollo Muriatic Acid All Purpose Cleaners | 1Gal",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537237/a3d9fb89fd0046795f4c130df4a7d129",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067640500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/apollo_muriatic_acid_all_purpose_cleaners_1_gal/p/1564405684702537237"
+    },
+    {
+      "id": "1564405684702537235",
+      "store_id": "2052",
+      "like_code": "16517",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱68.00",
+      "unit_price": 68.0,
+      "popularity": 3271,
+      "upc": "480006712569",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067125694",
+      "reference_ids": [
+        "04800067125694",
+        "04800067640463"
+      ],
+      "name": "Apollo Muriatic Acid All Purpose Cleaners | 500ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537235/ccd1b808ee93774fb42f61e436a73637",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067125694",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/apollo_muriatic_acid_all_purpose_cleaners_500_ml/p/1564405684702537235"
+    },
+    {
+      "id": "1564405684702537232",
+      "store_id": "2052",
+      "like_code": "16524",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱113.50",
+      "unit_price": 113.5,
+      "popularity": 5624,
+      "upc": "480006713013",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067130131",
+      "reference_ids": [
+        "04800067640425",
+        "04800067130131"
+      ],
+      "name": "Apollo Muriatic Acid Tech Cleaner | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537232/fe9c294031142f81d7e10b36d4b6e8fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067130131",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/apollo_muriatic_acid_tech_cleaner_1_l/p/1564405684702537232"
+    },
+    {
+      "id": "1564405684702537236",
+      "store_id": "2052",
+      "like_code": "16530",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱182.00",
+      "unit_price": 182.0,
+      "popularity": 9387,
+      "upc": "480006764048",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067640487",
+      "reference_ids": [
+        "04800067640487"
+      ],
+      "name": "Apollo Muriatic Acid Tech Cleaner | 2L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537236/e56d33eef02e855e90c7039b2d6875f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067640487",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/apollo_muriatic_acid_tech_cleaner_2_l/p/1564405684702537236"
+    },
+    {
+      "id": "1564405684702537246",
+      "store_id": "2052",
+      "like_code": "117607",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 5056,
+      "upc": "480006764484",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067644843",
+      "reference_ids": [
+        "04800067644843"
+      ],
+      "name": "Apollo Petroleum Jelly | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537246/f07cc71a74e10769092a30290b07c09b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067644843",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/apollo_petroleum_jelly_50g/p/1564405684702537246"
+    },
+    {
+      "id": "8191056",
+      "store_id": "2052",
+      "like_code": "31880",
+      "department_id": [
+        "22459224"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 4716,
+      "upc": "4803761",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00000048037617",
+      "reference_ids": [
+        "00000048037617",
+        "04800067642689"
+      ],
+      "name": "Apollo Sebo De Macho Ointment | 10g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8191056/6c4b5e750c77f601df7ec45284d377a9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000048037617",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/medicine_health_aids/apollo_sebo_de_macho_ointment_10g/p/8191056"
+    },
+    {
+      "id": "8195257",
+      "store_id": "2052",
+      "like_code": "31881",
+      "department_id": [
+        "22459224"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 5895,
+      "upc": "480006764269",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067642696",
+      "reference_ids": [
+        "04800067642696"
+      ],
+      "name": "Apollo Sebo De Macho Ointment | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195257/857a2d47cf3da9d4655b953dae6656b5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067642696",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/medicine_health_aids/apollo_sebo_de_macho_ointment_25g/p/8195257"
+    },
+    {
+      "id": "1564405684702550335",
+      "store_id": "2052",
+      "like_code": "142397",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 9651,
+      "upc": "480778852506",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788525062",
+      "reference_ids": [
+        "04807788525062"
+      ],
+      "name": "Appebon Kid Syrup | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550335/423e30c9dd115a38e6818b29bfea1c81",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788525062",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/appebon_kid_syrup_250ml/p/1564405684702550335"
+    },
+    {
+      "id": "1564405684702550282",
+      "store_id": "2052",
+      "like_code": "130726",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 999999,
+      "upc": "480778851965",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788519658",
+      "reference_ids": [
+        "04807788519658",
+        "04807788219466"
+      ],
+      "name": "Appebon Kid Syrup Food Supplement | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550282/337dce42972303945127c92c3f85cf79",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04807788519658",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/appebon_kid_syrup_food_supplement_120ml/p/1564405684702550282"
+    },
+    {
+      "id": "1564405684702524109",
+      "store_id": "2052",
+      "like_code": "189831",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱200.00",
+      "unit_price": 200.0,
+      "popularity": 999999,
+      "upc": "200001898318",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000018983188",
+      "reference_ids": [
+        "02000018983188"
+      ],
+      "name": "Apple | 4pcs",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702524109/6f768bd8af73bffedb0c7dab7c89d949",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000018983188",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/apple_4pcs/p/1564405684702524109"
+    },
+    {
+      "id": "1564405684702531923",
+      "store_id": "2052",
+      "like_code": "260724",
+      "department_id": [
+        "22459117"
+      ],
+      "price": "₱200.00",
+      "unit_price": 200.0,
+      "popularity": 6701,
+      "upc": "200002607248",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000026072485",
+      "reference_ids": [
+        "02000026072485"
+      ],
+      "name": "Apple | 8pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702531923/689c6f285869237d9e27590a26455e0e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000026072485",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_fruits/apple_8pcs/p/1564405684702531923"
+    },
+    {
+      "id": "1564405684712853937",
+      "store_id": "2052",
+      "like_code": "329629",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "200003296290",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032962909",
+      "reference_ids": [
+        "02000032962909"
+      ],
+      "name": "April Hawaiian Canvas Shoes | 1 Pair",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000032962909",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/april_hawaiian_canvas_shoes_1_pair/p/1564405684712853937"
+    },
+    {
+      "id": "1564405684712853919",
+      "store_id": "2052",
+      "like_code": "293070",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200002930700",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000029307003",
+      "reference_ids": [
+        "02000029307003"
+      ],
+      "name": "Aqua Ladies Sandals Ladies Beads Bl1018 | 1 Pair",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712853919/2eab4799f8757fd6c49bce585e528027",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000029307003",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aqua_ladies_sandals_ladies_beads_bl1018_1_pair/p/1564405684712853919"
+    },
+    {
+      "id": "1564405684716097709",
+      "store_id": "2052",
+      "like_code": "413010",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱94.75",
+      "unit_price": 94.75,
+      "popularity": 9099,
+      "upc": "480653901013",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806539010130",
+      "reference_ids": [
+        "04806539010130"
+      ],
+      "name": "Aquapacs Detergent Pods Cherry Blossom | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097709/b211a9c7b12305c05969cac7a4db56d2",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704489217702518",
+          "reference_id": "tpr_2052_04806539010130_74_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716097709"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 9099,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "9a3b961b82d2732a00f00080154cd584",
+          "similarity_priority": 5,
+          "name": "Aquapacs Detergent Pods Cherry Blossom | 100g",
+          "sale_price": "₱74.75",
+          "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705676709050672",
+          "reference_id": "ad_2052_04806539010130_1_74_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716097709"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4550,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a1c0a3330780949fb769c74a30ff1d31",
+          "similarity_priority": 6,
+          "name": "Aquapacs Detergent Pods Cherry Blossom | 100g",
+          "sale_price": "₱74.75",
+          "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱74.75",
+      "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704489217702518",
+        "reference_id": "tpr_2052_04806539010130_74_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716097709"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 9099,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22981125"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "9a3b961b82d2732a00f00080154cd584",
+        "similarity_priority": 5,
+        "name": "Aquapacs Detergent Pods Cherry Blossom | 100g",
+        "sale_price": "₱74.75",
+        "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 74.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱74.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806539010130",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aquapacs_detergent_pods_cherry_blossom_100g/p/1564405684716097709"
+    },
+    {
+      "id": "1564405684716097703",
+      "store_id": "2052",
+      "like_code": "413007",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱189.75",
+      "unit_price": 189.75,
+      "popularity": 8417,
+      "upc": "480653901009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806539010093",
+      "reference_ids": [
+        "04806539010093"
+      ],
+      "name": "Aquapacs Detergent Pods Cherry Blossom | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097703/8eeff3f3d822f200a88bb102aa8b230d",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704489142205045",
+          "reference_id": "tpr_2052_04806539010093_169_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716097703"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8417,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7e6e54d7b4f397d04a2af2751cc19225",
+          "similarity_priority": 5,
+          "name": "Aquapacs Detergent Pods Cherry Blossom | 250g",
+          "sale_price": "₱169.75",
+          "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705675433982206",
+          "reference_id": "ad_2052_04806539010093_1_169_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716097703"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4209,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6004464173805b0e072e6bf61ad465d2",
+          "similarity_priority": 6,
+          "name": "Aquapacs Detergent Pods Cherry Blossom | 250g",
+          "sale_price": "₱169.75",
+          "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱169.75",
+      "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704489142205045",
+        "reference_id": "tpr_2052_04806539010093_169_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716097703"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8417,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22981125"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7e6e54d7b4f397d04a2af2751cc19225",
+        "similarity_priority": 5,
+        "name": "Aquapacs Detergent Pods Cherry Blossom | 250g",
+        "sale_price": "₱169.75",
+        "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 169.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱169.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806539010093",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aquapacs_detergent_pods_cherry_blossom_250g/p/1564405684716097703"
+    },
+    {
+      "id": "1564405684716097711",
+      "store_id": "2052",
+      "like_code": "413011",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱94.75",
+      "unit_price": 94.75,
+      "popularity": 7294,
+      "upc": "480653901014",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806539010147",
+      "reference_ids": [
+        "04806539010147"
+      ],
+      "name": "Aquapacs Detergent Pods Cotton Fresh | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097711/8b19fc1a1ea1ab0d27771f783862e045",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704490140449423",
+          "reference_id": "tpr_2052_04806539010147_74_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716097711"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7294,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "9a3b961b82d2732a00f00080154cd584",
+          "similarity_priority": 5,
+          "name": "Aquapacs Detergent Pods Cotton Fresh | 100g",
+          "sale_price": "₱74.75",
+          "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705677086538040",
+          "reference_id": "ad_2052_04806539010147_1_74_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716097711"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3647,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a1c0a3330780949fb769c74a30ff1d31",
+          "similarity_priority": 6,
+          "name": "Aquapacs Detergent Pods Cotton Fresh | 100g",
+          "sale_price": "₱74.75",
+          "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱74.75",
+      "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704490140449423",
+        "reference_id": "tpr_2052_04806539010147_74_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716097711"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7294,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22919042",
+          "22981125"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "9a3b961b82d2732a00f00080154cd584",
+        "similarity_priority": 5,
+        "name": "Aquapacs Detergent Pods Cotton Fresh | 100g",
+        "sale_price": "₱74.75",
+        "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 74.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱74.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806539010147",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aquapacs_detergent_pods_cotton_fresh_100g/p/1564405684716097711"
+    },
+    {
+      "id": "1564405684716097705",
+      "store_id": "2052",
+      "like_code": "413008",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱189.75",
+      "unit_price": 189.75,
+      "popularity": 8223,
+      "upc": "480653901010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806539010109",
+      "reference_ids": [
+        "04806539010109"
+      ],
+      "name": "Aquapacs Detergent Pods Cotton Fresh | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097705/47627177e63a71d85a27b68fa91bbf9f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704489117039219",
+          "reference_id": "tpr_2052_04806539010109_169_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716097705"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8223,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7e6e54d7b4f397d04a2af2751cc19225",
+          "similarity_priority": 5,
+          "name": "Aquapacs Detergent Pods Cotton Fresh | 250g",
+          "sale_price": "₱169.75",
+          "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705676264454427",
+          "reference_id": "ad_2052_04806539010109_1_169_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716097705"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4112,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6004464173805b0e072e6bf61ad465d2",
+          "similarity_priority": 6,
+          "name": "Aquapacs Detergent Pods Cotton Fresh | 250g",
+          "sale_price": "₱169.75",
+          "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱169.75",
+      "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704489117039219",
+        "reference_id": "tpr_2052_04806539010109_169_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716097705"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8223,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22981125"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7e6e54d7b4f397d04a2af2751cc19225",
+        "similarity_priority": 5,
+        "name": "Aquapacs Detergent Pods Cotton Fresh | 250g",
+        "sale_price": "₱169.75",
+        "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 169.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱169.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806539010109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aquapacs_detergent_pods_cotton_fresh_250g/p/1564405684716097705"
+    },
+    {
+      "id": "1564405684716097713",
+      "store_id": "2052",
+      "like_code": "413009",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱94.75",
+      "unit_price": 94.75,
+      "popularity": 8289,
+      "upc": "480653901015",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806539010154",
+      "reference_ids": [
+        "04806539010154"
+      ],
+      "name": "Aquapacs Detergent Pods Lavender Bliss | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097713/bd0feb33ed26950d5d4291b8b8be789f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704491029641889",
+          "reference_id": "tpr_2052_04806539010154_74_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716097713"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8289,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "9a3b961b82d2732a00f00080154cd584",
+          "similarity_priority": 5,
+          "name": "Aquapacs Detergent Pods Lavender Bliss | 100g",
+          "sale_price": "₱74.75",
+          "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705677396916545",
+          "reference_id": "ad_2052_04806539010154_1_74_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716097713"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4145,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a1c0a3330780949fb769c74a30ff1d31",
+          "similarity_priority": 6,
+          "name": "Aquapacs Detergent Pods Lavender Bliss | 100g",
+          "sale_price": "₱74.75",
+          "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱74.75",
+      "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704491029641889",
+        "reference_id": "tpr_2052_04806539010154_74_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716097713"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8289,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22981125"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "9a3b961b82d2732a00f00080154cd584",
+        "similarity_priority": 5,
+        "name": "Aquapacs Detergent Pods Lavender Bliss | 100g",
+        "sale_price": "₱74.75",
+        "sale_price_md": "**₱74.75** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 74.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱74.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806539010154",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aquapacs_detergent_pods_lavender_bliss_100g/p/1564405684716097713"
+    },
+    {
+      "id": "1564405684716097707",
+      "store_id": "2052",
+      "like_code": "413006",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱189.75",
+      "unit_price": 189.75,
+      "popularity": 8877,
+      "upc": "480653901011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806539010116",
+      "reference_ids": [
+        "04806539010116"
+      ],
+      "name": "Aquapacs Detergent Pods Lavender Bliss | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097707/50d7cc19cd266533424f25771a181c58",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704489125427828",
+          "reference_id": "tpr_2052_04806539010116_169_75",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716097707"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8877,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7e6e54d7b4f397d04a2af2751cc19225",
+          "similarity_priority": 5,
+          "name": "Aquapacs Detergent Pods Lavender Bliss | 250g",
+          "sale_price": "₱169.75",
+          "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705676591610151",
+          "reference_id": "ad_2052_04806539010116_1_169_75",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716097707"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4439,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22981125"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6004464173805b0e072e6bf61ad465d2",
+          "similarity_priority": 6,
+          "name": "Aquapacs Detergent Pods Lavender Bliss | 250g",
+          "sale_price": "₱169.75",
+          "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱169.75",
+      "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704489125427828",
+        "reference_id": "tpr_2052_04806539010116_169_75",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716097707"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8877,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22919042",
+          "22981125"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7e6e54d7b4f397d04a2af2751cc19225",
+        "similarity_priority": 5,
+        "name": "Aquapacs Detergent Pods Lavender Bliss | 250g",
+        "sale_price": "₱169.75",
+        "sale_price_md": "**₱169.75** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 169.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱169.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806539010116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aquapacs_detergent_pods_lavender_bliss_250g/p/1564405684716097707"
+    },
+    {
+      "id": "1564405684712853779",
+      "store_id": "2052",
+      "like_code": "305616",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "upc": "200003056160",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000030561609",
+      "reference_ids": [
+        "02000030561609"
+      ],
+      "name": "Aqua Socks Adult Shoes | Wave | Pe 3",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000030561609",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aqua_socks_adult_shoes_wave_pe_3/p/1564405684712853779"
+    },
+    {
+      "id": "1564405684712853775",
+      "store_id": "2052",
+      "like_code": "305614",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "upc": "200003056140",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000030561401",
+      "reference_ids": [
+        "02000030561401"
+      ],
+      "name": "Aqua Socks Kids Shoes | Lace | Pe 1",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000030561401",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aqua_socks_kids_shoes_lace_pe_1/p/1564405684712853775"
+    },
+    {
+      "id": "1564405684712853778",
+      "store_id": "2052",
+      "like_code": "305615",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "upc": "200003056150",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000030561500",
+      "reference_ids": [
+        "02000030561500"
+      ],
+      "name": "Aqua Socks Kids Shoes | Stripes | Pe 2",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000030561500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/aqua_socks_kids_shoes_stripes_pe_2/p/1564405684712853778"
+    },
+    {
+      "id": "1564405684709372467",
+      "store_id": "2052",
+      "like_code": "338414",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱59.50",
+      "unit_price": 59.5,
+      "popularity": 6033,
+      "upc": "480651380088",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806513800887",
+      "reference_ids": [
+        "04806513800887"
+      ],
+      "name": "Arawan Glutinous Rice Flour | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709372467/142a2bb7e1cd099a9f75b2c2c4893f03",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806513800887",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/arawan_glutinous_rice_flour_500g/p/1564405684709372467"
+    },
+    {
+      "id": "1564405684714094586",
+      "store_id": "2052",
+      "like_code": "386440",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱23.25",
+      "unit_price": 23.25,
+      "popularity": 999999,
+      "upc": "480901175867",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011758674",
+      "reference_ids": [
+        "04809011758674"
+      ],
+      "name": "Arbis Atsuete Powder | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714094586/962d15f6b5025b1ee75e735d4a0586c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809011758674",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/arbis_atsuete_powder_30g/p/1564405684714094586"
+    },
+    {
+      "id": "1564405684714091601",
+      "store_id": "2052",
+      "like_code": "385724",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱27.50",
+      "unit_price": 27.5,
+      "popularity": 999999,
+      "upc": "480901175823",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011758230",
+      "reference_ids": [
+        "04809011758230"
+      ],
+      "name": "Arbi's Atzuete Seeds | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714091601/5c869e4bfed3ec6cd791c3eaeb511431",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809011758230",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/arbi_s_atzuete_seeds_50g/p/1564405684714091601"
+    },
+    {
+      "id": "1564405684714094583",
+      "store_id": "2052",
+      "like_code": "386444",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱32.50",
+      "unit_price": 32.5,
+      "popularity": 999999,
+      "upc": "480901175821",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011758216",
+      "reference_ids": [
+        "04809011758216"
+      ],
+      "name": "Arbis Banana Blossom | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714094583/3d12a752eaba62c85bce67f12ddd8bbf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809011758216",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/arbis_banana_blossom_30g/p/1564405684714094583"
+    }
+  ]
+}

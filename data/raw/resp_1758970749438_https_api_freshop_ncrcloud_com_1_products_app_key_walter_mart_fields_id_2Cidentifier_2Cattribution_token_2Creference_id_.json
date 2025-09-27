@@ -1,0 +1,2396 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684715629819",
+      "store_id": "2052",
+      "like_code": "409890",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 9855,
+      "quantity_step": 1.0,
+      "upc": "885193246882",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932468824",
+      "reference_ids": [
+        "08851932468824",
+        "08851932468800"
+      ],
+      "name": "Axe Deo Body Spray Aqua Bergamot | 135ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 30",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715629819/7006bde6ca3b1a37e05026005294900b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932468824",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_body_spray_aqua_bergamot_135ml/p/1564405684715629819"
+    },
+    {
+      "id": "1764405684715266744",
+      "store_id": "2052",
+      "like_code": "441744",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱315.00",
+      "unit_price": 315.0,
+      "popularity": 7415,
+      "upc": "885193248320",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932483209",
+      "reference_ids": [
+        "08851932483209"
+      ],
+      "name": "Axe Deo Body Spray Black Vanilla | 135g",
+      "size": "pc",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715266744/b61c5268ff4e84156f99e11a76f903c8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932483209",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_body_spray_black_vanilla_135g/p/1764405684715266744"
+    },
+    {
+      "id": "1564405684715629817",
+      "store_id": "2052",
+      "like_code": "409891",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 8621,
+      "quantity_step": 1.0,
+      "upc": "885193246880",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932468800",
+      "reference_ids": [
+        "08851932468800",
+        "08851932468824"
+      ],
+      "name": "Axe Deo Body Spray Blue Lavender | 135ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 30",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715629817/60b2ec6508ab8777dadb79bee2e79640",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932468800",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_body_spray_blue_lavender_135ml/p/1564405684715629817"
+    },
+    {
+      "id": "1764405684715266738",
+      "store_id": "2052",
+      "like_code": "441743",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱315.00",
+      "unit_price": 315.0,
+      "popularity": 5328,
+      "upc": "885193248322",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932483223",
+      "reference_ids": [
+        "08851932483223"
+      ],
+      "name": "Axe Deo Body Spray Cherry Spritz | 135ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715266738/bd8ef82dd663f9117878aa38fd0e1e97",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461940979612379",
+          "reference_id": "tpr_2052_08851932483223_265_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183548668205"
+          ],
+          "circular_page_ids": [
+            "3719247210194418656"
+          ],
+          "circular_spot_ids": [
+            "3722700691836255125"
+          ],
+          "product_ids": [
+            "1764405684715266738"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5328,
+          "product_tag_ids": [
+            "213422",
+            "379851",
+            "414223",
+            "21884433",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22588055"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c0f2de1ae25a397b7358932202cac1b7",
+          "similarity_priority": 5,
+          "name": "Axe Deo Body Spray Cherry Spritz | 135ml",
+          "sale_price": "₱265.00",
+          "sale_price_md": "**₱265.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461662679153023",
+          "reference_id": "ad_2052_08851932483223_1_265_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183548668205"
+          ],
+          "circular_page_ids": [
+            "3719247210194418656"
+          ],
+          "circular_spot_ids": [
+            "3722700691836255125"
+          ],
+          "product_ids": [
+            "1764405684715266738"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2664,
+          "product_tag_ids": [
+            "213422",
+            "379851",
+            "414223",
+            "21884433",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22588055"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "16e12b2f03657e091c8c93445c140894",
+          "similarity_priority": 6,
+          "name": "Axe Deo Body Spray Cherry Spritz | 135ml",
+          "sale_price": "₱265.00",
+          "sale_price_md": "**₱265.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱265.00",
+      "sale_price_md": "**₱265.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461940979612379",
+        "reference_id": "tpr_2052_08851932483223_265_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183548668205"
+        ],
+        "circular_page_ids": [
+          "3719247210194418656"
+        ],
+        "circular_spot_ids": [
+          "3722700691836255125"
+        ],
+        "product_ids": [
+          "1764405684715266738"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5328,
+        "product_tag_ids": [
+          "213422",
+          "379851",
+          "414223",
+          "21884433",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22588055"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c0f2de1ae25a397b7358932202cac1b7",
+        "similarity_priority": 5,
+        "name": "Axe Deo Body Spray Cherry Spritz | 135ml",
+        "sale_price": "₱265.00",
+        "sale_price_md": "**₱265.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 265.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱265.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932483223",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_body_spray_cherry_spritz_135ml/p/1764405684715266738"
+    },
+    {
+      "id": "1764405684715437038",
+      "store_id": "2052",
+      "like_code": "450051",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱315.00",
+      "unit_price": 315.0,
+      "popularity": 9167,
+      "upc": "885193246884",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932468848",
+      "reference_ids": [
+        "08851932468848"
+      ],
+      "name": "Axe Deo Body Spray Emerald Sage | 135ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715437038/49e16f225307a561c682314c7a2fda84",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932468848",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_body_spray_emerald_sage_135ml/p/1764405684715437038"
+    },
+    {
+      "id": "1564405684702542430",
+      "store_id": "2052",
+      "like_code": "154357",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 6879,
+      "upc": "480088817850",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888178503",
+      "reference_ids": [
+        "04800888178503"
+      ],
+      "name": "Axe Deodorant Roll-On Apollo | 40ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542430/fcfa2e4854daf76931e989fbaa95ca81",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888178503",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/axe_deodorant_roll_on_apollo_40ml/p/1564405684702542430"
+    },
+    {
+      "id": "1564405684702542664",
+      "store_id": "2052",
+      "like_code": "243527",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 7792,
+      "upc": "480088819425",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888194251",
+      "reference_ids": [
+        "04800888194251"
+      ],
+      "name": "Axe Deodorant Roll-On Black | 40ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542664/818080f3ae66906a82b4a8fd41a508df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888194251",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/axe_deodorant_roll_on_black_40ml/p/1564405684702542664"
+    },
+    {
+      "id": "1564405684702542342",
+      "store_id": "2052",
+      "like_code": "133077",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 8570,
+      "upc": "480088815899",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888158994",
+      "reference_ids": [
+        "04800888158994"
+      ],
+      "name": "Axe Deodorant Roll-On Dark Temptation | 25ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542342/930327198a59e93d932f6fb7088f3f02",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888158994",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/axe_deodorant_roll_on_dark_temptation_25ml/p/1564405684702542342"
+    },
+    {
+      "id": "1564405684702542201",
+      "store_id": "2052",
+      "like_code": "119824",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 4708,
+      "upc": "480088816810",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888168108",
+      "reference_ids": [
+        "04800888168108",
+        "04800888147219",
+        "04800888154859",
+        "04800888157270",
+        "04800888164100"
+      ],
+      "name": "Axe Deodorant Roll-On Dark Temptation | 40ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542201/204e298c5846dbb890771b1d294f272c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888168108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/axe_deodorant_roll_on_dark_temptation_40ml/p/1564405684702542201"
+    },
+    {
+      "id": "1564405684702542486",
+      "store_id": "2052",
+      "like_code": "163297",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 6376,
+      "upc": "480088818306",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888183064",
+      "reference_ids": [
+        "04800888183064"
+      ],
+      "name": "Axe Deodorant Roll-On Gold Temptation | 40ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542486/95da6fbbfc4d6ab90c0e23d37c84c421",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888183064",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/axe_deodorant_roll_on_gold_temptation_40ml/p/1564405684702542486"
+    },
+    {
+      "id": "1564405684706875645",
+      "store_id": "2052",
+      "like_code": "319673",
+      "department_id": [
+        "1496179"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 9830,
+      "upc": "480088820985",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888209856",
+      "reference_ids": [
+        "04800888209856"
+      ],
+      "name": "Axe Deodorant Roll-On Ice Chill | 40ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706875645/6d3b06df1500f780bea1619971ec2eb0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888209856",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/deodorants/axe_deodorant_roll_on_ice_chill_40ml/p/1564405684706875645"
+    },
+    {
+      "id": "1764405684714933664",
+      "store_id": "2052",
+      "like_code": "428871",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱235.00",
+      "unit_price": 235.0,
+      "popularity": 999999,
+      "upc": "480088828760",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888287601",
+      "reference_ids": [
+        "04800888287601"
+      ],
+      "name": "Axe Deodorant Stick Black | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714933664/d2da276d714ec86051e96e723ddbf6d7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888287601",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deodorant_stick_black_40g/p/1764405684714933664"
+    },
+    {
+      "id": "1564405684702542196",
+      "store_id": "2052",
+      "like_code": "119381",
+      "department_id": [
+        "1496179"
+      ],
+      "price": "₱242.00",
+      "unit_price": 242.0,
+      "popularity": 7947,
+      "upc": "480088819787",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888197870",
+      "reference_ids": [
+        "04800888197870",
+        "04800888144522"
+      ],
+      "name": "Axe Deodorant Stick Dark Temptation | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542196/1b6dbeaf07b3a8fcfb8bca9773913111",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888197870",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/deodorants/axe_deodorant_stick_dark_temptation_40g/p/1564405684702542196"
+    },
+    {
+      "id": "1764405684714933668",
+      "store_id": "2052",
+      "like_code": "428870",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱235.00",
+      "unit_price": 235.0,
+      "popularity": 999999,
+      "upc": "480088828759",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888287595",
+      "reference_ids": [
+        "04800888287595"
+      ],
+      "name": "Axe Deodorant Stick Ice Chill | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714933668/7670d051d4ecc6345cc6004803f258eb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888287595",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deodorant_stick_ice_chill_40g/p/1764405684714933668"
+    },
+    {
+      "id": "1764405684715646186",
+      "store_id": "2052",
+      "like_code": "454138",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 4,
+      "upc": "885193248576",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932485760",
+      "reference_ids": [
+        "08851932485760"
+      ],
+      "name": "Axe Deo Roll On Aqua Bergamot | 45ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715646186/07f76972a8015adaeed165a657cec529",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932485760",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_roll_on_aqua_bergamot_45ml/p/1764405684715646186"
+    },
+    {
+      "id": "1764405684715646182",
+      "store_id": "2052",
+      "like_code": "454137",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 4,
+      "upc": "885193248574",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08851932485746",
+      "reference_ids": [
+        "08851932485746"
+      ],
+      "name": "Axe Deo Roll On Blue Lavender | 45ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715646182/7299cca7674b9ceaf36581cb02d054ee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08851932485746",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_roll_on_blue_lavender_45ml/p/1764405684715646182"
+    },
+    {
+      "id": "1764405684715646192",
+      "store_id": "2052",
+      "like_code": "454136",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 4,
+      "upc": "480088828991",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888289919",
+      "reference_ids": [
+        "04800888289919"
+      ],
+      "name": "Axe Deo Stick Aqua Bergamot 40G | 40g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715646192/2c0fc5a2f5fefd2f5ff1daab36823124",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888289919",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_stick_aqua_bergamot_40_g_40g/p/1764405684715646192"
+    },
+    {
+      "id": "1764405684715646190",
+      "store_id": "2052",
+      "like_code": "454135",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 4,
+      "upc": "480088828990",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888289902",
+      "reference_ids": [
+        "04800888289902"
+      ],
+      "name": "Axe Deo Stick Blue Lavender | 40g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715646190/435ab9b956908644976675521c76b330",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888289902",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axe_deo_stick_blue_lavender_40g/p/1764405684715646190"
+    },
+    {
+      "id": "1564405684711701971",
+      "store_id": "2052",
+      "like_code": "352279",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱191.00",
+      "unit_price": 191.0,
+      "popularity": 6603,
+      "upc": "955603131017",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031310171",
+      "reference_ids": [
+        "09556031310171"
+      ],
+      "name": "Axion Antibacterial Lemon Dishwashing Liquid | 850ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711701971/9bdaa3b21ba8ce274a30ffc9bcee3a44",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3678244753972935678",
+          "reference_id": "tpr_2052_09556031310171_162_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711701971"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5279,
+          "product_tag_ids": [
+            "22151439",
+            "22151442",
+            "22356797",
+            "22459259",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ef1ccb228f45f9ec9fd3661c3eb135a3",
+          "similarity_priority": 5,
+          "name": "Axion Antibacterial Lemon Dishwashing Liquid | 850ml",
+          "sale_price": "₱162.00",
+          "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3678244710771604367",
+          "reference_id": "ad_2052_09556031310171_1_162_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711701971"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2640,
+          "product_tag_ids": [
+            "22151439",
+            "22151442",
+            "22356797",
+            "22459259",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f71076ae87b79eae508eff6e82c8b2da",
+          "similarity_priority": 6,
+          "name": "Axion Antibacterial Lemon Dishwashing Liquid | 850ml",
+          "sale_price": "₱162.00",
+          "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱162.00",
+      "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3678244753972935678",
+        "reference_id": "tpr_2052_09556031310171_162_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711701971"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5279,
+        "product_tag_ids": [
+          "22151439",
+          "22151442",
+          "22356797",
+          "22459259",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ef1ccb228f45f9ec9fd3661c3eb135a3",
+        "similarity_priority": 5,
+        "name": "Axion Antibacterial Lemon Dishwashing Liquid | 850ml",
+        "sale_price": "₱162.00",
+        "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 162.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱162.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031310171",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/axion_antibacterial_lemon_dishwashing_liquid_850ml/p/1564405684711701971"
+    },
+    {
+      "id": "1564405684702550936",
+      "store_id": "2052",
+      "like_code": "52627",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 7666,
+      "upc": "480888884364",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888843643",
+      "reference_ids": [
+        "04808888843643"
+      ],
+      "name": "Axion Dishwashing Liquid Kalamansi | 190ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550936/8a1a3906a645339fe0dec6148a36ba71",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888843643",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/axion_dishwashing_liquid_kalamansi_190ml/p/1564405684702550936"
+    },
+    {
+      "id": "1564405684702550934",
+      "store_id": "2052",
+      "like_code": "12915",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱124.00",
+      "unit_price": 124.0,
+      "popularity": 8816,
+      "upc": "480888884321",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888843216",
+      "reference_ids": [
+        "04808888843216"
+      ],
+      "name": "AXION DISHWASHING LIQUID KALAMANSI | 500ML",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550934/15fe08aabb31e0964a0b7069c7e989b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888843216",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/axion_dishwashing_liquid_kalamansi_500_ml/p/1564405684702550934"
+    },
+    {
+      "id": "1564405684702550933",
+      "store_id": "2052",
+      "like_code": "52628",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 5834,
+      "upc": "480888884264",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888842646",
+      "reference_ids": [
+        "04808888842646"
+      ],
+      "name": "Axion Dishwashing Liquid Lemon | 190ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550933/db1cd86a34b003bdfb7b67c1e65e0a78",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888842646",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/axion_dishwashing_liquid_lemon_190ml/p/1564405684702550933"
+    },
+    {
+      "id": "1564405684702550925",
+      "store_id": "2052",
+      "like_code": "201125",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 1736,
+      "upc": "480888880113",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888801131",
+      "reference_ids": [
+        "04808888801131"
+      ],
+      "name": "Axion Dishwashing Liquid Lemon | 190Ml Buy 1 Get 1 50% Off",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550925/c05d12c18a11815942431c945ab1334f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888801131",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axion_dishwashing_liquid_lemon_190_ml_buy_1_get_1_50_off/p/1564405684702550925"
+    },
+    {
+      "id": "1564405684702550927",
+      "store_id": "2052",
+      "like_code": "38938",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 999999,
+      "upc": "480888882140",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888821405",
+      "reference_ids": [
+        "04808888821405"
+      ],
+      "name": "Axion Dishwashing Paste Kalamansi Refill Pack | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550927/80c3c3b93aea9d2634ab2374d78cb1a4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04808888821405",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/axion_dishwashing_paste_kalamansi_refill_pack_350g/p/1564405684702550927"
+    },
+    {
+      "id": "1564405684702559853",
+      "store_id": "2052",
+      "like_code": "143419",
+      "department_id": [
+        "22459258"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 4644,
+      "upc": "955603109643",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031096433",
+      "reference_ids": [
+        "09556031096433"
+      ],
+      "name": "Axion Dishwashing Paste Lemon | 550g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559853/0d6ada55be028914a0f891448eec65ed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031096433",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_paste/axion_dishwashing_paste_lemon_550g/p/1564405684702559853"
+    },
+    {
+      "id": "1564405684704510314",
+      "store_id": "2052",
+      "like_code": "314882",
+      "department_id": [
+        "22459258"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 1781,
+      "upc": "955603131018",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031310188",
+      "reference_ids": [
+        "09556031310188"
+      ],
+      "name": "Axion Dishwashing Paste Lime Charcoal | 550g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704510314/b92168574735e4b0b45a7f265668e695",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031310188",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_paste/axion_dishwashing_paste_lime_charcoal_550g/p/1564405684704510314"
+    },
+    {
+      "id": "1564405684711701968",
+      "store_id": "2052",
+      "like_code": "352280",
+      "department_id": [
+        "22459259"
+      ],
+      "price": "₱191.00",
+      "unit_price": 191.0,
+      "popularity": 4832,
+      "upc": "955603131016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031310164",
+      "reference_ids": [
+        "09556031310164"
+      ],
+      "name": "Axion Kalamansi Dishwashing Liquid Pouch | 850ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711701968/901c7b260f8674cf89b230119854c824",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704544708343869",
+          "reference_id": "tpr_2052_09556031310164_171_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711701968"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4832,
+          "product_tag_ids": [
+            "22151439",
+            "22151442",
+            "22356797",
+            "22459259",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0d41f3066ea14cd13d38256f365a8c26",
+          "similarity_priority": 5,
+          "name": "Axion Kalamansi Dishwashing Liquid Pouch | 850ml",
+          "sale_price": "₱171.00",
+          "sale_price_md": "**₱171.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705739942377947",
+          "reference_id": "ad_2052_09556031310164_1_171_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711701968"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2416,
+          "product_tag_ids": [
+            "22151439",
+            "22151442",
+            "22356797",
+            "22459259",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "edc69079d7f0af864c6ca0d71b845444",
+          "similarity_priority": 6,
+          "name": "Axion Kalamansi Dishwashing Liquid Pouch | 850ml",
+          "sale_price": "₱171.00",
+          "sale_price_md": "**₱171.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱171.00",
+      "sale_price_md": "**₱171.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704544708343869",
+        "reference_id": "tpr_2052_09556031310164_171_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711701968"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4832,
+        "product_tag_ids": [
+          "22151439",
+          "22151442",
+          "22356797",
+          "22459259",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0d41f3066ea14cd13d38256f365a8c26",
+        "similarity_priority": 5,
+        "name": "Axion Kalamansi Dishwashing Liquid Pouch | 850ml",
+        "sale_price": "₱171.00",
+        "sale_price_md": "**₱171.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 171.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱171.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031310164",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/dish_care/dishwashing_liquid/axion_kalamansi_dishwashing_liquid_pouch_850ml/p/1564405684711701968"
+    },
+    {
+      "id": "1564405684702516411",
+      "store_id": "2052",
+      "like_code": "150656",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.75",
+      "unit_price": 79.75,
+      "popularity": 3209,
+      "upc": "200001506562",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000015065627",
+      "reference_ids": [
+        "02000015065627"
+      ],
+      "name": "Baby Bear Bottle Brush | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702516411/15eab652ae6dd58c32ba64da39081922",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000015065627",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_bear_bottle_brush_1s/p/1564405684702516411"
+    },
+    {
+      "id": "1564405684715274821",
+      "store_id": "2052",
+      "like_code": "404265",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱212.75",
+      "unit_price": 212.75,
+      "popularity": 7947,
+      "upc": "480041700943",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417009438",
+      "reference_ids": [
+        "04800417009438"
+      ],
+      "name": "Baby Bench Bubble Gum Cologne | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715274821/2b2cc8c90ea51fd916dde47cdb6b15aa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417009438",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_bench_bubble_gum_cologne_500ml/p/1564405684715274821"
+    },
+    {
+      "id": "1564405684702541148",
+      "store_id": "2052",
+      "like_code": "13609",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 9418,
+      "upc": "480041700058",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417000589",
+      "reference_ids": [
+        "04800417000589"
+      ],
+      "name": "Baby Bench Colonia Bubble Gum | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541148/45242aac29acdb2b27e02d6d865205bb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417000589",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_bench_colonia_bubble_gum_200ml/p/1564405684702541148"
+    },
+    {
+      "id": "1564405684702541149",
+      "store_id": "2052",
+      "like_code": "13613",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱104.00",
+      "unit_price": 104.0,
+      "popularity": 6239,
+      "upc": "480041700059",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417000596",
+      "reference_ids": [
+        "04800417000596"
+      ],
+      "name": "Baby Bench Colonia Ice Mint | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541149/57981dd9df1e9f5e472dfeff0de23a03",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417000596",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_bench_colonia_ice_mint_200ml/p/1564405684702541149"
+    },
+    {
+      "id": "1564405684702541159",
+      "store_id": "2052",
+      "like_code": "13620",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱104.00",
+      "unit_price": 104.0,
+      "popularity": 5768,
+      "upc": "480041700281",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417002811",
+      "reference_ids": [
+        "04800417002811"
+      ],
+      "name": "Baby Bench Colonia Jelly Bean | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541159/c70c89a3ba1ad6a2b9fb01440330659d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417002811",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_bench_colonia_jelly_bean_200ml/p/1564405684702541159"
+    },
+    {
+      "id": "1564405684702516883",
+      "store_id": "2052",
+      "like_code": "152145",
+      "department_id": [
+        "528514"
+      ],
+      "price": "₱149.75",
+      "unit_price": 149.75,
+      "popularity": 3590,
+      "upc": "200001521452",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000015214520",
+      "reference_ids": [
+        "02000015214520"
+      ],
+      "name": "Baby Bottle Baz | 9oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702516883/a61eb3d97c2aaaa2f26631276f6e543f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000015214520",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_bottle_baz_9oz/p/1564405684702516883"
+    },
+    {
+      "id": "1564405684703675209",
+      "store_id": "2052",
+      "like_code": "278218",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱249.00",
+      "unit_price": 249.0,
+      "popularity": 8755,
+      "upc": "871090874713",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08710908747137",
+      "reference_ids": [
+        "08710908747137"
+      ],
+      "name": "Baby Dove Baby Shampoo Rich Moisture | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675209/94dfdebf97dcfc872177a188409e80ae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08710908747137",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_baby_shampoo_rich_moisture_200ml/p/1564405684703675209"
+    },
+    {
+      "id": "1564405684703675207",
+      "store_id": "2052",
+      "like_code": "278212",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱58.00",
+      "unit_price": 58.0,
+      "popularity": 4622,
+      "upc": "871090865709",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08710908657092",
+      "reference_ids": [
+        "08710908657092"
+      ],
+      "name": "Baby Dove Bar Rich Moisture | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675207/841e1265aee8e069be79304d332fed29",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08710908657092",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_bar_rich_moisture_90g/p/1564405684703675207"
+    },
+    {
+      "id": "1564405684710313316",
+      "store_id": "2052",
+      "like_code": "343686",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 6213,
+      "upc": "480088821050",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888210500",
+      "reference_ids": [
+        "04800888210500"
+      ],
+      "name": "Baby Dove Bar Rich Moisture | 90g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710313316/6ac10ed30db45b862715692b7d6cd19b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888210500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_bar_rich_moisture_90g_x_3s/p/1564405684710313316"
+    },
+    {
+      "id": "1564405684713191670",
+      "store_id": "2052",
+      "like_code": "370147",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 10218,
+      "upc": "480088823010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888230102",
+      "reference_ids": [
+        "04800888230102"
+      ],
+      "name": "Baby Dove Hair to Toe Baby Wash Soothing Moisture | 190ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713191670/8f64ecb7b52967100974058103442eb5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888230102",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_dove_hair_to_toe_baby_wash_soothing_moisture_190ml/p/1564405684713191670"
+    },
+    {
+      "id": "1564405684713191671",
+      "store_id": "2052",
+      "like_code": "370148",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱365.00",
+      "unit_price": 365.0,
+      "popularity": 9889,
+      "upc": "480088823011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888230119",
+      "reference_ids": [
+        "04800888230119"
+      ],
+      "name": "Baby Dove Hair to Toe Baby Wash Soothing Moisture | 365ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713191671/a7be0e5f4df9f1fdd874b46d0e33cb2b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888230119",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_dove_hair_to_toe_baby_wash_soothing_moisture_365ml/p/1564405684713191671"
+    },
+    {
+      "id": "1564405684713191672",
+      "store_id": "2052",
+      "like_code": "370149",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱750.00",
+      "unit_price": 750.0,
+      "popularity": 999999,
+      "upc": "480088823012",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888230126",
+      "reference_ids": [
+        "04800888230126"
+      ],
+      "name": "Baby Dove Hair to Toe Baby Wash Soothing Moisture | 885ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713191672/3681f4bdcc17b84fb3426b56a079d4b9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888230126",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_dove_hair_to_toe_baby_wash_soothing_moisture_885ml/p/1564405684713191672"
+    },
+    {
+      "id": "1564405684703675210",
+      "store_id": "2052",
+      "like_code": "278215",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱182.00",
+      "unit_price": 182.0,
+      "popularity": 9193,
+      "upc": "871090874804",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08710908748042",
+      "reference_ids": [
+        "08710908748042"
+      ],
+      "name": "Baby Dove Hair To Toe Wash Rich Moisture | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675210/97ec05b30adc07f86cbdfe1952e8a7ee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08710908748042",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_rich_moisture_200ml/p/1564405684703675210"
+    },
+    {
+      "id": "1564405684703675212",
+      "store_id": "2052",
+      "like_code": "278217",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱334.50",
+      "unit_price": 334.5,
+      "popularity": 9684,
+      "upc": "480088829014",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290144",
+      "reference_ids": [
+        "04800888290144",
+        "08710908751394"
+      ],
+      "name": "Baby Dove Hair To Toe Wash Rich Moisture | 400ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675212/e6073113a1208be5c2e8c2e7de644f62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290144",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_rich_moisture_400ml/p/1564405684703675212"
+    },
+    {
+      "id": "1564405684704103683",
+      "store_id": "2052",
+      "like_code": "305364",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱491.00",
+      "unit_price": 491.0,
+      "popularity": 9699,
+      "upc": "480088820898",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888208989",
+      "reference_ids": [
+        "04800888208989"
+      ],
+      "name": "Baby Dove Hair To Toe Wash Rich Moisture  | 591ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704103683/f35f22b075caeedaf78e2e61ab458d00",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888208989",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_rich_moisture_591ml/p/1564405684704103683"
+    },
+    {
+      "id": "1564405684710313320",
+      "store_id": "2052",
+      "like_code": "343684",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 9616,
+      "upc": "480088821792",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217929",
+      "reference_ids": [
+        "04800888217929"
+      ],
+      "name": "Baby Dove Hair to Toe Wash Rich Moisture Refill | 430ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710313320/a906f4d9b18409335bad8dd8e4febe16",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217929",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_rich_moisture_refill_430ml/p/1564405684710313320"
+    },
+    {
+      "id": "1564405684716305477",
+      "store_id": "2052",
+      "like_code": "421325",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱415.00",
+      "unit_price": 415.0,
+      "popularity": 7928,
+      "quantity_step": 1.0,
+      "upc": "480088828574",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888285744",
+      "reference_ids": [
+        "04800888285744"
+      ],
+      "name": "Baby Dove Hair to Toe Wash Rich Moisture Refill | 650ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 40",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716305477/96da987caa268a5d6e0a75005b8d8327",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888285744",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baby_dove_hair_to_toe_wash_rich_moisture_refill_650ml/p/1564405684716305477"
+    },
+    {
+      "id": "1564405684703675208",
+      "store_id": "2052",
+      "like_code": "278213",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 8739,
+      "upc": "871090865739",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08710908657399",
+      "reference_ids": [
+        "08710908657399"
+      ],
+      "name": "Baby Dove Hair To Toe Wash Sensitive Moisture | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675208/660ff3f5634488ff43f116f51ec6c44a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08710908657399",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_sensitive_moisture_200ml/p/1564405684703675208"
+    },
+    {
+      "id": "1564405684703675205",
+      "store_id": "2052",
+      "like_code": "278216",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱396.00",
+      "unit_price": 396.0,
+      "popularity": 9371,
+      "upc": "480088829015",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290151",
+      "reference_ids": [
+        "08710908657535",
+        "04800888290151"
+      ],
+      "name": "Baby Dove Hair To Toe Wash Sensitive Moisture | 400ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675205/0180bef77cc1f7b53daa66d60d7ffd5e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290151",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_sensitive_moisture_400ml/p/1564405684703675205"
+    },
+    {
+      "id": "1564405684704103682",
+      "store_id": "2052",
+      "like_code": "305363",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱586.00",
+      "unit_price": 586.0,
+      "popularity": 9925,
+      "upc": "480088820894",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888208941",
+      "reference_ids": [
+        "04800888208941"
+      ],
+      "name": "Baby Dove Hair To Toe Wash Sensitive Moisture | 591ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704103682/6bf7d0191707bcabb77f490d965f521e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888208941",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_sensitive_moisture_591ml/p/1564405684704103682"
+    },
+    {
+      "id": "1564405684710313317",
+      "store_id": "2052",
+      "like_code": "343682",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱365.00",
+      "unit_price": 365.0,
+      "popularity": 8577,
+      "upc": "480088821795",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217950",
+      "reference_ids": [
+        "04800888217950"
+      ],
+      "name": "Baby Dove Hair to Toe Wash Sensitive Moisture Refill | 430ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710313317/58799cd75ddfe8cbc716df4910ad47e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217950",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 7",
+        "sequence": 7,
+        "identifier": "c6a72a55-6c04-4217-b904-76623dce47d6",
+        "id": "22356770"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/baby_dove_hair_to_toe_wash_sensitive_moisture_refill_430ml/p/1564405684710313317"
+    }
+  ]
+}

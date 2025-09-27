@@ -1,0 +1,2054 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684704764661",
+      "store_id": "2052",
+      "like_code": "93513",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱485.00",
+      "unit_price": 485.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9351",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000093513",
+      "reference_ids": [
+        "00000000093513"
+      ],
+      "name": "Cabanatuan Meat Products Pork BBQ Liempo | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000093513",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_bbq_liempo_kg/p/1564405684704764661"
+    },
+    {
+      "id": "1564405684714967837",
+      "store_id": "2052",
+      "like_code": "92839",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9283",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000092839",
+      "reference_ids": [
+        "00000000092839"
+      ],
+      "name": "Cabanatuan Meat Products Pork Belly Boneless Skinless | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714967837/89e7fe4bfce855b8c60e0c6e979f6642",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000092839",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_belly_boneless_skinless_kg/p/1564405684714967837"
+    },
+    {
+      "id": "1564405684704764663",
+      "store_id": "2052",
+      "like_code": "94697",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9469",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000094697",
+      "reference_ids": [
+        "00000000094697"
+      ],
+      "name": "Cabanatuan Meat Products Pork Binabad | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000094697",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_binabad_kg/p/1564405684704764663"
+    },
+    {
+      "id": "1564405684714967833",
+      "store_id": "2052",
+      "like_code": "92835",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9283",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000092835",
+      "reference_ids": [
+        "00000000092835"
+      ],
+      "name": "Cabanatuan Meat Products Pork Ground Regular | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714967833/238b7dfc0439686b5effac97bcf01ab2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000092835",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_ground_regular_kg/p/1564405684714967833"
+    },
+    {
+      "id": "1564405684714967839",
+      "store_id": "2052",
+      "like_code": "92843",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9284",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000092843",
+      "reference_ids": [
+        "00000000092843"
+      ],
+      "name": "Cabanatuan Meat Products Pork Kasim | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714967839/f3b25cce4713fcf57ff76a9f22ae4ff2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000092843",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_kasim_kg/p/1564405684714967839"
+    },
+    {
+      "id": "1564405684715567885",
+      "store_id": "2052",
+      "like_code": "407756",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "200004077568",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040775683",
+      "reference_ids": [
+        "02000040775683"
+      ],
+      "name": "Cabanatuan Meat Products Pork Longanisa Hamonado | 5pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715567885/95c3183e0b2ff515d2de12280df49cf8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040775683",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_longanisa_hamonado_5pcs/p/1564405684715567885"
+    },
+    {
+      "id": "1564405684715567883",
+      "store_id": "2052",
+      "like_code": "407755",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "200004077558",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040775584",
+      "reference_ids": [
+        "02000040775584"
+      ],
+      "name": "Cabanatuan Meat Products Pork Longanisa Recado | 380-400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715567883/2fb7458d326095870134860d34f6d636",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040775584",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_longanisa_recado_380_400g/p/1564405684715567883"
+    },
+    {
+      "id": "1564405684714967853",
+      "store_id": "2052",
+      "like_code": "112306",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱355.00",
+      "unit_price": 355.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11230",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000112306",
+      "reference_ids": [
+        "00000000112306"
+      ],
+      "name": "Cabanatuan Meat Products Pork Menudo Cut | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714967853/e3d5704d7ca50d723eb671038f9f46c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000112306",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_menudo_cut_kg/p/1564405684714967853"
+    },
+    {
+      "id": "1564405684704764662",
+      "store_id": "2052",
+      "like_code": "93516",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9351",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000093516",
+      "reference_ids": [
+        "00000000093516"
+      ],
+      "name": "Cabanatuan Meat Products Pork Shanghai | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000093516",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_shanghai_kg/p/1564405684704764662"
+    },
+    {
+      "id": "1564405684715567881",
+      "store_id": "2052",
+      "like_code": "407758",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "200004077588",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040775881",
+      "reference_ids": [
+        "02000040775881"
+      ],
+      "name": "Cabanatuan Meat Products Pork Skinless Longanisa | 380-400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715567881/d6f14836d30cfd5e35198723c4640b70",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040775881",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_skinless_longanisa_380_400g/p/1564405684715567881"
+    },
+    {
+      "id": "1564405684714967835",
+      "store_id": "2052",
+      "like_code": "92837",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱415.00",
+      "unit_price": 415.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9283",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000092837",
+      "reference_ids": [
+        "00000000092837"
+      ],
+      "name": "Cabanatuan Meat Products Pork Spare Ribs | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714967835/7b96f0248660472738d093c0ef93f1dd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000092837",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_spare_ribs_kg/p/1564405684714967835"
+    },
+    {
+      "id": "1564405684704764659",
+      "store_id": "2052",
+      "like_code": "92858",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9285",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000092858",
+      "reference_ids": [
+        "00000000092858"
+      ],
+      "name": "Cabanatuan Meat Products Pork Tapa | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000092858",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_tapa_kg/p/1564405684704764659"
+    },
+    {
+      "id": "1564405684715584707",
+      "store_id": "2052",
+      "like_code": "407760",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "200004077608",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040776086",
+      "reference_ids": [
+        "02000040776086"
+      ],
+      "name": "Cabanatuan Meat Products Spicy Recado Longganisa | 380-400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715584707/67353214508951cf6959249e6f7ee3ce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040776086",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_spicy_recado_longganisa_380_400g/p/1564405684715584707"
+    },
+    {
+      "id": "1564405684715004847",
+      "store_id": "2052",
+      "like_code": "343149",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "34314",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000343149",
+      "reference_ids": [
+        "00000000343149"
+      ],
+      "name": "Cabanatuan Meat Products Spicy Recado Longganisa | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715004847/7f15c53026785f005de429c1be2d5a66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000343149",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_spicy_recado_longganisa_kg/p/1564405684715004847"
+    },
+    {
+      "id": "1764405684715701332",
+      "store_id": "2052",
+      "like_code": "456049",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 999999,
+      "upc": "762220232732",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202327322",
+      "reference_ids": [
+        "07622202327322"
+      ],
+      "name": "Cadbury Chocolate Celebrations 158.6g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "07622202327322",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cadbury_chocolate_celebrations_158_6g/p/1764405684715701332"
+    },
+    {
+      "id": "1564405684714124954",
+      "store_id": "2052",
+      "like_code": "387112",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱146.00",
+      "unit_price": 146.0,
+      "popularity": 7920,
+      "upc": "762220170057",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201700577",
+      "reference_ids": [
+        "07622201700577"
+      ],
+      "name": "Cadbury Chocolate Dairy Milk Bites Happy Hazelnut | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714124954/e0ff5528b601042a16ea09ebf2b143da",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201700577",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_chocolate_dairy_milk_bites_happy_hazelnut_120g/p/1564405684714124954"
+    },
+    {
+      "id": "1564405684714124955",
+      "store_id": "2052",
+      "like_code": "387111",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱146.00",
+      "unit_price": 146.0,
+      "popularity": 6357,
+      "upc": "762220170059",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201700591",
+      "reference_ids": [
+        "07622201700591"
+      ],
+      "name": "Cadbury Chocolate Dairy Milk Bites Merry Almond | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714124955/0ee56b6fa16c1790e10d0faebc1324e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201700591",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_chocolate_dairy_milk_bites_merry_almond_120g/p/1564405684714124955"
+    },
+    {
+      "id": "1764405684715490472",
+      "store_id": "2052",
+      "like_code": "452211",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 1,
+      "upc": "762220176234",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201762346",
+      "reference_ids": [
+        "07622201762346"
+      ],
+      "name": "Cadbury Chocolate Milk Bubbly | 112g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715490472/d8aada54be5e0a17d7a8ad19fb7cdf44",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201762346",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cadbury_chocolate_milk_bubbly_112g/p/1764405684715490472"
+    },
+    {
+      "id": "1764405684715348124",
+      "store_id": "2052",
+      "like_code": "446231",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱56.00",
+      "unit_price": 56.0,
+      "popularity": 8291,
+      "upc": "762220176182",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201761820",
+      "reference_ids": [
+        "07622201761820"
+      ],
+      "name": "Cadbury Chocolate Milk Bubbly | 46g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715348124/c0014cad2b6dd6bef2b77c98df810ca6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201761820",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cadbury_chocolate_milk_bubbly_46g/p/1764405684715348124"
+    },
+    {
+      "id": "1764405684715348128",
+      "store_id": "2052",
+      "like_code": "446233",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱41.50",
+      "unit_price": 41.5,
+      "popularity": 4629,
+      "upc": "762220227249",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202272493",
+      "reference_ids": [
+        "07622202272493"
+      ],
+      "name": "Cadbury Chocolate Milk Crisp-It | 32g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715348128/db90f0ca450e37749fb4b3c76f69c1b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622202272493",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cadbury_chocolate_milk_crisp_it_32g/p/1764405684715348128"
+    },
+    {
+      "id": "1764405684715348126",
+      "store_id": "2052",
+      "like_code": "446232",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱96.00",
+      "unit_price": 96.0,
+      "popularity": 7333,
+      "upc": "762220227247",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202272479",
+      "reference_ids": [
+        "07622202272479"
+      ],
+      "name": "Cadbury Chocolate Milk Crisp-It | 80g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715348126/afb85d53b9e12166387d95b141fac543",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622202272479",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cadbury_chocolate_milk_crisp_it_80g/p/1764405684715348126"
+    },
+    {
+      "id": "1564405684702556210",
+      "store_id": "2052",
+      "like_code": "250088",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 999999,
+      "upc": "762221081804",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210818041",
+      "reference_ids": [
+        "07622210818041",
+        "07622210680938"
+      ],
+      "name": "Cadbury Christmas Stocking Chocolate | 76g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556210/3e73c92775f3491fbb561476199c32cf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07622210818041",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_christmas_stocking_chocolate_76g/p/1564405684702556210"
+    },
+    {
+      "id": "1764405684714933680",
+      "store_id": "2052",
+      "like_code": "428892",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 999999,
+      "upc": "500031200069",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05000312000694",
+      "reference_ids": [
+        "05000312000694"
+      ],
+      "name": "Cadbury Cocoa Powder | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714933680/04e2c5bd2f99af3061a187f07f75f383",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05000312000694",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cadbury_cocoa_powder_125g/p/1764405684714933680"
+    },
+    {
+      "id": "1764405684714934590",
+      "store_id": "2052",
+      "like_code": "429381",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 999999,
+      "upc": "762220140576",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201405762",
+      "reference_ids": [
+        "07622201405762"
+      ],
+      "name": "Cadbury Curly Wurly Chocolate | 21.5g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714934590/642a76cfa5aecd1fa83a1269e0e2bebd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07622201405762",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cadbury_curly_wurly_chocolate_21_5g/p/1764405684714934590"
+    },
+    {
+      "id": "1564405684704732438",
+      "store_id": "2052",
+      "like_code": "307174",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "upc": "762221016478",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210164780",
+      "reference_ids": [
+        "07622210164780"
+      ],
+      "name": "Cadbury Dairy Milk 40 Mini Bites Chocolate Share Bag | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732438/fa4a62abdde5f7c7ab8db5a8d9ad5a71",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07622210164780",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_40_mini_bites_chocolate_share_bag_180g/p/1564405684704732438"
+    },
+    {
+      "id": "1564405684710705596",
+      "store_id": "2052",
+      "like_code": "345877",
+      "department_id": [
+        "22207111"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 6064,
+      "upc": "762220142294",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201422943",
+      "reference_ids": [
+        "07622201422943"
+      ],
+      "name": "Cadbury Dairy Milk Bites Happy Hazelnut Chocolate | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684710705596/e8652efd80065e2ec5c31cb6a7085fa4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201422943",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/mondelez-international/cadbury_dairy_milk_bites_happy_hazelnut_chocolate_50g/p/1564405684710705596"
+    },
+    {
+      "id": "1564405684710705599",
+      "store_id": "2052",
+      "like_code": "345876",
+      "department_id": [
+        "22207111"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 2177,
+      "upc": "762220142292",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201422929",
+      "reference_ids": [
+        "07622201422929"
+      ],
+      "name": "Cadbury Dairy Milk Bites Merry Almond Chocolate | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684710705599/e793470b7a94a82274610c79a6594955",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201422929",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/mondelez-international/cadbury_dairy_milk_bites_merry_almond_chocolate_50g/p/1564405684710705599"
+    },
+    {
+      "id": "1564405684702559963",
+      "store_id": "2052",
+      "like_code": "97129",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱18.00",
+      "unit_price": 18.0,
+      "popularity": 439,
+      "upc": "955618201726",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556182017264",
+      "reference_ids": [
+        "09556182017264"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate | 12.5g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559963/0f07aee63790ff2d9e1b730b307b941b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556182017264",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_chocolate_12_5g/p/1564405684702559963"
+    },
+    {
+      "id": "1564405684702556179",
+      "store_id": "2052",
+      "like_code": "150843",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 2284,
+      "upc": "762221034295",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210342959",
+      "reference_ids": [
+        "07622210342959",
+        "09556182023272"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702556179/b58c7969609d1da845e920d463f55518",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210342959",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_chocolate_135g/p/1564405684702556179"
+    },
+    {
+      "id": "1764405684715291526",
+      "store_id": "2052",
+      "like_code": "443275",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱208.00",
+      "unit_price": 208.0,
+      "popularity": 8651,
+      "upc": "762220228992",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202289927",
+      "reference_ids": [
+        "07622202289927"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715291526/ba910c07422769b3bea18fb4f740761f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622202289927",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cadbury_dairy_milk_chocolate_200g/p/1764405684715291526"
+    },
+    {
+      "id": "1564405684702559967",
+      "store_id": "2052",
+      "like_code": "145907",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 1663,
+      "upc": "955618202323",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556182023234",
+      "reference_ids": [
+        "09556182023234"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559967/a49d89c9391dd0d8945b635f3c523784",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556182023234",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_chocolate_25g/p/1564405684702559967"
+    },
+    {
+      "id": "1564405684702559968",
+      "store_id": "2052",
+      "like_code": "150844",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 959,
+      "upc": "955618202325",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556182023258",
+      "reference_ids": [
+        "09556182023258"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate | 57g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559968/6fc3eacc41946d89ce957fe1cb045466",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556182023258",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_chocolate_57g/p/1564405684702559968"
+    },
+    {
+      "id": "1564405684704732442",
+      "store_id": "2052",
+      "like_code": "272817",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱99.50",
+      "unit_price": 99.5,
+      "popularity": 5163,
+      "upc": "762221078912",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210789129",
+      "reference_ids": [
+        "07622210789129"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704732442/125b145aca31b7974281756fd8e30d32",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210789129",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_chocolate_85g/p/1564405684704732442"
+    },
+    {
+      "id": "1564405684702556217",
+      "store_id": "2052",
+      "like_code": "265653",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱113.50",
+      "unit_price": 113.5,
+      "popularity": 1297,
+      "upc": "762221077776",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210777768",
+      "reference_ids": [
+        "07622210777768"
+      ],
+      "name": "Cadbury Dairy Milk Chocolate Mini Bites Share Bag | 81g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702556217/5fb33d4b9f1e3ab2ec2812568938a00a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210777768",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_chocolate_mini_bites_share_bag_81g/p/1564405684702556217"
+    },
+    {
+      "id": "1564405684713374349",
+      "store_id": "2052",
+      "like_code": "372749",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱292.00",
+      "unit_price": 292.0,
+      "popularity": 999999,
+      "upc": "762220168035",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201680350",
+      "reference_ids": [
+        "07622201680350"
+      ],
+      "name": "Cadbury Dairy Milk Favorites Assorted Milk Chocolate | 255g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713374349/7384436dd001345cdcb9b96df29bf5ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07622201680350",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_favorites_assorted_milk_chocolate_255g/p/1564405684713374349"
+    },
+    {
+      "id": "1564405684702556158",
+      "store_id": "2052",
+      "like_code": "154336",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱158.00",
+      "unit_price": 158.0,
+      "popularity": 1010,
+      "upc": "762221041051",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210410511",
+      "reference_ids": [
+        "07622210410511",
+        "07622210086839",
+        "07622210342973"
+      ],
+      "name": "Cadbury Dairy Milk Fruit & Nut Chocolate | 130g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702556158/a3a80d9b4e29552c0f35ac17459c191b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210410511",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_fruit_nut_chocolate_130g/p/1564405684702556158"
+    },
+    {
+      "id": "1764405684715291532",
+      "store_id": "2052",
+      "like_code": "443276",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱218.00",
+      "unit_price": 218.0,
+      "popularity": 8652,
+      "upc": "762220228994",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202289941",
+      "reference_ids": [
+        "07622202289941"
+      ],
+      "name": "Cadbury Dairy Milk Fruit & Nut Chocolate | 190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715291532/c402030eff88c8baeec6d38dcdc13271",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622202289941",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cadbury_dairy_milk_fruit_nut_chocolate_190g/p/1764405684715291532"
+    },
+    {
+      "id": "1564405684702556154",
+      "store_id": "2052",
+      "like_code": "154334",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 1290,
+      "upc": "762221008667",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210086679",
+      "reference_ids": [
+        "07622210086679"
+      ],
+      "name": "Cadbury Dairy Milk Fruit & Nut Chocolate | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556154/c59093f2cff08d858107db4b2b9e358b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210086679",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_fruit_nut_chocolate_25g/p/1564405684702556154"
+    },
+    {
+      "id": "1564405684702556157",
+      "store_id": "2052",
+      "like_code": "154335",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 762,
+      "upc": "762221008669",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210086693",
+      "reference_ids": [
+        "07622210086693"
+      ],
+      "name": "Cadbury Dairy Milk Fruit & Nut Chocolate | 57g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556157/ed4e28551bce42ea780dab1da585fbb4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210086693",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_fruit_nut_chocolate_57g/p/1564405684702556157"
+    },
+    {
+      "id": "1564405684704732445",
+      "store_id": "2052",
+      "like_code": "272816",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱101.00",
+      "unit_price": 101.0,
+      "popularity": 7699,
+      "upc": "762221081666",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210816665",
+      "reference_ids": [
+        "07622210816665",
+        "07622210789150"
+      ],
+      "name": "Cadbury Dairy Milk Fruit & Nut Chocolate | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704732445/2e90aa09fa33f4bbc34dd22d9294b6df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210816665",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_fruit_nut_chocolate_80g/p/1564405684704732445"
+    },
+    {
+      "id": "1564405684711970799",
+      "store_id": "2052",
+      "like_code": "355338",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱158.00",
+      "unit_price": 158.0,
+      "popularity": 4345,
+      "upc": "762221040027",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622210400277",
+      "reference_ids": [
+        "07622210400277"
+      ],
+      "name": "Cadbury Dairy Milk Hazelnut | 130g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711970799/5a5a64938b504939bc7c7b35064b361e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622210400277",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cadbury_dairy_milk_hazelnut_130g/p/1564405684711970799"
+    },
+    {
+      "id": "1564405684712183684",
+      "store_id": "2052",
+      "like_code": "357957",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 1181,
+      "upc": "762220182219",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201822194",
+      "reference_ids": [
+        "07622201822194"
+      ],
+      "name": "Cadbury Dairy Milk Hazelnut | 57g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712183684/808d67159800333da6c305d9b27e410e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201822194",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_hazelnut_57g/p/1564405684712183684"
+    },
+    {
+      "id": "1564405684704529623",
+      "store_id": "2052",
+      "like_code": "282548",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 1802,
+      "upc": "890123302649",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08901233026497",
+      "reference_ids": [
+        "08901233026497"
+      ],
+      "name": "Cadbury Dairy Milk in Lickables Chocolate | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704529623/933f3d551ede7e50f1a3fb762e265f59",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08901233026497",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_in_lickables_chocolate_20g/p/1564405684704529623"
+    },
+    {
+      "id": "1564405684702558475",
+      "store_id": "2052",
+      "like_code": "264822",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱146.50",
+      "unit_price": 146.5,
+      "popularity": 9121,
+      "upc": "762220176222",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07622201762223",
+      "reference_ids": [
+        "08901233024257",
+        "07622201762223"
+      ],
+      "name": "Cadbury Dairy Milk Oreo | 130g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558475/cfa14f0e67f4413e21472bcce6fe10bf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201762223",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_oreo_130g/p/1564405684702558475"
+    },
+    {
+      "id": "1564405684702558476",
+      "store_id": "2052",
+      "like_code": "264823",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱70.00",
+      "unit_price": 70.0,
+      "popularity": 6172,
+      "upc": "762220176219",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622201762193",
+      "reference_ids": [
+        "07622201762193",
+        "08901233024622"
+      ],
+      "name": "Cadbury Dairy Milk Oreo Chocolate | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558476/c829114bd22f04bc8ee023445f7b4548",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622201762193",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_dairy_milk_oreo_chocolate_60g/p/1564405684702558476"
+    },
+    {
+      "id": "1764405684715291536",
+      "store_id": "2052",
+      "like_code": "443277",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱329.00",
+      "unit_price": 329.0,
+      "popularity": 8373,
+      "upc": "762220226029",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202260292",
+      "reference_ids": [
+        "07622202260292"
+      ],
+      "name": "Cadbury Dairy Milk Panned Fruit & Nut Chocolate | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715291536/87c632743ce749a9c88396e3d73305e8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622202260292",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cadbury_dairy_milk_panned_fruit_nut_chocolate_200g/p/1764405684715291536"
+    },
+    {
+      "id": "1764405684715291530",
+      "store_id": "2052",
+      "like_code": "443278",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱329.00",
+      "unit_price": 329.0,
+      "popularity": 8659,
+      "upc": "762220226027",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07622202260278",
+      "reference_ids": [
+        "07622202260278"
+      ],
+      "name": "Cadbury Dairy Milk Panned Roast Almond Chocolate | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715291530/f16e3f4bd5332d1c575b110655b02ce2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07622202260278",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cadbury_dairy_milk_panned_roast_almond_chocolate_200g/p/1764405684715291530"
+    },
+    {
+      "id": "1564405684707153478",
+      "store_id": "2052",
+      "like_code": "337518",
+      "department_id": [
+        "22207121"
+      ],
+      "price": "₱9.50",
+      "unit_price": 9.5,
+      "popularity": 999999,
+      "upc": "890123302863",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08901233028637",
+      "reference_ids": [
+        "08901233028637"
+      ],
+      "name": "Cadbury Shots | 18g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707153478/e282f3e9a3eb759ecfcea5b955b4bdf8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08901233028637",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/cadbury/cadbury_shots_18g/p/1564405684707153478"
+    }
+  ]
+}

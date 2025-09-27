@@ -1,0 +1,2112 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684704610589",
+      "store_id": "2052",
+      "like_code": "303905",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱2,959.00",
+      "unit_price": 2959.0,
+      "popularity": 999999,
+      "upc": "500029922500",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "05000299225004",
+      "reference_ids": [
+        "05000299225004",
+        "05002988888231",
+        "04806505150037"
+      ],
+      "name": "Chivas Regal Gold Signature | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704610589/1f3cd739cad339b17663b95019d97da2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05000299225004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/chivas_regal_gold_signature_700ml/p/1564405684704610589"
+    },
+    {
+      "id": "1564405684711725174",
+      "store_id": "2052",
+      "like_code": "353361",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱2,399.00",
+      "unit_price": 2399.0,
+      "popularity": 999999,
+      "upc": "500029962204",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05000299622049",
+      "reference_ids": [
+        "05000299622049",
+        "05000299611104"
+      ],
+      "name": "Chivas Regal Xv | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711725174/cc19e077085e2e792c34151a4ca91e98",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05000299622049",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/chivas_regal_xv_700ml/p/1564405684711725174"
+    },
+    {
+      "id": "1564405684704761780",
+      "store_id": "2052",
+      "like_code": "274253",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱239.00",
+      "unit_price": 239.0,
+      "popularity": 8374,
+      "upc": "480018160280",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800181602804",
+      "reference_ids": [
+        "04800181602804"
+      ],
+      "name": "Chizboy Grated Parmesan | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704761780/6a604db0bcc8b1ad224cc113bc2c76b9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800181602804",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/chizboy_grated_parmesan_350g/p/1564405684704761780"
+    },
+    {
+      "id": "1564405684702539061",
+      "store_id": "2052",
+      "like_code": "249230",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱173.00",
+      "unit_price": 173.0,
+      "popularity": 999999,
+      "upc": "480018160091",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800181600916",
+      "reference_ids": [
+        "04800181600916"
+      ],
+      "name": "Chiz Boy Processed Mozzarella | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539061/af0cc5435e3e64344effd6af30c2cbe5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800181600916",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/chiz_boy_processed_mozzarella_250g/p/1564405684702539061"
+    },
+    {
+      "id": "1564405684702539066",
+      "store_id": "2052",
+      "like_code": "249231",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 9656,
+      "upc": "480018160272",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800181602729",
+      "reference_ids": [
+        "04800181602729"
+      ],
+      "name": "Chiz Boy Shredded Processed Cheddar | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539066/f7e910f72de28cebcb774f5d7b45850e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800181602729",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/chiz_boy_shredded_processed_cheddar_350g/p/1564405684702539066"
+    },
+    {
+      "id": "1564405684702539065",
+      "store_id": "2052",
+      "like_code": "249229",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 999999,
+      "upc": "480018160260",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800181602606",
+      "reference_ids": [
+        "04800181602606"
+      ],
+      "name": "Chiz Boy Shredded Processed Mozzarella / Cheddar | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539065/bc5ec5df159a7f0f6ab9e34f80d65201",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800181602606",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/chiz_boy_shredded_processed_mozzarella_cheddar_350g/p/1564405684702539065"
+    },
+    {
+      "id": "1764405684715486950",
+      "store_id": "2052",
+      "like_code": "451894",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 1,
+      "upc": "931065310672",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653106723",
+      "reference_ids": [
+        "09310653106723"
+      ],
+      "name": "Chobani Fit Cookie & Cream | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486950/25e6c3b1ea3720e19fe25020a90d0e1d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653106723",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_fit_cookie_cream_160g/p/1764405684715486950"
+    },
+    {
+      "id": "1764405684715486942",
+      "store_id": "2052",
+      "like_code": "451893",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 1,
+      "upc": "931065310602",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653106020",
+      "reference_ids": [
+        "09310653106020"
+      ],
+      "name": "Chobani Fit Vanilla | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486942/53b4c757c610f25a4889c142f676c9f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653106020",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_fit_vanilla_160g/p/1764405684715486942"
+    },
+    {
+      "id": "1764405684715326162",
+      "store_id": "2052",
+      "like_code": "436409",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 1,
+      "upc": "9355352",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093553520",
+      "reference_ids": [
+        "00000093553520"
+      ],
+      "name": "Chobani Flip Cookies & Cream | 140g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326162/65a99c54d007934f6be6a022fb809364",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093553520",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_flip_cookies_cream_140g/p/1764405684715326162"
+    },
+    {
+      "id": "1764405684715486968",
+      "store_id": "2052",
+      "like_code": "451895",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 1,
+      "upc": "9335538",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093355384",
+      "reference_ids": [
+        "00000093355384"
+      ],
+      "name": "Chobani Flip Strawberry Cheesecake | 140g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486968/d488c72ab30025b17add07ee8ac37da6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093355384",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_flip_strawberry_cheesecake_140g/p/1764405684715486968"
+    },
+    {
+      "id": "1764405684715326170",
+      "store_id": "2052",
+      "like_code": "436406",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 1,
+      "upc": "931065310559",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653105597",
+      "reference_ids": [
+        "09310653105597"
+      ],
+      "name": "Chobani Greek Yogurt Blueberry | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326170/9c71be8497112889dd145afcb52ea3e4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653105597",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_greek_yogurt_blueberry_160g/p/1764405684715326170"
+    },
+    {
+      "id": "1764405684715326172",
+      "store_id": "2052",
+      "like_code": "436407",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 1,
+      "upc": "931065310299",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653102992",
+      "reference_ids": [
+        "09310653102992"
+      ],
+      "name": "Chobani Greek Yogurt Pouch Blueberry | 140g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326172/9683d476f604e9f4acc234ba5bc94de5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653102992",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_greek_yogurt_pouch_blueberry_140g/p/1764405684715326172"
+    },
+    {
+      "id": "1764405684715326154",
+      "store_id": "2052",
+      "like_code": "436408",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 1,
+      "upc": "931065310341",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653103418",
+      "reference_ids": [
+        "09310653103418"
+      ],
+      "name": "Chobani Greek Yogurt Pouch Vanilla |  140g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326154/3e6149747d8dddbf5ef6fac5ea064fb2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653103418",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_greek_yogurt_pouch_vanilla_140g/p/1764405684715326154"
+    },
+    {
+      "id": "1764405684715486920",
+      "store_id": "2052",
+      "like_code": "451891",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.50",
+      "unit_price": 139.5,
+      "popularity": 1,
+      "upc": "931065310565",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653105658",
+      "reference_ids": [
+        "09310653105658"
+      ],
+      "name": "Chobani Plain Light | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486920/b38e7dcdc630aff96d66f9962831100d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653105658",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_plain_light_160g/p/1764405684715486920"
+    },
+    {
+      "id": "1764405684715486948",
+      "store_id": "2052",
+      "like_code": "451890",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.50",
+      "unit_price": 139.5,
+      "popularity": 1,
+      "upc": "931065310564",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653105641",
+      "reference_ids": [
+        "09310653105641"
+      ],
+      "name": "Chobani Strawberry | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486948/5749888c976a37e74e14841f3e9f2d99",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653105641",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_strawberry_160g/p/1764405684715486948"
+    },
+    {
+      "id": "1764405684715326160",
+      "store_id": "2052",
+      "like_code": "436410",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 1,
+      "upc": "9356975",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093569750",
+      "reference_ids": [
+        "00000093569750"
+      ],
+      "name": "Chobani Triple Choco Brownie | 140g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326160/f5d4caa6248800fffa7d1c37e6b28da0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093569750",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_triple_choco_brownie_140g/p/1764405684715326160"
+    },
+    {
+      "id": "1764405684715486958",
+      "store_id": "2052",
+      "like_code": "451892",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.50",
+      "unit_price": 139.5,
+      "popularity": 1,
+      "upc": "931065310569",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310653105696",
+      "reference_ids": [
+        "09310653105696"
+      ],
+      "name": "Chobani Vanilla | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486958/1720a876c0e6c2aeafea61c9006f1059",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310653105696",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chobani_vanilla_160g/p/1764405684715486958"
+    },
+    {
+      "id": "1564405684702541593",
+      "store_id": "2052",
+      "like_code": "59659",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱26.25",
+      "unit_price": 26.25,
+      "popularity": 3959,
+      "upc": "480052344061",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800523440613",
+      "reference_ids": [
+        "04800523440613"
+      ],
+      "name": "Choclets Chocolate Rice Crispies | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541593/51eb9022cd2fc47f97747c8bb92218df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800523440613",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choclets_chocolate_rice_crispies_20s/p/1564405684702541593"
+    },
+    {
+      "id": "1564405684702544553",
+      "store_id": "2052",
+      "like_code": "197664",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱58.00",
+      "unit_price": 58.0,
+      "popularity": 5108,
+      "upc": "480653702697",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806537026973",
+      "reference_ids": [
+        "04806537026973",
+        "04804888589697"
+      ],
+      "name": "Choc Nut Milk Choco | 16pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702544553/54a3853db915f6462f1569950121cc0c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806537026973",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/choc_nut_milk_choco_16pcs/p/1564405684702544553"
+    },
+    {
+      "id": "8166228",
+      "store_id": "2052",
+      "like_code": "197663",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 3907,
+      "upc": "480653702680",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806537026805",
+      "reference_ids": [
+        "04806537026805",
+        "04804888589680"
+      ],
+      "name": "Choc Nut Milk Choco | 24pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8166228/f83a463a9d947ead6333ca51c6d8d98e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806537026805",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/choc_nut_milk_choco_24pcs/p/8166228"
+    },
+    {
+      "id": "1564405684702536499",
+      "store_id": "2052",
+      "like_code": "8057",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱68.00",
+      "unit_price": 68.0,
+      "popularity": 1247,
+      "upc": "480004031421",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040314213",
+      "reference_ids": [
+        "04800040314213"
+      ],
+      "name": "Chocolate Chip Cookies | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536499/caf04174b4ece7cce28e417a07a39b66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040314213",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chocolate_chip_cookies_200g/p/1564405684702536499"
+    },
+    {
+      "id": "1564405684702536498",
+      "store_id": "2052",
+      "like_code": "113417",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱16.00",
+      "unit_price": 16.0,
+      "popularity": 343,
+      "upc": "480004031441",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040314411",
+      "reference_ids": [
+        "04800040314411"
+      ],
+      "name": "Chocolate Chip Cookies | 36g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536498/439b4e7240ea6815efe8cd05fc2a4748",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040314411",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chocolate_chip_cookies_36g/p/1564405684702536498"
+    },
+    {
+      "id": "1564405684702536497",
+      "store_id": "2052",
+      "like_code": "8032",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 8628,
+      "upc": "480004031413",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040314138",
+      "reference_ids": [
+        "04800040314138"
+      ],
+      "name": "Chocolate Chip Cookies | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536497/1b1dc06c5f34c91997f00ff31a05bed0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040314138",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chocolate_chip_cookies_400g/p/1564405684702536497"
+    },
+    {
+      "id": "1564405684702536494",
+      "store_id": "2052",
+      "like_code": "8030",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱260.00",
+      "unit_price": 260.0,
+      "popularity": 3823,
+      "upc": "480004031411",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040314114",
+      "reference_ids": [
+        "04800040314114"
+      ],
+      "name": "Chocolate Chip Cookies | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536494/8cf192409300d699841c6acaa65b4483",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040314114",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chocolate_chip_cookies_600g/p/1564405684702536494"
+    },
+    {
+      "id": "1564405684702536506",
+      "store_id": "2052",
+      "like_code": "8080",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 205,
+      "upc": "480004035141",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040351416",
+      "reference_ids": [
+        "04800040351416"
+      ],
+      "name": "Chocolate Crunchies | 6pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536506/ef475c4cffdfecca11436f77c8ed4d03",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040351416",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/chocolate_crunchies_6pcs/p/1564405684702536506"
+    },
+    {
+      "id": "8195251",
+      "store_id": "2052",
+      "like_code": "8068",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 240,
+      "upc": "480004035231",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040352314",
+      "reference_ids": [
+        "04800040352314"
+      ],
+      "name": "Chocolate Mallows | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04800040352314/e6937b05bee94d552b5f0dab9692dd92",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040352314",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chocolate_mallows_100g/p/8195251"
+    },
+    {
+      "id": "1564405684702536509",
+      "store_id": "2052",
+      "like_code": "53258",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱18.50",
+      "unit_price": 18.5,
+      "popularity": 366,
+      "upc": "480004035241",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040352413",
+      "reference_ids": [
+        "04800040352413"
+      ],
+      "name": "Choco Mallows | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536509/443f0732e6428fc3b2d328a9b8c26fd8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040352413",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/choco_mallows_2s/p/1564405684702536509"
+    },
+    {
+      "id": "1564405684704732376",
+      "store_id": "2052",
+      "like_code": "315161",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 5932,
+      "upc": "480023716816",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800237168162",
+      "reference_ids": [
+        "04800237168162"
+      ],
+      "name": "Choco Mani Chocolate Coins | 20pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732376/a79aa63da33fc84bf5ee7d33c8f4e7be",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800237168162",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/choco_mani_chocolate_coins_20pcs/p/1564405684704732376"
+    },
+    {
+      "id": "1564405684704732377",
+      "store_id": "2052",
+      "like_code": "315162",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱38.00",
+      "unit_price": 38.0,
+      "popularity": 923,
+      "upc": "480023733125",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800237331252",
+      "reference_ids": [
+        "04800237331252"
+      ],
+      "name": "Choco Mani Chocolate Sakto | 24s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732377/26602775c5d946246e23276d6242bde7",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705615069559311",
+          "reference_id": "ad_2052_04800237331252_2_60_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684704732377"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 462,
+          "product_tag_ids": [
+            "22356779",
+            "22459148",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4da00fb0424fa03a1e43189857f99dc3",
+          "similarity_priority": 6,
+          "name": "Choco Mani Chocolate Sakto | 24s",
+          "sale_price": "2 for ₱60.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱60.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱60.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱60.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705615069559311",
+        "reference_id": "ad_2052_04800237331252_2_60_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684704732377"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 462,
+        "product_tag_ids": [
+          "22356779",
+          "22459148",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4da00fb0424fa03a1e43189857f99dc3",
+        "similarity_priority": 6,
+        "name": "Choco Mani Chocolate Sakto | 24s",
+        "sale_price": "2 for ₱60.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱60.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 30.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800237331252",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/choco_mani_chocolate_sakto_24s/p/1564405684704732377"
+    },
+    {
+      "id": "1764405684715008944",
+      "store_id": "2052",
+      "like_code": "434906",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱32.00",
+      "unit_price": 32.0,
+      "popularity": 4887,
+      "upc": "480049200112",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800492001129",
+      "reference_ids": [
+        "04800492001129"
+      ],
+      "name": "Choco Mucho Assorted | 4s x 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715008944/235f9ac5ea370505b6b1a61ec10c77f9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800492001129",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/choco_mucho_assorted_4s_x_30g/p/1764405684715008944"
+    },
+    {
+      "id": "1564405684702537640",
+      "store_id": "2052",
+      "like_code": "152237",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱9.50",
+      "unit_price": 9.5,
+      "popularity": 143,
+      "upc": "480009266063",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092660634",
+      "reference_ids": [
+        "04800092660634"
+      ],
+      "name": "ChocoMucho Chocolate | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537640/d909daa5c189421d97a85c3735841273",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092660634",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_chocolate_30g/p/1564405684702537640"
+    },
+    {
+      "id": "1564405684704639214",
+      "store_id": "2052",
+      "like_code": "288963",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱13.50",
+      "unit_price": 13.5,
+      "popularity": 567,
+      "upc": "480009266293",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092662935",
+      "reference_ids": [
+        "04800092662935"
+      ],
+      "name": "Choco Mucho Chunky & Chewy | 37g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704639214/12dde5986f0d454da627569467c8cb55",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092662935",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/choco_mucho_chunky_chewy_37g/p/1564405684704639214"
+    },
+    {
+      "id": "1564405684702537653",
+      "store_id": "2052",
+      "like_code": "143340",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱9.50",
+      "unit_price": 9.5,
+      "popularity": 668,
+      "upc": "480009266115",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092661150",
+      "reference_ids": [
+        "04800092661150"
+      ],
+      "name": "Choco Mucho Cookies & Cream | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537653/840e797c16ebd0ce5d1991ce10a57618",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092661150",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_cookies_cream_30g/p/1564405684702537653"
+    },
+    {
+      "id": "1564405684702537572",
+      "store_id": "2052",
+      "like_code": "245707",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 593,
+      "upc": "480009211652",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092116520",
+      "reference_ids": [
+        "04800092116520"
+      ],
+      "name": "Choco Mucho Cookies Double Choco | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537572/5ade4c1a00e6b5e17c2aca6476a68f5a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092116520",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/choco_mucho_cookies_double_choco_10s/p/1564405684702537572"
+    },
+    {
+      "id": "1564405684702537574",
+      "store_id": "2052",
+      "like_code": "245708",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 661,
+      "upc": "480009211654",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092116544",
+      "reference_ids": [
+        "04800092116544"
+      ],
+      "name": "Choco Mucho Cookies White Choco | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537574/bc04b7ed255dcb35aeaf6209bf7bad86",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092116544",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/choco_mucho_cookies_white_choco_10s/p/1564405684702537574"
+    },
+    {
+      "id": "1564405684716256041",
+      "store_id": "2052",
+      "like_code": "419811",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱75.00",
+      "unit_price": 75.0,
+      "popularity": 6533,
+      "upc": "480009212049",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092120497",
+      "reference_ids": [
+        "04800092120497"
+      ],
+      "name": "Choco Mucho Cookies White Choco Thins | 30g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716256041/bcc862c9de228c5c12fd98063c21dd18",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092120497",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/choco_mucho_cookies_white_choco_thins_30g_x_10s/p/1564405684716256041"
+    },
+    {
+      "id": "1564405684702537650",
+      "store_id": "2052",
+      "like_code": "251192",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 999999,
+      "upc": "480009266106",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092661068",
+      "reference_ids": [
+        "04800092661068"
+      ],
+      "name": "Choco Mucho Dark Chocolate | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537650/8eb847ce850a3edb54a51179e629b4db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800092661068",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_dark_chocolate_125g/p/1564405684702537650"
+    },
+    {
+      "id": "1564405684702537647",
+      "store_id": "2052",
+      "like_code": "152245",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱9.50",
+      "unit_price": 9.5,
+      "popularity": 328,
+      "upc": "480009266096",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092660962",
+      "reference_ids": [
+        "04800092660962"
+      ],
+      "name": "Choco Mucho Dark Chocolate | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537647/5a63dbd919bbd5998ee1a2db3bf4f6b8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092660962",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_dark_chocolate_30g/p/1564405684702537647"
+    },
+    {
+      "id": "1564405684702537649",
+      "store_id": "2052",
+      "like_code": "251193",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 5934,
+      "upc": "480009266105",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092661051",
+      "reference_ids": [
+        "04800092661051"
+      ],
+      "name": "Choco Mucho Milk Chocolate | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537649/4905d1f5af0b94e150bba0889a1eaa45",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092661051",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_milk_chocolate_125g/p/1564405684702537649"
+    },
+    {
+      "id": "1564405684705658305",
+      "store_id": "2052",
+      "like_code": "332971",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱97.00",
+      "unit_price": 97.0,
+      "popularity": 999999,
+      "upc": "480009266338",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092663383",
+      "reference_ids": [
+        "04800092663383"
+      ],
+      "name": "Choco Mucho Minis Assorted | 40pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705658305/c41df6951877ef27d80a138dce47c545",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800092663383",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/choco_mucho_minis_assorted_40pcs/p/1564405684705658305"
+    },
+    {
+      "id": "1564405684702537661",
+      "store_id": "2052",
+      "like_code": "249209",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 861,
+      "upc": "480009266263",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092662638",
+      "reference_ids": [
+        "04800092662638"
+      ],
+      "name": "Choco Mucho Minis White Chocolate | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537661/1c5335ea83b69bae649a6378fcbcafaa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092662638",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_minis_white_chocolate_20s/p/1564405684702537661"
+    },
+    {
+      "id": "1564405684702537646",
+      "store_id": "2052",
+      "like_code": "152241",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱9.50",
+      "unit_price": 9.5,
+      "popularity": 560,
+      "upc": "480009266080",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092660801",
+      "reference_ids": [
+        "04800092660801"
+      ],
+      "name": "ChocoMucho Peanut Butter | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537646/695696dfa79135697fb533a0837d3364",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092660801",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_peanut_butter_30g/p/1564405684702537646"
+    },
+    {
+      "id": "1564405684702537656",
+      "store_id": "2052",
+      "like_code": "167688",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱18.00",
+      "unit_price": 18.0,
+      "popularity": 999999,
+      "upc": "480009266146",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092661464",
+      "reference_ids": [
+        "04800092661464"
+      ],
+      "name": "Choco Mucho Pop Bites Dark Chocolate | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537656/63293b4799543adebd0f53630c570a33",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800092661464",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_pop_bites_dark_chocolate_40g/p/1564405684702537656"
+    },
+    {
+      "id": "1564405684702537643",
+      "store_id": "2052",
+      "like_code": "152239",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱9.50",
+      "unit_price": 9.5,
+      "popularity": 395,
+      "upc": "480009266078",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092660788",
+      "reference_ids": [
+        "04800092660788"
+      ],
+      "name": "ChocoMucho White Chocolate | 30g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537643/235ece0560329525c4f4a5949b0e1835",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092660788",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choco_mucho_white_chocolate_30g/p/1564405684702537643"
+    },
+    {
+      "id": "1564405684702538994",
+      "store_id": "2052",
+      "like_code": "13208",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱28.50",
+      "unit_price": 28.5,
+      "popularity": 1103,
+      "upc": "480016614280",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800166142806",
+      "reference_ids": [
+        "04800166142806"
+      ],
+      "name": "Choko Choko Chocolate Sticks | 20pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538994/9071406009d09dfe226f8dfe6edb7864",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800166142806",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/choko_choko_chocolate_sticks_20pcs/p/1564405684702538994"
+    },
+    {
+      "id": "1564405684714604302",
+      "store_id": "2052",
+      "like_code": "393307",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 999999,
+      "upc": "200003933078",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039330787",
+      "reference_ids": [
+        "02000039330787"
+      ],
+      "name": "Chooks to Go Bounty Fresh Marinado Marinated Chicken Cut-ups Crispy Fried Chicken | 500g",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714604302/ecd8773926b054c7d9be981906b6deb5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039330787",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_bounty_fresh_marinado_marinated_chicken_cut_ups_crispy_fried_chicken_500g/p/1564405684714604302"
+    },
+    {
+      "id": "1564405684712126704",
+      "store_id": "2052",
+      "like_code": "352040",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 3055,
+      "upc": "200003520408",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035204082",
+      "reference_ids": [
+        "02000035204082"
+      ],
+      "name": "Chooks To Go Chicken Cut-ups | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000035204082",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/chooks_to_go_chicken_cut_ups_600g/p/1564405684712126704"
+    },
+    {
+      "id": "1564405684712126708",
+      "store_id": "2052",
+      "like_code": "352037",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 3053,
+      "upc": "200003520378",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035203788",
+      "reference_ids": [
+        "02000035203788"
+      ],
+      "name": "Chooks To Go Cut-ups Marinado Sweet Chicken | 550g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712126708/d67d6e404add3f16a7d8eacc3c8ce638",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000035203788",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_cut_ups_marinado_sweet_chicken_550g/p/1564405684712126708"
+    }
+  ]
+}

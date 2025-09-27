@@ -1,0 +1,2570 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702545325",
+      "store_id": "2052",
+      "like_code": "72693",
+      "department_id": [
+        "22459154"
+      ],
+      "price": "₱45.50",
+      "unit_price": 45.5,
+      "popularity": 7978,
+      "upc": "480601997223",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972231",
+      "reference_ids": [
+        "04806019972231"
+      ],
+      "name": "Clara Ole Bbq Sauce Marinade Spicy | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545325/fc1144caabe99180fb74b26dc400d72e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972231",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/sauce/clara_ole_bbq_sauce_marinade_spicy_250g/p/1564405684702545325"
+    },
+    {
+      "id": "1564405684702545709",
+      "store_id": "2052",
+      "like_code": "164386",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱52.25",
+      "unit_price": 52.25,
+      "popularity": 6801,
+      "upc": "480602620199",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026201997",
+      "reference_ids": [
+        "04806026201997"
+      ],
+      "name": "Clara Ole Bechamel White Sauce | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04806026201997/59ac6952c8a691c7a50ee8d2a199333f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026201997",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_bechamel_white_sauce_200g/p/1564405684702545709"
+    },
+    {
+      "id": "1564405684702545331",
+      "store_id": "2052",
+      "like_code": "95889",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 5990,
+      "upc": "480601997234",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972347",
+      "reference_ids": [
+        "04806019972347"
+      ],
+      "name": "Clara Ole Blueberry Jam | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545331/7dbfe144b17cf708f711076c9abf3031",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972347",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_blueberry_jam_320g/p/1564405684702545331"
+    },
+    {
+      "id": "1564405684702545707",
+      "store_id": "2052",
+      "like_code": "164384",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱44.50",
+      "unit_price": 44.5,
+      "popularity": 3852,
+      "upc": "480602620197",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026201973",
+      "reference_ids": [
+        "04806026201973"
+      ],
+      "name": "Clara Ole Carbonara Pasta Sauce | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545707/c596a30501b20a7f266a3cef89fa1ceb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026201973",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_carbonara_pasta_sauce_200g/p/1564405684702545707"
+    },
+    {
+      "id": "1564405684702545701",
+      "store_id": "2052",
+      "like_code": "134832",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 8,
+      "upc": "480602620092",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026200921",
+      "reference_ids": [
+        "04806026200921"
+      ],
+      "name": "Clara Ole Cheesy Pesto Pasta Sauce | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702545701/c285c2df5454b371679c6938ff803638",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026200921",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_cheesy_pesto_pasta_sauce_180g/p/1564405684702545701"
+    },
+    {
+      "id": "1564405684702545700",
+      "store_id": "2052",
+      "like_code": "134829",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱46.75",
+      "unit_price": 46.75,
+      "popularity": 7585,
+      "upc": "480602620094",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026200945",
+      "reference_ids": [
+        "04806026200945"
+      ],
+      "name": "Clara Ole Chunky Tomato 3 Cheese Pasta Sauce | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545700/ab5649a5b322b2e22cacf6a0b6fa9099",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026200945",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_chunky_tomato_3_cheese_pasta_sauce_225g/p/1564405684702545700"
+    },
+    {
+      "id": "1564405684702545702",
+      "store_id": "2052",
+      "like_code": "134830",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱46.75",
+      "unit_price": 46.75,
+      "popularity": 9487,
+      "upc": "480602620093",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026200938",
+      "reference_ids": [
+        "04806026200938"
+      ],
+      "name": "Clara Ole Chunky Tomato Basil Pasta Sauce  | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545702/7fe4040059e7854244c93159e2dfa45d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026200938",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_chunky_tomato_basil_pasta_sauce_225g/p/1564405684702545702"
+    },
+    {
+      "id": "1564405684709833360",
+      "store_id": "2052",
+      "like_code": "329136",
+      "department_id": [
+        "22459158"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 6182,
+      "upc": "480602620579",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04806026205797",
+      "reference_ids": [
+        "04806026205797"
+      ],
+      "name": "Clara Ole Dip It Good Cheddar Cheese | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709833360/a8954e4663201ce9b40c6bf4e130f3e9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026205797",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/dips/clara_ole_dip_it_good_cheddar_cheese_120g/p/1564405684709833360"
+    },
+    {
+      "id": "1564405684709833358",
+      "store_id": "2052",
+      "like_code": "329135",
+      "department_id": [
+        "22459158"
+      ],
+      "price": "₱74.00",
+      "unit_price": 74.0,
+      "popularity": 7678,
+      "upc": "480602620578",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04806026205780",
+      "reference_ids": [
+        "04806026205780"
+      ],
+      "name": "Clara Ole Dip It Good French Onion | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709833358/b571f2b68ce078dea7f6282d1d021518",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026205780",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/dips/clara_ole_dip_it_good_french_onion_120g/p/1564405684709833358"
+    },
+    {
+      "id": "1564405684709833361",
+      "store_id": "2052",
+      "like_code": "329133",
+      "department_id": [
+        "22459158"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 6295,
+      "upc": "480602620580",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04806026205803",
+      "reference_ids": [
+        "04806026205803"
+      ],
+      "name": "Clara Ole Dip It Good Jalapeno | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709833361/4918a426a16dca9373dd3afa7b0b0032",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026205803",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/dips/clara_ole_dip_it_good_jalapeno_120g/p/1564405684709833361"
+    },
+    {
+      "id": "1564405684709833359",
+      "store_id": "2052",
+      "like_code": "329134",
+      "department_id": [
+        "22459158"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 5782,
+      "upc": "480602620577",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04806026205773",
+      "reference_ids": [
+        "04806026205773"
+      ],
+      "name": "Clara Ole Dip It Good Salsa | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709833359/e8368f8ff06257c07150a9536d0e54fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026205773",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/dips/clara_ole_dip_it_good_salsa_120g/p/1564405684709833359"
+    },
+    {
+      "id": "1564405684702545343",
+      "store_id": "2052",
+      "like_code": "210102",
+      "department_id": [
+        "22459157"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 8885,
+      "upc": "480601997247",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972477",
+      "reference_ids": [
+        "04806019972477"
+      ],
+      "name": "Clara Ole Dips n' Dressings Asian | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545343/f5a35dcf9a9767c2ac39f52aa58e4469",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972477",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/salad_dressing/clara_ole_dips_n_dressings_asian_120g/p/1564405684702545343"
+    },
+    {
+      "id": "1564405684702545340",
+      "store_id": "2052",
+      "like_code": "210096",
+      "department_id": [
+        "22459157"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 8017,
+      "upc": "480601997245",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972453",
+      "reference_ids": [
+        "04806019972453"
+      ],
+      "name": "Clara Ole Dips n' Dressings Caesar | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545340/90574403eb9c8812bac62042cd435e5b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972453",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/salad_dressing/clara_ole_dips_n_dressings_caesar_120g/p/1564405684702545340"
+    },
+    {
+      "id": "1564405684702545344",
+      "store_id": "2052",
+      "like_code": "210105",
+      "department_id": [
+        "22459159"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 6803,
+      "upc": "480601997262",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972620",
+      "reference_ids": [
+        "04806019972620"
+      ],
+      "name": "Clara Ole Dips n' Dressings Honey Mustard | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545344/2012c4084fd3d503caa8bda8507eba87",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972620",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/mustard/clara_ole_dips_n_dressings_honey_mustard_120g/p/1564405684702545344"
+    },
+    {
+      "id": "1564405684702545341",
+      "store_id": "2052",
+      "like_code": "210099",
+      "department_id": [
+        "22459157"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 999999,
+      "upc": "480601997246",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972460",
+      "reference_ids": [
+        "04806019972460"
+      ],
+      "name": "Clara Ole Dips n' Dressings Thousand Island | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545341/f45e46c2252eded620f623059b399259",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806019972460",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/salad_dressing/clara_ole_dips_n_dressings_thousand_island_120g/p/1564405684702545341"
+    },
+    {
+      "id": "1564405684702545705",
+      "store_id": "2052",
+      "like_code": "157682",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱94.00",
+      "unit_price": 94.0,
+      "popularity": 8883,
+      "upc": "480602620143",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026201430",
+      "reference_ids": [
+        "04806026201430"
+      ],
+      "name": "Clara Ole Filipino Style Pasta Sauce | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545705/b79ac4e05bbc9a913ce8f3886a39ba61",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026201430",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_filipino_style_pasta_sauce_1kg/p/1564405684702545705"
+    },
+    {
+      "id": "1564405684702504674",
+      "store_id": "2052",
+      "like_code": "100846",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱128.00",
+      "unit_price": 128.0,
+      "popularity": 7795,
+      "upc": "75107514001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075140015",
+      "reference_ids": [
+        "00751075140015"
+      ],
+      "name": "Clara Ole Guava Jelly | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504674/3d9051bc93e8665babae323f9403f1f3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075140015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_guava_jelly_320g/p/1564405684702504674"
+    },
+    {
+      "id": "1564405684702545348",
+      "store_id": "2052",
+      "like_code": "166137",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱54.50",
+      "unit_price": 54.5,
+      "popularity": 5411,
+      "upc": "480601997281",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972811",
+      "reference_ids": [
+        "04806019972811"
+      ],
+      "name": "Clara Ole Hickory Barbecue Marinade | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545348/fd060e28ae500d1beaa012438fe060fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972811",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/clara_ole_hickory_barbecue_marinade_225g/p/1564405684702545348"
+    },
+    {
+      "id": "1564405684702545345",
+      "store_id": "2052",
+      "like_code": "166138",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱54.50",
+      "unit_price": 54.5,
+      "popularity": 8156,
+      "upc": "480601997264",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972644",
+      "reference_ids": [
+        "04806019972644"
+      ],
+      "name": "Clara Ole Honey Mustard Barbecue Marinade | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545345/de2abc8ffe630469cf2e95b974ab96a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972644",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/clara_ole_honey_mustard_barbecue_marinade_225g/p/1564405684702545345"
+    },
+    {
+      "id": "1564405684702545330",
+      "store_id": "2052",
+      "like_code": "79955",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱99.25",
+      "unit_price": 99.25,
+      "popularity": 6966,
+      "upc": "480601997230",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972309",
+      "reference_ids": [
+        "04806019972309"
+      ],
+      "name": "Clara Ole Italian Pasta Sauce | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545330/c42b8e221e861b0a788eb452f01fa9b1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972309",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_italian_pasta_sauce_1kg/p/1564405684702545330"
+    },
+    {
+      "id": "1564405684702504677",
+      "store_id": "2052",
+      "like_code": "31402",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 7456,
+      "upc": "75107516020",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075160204",
+      "reference_ids": [
+        "00751075160204"
+      ],
+      "name": "Clara Ole Italian Pasta Sauce | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504677/88c70299637712590ba7f316d4cde134",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075160204",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_italian_pasta_sauce_250g/p/1564405684702504677"
+    },
+    {
+      "id": "1564405684702545347",
+      "store_id": "2052",
+      "like_code": "166139",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱54.50",
+      "unit_price": 54.5,
+      "popularity": 7308,
+      "upc": "480601997265",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972651",
+      "reference_ids": [
+        "04806019972651"
+      ],
+      "name": "Clara Ole Korean Barbecue Marinade | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545347/54ef293be097bd6dbb7585fc838a7d8e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972651",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/clara_ole_korean_barbecue_marinade_225g/p/1564405684702545347"
+    },
+    {
+      "id": "1564405684702545699",
+      "store_id": "2052",
+      "like_code": "134831",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱46.75",
+      "unit_price": 46.75,
+      "popularity": 3917,
+      "upc": "480602620091",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026200914",
+      "reference_ids": [
+        "04806026200914"
+      ],
+      "name": "Clara Ole Kung Pao Pasta Sauce | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545699/f28d115e98f3383e906220664e3b3989",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026200914",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_kung_pao_pasta_sauce_225g/p/1564405684702545699"
+    },
+    {
+      "id": "1564405684702504670",
+      "store_id": "2052",
+      "like_code": "100845",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 7988,
+      "upc": "75107513401",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075134014",
+      "reference_ids": [
+        "00751075134014"
+      ],
+      "name": "Clara Ole Mango Jam | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504670/e70cce6a04684ce7e6361340c935e541",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075134014",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_mango_jam_320g/p/1564405684702504670"
+    },
+    {
+      "id": "1564405684702504669",
+      "store_id": "2052",
+      "like_code": "100844",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 7288,
+      "upc": "75107513501",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075135011",
+      "reference_ids": [
+        "00751075135011"
+      ],
+      "name": "Clara Ole Mango Pineapple Jam | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504669/cf94de1dbdf746b760a43fdbdbb24542",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075135011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_mango_pineapple_jam_320g/p/1564405684702504669"
+    },
+    {
+      "id": "1564405684702504675",
+      "store_id": "2052",
+      "like_code": "249640",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱154.00",
+      "unit_price": 154.0,
+      "popularity": 6696,
+      "upc": "75107513801",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075138012",
+      "reference_ids": [
+        "00751075138012"
+      ],
+      "name": "Clara Ole Maraschino Cherries | 280g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504675/9b15d9902c471c8a6a778e9d268e2b20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075138012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/clara_ole_maraschino_cherries_280g/p/1564405684702504675"
+    },
+    {
+      "id": "1564405684702545327",
+      "store_id": "2052",
+      "like_code": "79685",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱45.50",
+      "unit_price": 45.5,
+      "popularity": 8434,
+      "upc": "480601997228",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972286",
+      "reference_ids": [
+        "04806019972286"
+      ],
+      "name": "Clara Ole Marinade Mix Tapa | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545327/94aae4b1897a3276c81eb73422395334",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972286",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/clara_ole_marinade_mix_tapa_250g/p/1564405684702545327"
+    },
+    {
+      "id": "1564405684702504672",
+      "store_id": "2052",
+      "like_code": "100842",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 7733,
+      "upc": "75107513201",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075132010",
+      "reference_ids": [
+        "00751075132010"
+      ],
+      "name": "Clara Ole Orange Marmalade | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504672/062da9d2f983a45973b622e004e93bfd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075132010",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_orange_marmalade_320g/p/1564405684702504672"
+    },
+    {
+      "id": "1564405684702545336",
+      "store_id": "2052",
+      "like_code": "95881",
+      "department_id": [
+        "22459308"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 6321,
+      "upc": "480601997238",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972385",
+      "reference_ids": [
+        "04806019972385"
+      ],
+      "name": "Clara Ole Pancake Maple Syrup | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04806019972385/9df99731dfa967d3dbde9f1eee142e57",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972385",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/syrup/clara_ole_pancake_maple_syrup_355ml/p/1564405684702545336"
+    },
+    {
+      "id": "1564405684702545337",
+      "store_id": "2052",
+      "like_code": "95883",
+      "department_id": [
+        "22459308"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 8117,
+      "upc": "480601997240",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972408",
+      "reference_ids": [
+        "04806019972408"
+      ],
+      "name": "Clara Ole Pancake Syrup Choco | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545337/27df09b389d1d035fb7c73b76c2290e2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972408",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/syrup/clara_ole_pancake_syrup_choco_355ml/p/1564405684702545337"
+    },
+    {
+      "id": "1564405684702545338",
+      "store_id": "2052",
+      "like_code": "95882",
+      "department_id": [
+        "22459308"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 7738,
+      "upc": "480601997239",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972392",
+      "reference_ids": [
+        "04806019972392"
+      ],
+      "name": "Clara Ole Pancake Syrup Cinnamon | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545338/17d8d2f722741923cd78cc72d5476513",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972392",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/syrup/clara_ole_pancake_syrup_cinnamon_355ml/p/1564405684702545338"
+    },
+    {
+      "id": "1564405684702545335",
+      "store_id": "2052",
+      "like_code": "95880",
+      "department_id": [
+        "22459308"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 6284,
+      "upc": "480601997237",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972378",
+      "reference_ids": [
+        "04806019972378"
+      ],
+      "name": "Clara Ole Pancake Syrup Original | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545335/ecb228675f9c4a210e96da4a01518ddc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972378",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/syrup/clara_ole_pancake_syrup_original_355ml/p/1564405684702545335"
+    },
+    {
+      "id": "1564405684702545704",
+      "store_id": "2052",
+      "like_code": "143746",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 9148,
+      "upc": "480602620140",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026201409",
+      "reference_ids": [
+        "04806026201409"
+      ],
+      "name": "Clara Ole Pasta Sauce Chunky Tomato with 3-Cheese | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545704/ea3acc13054500e7c6e9acc4038c284d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026201409",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_pasta_sauce_chunky_tomato_with_3_cheese_1kg/p/1564405684702545704"
+    },
+    {
+      "id": "1564405684702545703",
+      "store_id": "2052",
+      "like_code": "143747",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 8,
+      "upc": "480602620139",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026201393",
+      "reference_ids": [
+        "04806026201393"
+      ],
+      "name": "Clara Ole Pasta Sauce Chunky Tomato with Basil | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545703/2a7709d6f79401cf4d3a826d3cbd116c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806026201393",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_pasta_sauce_chunky_tomato_with_basil_1kg/p/1564405684702545703"
+    },
+    {
+      "id": "1564405684702504668",
+      "store_id": "2052",
+      "like_code": "100841",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 6382,
+      "upc": "75107513001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075130016",
+      "reference_ids": [
+        "00751075130016"
+      ],
+      "name": "Clara Ole Pineapple Jam | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504668/155db1becc1432bcb8413ad6b0a1ccce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075130016",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_pineapple_jam_320g/p/1564405684702504668"
+    },
+    {
+      "id": "1564405684702545713",
+      "store_id": "2052",
+      "like_code": "269037",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "upc": "480602620273",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806026202734",
+      "reference_ids": [
+        "04806026202734"
+      ],
+      "name": "Clara Ole Red Pesto Pasta Sauce | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545713/2ae0633b7232cfa9c179cdda469f7907",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806026202734",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_red_pesto_pasta_sauce_180g/p/1564405684702545713"
+    },
+    {
+      "id": "1564405684702504671",
+      "store_id": "2052",
+      "like_code": "100843",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 4873,
+      "upc": "75107513101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075131013",
+      "reference_ids": [
+        "00751075131013"
+      ],
+      "name": "Clara Ole Strawberry Jam | 320g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504671/5fd0d031f7b4f20872b38c183e0ddfb7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075131013",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/clara_ole_strawberry_jam_320g/p/1564405684702504671"
+    },
+    {
+      "id": "8193495",
+      "store_id": "2052",
+      "like_code": "31403",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 6978,
+      "upc": "480601997368",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019973689",
+      "reference_ids": [
+        "04806019973689",
+        "00751075160303"
+      ],
+      "name": "Clara Ole Sweet Pasta Sauce | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8193495/69e8be04ed927524c31fa75272fcccc3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019973689",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_sweet_pasta_sauce_250g/p/8193495"
+    },
+    {
+      "id": "1564405684702545332",
+      "store_id": "2052",
+      "like_code": "79957",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱99.25",
+      "unit_price": 99.25,
+      "popularity": 8467,
+      "upc": "480601997231",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972316",
+      "reference_ids": [
+        "04806019972316"
+      ],
+      "name": "Clara Ole Three Cheese Pasta Sauce  | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545332/020b15fdd6fe92cd0b71a8066b25acdf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972316",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_three_cheese_pasta_sauce_1kg/p/1564405684702545332"
+    },
+    {
+      "id": "1564405684702545326",
+      "store_id": "2052",
+      "like_code": "72690",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 7437,
+      "upc": "480601997224",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972248",
+      "reference_ids": [
+        "04806019972248"
+      ],
+      "name": "Clara Ole Three-Cheese Pasta Sauce | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545326/5334b6006f94bb1e5e1dbeac84c702b1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019972248",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_three_cheese_pasta_sauce_250g/p/1564405684702545326"
+    },
+    {
+      "id": "1564405684702545353",
+      "store_id": "2052",
+      "like_code": "100848",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱85.50",
+      "unit_price": 85.5,
+      "popularity": 7040,
+      "upc": "480601997414",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019974143",
+      "reference_ids": [
+        "04806019974143"
+      ],
+      "name": "Clara Ole Tomato Sauce | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545353/67e3a4e9fd6fb673dd2937587be06076",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806019974143",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_tomato_sauce_1kg/p/1564405684702545353"
+    },
+    {
+      "id": "1564405684702504676",
+      "store_id": "2052",
+      "like_code": "31401",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱25.25",
+      "unit_price": 25.25,
+      "popularity": 7321,
+      "upc": "75107516010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00751075160105",
+      "reference_ids": [
+        "00751075160105"
+      ],
+      "name": "Clara Ole Tomato Sauce | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504676/f5955b6ffc206b8eddf94d0abca3aa78",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00751075160105",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/clara_ole_tomato_sauce_250g/p/1564405684702504676"
+    },
+    {
+      "id": "1564405684705694991",
+      "store_id": "2052",
+      "like_code": "333032",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱66.00",
+      "unit_price": 66.0,
+      "popularity": 3881,
+      "upc": "692449450026",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06924494500263",
+      "reference_ids": [
+        "06924494500263"
+      ],
+      "name": "Cleanstar Dental Floss Pick | 30pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705694991/38327f421151045f7296563341954955",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704507907520615",
+          "reference_id": "tpr_2052_06924494500263_46_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684705694991"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2008,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ab87a7f3540d93f9de140dcbfcb010f1",
+          "similarity_priority": 5,
+          "name": "Cleanstar Dental Floss Pick | 30pcs",
+          "sale_price": "₱46.00",
+          "sale_price_md": "**₱46.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705696942372968",
+          "reference_id": "ad_2052_06924494500263_1_46_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684705694991"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1004,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "766756a1dd77deec022c15ee0d61d50e",
+          "similarity_priority": 6,
+          "name": "Cleanstar Dental Floss Pick | 30pcs",
+          "sale_price": "₱46.00",
+          "sale_price_md": "**₱46.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱46.00",
+      "sale_price_md": "**₱46.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704507907520615",
+        "reference_id": "tpr_2052_06924494500263_46_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684705694991"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2008,
+        "product_tag_ids": [
+          "1496184",
+          "22356772",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ab87a7f3540d93f9de140dcbfcb010f1",
+        "similarity_priority": 5,
+        "name": "Cleanstar Dental Floss Pick | 30pcs",
+        "sale_price": "₱46.00",
+        "sale_price_md": "**₱46.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 46.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱46.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06924494500263",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleanstar_dental_floss_pick_30pcs/p/1564405684705694991"
+    },
+    {
+      "id": "1564405684705694990",
+      "store_id": "2052",
+      "like_code": "333035",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱95.00",
+      "unit_price": 95.0,
+      "popularity": 5761,
+      "upc": "692449450016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06924494500164",
+      "reference_ids": [
+        "06924494500164"
+      ],
+      "name": "Cleanstar Dental Floss Pick | 50pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705694990/7b85fdddf4e44f930592307627798fa8",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704507681028190",
+          "reference_id": "tpr_2052_06924494500164_66_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684705694990"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5761,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "684d534602128560b9e5bc8c96cf04f3",
+          "similarity_priority": 5,
+          "name": "Cleanstar Dental Floss Pick | 50pcs",
+          "sale_price": "₱66.50",
+          "sale_price_md": "**₱66.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705696732657760",
+          "reference_id": "ad_2052_06924494500164_1_66_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684705694990"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2881,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "254f15bfe6a54f4e8bd9479f4324f073",
+          "similarity_priority": 6,
+          "name": "Cleanstar Dental Floss Pick | 50pcs",
+          "sale_price": "₱66.50",
+          "sale_price_md": "**₱66.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱66.50",
+      "sale_price_md": "**₱66.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704507681028190",
+        "reference_id": "tpr_2052_06924494500164_66_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684705694990"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5761,
+        "product_tag_ids": [
+          "1496184",
+          "22356772",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "684d534602128560b9e5bc8c96cf04f3",
+        "similarity_priority": 5,
+        "name": "Cleanstar Dental Floss Pick | 50pcs",
+        "sale_price": "₱66.50",
+        "sale_price_md": "**₱66.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 66.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱66.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06924494500164",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleanstar_dental_floss_pick_50pcs/p/1564405684705694990"
+    },
+    {
+      "id": "1564405684705694992",
+      "store_id": "2052",
+      "like_code": "333033",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱83.00",
+      "unit_price": 83.0,
+      "popularity": 8684,
+      "upc": "692449450029",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06924494500294",
+      "reference_ids": [
+        "06924494500294"
+      ],
+      "name": "Cleanstar Dental Floss Pick | 50pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705694992/e438f3de8aed8615b55dcf42c2de3adf",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704508075292782",
+          "reference_id": "tpr_2052_06924494500294_58_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684705694992"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8684,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "87a76ffdafbcf6cf778b212f27bef023",
+          "similarity_priority": 5,
+          "name": "Cleanstar Dental Floss Pick | 50pcs",
+          "sale_price": "₱58.00",
+          "sale_price_md": "**₱58.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705697345026163",
+          "reference_id": "ad_2052_06924494500294_1_58_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684705694992"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4342,
+          "product_tag_ids": [
+            "1496184",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b2562de43e50bc9176ec3832a26d4361",
+          "similarity_priority": 6,
+          "name": "Cleanstar Dental Floss Pick | 50pcs",
+          "sale_price": "₱58.00",
+          "sale_price_md": "**₱58.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱58.00",
+      "sale_price_md": "**₱58.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704508075292782",
+        "reference_id": "tpr_2052_06924494500294_58_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684705694992"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8684,
+        "product_tag_ids": [
+          "1496184",
+          "22356772",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "87a76ffdafbcf6cf778b212f27bef023",
+        "similarity_priority": 5,
+        "name": "Cleanstar Dental Floss Pick | 50pcs",
+        "sale_price": "₱58.00",
+        "sale_price_md": "**₱58.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 58.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱58.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06924494500294",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleanstar_dental_floss_pick_50pcs/p/1564405684705694992"
+    },
+    {
+      "id": "1564405684716150799",
+      "store_id": "2052",
+      "like_code": "415309",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱101.00",
+      "unit_price": 101.0,
+      "popularity": 8258,
+      "upc": "692449450031",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06924494500317",
+      "reference_ids": [
+        "06924494500317"
+      ],
+      "name": "Cleanstar Dental Floss Pick Box Bamboo Charcoal | 50s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716150799/8354caaab14dc84e23a4f025cf7db525",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704508947708040",
+          "reference_id": "tpr_2052_06924494500317_70_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716150799"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8258,
+          "product_tag_ids": [
+            "1496184",
+            "22474153",
+            "22475760",
+            "22984611"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a005af6fac6c0900ca612e09fa43049d",
+          "similarity_priority": 5,
+          "name": "Cleanstar Dental Floss Pick Box Bamboo Charcoal | 50s",
+          "sale_price": "₱70.50",
+          "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705697957394560",
+          "reference_id": "ad_2052_06924494500317_1_70_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716150799"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4129,
+          "product_tag_ids": [
+            "1496184",
+            "22474153",
+            "22475760",
+            "22984611"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "30551de01e3b2a5a73eb6e6fe9cc8d30",
+          "similarity_priority": 6,
+          "name": "Cleanstar Dental Floss Pick Box Bamboo Charcoal | 50s",
+          "sale_price": "₱70.50",
+          "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱70.50",
+      "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704508947708040",
+        "reference_id": "tpr_2052_06924494500317_70_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716150799"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8258,
+        "product_tag_ids": [
+          "1496184",
+          "22474153",
+          "22475760",
+          "22984611"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "a005af6fac6c0900ca612e09fa43049d",
+        "similarity_priority": 5,
+        "name": "Cleanstar Dental Floss Pick Box Bamboo Charcoal | 50s",
+        "sale_price": "₱70.50",
+        "sale_price_md": "**₱70.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 70.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱70.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06924494500317",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleanstar_dental_floss_pick_box_bamboo_charcoal_50s/p/1564405684716150799"
+    },
+    {
+      "id": "1564405684716150797",
+      "store_id": "2052",
+      "like_code": "415310",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱111.00",
+      "unit_price": 111.0,
+      "popularity": 5805,
+      "upc": "692449450011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06924494500119",
+      "reference_ids": [
+        "06924494500119"
+      ],
+      "name": "Cleanstar Dental Floss Pick Box Mint | 60s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716150797/69d093783be9acfde96ac5b5b47c0c31",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704506833778759",
+          "reference_id": "tpr_2052_06924494500119_77_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716150797"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5805,
+          "product_tag_ids": [
+            "1496184",
+            "22474153",
+            "22475760",
+            "22984611"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "feebe2d5676a19117ce2c3f9b9fdd4d6",
+          "similarity_priority": 5,
+          "name": "Cleanstar Dental Floss Pick Box Mint | 60s",
+          "sale_price": "₱77.50",
+          "sale_price_md": "**₱77.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705696682326111",
+          "reference_id": "ad_2052_06924494500119_1_77_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716150797"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2903,
+          "product_tag_ids": [
+            "1496184",
+            "22474153",
+            "22475760",
+            "22984611"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4d7134343b30611980278046a3068119",
+          "similarity_priority": 6,
+          "name": "Cleanstar Dental Floss Pick Box Mint | 60s",
+          "sale_price": "₱77.50",
+          "sale_price_md": "**₱77.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱77.50",
+      "sale_price_md": "**₱77.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704506833778759",
+        "reference_id": "tpr_2052_06924494500119_77_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716150797"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5805,
+        "product_tag_ids": [
+          "1496184",
+          "22474153",
+          "22475760",
+          "22984611"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "feebe2d5676a19117ce2c3f9b9fdd4d6",
+        "similarity_priority": 5,
+        "name": "Cleanstar Dental Floss Pick Box Mint | 60s",
+        "sale_price": "₱77.50",
+        "sale_price_md": "**₱77.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 77.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱77.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06924494500119",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/cleanstar_dental_floss_pick_box_mint_60s/p/1564405684716150797"
+    },
+    {
+      "id": "1764405684714959868",
+      "store_id": "2052",
+      "like_code": "430860",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 4347,
+      "upc": "480650475100",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751006",
+      "reference_ids": [
+        "04806504751006"
+      ],
+      "name": "Cleans-Up Cellulose Sponge | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714959868/9e5d5afa155d691e9310d0dd8a9631b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504751006",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cleans_up_cellulose_sponge_2s/p/1764405684714959868"
+    }
+  ]
+}

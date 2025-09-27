@@ -1,0 +1,2172 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684713839249",
+      "store_id": "2052",
+      "like_code": "280991",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 999999,
+      "upc": "471193100732",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711931007322",
+      "reference_ids": [
+        "04711931007322"
+      ],
+      "name": "Royal Family Red Bean Mochi | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713839249/37b939e5ecd658ad07fdaee55afbb4a6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711931007322",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_family_red_bean_mochi_120g/p/1564405684713839249"
+    },
+    {
+      "id": "1564405684713839244",
+      "store_id": "2052",
+      "like_code": "280995",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 999999,
+      "upc": "471193100510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711931005106",
+      "reference_ids": [
+        "04711931005106"
+      ],
+      "name": "Royal Family Red Bean Mochi | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713839244/d71c06e54400757fbbc8570a580e1d85",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711931005106",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_family_red_bean_mochi_210g/p/1564405684713839244"
+    },
+    {
+      "id": "1564405684713839243",
+      "store_id": "2052",
+      "like_code": "280993",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 999999,
+      "upc": "471193100511",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711931005113",
+      "reference_ids": [
+        "04711931005113"
+      ],
+      "name": "Royal Family Sesame Mochi | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713839243/5b230aad83da64fde6ff7e9b1d28f2b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711931005113",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_family_sesame_mochi_210g/p/1564405684713839243"
+    },
+    {
+      "id": "1564405684713839248",
+      "store_id": "2052",
+      "like_code": "280998",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 999999,
+      "upc": "471193101096",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711931010964",
+      "reference_ids": [
+        "04711931010964"
+      ],
+      "name": "Royal Family Strawberry Mochi | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713839248/bbb3f98655eabc387ed01dfa51f71774",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711931010964",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_family_strawberry_mochi_180g/p/1564405684713839248"
+    },
+    {
+      "id": "1564405684713839250",
+      "store_id": "2052",
+      "like_code": "309262",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 999999,
+      "upc": "471193101157",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711931011572",
+      "reference_ids": [
+        "04711931011572"
+      ],
+      "name": "Royal Family Ube Mochi | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713839250/441844f9207bccc6da1dcc384e55515d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711931011572",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_family_ube_mochi_210g/p/1564405684713839250"
+    },
+    {
+      "id": "1564405684709440987",
+      "store_id": "2052",
+      "like_code": "314105",
+      "department_id": [
+        "1496159"
+      ],
+      "price": "₱132.00",
+      "unit_price": 132.0,
+      "popularity": 4124,
+      "upc": "480011009920",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110099200",
+      "reference_ids": [
+        "04800110099200"
+      ],
+      "name": "Royal Filipino Style Spaghetti Sauce | Party Pack (Buy 2 Save 60)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684709440987/19381f8fa02152c8370c8522fa70d69b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110099200",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/royal_filipino_style_spaghetti_sauce_party_pack_buy_2_save_60/p/1564405684709440987"
+    },
+    {
+      "id": "1564405684702537880",
+      "store_id": "2052",
+      "like_code": "199262",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱118.25",
+      "unit_price": 118.25,
+      "popularity": 5180,
+      "upc": "480011006906",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110069067",
+      "reference_ids": [
+        "04800110069067"
+      ],
+      "name": "Royal Linguine Noodles | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537880/56256077f158a8ede927d779e8126c68",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110069067",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_linguine_noodles_1kg/p/1564405684702537880"
+    },
+    {
+      "id": "1564405684702537874",
+      "store_id": "2052",
+      "like_code": "16663",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 6358,
+      "upc": "480011006891",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110068916",
+      "reference_ids": [
+        "04800110068916",
+        "04808680011202"
+      ],
+      "name": "Royal Macaroni Salad | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537874/db1d7c3f9fcef71291d75f742bef72fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110068916",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_macaroni_salad_1kg/p/1564405684702537874"
+    },
+    {
+      "id": "1764405684715701318",
+      "store_id": "2052",
+      "like_code": "456050",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 999999,
+      "upc": "480011009970",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110099705",
+      "reference_ids": [
+        "04800110099705"
+      ],
+      "name": "Royal Pasta 400g+carbonara Sauce 400g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04800110099705",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_pasta_400g_carbonara_sauce_400g/p/1764405684715701318"
+    },
+    {
+      "id": "1564405684702537882",
+      "store_id": "2052",
+      "like_code": "184374",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 972,
+      "upc": "480011006916",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110069166",
+      "reference_ids": [
+        "04800110069166"
+      ],
+      "name": "Royal Penne Rigate | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537882/960309d0cda3f1a82a4c6ed44ac230d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110069166",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_penne_rigate_500g/p/1564405684702537882"
+    },
+    {
+      "id": "1564405684702537875",
+      "store_id": "2052",
+      "like_code": "16658",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱66.00",
+      "unit_price": 66.0,
+      "popularity": 8223,
+      "upc": "480011006893",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110068930",
+      "reference_ids": [
+        "04800110068930",
+        "04808680011158"
+      ],
+      "name": "Royal Salad Macaroni | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537875/71d432562cd534a473c2353de4148e12",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110068930",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_salad_macaroni_400g/p/1564405684702537875"
+    },
+    {
+      "id": "1564405684714500145",
+      "store_id": "2052",
+      "like_code": "388667",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱95.00",
+      "unit_price": 95.0,
+      "popularity": 306,
+      "upc": "607212016544",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06072120165444",
+      "reference_ids": [
+        "06072120165444"
+      ],
+      "name": "Royal Smoke House Chicken Luncheon Meat | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714500145/051f3d440aad29ff9ed7b1dc68225b8d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06072120165444",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/royal_smoke_house_chicken_luncheon_meat_340g/p/1564405684714500145"
+    },
+    {
+      "id": "1764405684715388480",
+      "store_id": "2052",
+      "like_code": "448339",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱141.00",
+      "unit_price": 141.0,
+      "popularity": 7256,
+      "upc": "480198109659",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981096596",
+      "reference_ids": [
+        "04801981096596"
+      ],
+      "name": "Royal Soda 320ml 4s Promopack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715388480/637cd24f9ba43bfd180c8c768c036a8e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981096596",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_soda_320ml_4s_promopack/p/1764405684715388480"
+    },
+    {
+      "id": "1764405684715014314",
+      "store_id": "2052",
+      "like_code": "435378",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 6001,
+      "upc": "480198119684",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981196845",
+      "reference_ids": [
+        "04801981196845"
+      ],
+      "name": "Royal Soda Mini Cans | 180ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715014314/e411eea443528c834d0692c40e66764a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981196845",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/royal_soda_mini_cans_180ml_x_6s/p/1764405684715014314"
+    },
+    {
+      "id": "1564405684704729213",
+      "store_id": "2052",
+      "like_code": "310806",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 5143,
+      "upc": "480198111851",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981118519",
+      "reference_ids": [
+        "04801981118519",
+        "02000031080611"
+      ],
+      "name": "Royal Soda Mismo | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729213/bf6a38f407172ecffd0e2a510c6d6313",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981118519",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/royal_soda_mismo_250ml/p/1564405684704729213"
+    },
+    {
+      "id": "1564405684702537870",
+      "store_id": "2052",
+      "like_code": "16681",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 998,
+      "upc": "480011006888",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110068886",
+      "reference_ids": [
+        "04800110068886",
+        "04808680011653"
+      ],
+      "name": "Royal Spaghetti | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537870/4c0f9313e5883568669f1f63ddb29ded",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110068886",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_spaghetti_900g/p/1564405684702537870"
+    },
+    {
+      "id": "1564405684702537964",
+      "store_id": "2052",
+      "like_code": "269065",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱132.25",
+      "unit_price": 132.25,
+      "popularity": 1430,
+      "upc": "480011009871",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110098715",
+      "reference_ids": [
+        "04800110098715"
+      ],
+      "name": "Royal Spaghetti Cheesy Celebration | 700g + Cheesy Sauce | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537964/54461d16ac6364e3c758ac77d291fa2b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110098715",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/royal_spaghetti_cheesy_celebration_700g_cheesy_sauce_900g/p/1564405684702537964"
+    },
+    {
+      "id": "1564405684702537872",
+      "store_id": "2052",
+      "like_code": "16672",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱63.50",
+      "unit_price": 63.5,
+      "popularity": 1702,
+      "upc": "480011006889",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110068893",
+      "reference_ids": [
+        "04800110068893",
+        "04808680011608"
+      ],
+      "name": "Royal Spaghetti Noodles | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537872/9d6b25fe41c6c4bb58a1bc955d9128bc",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705607427537890",
+          "reference_id": "ad_2052_04800110068893_2_121_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702537872"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 851,
+          "product_tag_ids": [
+            "22356789",
+            "22459177",
+            "22475760",
+            "22634435",
+            "22690541",
+            "22919042",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2be718b7c888a671b7837479a42c8af5",
+          "similarity_priority": 6,
+          "name": "Royal Spaghetti Noodles | 400g",
+          "sale_price": "2 for ₱121.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱121.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱121.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱121.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705607427537890",
+        "reference_id": "ad_2052_04800110068893_2_121_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702537872"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 851,
+        "product_tag_ids": [
+          "22356789",
+          "22459177",
+          "22475760",
+          "22634435",
+          "22690541",
+          "22919042",
+          "23087576",
+          "23087588"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2be718b7c888a671b7837479a42c8af5",
+        "similarity_priority": 6,
+        "name": "Royal Spaghetti Noodles | 400g",
+        "sale_price": "2 for ₱121.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱121.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 60.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110068893",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_spaghetti_noodles_400g/p/1564405684702537872"
+    },
+    {
+      "id": "1564405684709248392",
+      "store_id": "2052",
+      "like_code": "288709",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱132.25",
+      "unit_price": 132.25,
+      "popularity": 9852,
+      "upc": "480011009902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110099026",
+      "reference_ids": [
+        "04800110099026"
+      ],
+      "name": "Royal Spaghetti Rich & Thick Pinoy Celebration | 700g + Pinoy Sauce | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684709248392/83c1bfaa9935427d80ad29621bd0ca7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110099026",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/royal_spaghetti_rich_thick_pinoy_celebration_700g_pinoy_sauce_900g/p/1564405684709248392"
+    },
+    {
+      "id": "1764405684715651162",
+      "store_id": "2052",
+      "like_code": "344522",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱134.00",
+      "unit_price": 134.0,
+      "popularity": 3935,
+      "upc": "480011009937",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110099378",
+      "reference_ids": [
+        "04800110099378"
+      ],
+      "name": "Royal Spaghetti Sauce 4cheese 900g 2s Party Pack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715651162/62d73fb9930a5da42e8fabe6c5789761",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110099378",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_spaghetti_sauce_4cheese_900g_2s_party_pack/p/1764405684715651162"
+    },
+    {
+      "id": "1564405684702537965",
+      "store_id": "2052",
+      "like_code": "243870",
+      "department_id": [
+        "22459177"
+      ],
+      "price": "₱132.00",
+      "unit_price": 132.0,
+      "popularity": 1397,
+      "upc": "480011009868",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110098685",
+      "reference_ids": [
+        "04800110098685"
+      ],
+      "name": "Royal Spaghetti Sweet Celebration | 700g + Sweet Style Sauce | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537965/f0d75ccea45f12b89186f3bdb8e9c9b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110098685",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/noodles/royal_spaghetti_sweet_celebration_700g_sweet_style_sauce_900g/p/1564405684702537965"
+    },
+    {
+      "id": "1564405684702537963",
+      "store_id": "2052",
+      "like_code": "250709",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱97.00",
+      "unit_price": 97.0,
+      "popularity": 6398,
+      "upc": "480011009862",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800110098623",
+      "reference_ids": [
+        "04800110098623"
+      ],
+      "name": "Royal Sweet Style Spaghetti Sauce | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537963/34c3057b52b1ed5ac7667a2c48998dc2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800110098623",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/royal_sweet_style_spaghetti_sauce_900g/p/1564405684702537963"
+    },
+    {
+      "id": "1564405684702543762",
+      "store_id": "2052",
+      "like_code": "60486",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 1197,
+      "upc": "480198111054",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981110544",
+      "reference_ids": [
+        "04801981110544"
+      ],
+      "name": "Royal Tru Grape | 320ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543762/d4a67e4456dd17181a4c1bdc3ed7280e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981110544",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/royal_tru_grape_320ml/p/1564405684702543762"
+    },
+    {
+      "id": "8195494",
+      "store_id": "2052",
+      "like_code": "4682",
+      "department_id": [
+        "21913086"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 12,
+      "upc": "480198111617",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981116171",
+      "reference_ids": [
+        "04801981116171"
+      ],
+      "name": "Royal Tru Orange | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195494/870f9def9256399cbb8b534815c93c87",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981116171",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/royal/royal_tru_orange_1_75_l/p/8195494"
+    },
+    {
+      "id": "1564405684702543766",
+      "store_id": "2052",
+      "like_code": "4693",
+      "department_id": [
+        "21913086"
+      ],
+      "price": "₱92.00",
+      "unit_price": 92.0,
+      "popularity": 3893,
+      "upc": "480198111212",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981112128",
+      "reference_ids": [
+        "04801981112128"
+      ],
+      "name": "Royal Tru Orange | 2L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543766/65d9fd2cd8033a6a5e083cc65dca24f5",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557638409697998",
+          "reference_id": "ad_2052_04801981112128_2_169_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702543766"
+          ],
+          "start_date": "2025-09-12T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 851,
+          "product_tag_ids": [
+            "213043",
+            "21913086",
+            "22356782",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b8c98440ea3958011c9d40dd051bc60c",
+          "similarity_priority": 6,
+          "name": "Royal Tru Orange | 2L",
+          "sale_price": "2 for ₱169.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱169.00 with purchase of 2** (09/12/25 - 09/30/25)",
+          "display_start_date": "2025-09-12",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-12",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱169.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱169.00 with purchase of 2** (09/12/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557638409697998",
+        "reference_id": "ad_2052_04801981112128_2_169_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702543766"
+        ],
+        "start_date": "2025-09-12T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 851,
+        "product_tag_ids": [
+          "213043",
+          "21913086",
+          "22356782",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b8c98440ea3958011c9d40dd051bc60c",
+        "similarity_priority": 6,
+        "name": "Royal Tru Orange | 2L",
+        "sale_price": "2 for ₱169.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱169.00 with purchase of 2** (09/12/25 - 09/30/25)",
+        "display_start_date": "2025-09-12",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 84.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981112128",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/royal/royal_tru_orange_2_l/p/1564405684702543766"
+    },
+    {
+      "id": "1564405684702543759",
+      "store_id": "2052",
+      "like_code": "4672",
+      "department_id": [
+        "21913086"
+      ],
+      "price": "₱36.50",
+      "unit_price": 36.5,
+      "popularity": 3744,
+      "upc": "480198111010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981110100",
+      "reference_ids": [
+        "04801981110100"
+      ],
+      "name": "Royal Tru Orange | 320ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702543759/8528debf10ed5440cc6c7b8c174a83ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981110100",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/royal/royal_tru_orange_320ml/p/1564405684702543759"
+    },
+    {
+      "id": "8195495",
+      "store_id": "2052",
+      "like_code": "81132",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱39.00",
+      "unit_price": 39.0,
+      "popularity": 5468,
+      "upc": "480198112010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981120109",
+      "reference_ids": [
+        "04801981120109"
+      ],
+      "name": "Royal Tru Orange | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195495/0b5a3db32265490197a84036610fb842",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981120109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/royal_tru_orange_500ml/p/8195495"
+    },
+    {
+      "id": "1764405684714925578",
+      "store_id": "2052",
+      "like_code": "427210",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱67.50",
+      "unit_price": 67.5,
+      "popularity": 1438,
+      "upc": "480198109643",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981096435",
+      "reference_ids": [
+        "04801981096435"
+      ],
+      "name": "Royal Tru-Orange Zero Sugar | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714925578/b149b5a26662d23a79737390a6e807ce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981096435",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/royal_tru_orange_zero_sugar_1_75_l/p/1764405684714925578"
+    },
+    {
+      "id": "1564405684715556677",
+      "store_id": "2052",
+      "like_code": "407638",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 19,
+      "upc": "480198109623",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981096237",
+      "reference_ids": [
+        "04801981096237"
+      ],
+      "name": "Royal Tru-Orange Zero Sugar | 320mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715556677/37bb4a6b7ffe30973f295080b2682562",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981096237",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/royal_tru_orange_zero_sugar_320m_l/p/1564405684715556677"
+    },
+    {
+      "id": "1764405684715385582",
+      "store_id": "2052",
+      "like_code": "448308",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 1865,
+      "upc": "480198109722",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981097227",
+      "reference_ids": [
+        "04801981097227"
+      ],
+      "name": "Royal Tru Strawberry Soda | 1.5L",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715385582/53661fe0c140189b422ca1563338419d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981097227",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_tru_strawberry_soda_1_5_l/p/1764405684715385582"
+    },
+    {
+      "id": "1764405684715385580",
+      "store_id": "2052",
+      "like_code": "448307",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 4517,
+      "upc": "480198109706",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981097067",
+      "reference_ids": [
+        "04801981097067"
+      ],
+      "name": "Royal Tru Strawberry Soda | 320ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715385580/88fcc65e99d71f654365a3ed60f264e4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981097067",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/royal_tru_strawberry_soda_320ml/p/1764405684715385580"
+    },
+    {
+      "id": "1564405684716242813",
+      "store_id": "2052",
+      "like_code": "419489",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱57.50",
+      "unit_price": 57.5,
+      "popularity": 8973,
+      "upc": "120010800309",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "01200108003098",
+      "reference_ids": [
+        "01200108003098"
+      ],
+      "name": "Ruffles Cheddar & Sour Cream | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716242813/7aba708960a9798374fa657de81bfedd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "01200108003098",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/ruffles_cheddar_sour_cream_50g/p/1564405684716242813"
+    },
+    {
+      "id": "8148010",
+      "store_id": "2052",
+      "like_code": "6949",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 5186,
+      "upc": "120010800000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "01200108000004",
+      "reference_ids": [
+        "01200108000004",
+        "00028400017053"
+      ],
+      "name": "Ruffles Cheddar & Sour Cream Potato Chips | 170g",
+      "size": "6.5 oz",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "8148010/66a219b73fa249267cc77a8c368f376a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "01200108000004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/ruffles_cheddar_sour_cream_potato_chips_170g/p/8148010"
+    },
+    {
+      "id": "1564405684712978042",
+      "store_id": "2052",
+      "like_code": "367081",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 4679,
+      "upc": "120010800002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "01200108000028",
+      "reference_ids": [
+        "01200108000028"
+      ],
+      "name": "Ruffles Original Potato Chips | 170g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712978042/57bf7fcdebde5d623ce4b86d691a8635",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "01200108000028",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/ruffles_original_potato_chips_170g/p/1564405684712978042"
+    },
+    {
+      "id": "1564405684713085662",
+      "store_id": "2052",
+      "like_code": "368025",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 6686,
+      "upc": "120010800066",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "01200108000660",
+      "reference_ids": [
+        "01200108000660"
+      ],
+      "name": "Ruffles Sour Cream & Onion Potato Chips | 170g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713085662/8ef3a080225975d11064699f902ef138",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "01200108000660",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/ruffles_sour_cream_onion_potato_chips_170g/p/1564405684713085662"
+    },
+    {
+      "id": "1564405684712853983",
+      "store_id": "2052",
+      "like_code": "364288",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,999.00",
+      "unit_price": 2999.0,
+      "popularity": 999999,
+      "upc": "200003642880",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000036428807",
+      "reference_ids": [
+        "02000036428807"
+      ],
+      "name": "RURAL KING Canopy Tent Blue | 3X3m",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712853983/ef96224957e775544fa8959043a9a2f2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000036428807",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/rural_king_canopy_tent_blue_3_x3m/p/1564405684712853983"
+    },
+    {
+      "id": "1564405684712853984",
+      "store_id": "2052",
+      "like_code": "364289",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱2,999.00",
+      "unit_price": 2999.0,
+      "popularity": 999999,
+      "upc": "200003642890",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000036428906",
+      "reference_ids": [
+        "02000036428906"
+      ],
+      "name": "RURAL KING Canopy Tent White | 3X3m",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712853984/766b603c3a0f1ba810a460120eebecf6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000036428906",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/rural_king_canopy_tent_white_3_x3m/p/1564405684712853984"
+    },
+    {
+      "id": "1564405684702535258",
+      "store_id": "2052",
+      "like_code": "123646",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱925.00",
+      "unit_price": 925.0,
+      "popularity": 999999,
+      "upc": "460340000004",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04603400000043",
+      "reference_ids": [
+        "04603400000043",
+        "04603400000685"
+      ],
+      "name": "Russian Standard Spirit Vodka Original | 70cl",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535258/581bc52ead651b190118bd6f12860f32",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04603400000043",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/russian_standard_spirit_vodka_original_70cl/p/1564405684702535258"
+    },
+    {
+      "id": "1564405684702546977",
+      "store_id": "2052",
+      "like_code": "195092",
+      "department_id": [
+        "1501973"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "480650520446",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806505204464",
+      "reference_ids": [
+        "04806505204464"
+      ],
+      "name": "Rustic Square Pot & Saucer | 11\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546977/d2ad9a2f831e4bc1d7b042e43352995e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806505204464",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/gardening/rustic_square_pot_saucer_11/p/1564405684702546977"
+    },
+    {
+      "id": "1564405684702546980",
+      "store_id": "2052",
+      "like_code": "195094",
+      "department_id": [
+        "1501973"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 999999,
+      "upc": "480650520448",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806505204488",
+      "reference_ids": [
+        "04806505204488"
+      ],
+      "name": "Rustic Square Pot & Saucer | 7\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546980/63c12b227b579661da6292b8367f92ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806505204488",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/gardening/rustic_square_pot_saucer_7/p/1564405684702546980"
+    },
+    {
+      "id": "1564405684702546979",
+      "store_id": "2052",
+      "like_code": "195093",
+      "department_id": [
+        "1501973"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 999999,
+      "upc": "480650520447",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806505204471",
+      "reference_ids": [
+        "04806505204471"
+      ],
+      "name": "Rustic Square Pot & Saucer | 9\"",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546979/5ef166668cefc57c3a5b242db4330661",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806505204471",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/gardening/rustic_square_pot_saucer_9/p/1564405684702546979"
+    },
+    {
+      "id": "1564405684702505809",
+      "store_id": "2052",
+      "like_code": "99644",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 3035,
+      "upc": "200000996444",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000009964448",
+      "reference_ids": [
+        "02000009964448",
+        "01111324800401"
+      ],
+      "name": "Ryan Rey Household Cleaning Accessories 3500 | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702505809/9e482c5adce08846e85b4879d908b55f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000009964448",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ryan_rey_household_cleaning_accessories_3500_1s/p/1564405684702505809"
+    },
+    {
+      "id": "1564405684702505812",
+      "store_id": "2052",
+      "like_code": "99655",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱39.50",
+      "unit_price": 39.5,
+      "popularity": 3036,
+      "upc": "200000996554",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000009965544",
+      "reference_ids": [
+        "02000009965544",
+        "01111324800449"
+      ],
+      "name": "Ryan Rey Household Cleaning Accessories 3950 | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702505812/5a823f12e2d88a578a34ac56fd7c49fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000009965544",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ryan_rey_household_cleaning_accessories_3950_1s/p/1564405684702505812"
+    },
+    {
+      "id": "1564405684702505814",
+      "store_id": "2052",
+      "like_code": "99656",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱42.50",
+      "unit_price": 42.5,
+      "popularity": 3044,
+      "upc": "200000996564",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000009965643",
+      "reference_ids": [
+        "02000009965643",
+        "01111324800456"
+      ],
+      "name": "Ryan Rey Household Cleaning Accessories 4250 | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702505814/0d51a79f793837413947239c9889941f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000009965643",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ryan_rey_household_cleaning_accessories_4250_1s/p/1564405684702505814"
+    },
+    {
+      "id": "1564405684711678370",
+      "store_id": "2052",
+      "like_code": "320503",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱957.00",
+      "unit_price": 957.0,
+      "popularity": 999999,
+      "upc": "761303684662",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07613036846622",
+      "reference_ids": [
+        "07613036846622"
+      ],
+      "name": "S-26 Gold Lactose Free Infant Formula Vanilla | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711678370/aba8ef4d61ff862239b6d01de74da10a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07613036846622",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/s_26_gold_lactose_free_infant_formula_vanilla_400g/p/1564405684711678370"
+    },
+    {
+      "id": "1564405684702538843",
+      "store_id": "2052",
+      "like_code": "210848",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱3,173.00",
+      "unit_price": 3173.0,
+      "popularity": 9401,
+      "upc": "480015313866",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153138669",
+      "reference_ids": [
+        "04800153138669"
+      ],
+      "name": "S-26 Gold Milk (0-6 months) | 1.8kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538843/5c2a7151ab081808b1b40a19e39d40b7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153138669",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/s_26_gold_milk_0_6_months_1_8kg/p/1564405684702538843"
+    },
+    {
+      "id": "1564405684712978790",
+      "store_id": "2052",
+      "like_code": "367101",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱3,930.00",
+      "unit_price": 3930.0,
+      "popularity": 9672,
+      "upc": "480015315160",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153151606",
+      "reference_ids": [
+        "04800153151606"
+      ],
+      "name": "S-26 Gold Milk (0-6 months) | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712978790/785841f4666fc56df4aac93325a13c28",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153151606",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/s_26_gold_milk_0_6_months_2_4kg/p/1564405684712978790"
+    },
+    {
+      "id": "1564405684702538847",
+      "store_id": "2052",
+      "like_code": "246640",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱830.00",
+      "unit_price": 830.0,
+      "popularity": 9160,
+      "upc": "480015313873",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153138737",
+      "reference_ids": [
+        "04800153138737"
+      ],
+      "name": "S-26 Gold Milk (0-6 months) | 400g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538847/7a482df971758c738f48f32c994466d5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153138737",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/s_26_gold_milk_0_6_months_400g/p/1564405684702538847"
+    }
+  ]
+}

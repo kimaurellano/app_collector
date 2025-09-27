@@ -1,0 +1,2302 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "8166124",
+      "store_id": "2052",
+      "like_code": "2578",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "2 for ₱89.00",
+      "unit_price": 44.5,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848510008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100081",
+      "reference_ids": [
+        "00748485100081"
+      ],
+      "name": "Century Tuna Flakes in Oil | 180g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 3",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "8166124/06d0ccc4e4e6730bf74327fa46f4a3d5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100081",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_flakes_in_oil_180g/p/8166124"
+    },
+    {
+      "id": "1764405684715180548",
+      "store_id": "2052",
+      "like_code": "440952",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱184.00",
+      "unit_price": 184.0,
+      "popularity": 994,
+      "upc": "480002291031",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022910310",
+      "reference_ids": [
+        "04800022910310"
+      ],
+      "name": "Century Tuna Flakes in Oil | 180g x 4s (Free PSJ Photocard)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715180548/dc804054a180ac9c054189d95a9701aa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022910310",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_flakes_in_oil_180g_x_4s_free_psj_photocard/p/1764405684715180548"
+    },
+    {
+      "id": "1564405684702504403",
+      "store_id": "2052",
+      "like_code": "2668",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱102.50",
+      "unit_price": 102.5,
+      "popularity": 228,
+      "upc": "74848510031",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100319",
+      "reference_ids": [
+        "00748485100319"
+      ],
+      "name": "Century Tuna Flakes in Oil | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504403/d21db2ce308eca0f54acd7ed53e1baaf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100319",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_flakes_in_oil_420g/p/1564405684702504403"
+    },
+    {
+      "id": "1564405684702504418",
+      "store_id": "2052",
+      "like_code": "125913",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱27.50",
+      "unit_price": 27.5,
+      "popularity": 66,
+      "upc": "74848510224",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102245",
+      "reference_ids": [
+        "00748485102245"
+      ],
+      "name": "Century Tuna Flakes in Oil | 95g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504418/a4bccbf72a41a31a2571d1215ea1dd4a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102245",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_flakes_in_oil_95g/p/1564405684702504418"
+    },
+    {
+      "id": "1564405684715574201",
+      "store_id": "2052",
+      "like_code": "407834",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 999999,
+      "upc": "480002291015",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022910150",
+      "reference_ids": [
+        "04800022910150"
+      ],
+      "name": "Century Tuna Flakes in Oil (Buy 6 Save ₱6) | 95g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715574201/77b8e92e4b774f5e7328661f339b4ff8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800022910150",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_flakes_in_oil_buy_6_save_6_95g_x_6s/p/1564405684715574201"
+    },
+    {
+      "id": "1564405684702504413",
+      "store_id": "2052",
+      "like_code": "79054",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱61.00",
+      "unit_price": 61.0,
+      "popularity": 1109,
+      "upc": "74848510190",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485101903",
+      "reference_ids": [
+        "00748485101903"
+      ],
+      "name": "Century Tuna Flakes in Oil Lite | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504413/c0ef365335064248501b8babe24b8ac2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485101903",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_flakes_in_oil_lite_180g/p/1564405684702504413"
+    },
+    {
+      "id": "1564405684702504406",
+      "store_id": "2052",
+      "like_code": "3719",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "3 for ₱104.00",
+      "unit_price": 34.67,
+      "popularity": 15,
+      "quantity_step": 3.0,
+      "upc": "74848510041",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100418",
+      "reference_ids": [
+        "00748485100418"
+      ],
+      "name": "Century Tuna Hot & Spicy | 155g",
+      "size": "pc",
+      "price_disclaimer": "BUY 3 SAVE 7",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504406/e317bfb49f2daaeafc7ad25e8017571a",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3248460337648763863",
+          "reference_id": "ad_2052_00748485100418_3_104_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 3",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3459784026473118185",
+            "3501501461454404073",
+            "3511098500722997507",
+            "3615343945451584089",
+            "3722685768636840870"
+          ],
+          "product_ids": [
+            "1564405684702504406"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8,
+          "product_tag_ids": [
+            "22072785",
+            "22356791",
+            "22459134",
+            "22475760",
+            "22547975",
+            "22634300",
+            "22690541",
+            "22775806",
+            "22883851",
+            "22919042",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4eb88d00cdcc2e1255a63ad28473a76d",
+          "similarity_priority": 6,
+          "name": "Century Tuna Hot & Spicy | 155g",
+          "sale_price": "3 for ₱104.00 with purchase of 3",
+          "sale_price_md": "**3 for ₱104.00 with purchase of 3** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "3 for ₱104.00 with purchase of 3",
+      "sale_price_md": "**3 for ₱104.00 with purchase of 3** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3248460337648763863",
+        "reference_id": "ad_2052_00748485100418_3_104_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 3",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183112460587"
+        ],
+        "circular_page_ids": [
+          "3719247209875651551"
+        ],
+        "circular_spot_ids": [
+          "3459784026473118185",
+          "3501501461454404073",
+          "3511098500722997507",
+          "3615343945451584089",
+          "3722685768636840870"
+        ],
+        "product_ids": [
+          "1564405684702504406"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8,
+        "product_tag_ids": [
+          "22072785",
+          "22356791",
+          "22459134",
+          "22475760",
+          "22547975",
+          "22634300",
+          "22690541",
+          "22775806",
+          "22883851",
+          "22919042",
+          "23087576",
+          "23087588"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4eb88d00cdcc2e1255a63ad28473a76d",
+        "similarity_priority": 6,
+        "name": "Century Tuna Hot & Spicy | 155g",
+        "sale_price": "3 for ₱104.00 with purchase of 3",
+        "sale_price_md": "**3 for ₱104.00 with purchase of 3** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 3",
+      "offer_sale_price": 34.666666666666664,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100418",
+      "quantity_initial": 3.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_hot_spicy_155g/p/1564405684702504406"
+    },
+    {
+      "id": "8150618",
+      "store_id": "2052",
+      "like_code": "2581",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "2 for ₱88.00",
+      "unit_price": 44.0,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848510009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100098",
+      "reference_ids": [
+        "00748485100098"
+      ],
+      "name": "Century Tuna Hot & Spicy | 180g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 5",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8150618/3ce4c590d53e3ea81a162b5e73617cba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100098",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_hot_spicy_180g/p/8150618"
+    },
+    {
+      "id": "1564405684706792222",
+      "store_id": "2052",
+      "like_code": "2675",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 5091,
+      "upc": "74848510032",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100326",
+      "reference_ids": [
+        "00748485100326"
+      ],
+      "name": "Century Tuna Hot & Spicy | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706792222/03afb6f9c537d0b2b213ff61e6ae73f6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100326",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_hot_spicy_420g/p/1564405684706792222"
+    },
+    {
+      "id": "1564405684711221250",
+      "store_id": "2052",
+      "like_code": "347847",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 1789,
+      "upc": "74848510370",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485103709",
+      "reference_ids": [
+        "00748485103709"
+      ],
+      "name": "Century Tuna in Sunflower Oil | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711221250/03f5ffc2d9e1cee69cf48eddaf47c542",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485103709",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_in_sunflower_oil_180g/p/1564405684711221250"
+    },
+    {
+      "id": "1764405684714934550",
+      "store_id": "2052",
+      "like_code": "425938",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "480002283004",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022830045",
+      "reference_ids": [
+        "04800022830045"
+      ],
+      "name": "Century Tuna Nuggets (Buy 1 Take 1) | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714934550/9a5e15ac2c3c8a4460b366187bcd41d0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800022830045",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/century_tuna_nuggets_buy_1_take_1_220g/p/1764405684714934550"
+    },
+    {
+      "id": "1564405684702504397",
+      "store_id": "2052",
+      "like_code": "2573",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "2 for ₱135.50",
+      "unit_price": 67.75,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848510004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100043",
+      "reference_ids": [
+        "00748485100043"
+      ],
+      "name": "Century Tuna Premium Red Chunks in Vegetable Oil | 184g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 12",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504397/b978ddbab4aa03124eab5f9819ab07a0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100043",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_premium_red_chunks_in_vegetable_oil_184g/p/1564405684702504397"
+    },
+    {
+      "id": "1564405684714650202",
+      "store_id": "2052",
+      "like_code": "395227",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱211.25",
+      "unit_price": 211.25,
+      "popularity": 999999,
+      "upc": "74848510425",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485104256",
+      "reference_ids": [
+        "00748485104256"
+      ],
+      "name": "Century Tuna Premium Red Chunks in Vegetable Oil (Save ₱10) | 184g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650202/1830f60e8b932c20f6a396098a92a0d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00748485104256",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_premium_red_chunks_in_vegetable_oil_save_10_184g_x_3s/p/1564405684714650202"
+    },
+    {
+      "id": "1564405684702504396",
+      "store_id": "2052",
+      "like_code": "2571",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "2 for ₱135.50",
+      "unit_price": 67.75,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848510003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100036",
+      "reference_ids": [
+        "00748485100036"
+      ],
+      "name": "Century Tuna Premium Red Chunks in Water | 184g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 12",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504396/cd7eedc3a64e846172da2ac120efa0f9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100036",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_premium_red_chunks_in_water_184g/p/1564405684702504396"
+    },
+    {
+      "id": "1564405684714650203",
+      "store_id": "2052",
+      "like_code": "395226",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱211.25",
+      "unit_price": 211.25,
+      "popularity": 999999,
+      "upc": "74848510424",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485104249",
+      "reference_ids": [
+        "00748485104249"
+      ],
+      "name": "Century Tuna Premium Red Chunks in Water (Save ₱10) | 184g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650203/45594ecc83b666264dd40de9ce9964df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00748485104249",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_premium_red_chunks_in_water_save_10_184g_x_3s/p/1564405684714650203"
+    },
+    {
+      "id": "1564405684702504398",
+      "store_id": "2052",
+      "like_code": "2575",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "2 for ₱135.50",
+      "unit_price": 67.75,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848510005",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100050",
+      "reference_ids": [
+        "00748485100050"
+      ],
+      "name": "Century Tuna Premium Red Chunks Spanish Style | 184g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 12",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504398/5c3456957657e14936c2de608ca8cfd4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100050",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_premium_red_chunks_spanish_style_184g/p/1564405684702504398"
+    },
+    {
+      "id": "1564405684702504399",
+      "store_id": "2052",
+      "like_code": "124555",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱92.75",
+      "unit_price": 92.75,
+      "popularity": 875,
+      "upc": "74848510007",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100074",
+      "reference_ids": [
+        "00748485100074"
+      ],
+      "name": "Century Tuna Premium Red Solid in Vegetable Oil | 184g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504399/b5d3f97505c1af19a5f4148c95b9ce67",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100074",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_premium_red_solid_in_vegetable_oil_184g/p/1564405684702504399"
+    },
+    {
+      "id": "1764405684715349458",
+      "store_id": "2052",
+      "like_code": "446370",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱38.00",
+      "unit_price": 38.0,
+      "popularity": 552,
+      "upc": "480002220025",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022200251",
+      "reference_ids": [
+        "04800022200251"
+      ],
+      "name": "Century Tuna Superbowl Afritada Rice | 180g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715349458/b048d322fce44aacf85fe3b04482b4d8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022200251",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/century_tuna_superbowl_afritada_rice_180g/p/1764405684715349458"
+    },
+    {
+      "id": "1764405684715349460",
+      "store_id": "2052",
+      "like_code": "446371",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱38.00",
+      "unit_price": 38.0,
+      "popularity": 1197,
+      "upc": "480002220026",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022200268",
+      "reference_ids": [
+        "04800022200268"
+      ],
+      "name": "Century Tuna Superbowl Sisig Rice | 180g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715349460/f48e9ed65d7b9203593b05bfc6161d82",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022200268",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/century_tuna_superbowl_sisig_rice_180g/p/1764405684715349460"
+    },
+    {
+      "id": "8193458",
+      "store_id": "2052",
+      "like_code": "52263",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "2 for ₱90.50",
+      "unit_price": 45.25,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848510146",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485101460",
+      "reference_ids": [
+        "00748485101460"
+      ],
+      "name": "Century Tuna with Calamansi | 180g",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 7",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8193458/8abcda90f275f8b8e98ec6911dced305",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3453623920916183970",
+          "reference_id": "ad_2052_00748485101460_2_90_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "8193458"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8,
+          "product_tag_ids": [
+            "22072785",
+            "22072786",
+            "22356791",
+            "22459134",
+            "22475760",
+            "22547975",
+            "22634300",
+            "22690541",
+            "22775806",
+            "22919042",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "37661c235cbbedaaa07aa767112fb31e",
+          "similarity_priority": 6,
+          "name": "Century Tuna with Calamansi | 180g",
+          "sale_price": "2 for ₱90.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱90.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱90.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱90.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3453623920916183970",
+        "reference_id": "ad_2052_00748485101460_2_90_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "8193458"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8,
+        "product_tag_ids": [
+          "22072785",
+          "22072786",
+          "22356791",
+          "22459134",
+          "22475760",
+          "22547975",
+          "22634300",
+          "22690541",
+          "22775806",
+          "22919042",
+          "23098158"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "37661c235cbbedaaa07aa767112fb31e",
+        "similarity_priority": 6,
+        "name": "Century Tuna with Calamansi | 180g",
+        "sale_price": "2 for ₱90.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱90.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 45.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485101460",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_with_calamansi_180g/p/8193458"
+    },
+    {
+      "id": "1564405684710735476",
+      "store_id": "2052",
+      "like_code": "344175",
+      "department_id": [
+        "22575948"
+      ],
+      "price": "₱699.00",
+      "unit_price": 699.0,
+      "popularity": 999999,
+      "upc": "200003441750",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034417506",
+      "reference_ids": [
+        "02000034417506"
+      ],
+      "name": "Ceramic Marble Coating Frying Pan Set | 3pcs",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710735476/83a38a61c239418a8687fc67c7deb4db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034417506",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/ceramic_marble_coating_frying_pan_set_3pcs/p/1564405684710735476"
+    },
+    {
+      "id": "1564405684702559764",
+      "store_id": "2052",
+      "like_code": "100964",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱74.50",
+      "unit_price": 74.5,
+      "popularity": 999999,
+      "upc": "955600113215",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132154",
+      "reference_ids": [
+        "09556001132154",
+        "09556001072535"
+      ],
+      "name": "Cerelac Mixed Fruits & Soya | 120g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559764/b57803477dcadc540a4a74dc5c4d6111",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09556001132154",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_mixed_fruits_soya_120g/p/1564405684702559764"
+    },
+    {
+      "id": "1564405684702559768",
+      "store_id": "2052",
+      "like_code": "100966",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱74.50",
+      "unit_price": 74.5,
+      "popularity": 5969,
+      "upc": "955600113222",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132222",
+      "reference_ids": [
+        "09556001132222",
+        "09556001072870"
+      ],
+      "name": "Cerelac Mixed Vegetables & Soya | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559768/ccb82ff82ca284184a1b78d0a217bd2e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001132222",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_mixed_vegetables_soya_120g/p/1564405684702559768"
+    },
+    {
+      "id": "1564405684702559766",
+      "store_id": "2052",
+      "like_code": "100965",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱74.50",
+      "unit_price": 74.5,
+      "popularity": 3960,
+      "upc": "955600113249",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132499",
+      "reference_ids": [
+        "09556001132499",
+        "09556001072740"
+      ],
+      "name": "Cerelac Mixed Wheat Banana | 120g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559766/db1091dc19f7c147641af0dbe263be8b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001132499",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_mixed_wheat_banana_120g/p/1564405684702559766"
+    },
+    {
+      "id": "1564405684702559772",
+      "store_id": "2052",
+      "like_code": "101284",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 5582,
+      "upc": "955600113246",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132468",
+      "reference_ids": [
+        "09556001132468",
+        "09556001073839"
+      ],
+      "name": "Cerelac Mixed Wheat Banana | 250g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559772/67a6c7d5ca07c24117631975f7fe01db",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001132468",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_mixed_wheat_banana_250g/p/1564405684702559772"
+    },
+    {
+      "id": "1764405684715486944",
+      "store_id": "2052",
+      "like_code": "452108",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱75.00",
+      "unit_price": 75.0,
+      "popularity": 2,
+      "upc": "955600132216",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556001322166",
+      "reference_ids": [
+        "09556001322166"
+      ],
+      "name": "Cerelac Mixed Wheat Banana & Milk No Added Table Sugar | 120g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486944/3fcc510cde59f304a5c2cda19f44b1ca",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001322166",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cerelac_mixed_wheat_banana_milk_no_added_table_sugar_120g/p/1764405684715486944"
+    },
+    {
+      "id": "1564405684702559780",
+      "store_id": "2052",
+      "like_code": "258808",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 1725,
+      "upc": "955600123394",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001233943",
+      "reference_ids": [
+        "09556001233943"
+      ],
+      "name": "Cerelac Nutripuffs Banana & Orange | 50g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559780/ef388b16fd0bac093fd863fa019a0c27",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001233943",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_nutripuffs_banana_orange_50g/p/1564405684702559780"
+    },
+    {
+      "id": "1564405684702559781",
+      "store_id": "2052",
+      "like_code": "258807",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 4190,
+      "upc": "955600123396",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001233967",
+      "reference_ids": [
+        "09556001233967"
+      ],
+      "name": "Cerelac Nutripuffs Banana & Strawberry | 50g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559781/4d36519d4560d2034ef0b755f74da3de",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001233967",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_nutripuffs_banana_strawberry_50g/p/1564405684702559781"
+    },
+    {
+      "id": "1564405684711929574",
+      "store_id": "2052",
+      "like_code": "352609",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 6962,
+      "upc": "955600128567",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556001285676",
+      "reference_ids": [
+        "09556001285676"
+      ],
+      "name": "Cerelac Porridge Savory Chicken | 200g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711929574/b5f1ec44dce3fb30b2bf194d2c3b84a1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001285676",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_porridge_savory_chicken_200g/p/1564405684711929574"
+    },
+    {
+      "id": "1564405684711929575",
+      "store_id": "2052",
+      "like_code": "352610",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 6718,
+      "upc": "955600128572",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556001285720",
+      "reference_ids": [
+        "09556001285720"
+      ],
+      "name": "Cerelac Porridge Savory Vegetables | 200g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711929575/ec07c369c4f7dcb910ae234cdce60c6b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001285720",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_porridge_savory_vegetables_200g/p/1564405684711929575"
+    },
+    {
+      "id": "1564405684702559769",
+      "store_id": "2052",
+      "like_code": "100962",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱74.50",
+      "unit_price": 74.5,
+      "popularity": 9148,
+      "upc": "955600113233",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132338",
+      "reference_ids": [
+        "09556001132338",
+        "09556001072924"
+      ],
+      "name": "Cerelac Rice & Soya | 120g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559769/ae902ef54c0a924e80195b9958bf8a0c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001132338",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_rice_soya_120g/p/1564405684702559769"
+    },
+    {
+      "id": "1564405684702559770",
+      "store_id": "2052",
+      "like_code": "101287",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 7183,
+      "upc": "955600113229",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132291",
+      "reference_ids": [
+        "09556001132291",
+        "09556001073792"
+      ],
+      "name": "Cerelac Rice & Soya | 250g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559770/c6e0aeb841daaac6a61ada13d0a5ce14",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001132291",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_rice_soya_250g/p/1564405684702559770"
+    },
+    {
+      "id": "1564405684702559773",
+      "store_id": "2052",
+      "like_code": "122607",
+      "department_id": [
+        "22459314"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 4518,
+      "upc": "955600113204",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09556001132048",
+      "reference_ids": [
+        "09556001132048",
+        "09556001121424"
+      ],
+      "name": "Cerelac Soya Mixed Fruits | 250g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559773/75a25924aae35eebae18e682c44c1eaf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556001132048",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cerelac_soya_mixed_fruits_250g/p/1564405684702559773"
+    },
+    {
+      "id": "7717296",
+      "store_id": "2052",
+      "like_code": "69526",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱167.00",
+      "unit_price": 167.0,
+      "popularity": 12,
+      "upc": "600124010001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06001240100011",
+      "reference_ids": [
+        "06001240100011"
+      ],
+      "name": "Ceres 100% Apple Juice |  1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "7717296/e1c820af2987942dcc8cfb66f8eb736a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06001240100011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/ceres_100_apple_juice_1_l/p/7717296"
+    },
+    {
+      "id": "7717298",
+      "store_id": "2052",
+      "like_code": "69529",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱167.00",
+      "unit_price": 167.0,
+      "popularity": 999999,
+      "upc": "600124010028",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06001240100288",
+      "reference_ids": [
+        "06001240100288"
+      ],
+      "name": "Ceres 100% Cranberry & Kiwi Juice | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "7717298/2fdeee3c41156470516aeb5481cf5999",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06001240100288",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/ceres_100_cranberry_kiwi_juice_1_l/p/7717298"
+    },
+    {
+      "id": "1564405684702555102",
+      "store_id": "2052",
+      "like_code": "117155",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱167.00",
+      "unit_price": 167.0,
+      "popularity": 9658,
+      "upc": "607212015786",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06072120157869",
+      "reference_ids": [
+        "06072120157869",
+        "06001240100059"
+      ],
+      "name": "Ceres 100% Juice Orange | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 3,
+      "cover_image": "1564405684702555102/cb0bacc39a86eec19b79ce3b7ba1feb2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06072120157869",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/ceres_100_juice_orange_1_l/p/1564405684702555102"
+    },
+    {
+      "id": "1564405684702555107",
+      "store_id": "2052",
+      "like_code": "69530",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱167.00",
+      "unit_price": 167.0,
+      "popularity": 8971,
+      "upc": "600124010041",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06001240100417",
+      "reference_ids": [
+        "06001240100417"
+      ],
+      "name": "Ceres 100% Ruby Grapefruit Juice | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555107/498c09a3b61e28175f01484ce3708e30",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06001240100417",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/ceres_100_ruby_grapefruit_juice_1_l/p/1564405684702555107"
+    },
+    {
+      "id": "1564405684707214295",
+      "store_id": "2052",
+      "like_code": "337744",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱78.50",
+      "unit_price": 78.5,
+      "popularity": 7516,
+      "upc": "480103212104",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801032121048",
+      "reference_ids": [
+        "04801032121048"
+      ],
+      "name": "Cerveza Negra Beer Bottle | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707214295/d65a286cb53923b407a9d2b96c934814",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801032121048",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/cerveza_negra_beer_bottle_330ml/p/1564405684707214295"
+    },
+    {
+      "id": "1564405684709365557",
+      "store_id": "2052",
+      "like_code": "101515",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 7407,
+      "upc": "9343263",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093432634",
+      "reference_ids": [
+        "00000093432634"
+      ],
+      "name": "Cesar Beef | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709365557/5c93c8e2913092d318fb31b789635f43",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093432634",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 41",
+        "sequence": 41,
+        "identifier": "0ca6910f-67ac-4bd3-a9df-3185ffbca56f",
+        "id": "22356804"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_beef_100g/p/1564405684709365557"
+    },
+    {
+      "id": "1564405684714353952",
+      "store_id": "2052",
+      "like_code": "387737",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 999999,
+      "upc": "490239783921",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902397839217",
+      "reference_ids": [
+        "04902397839217"
+      ],
+      "name": "Cesar Beef Flavour with Vegetables in Gravy Pouch | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714353952/683a42a9246b4ded953233245500e30b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04902397839217",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_beef_flavour_with_vegetables_in_gravy_pouch_70g/p/1564405684714353952"
+    },
+    {
+      "id": "1564405684704765332",
+      "store_id": "2052",
+      "like_code": "101516",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 6981,
+      "upc": "9336298",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093362986",
+      "reference_ids": [
+        "00000093362986"
+      ],
+      "name": "Cesar Beef & Liver | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704765332/0e848042e351697d7a178841080783d8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093362986",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 41",
+        "sequence": 41,
+        "identifier": "0ca6910f-67ac-4bd3-a9df-3185ffbca56f",
+        "id": "22356804"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_beef_liver_100g/p/1564405684704765332"
+    },
+    {
+      "id": "1564405684709365556",
+      "store_id": "2052",
+      "like_code": "101518",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 8082,
+      "upc": "9336299",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093362993",
+      "reference_ids": [
+        "00000093362993"
+      ],
+      "name": "Cesar Chicken | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709365556/f5c82d8eca030fa76e25626c8eb1eca6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093362993",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_chicken_100g/p/1564405684709365556"
+    },
+    {
+      "id": "1564405684709365555",
+      "store_id": "2052",
+      "like_code": "101519",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 999999,
+      "upc": "9346801",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093468015",
+      "reference_ids": [
+        "00000093468015"
+      ],
+      "name": "Cesar Chicken & Cheese | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709365555/ba65ccaf8c46f61f5c1f7e4db16378f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000093468015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_chicken_cheese_100g/p/1564405684709365555"
+    },
+    {
+      "id": "1564405684714353954",
+      "store_id": "2052",
+      "like_code": "387738",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 6970,
+      "upc": "490239781258",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902397812586",
+      "reference_ids": [
+        "04902397812586"
+      ],
+      "name": "Cesar Chicken Meat, Carrot and Pumpkin Flavour in Jelly Pouch | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714353954/9ca45b35048f83347c2b3bb19d7d1cf4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902397812586",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_chicken_meat_carrot_and_pumpkin_flavour_in_jelly_pouch_70g/p/1564405684714353954"
+    },
+    {
+      "id": "1564405684704765333",
+      "store_id": "2052",
+      "like_code": "101517",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 7350,
+      "upc": "9337086",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000093370868",
+      "reference_ids": [
+        "00000093370868"
+      ],
+      "name": "Cesar Lamb | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704765333/c1ae599f82cb333c604d530408175828",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000093370868",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 41",
+        "sequence": 41,
+        "identifier": "0ca6910f-67ac-4bd3-a9df-3185ffbca56f",
+        "id": "22356804"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_lamb_100g/p/1564405684704765333"
+    },
+    {
+      "id": "1564405684711960564",
+      "store_id": "2052",
+      "like_code": "354131",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 7160,
+      "upc": "490239785852",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902397858522",
+      "reference_ids": [
+        "04902397858522"
+      ],
+      "name": "Cesar Naturally Crafted Australian Beef | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960564/c857e7733abacab17bcb591249f52144",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902397858522",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 41",
+        "sequence": 41,
+        "identifier": "0ca6910f-67ac-4bd3-a9df-3185ffbca56f",
+        "id": "22356804"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_naturally_crafted_australian_beef_85g/p/1564405684711960564"
+    },
+    {
+      "id": "1564405684711960565",
+      "store_id": "2052",
+      "like_code": "354130",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 999999,
+      "upc": "490239785843",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902397858430",
+      "reference_ids": [
+        "04902397858430"
+      ],
+      "name": "Cesar Naturally Crafted Free Range Chicken | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960565/d655671c16365895233e7c59b7e67944",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04902397858430",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 41",
+        "sequence": 41,
+        "identifier": "0ca6910f-67ac-4bd3-a9df-3185ffbca56f",
+        "id": "22356804"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_naturally_crafted_free_range_chicken_85g/p/1564405684711960565"
+    },
+    {
+      "id": "1764405684715312538",
+      "store_id": "2052",
+      "like_code": "443959",
+      "department_id": [
+        "1501982"
+      ],
+      "price": "₱44.00",
+      "unit_price": 44.0,
+      "popularity": 1550,
+      "upc": "885330101661",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08853301016612",
+      "reference_ids": [
+        "08853301016612"
+      ],
+      "name": "Cesar Puppy Chicken Carrot Pouch | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715312538/cab0092d8243b7b0e3bb8af13692ee2d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08853301016612",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_food/cesar_puppy_chicken_carrot_pouch_70g/p/1764405684715312538"
+    }
+  ]
+}

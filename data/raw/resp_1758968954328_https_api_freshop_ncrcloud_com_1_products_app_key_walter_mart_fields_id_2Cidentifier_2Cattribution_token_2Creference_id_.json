@@ -1,0 +1,2236 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702553225",
+      "store_id": "2052",
+      "like_code": "149725",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱359.00",
+      "unit_price": 359.0,
+      "popularity": 6122,
+      "quantity_step": 1.0,
+      "upc": "490243047356",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430473569",
+      "reference_ids": [
+        "04902430473569"
+      ],
+      "name": "Ariel Detergent Powder with Downy Floral Passion | 1.8kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 39",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553225/ec9c3f91a75f2fb486090ce6103707e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430473569",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_floral_passion_1_8kg/p/1564405684702553225"
+    },
+    {
+      "id": "1564405684702553902",
+      "store_id": "2052",
+      "like_code": "270126",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱515.00",
+      "unit_price": 515.0,
+      "popularity": 5976,
+      "upc": "490243078134",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430781343",
+      "reference_ids": [
+        "04902430781343"
+      ],
+      "name": "Ariel Detergent Powder with Downy Floral Passion | 2.45kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553902/bc5f0537d7948c9353d8af234608e2dc",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3721730956277594748",
+          "reference_id": "tpr_2052_04902430781343_438_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702553902"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5976,
+          "product_tag_ids": [
+            "217784",
+            "21946397",
+            "22459227",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0015ccd5bcc12397b65dac75e82ce9ba",
+          "similarity_priority": 5,
+          "name": "Ariel Detergent Powder with Downy Floral Passion | 2.45kg",
+          "sale_price": "₱438.00",
+          "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3721731735537334468",
+          "reference_id": "ad_2052_04902430781343_1_438_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702553902"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2988,
+          "product_tag_ids": [
+            "217784",
+            "21946397",
+            "22459227",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "737c15204d10540af423b9eb0052c06e",
+          "similarity_priority": 6,
+          "name": "Ariel Detergent Powder with Downy Floral Passion | 2.45kg",
+          "sale_price": "₱438.00",
+          "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱438.00",
+      "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3721730956277594748",
+        "reference_id": "tpr_2052_04902430781343_438_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702553902"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5976,
+        "product_tag_ids": [
+          "217784",
+          "21946397",
+          "22459227",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0015ccd5bcc12397b65dac75e82ce9ba",
+        "similarity_priority": 5,
+        "name": "Ariel Detergent Powder with Downy Floral Passion | 2.45kg",
+        "sale_price": "₱438.00",
+        "sale_price_md": "**₱438.00** (09/15/25 - 09/30/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 438.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱438.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430781343",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_floral_passion_2_45kg/p/1564405684702553902"
+    },
+    {
+      "id": "1564405684702553353",
+      "store_id": "2052",
+      "like_code": "161728",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 392,
+      "upc": "490243058318",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430583183",
+      "reference_ids": [
+        "04902430583183"
+      ],
+      "name": "Ariel Detergent Powder with Downy Floral Passion | 56g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553353/1832398014fa6dd58bade8e781a55392",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430583183",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_floral_passion_56g_x_6s/p/1564405684702553353"
+    },
+    {
+      "id": "1564405684702553462",
+      "store_id": "2052",
+      "like_code": "166216",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 1837,
+      "upc": "490243070824",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430708241",
+      "reference_ids": [
+        "04902430708241",
+        "04902430623469"
+      ],
+      "name": "Ariel Detergent Powder with Downy Floral Passion | 68g x 6s+1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553462/b72a2807fea6c9e537b8df9ea9f37156",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430708241",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_with_downy_floral_passion_68g_x_6s_1/p/1564405684702553462"
+    },
+    {
+      "id": "1564405684712978799",
+      "store_id": "2052",
+      "like_code": "367084",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 1042,
+      "upc": "498717611663",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176116635",
+      "reference_ids": [
+        "04987176116635"
+      ],
+      "name": "Ariel Detergent Powder with Downy Floral Passion | 87g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712978799/14b6174b5485c3731e664b7642d7fe01",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176116635",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_with_downy_floral_passion_87g_x_6s/p/1564405684712978799"
+    },
+    {
+      "id": "1564405684711344214",
+      "store_id": "2052",
+      "like_code": "349457",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 6992,
+      "quantity_step": 1.0,
+      "upc": "498717606704",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176067043",
+      "reference_ids": [
+        "04987176067043"
+      ],
+      "name": "Ariel Detergent Powder with Downy Fresh Garden Bloom | 1.16kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 23",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711344214/c30a09372341a9df9dcbb8ac420576b9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176067043",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_fresh_garden_bloom_1_16kg/p/1564405684711344214"
+    },
+    {
+      "id": "1564405684711344212",
+      "store_id": "2052",
+      "like_code": "349459",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱359.00",
+      "unit_price": 359.0,
+      "popularity": 6910,
+      "quantity_step": 1.0,
+      "upc": "498717606705",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176067050",
+      "reference_ids": [
+        "04987176067050"
+      ],
+      "name": "Ariel Detergent Powder with Downy Fresh Garden Bloom | 1.8kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 39",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711344212/dd2d634811a26354b2ade7851c69c6fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176067050",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_fresh_garden_bloom_1_8kg/p/1564405684711344212"
+    },
+    {
+      "id": "1564405684714500189",
+      "store_id": "2052",
+      "like_code": "351497",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 1802,
+      "upc": "498717606878",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176068781",
+      "reference_ids": [
+        "04987176068781"
+      ],
+      "name": "Ariel Detergent Powder with Downy Fresh Garden Bloom | 64g (BUY 6 GET 1 FREE)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714500189/3b2bcdb42d7e95233eee0c9ff4f9d713",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176068781",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_with_downy_fresh_garden_bloom_64g_buy_6_get_1_free/p/1564405684714500189"
+    },
+    {
+      "id": "1564405684713785635",
+      "store_id": "2052",
+      "like_code": "383823",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱122.00",
+      "unit_price": 122.0,
+      "popularity": 899,
+      "upc": "498717615617",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176156174",
+      "reference_ids": [
+        "04987176156174"
+      ],
+      "name": "Ariel Detergent Powder with Downy Fresh Garden Bloom | 87g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713785635/12c6eed96001052117955394b3210f1d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176156174",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_detergent_powder_with_downy_fresh_garden_bloom_87g_x_6s/p/1564405684713785635"
+    },
+    {
+      "id": "1564405684711344211",
+      "store_id": "2052",
+      "like_code": "349453",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 3897,
+      "upc": "498717606702",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176067029",
+      "reference_ids": [
+        "04987176067029"
+      ],
+      "name": "Ariel Detergent Powder with Downy Garden Bloom | 56g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711344211/7a355f30ce9911a8375392ced128392b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176067029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/ariel_detergent_powder_with_downy_garden_bloom_56g_x_6s/p/1564405684711344211"
+    },
+    {
+      "id": "1564405684704285085",
+      "store_id": "2052",
+      "like_code": "307168",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱526.00",
+      "unit_price": 526.0,
+      "popularity": 1,
+      "upc": "490243083966",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430839662",
+      "reference_ids": [
+        "04902430839662"
+      ],
+      "name": "Ariel Liquid Detergent Floral Passion with Downy | 2.105kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704285085/279f00641a71fb299ee49e89844bb218",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461935543794295",
+          "reference_id": "tpr_2052_04902430839662_420_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3722700886426794001"
+          ],
+          "product_ids": [
+            "1564405684704285085"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "21946395",
+            "21946397",
+            "22356801",
+            "22459226",
+            "22459230",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "9243dd45439991dc0c714df0b672bdc4",
+          "similarity_priority": 5,
+          "name": "Ariel Liquid Detergent Floral Passion with Downy | 2.105kg",
+          "sale_price": "₱420.00",
+          "sale_price_md": "**₱420.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461660179347792",
+          "reference_id": "ad_2052_04902430839662_1_420_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3722700886426794001"
+          ],
+          "product_ids": [
+            "1564405684704285085"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "21946395",
+            "21946397",
+            "22356801",
+            "22459226",
+            "22459230",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "85ce422b8f60b692440b8021d0512238",
+          "similarity_priority": 6,
+          "name": "Ariel Liquid Detergent Floral Passion with Downy | 2.105kg",
+          "sale_price": "₱420.00",
+          "sale_price_md": "**₱420.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱420.00",
+      "sale_price_md": "**₱420.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461935543794295",
+        "reference_id": "tpr_2052_04902430839662_420_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183942932783"
+        ],
+        "circular_page_ids": [
+          "3719247210563517409"
+        ],
+        "circular_spot_ids": [
+          "3722700886426794001"
+        ],
+        "product_ids": [
+          "1564405684704285085"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1,
+        "product_tag_ids": [
+          "21946395",
+          "21946397",
+          "22356801",
+          "22459226",
+          "22459230",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "9243dd45439991dc0c714df0b672bdc4",
+        "similarity_priority": 5,
+        "name": "Ariel Liquid Detergent Floral Passion with Downy | 2.105kg",
+        "sale_price": "₱420.00",
+        "sale_price_md": "**₱420.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 420.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱420.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430839662",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_liquid_detergent_floral_passion_with_downy_2_105kg/p/1564405684704285085"
+    },
+    {
+      "id": "1764405684715221116",
+      "store_id": "2052",
+      "like_code": "441467",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱526.00",
+      "unit_price": 526.0,
+      "popularity": 8284,
+      "upc": "498717631654",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176316547",
+      "reference_ids": [
+        "04987176316547"
+      ],
+      "name": "Ariel Liquid Detergent Frontload Sunrise Fresh | 2.16kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715221116/6425b0af40fa062049d6cf409246e72d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176316547",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_frontload_sunrise_fresh_2_16kg/p/1764405684715221116"
+    },
+    {
+      "id": "1764405684715221114",
+      "store_id": "2052",
+      "like_code": "441466",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 2232,
+      "upc": "498717631653",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176316530",
+      "reference_ids": [
+        "04987176316530"
+      ],
+      "name": "Ariel Liquid Detergent Frontload Sunrise Fresh | 58g x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715221114/41ed01806615e9f71abd7b2884af29b6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176316530",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_frontload_sunrise_fresh_58g_x_6s/p/1764405684715221114"
+    },
+    {
+      "id": "1564405684702553870",
+      "store_id": "2052",
+      "like_code": "262836",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 732,
+      "upc": "490243076485",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430764858",
+      "reference_ids": [
+        "04902430764858"
+      ],
+      "name": "Ariel Liquid Detergent Power Gel Sunrise Fresh | 58g x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553870/147fab7886be946d6144fd3a7e68d7c9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430764858",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_liquid_detergent_power_gel_sunrise_fresh_58g_x_6_s/p/1564405684702553870"
+    },
+    {
+      "id": "1564405684704285087",
+      "store_id": "2052",
+      "like_code": "307169",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱449.00",
+      "unit_price": 449.0,
+      "popularity": 1,
+      "quantity_step": 1.0,
+      "upc": "490243083967",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430839679",
+      "reference_ids": [
+        "04902430839679"
+      ],
+      "name": "Ariel Liquid Detergent Refill Sunrise Fresh | 2.16kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 77",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704285087/fb8389e97f675a41bf0783854cfeb885",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430839679",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_liquid_detergent_refill_sunrise_fresh_2_16kg/p/1564405684704285087"
+    },
+    {
+      "id": "1564405684716282585",
+      "store_id": "2052",
+      "like_code": "421047",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 8865,
+      "quantity_step": 1.0,
+      "upc": "498717626949",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176269492",
+      "reference_ids": [
+        "04987176269492"
+      ],
+      "name": "Ariel Liquid Detergent Sunrise Fresh | 3.85kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 131",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716282585/9ad19363ffc25abd286ac9d1b03e42d6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176269492",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_sunrise_fresh_3_85kg/p/1564405684716282585"
+    },
+    {
+      "id": "1564405684710364925",
+      "store_id": "2052",
+      "like_code": "276130",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱529.00",
+      "unit_price": 529.0,
+      "popularity": 6532,
+      "quantity_step": 1.0,
+      "upc": "490243075769",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430757690",
+      "reference_ids": [
+        "04902430757690"
+      ],
+      "name": "Ariel Liquid Detergent Sunrise Fresh Bottle | 2.43kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 90",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710364925/f5186a86a333aef16a4682127bcca1ea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430757690",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_liquid_detergent_sunrise_fresh_bottle_2_43kg/p/1564405684710364925"
+    },
+    {
+      "id": "1564405684714931235",
+      "store_id": "2052",
+      "like_code": "400421",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 1979,
+      "quantity_step": 1.0,
+      "upc": "498717620582",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176205827",
+      "reference_ids": [
+        "04987176205827"
+      ],
+      "name": "Ariel Liquid Detergent Sunrise Fresh Refill | 1.26kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 44",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714931235/4a78c70d2d192d8e1c06fd70a021b302",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176205827",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_sunrise_fresh_refill_1_26kg/p/1564405684714931235"
+    },
+    {
+      "id": "1564405684714411664",
+      "store_id": "2052",
+      "like_code": "388770",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱123.00",
+      "unit_price": 123.0,
+      "popularity": 2349,
+      "upc": "498717618574",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176185747",
+      "reference_ids": [
+        "04987176185747"
+      ],
+      "name": "Ariel Liquid Detergent Sunrise Fresh Tripid Pack | 81g x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714411664/8b72cc0a182c4cc6b0d4f8da82293649",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176185747",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_sunrise_fresh_tripid_pack_81g_x_6_s/p/1564405684714411664"
+    },
+    {
+      "id": "1564405684715662249",
+      "store_id": "2052",
+      "like_code": "409958",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 1772,
+      "quantity_step": 1.0,
+      "upc": "498717624285",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176242853",
+      "reference_ids": [
+        "04987176242853"
+      ],
+      "name": "Ariel Liquid Detergent with Downy Floral Passion | 1.235kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 44",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715662249/b7832f3f96481634d4c3bc8087360a44",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176242853",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_floral_passion_1_235kg/p/1564405684715662249"
+    },
+    {
+      "id": "1564405684714411663",
+      "store_id": "2052",
+      "like_code": "388769",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱123.00",
+      "unit_price": 123.0,
+      "popularity": 8098,
+      "upc": "498717618576",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176185761",
+      "reference_ids": [
+        "04987176185761"
+      ],
+      "name": "Ariel Liquid Detergent with Downy Floral Passion Tripid Pack | 76g x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714411663/12702707e4d2eb85df3b475ca6eaa344",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176185761",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_floral_passion_tripid_pack_76g_x_6_s/p/1564405684714411663"
+    },
+    {
+      "id": "1564405684714411659",
+      "store_id": "2052",
+      "like_code": "388768",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 9087,
+      "upc": "498717616916",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176169167",
+      "reference_ids": [
+        "04987176169167"
+      ],
+      "name": "Ariel Liquid Detergent with Downy French Lavender | 54g x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714411659/d215ac07869ec34233975b584f3dde91",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176169167",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_french_lavender_54g_x_6_s/p/1564405684714411659"
+    },
+    {
+      "id": "1564405684714411658",
+      "store_id": "2052",
+      "like_code": "388767",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 8538,
+      "quantity_step": 1.0,
+      "upc": "498717616914",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176169143",
+      "reference_ids": [
+        "04987176169143"
+      ],
+      "name": "Ariel Liquid Detergent with Downy French Lavender Bottle | 790g",
+      "size": "pc",
+      "price_disclaimer": "SAVE 26",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714411658/e05d75ed975d5b1813af29af10a3d9e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176169143",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_french_lavender_bottle_790g/p/1564405684714411658"
+    },
+    {
+      "id": "1564405684714411662",
+      "store_id": "2052",
+      "like_code": "388765",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱449.00",
+      "unit_price": 449.0,
+      "popularity": 6980,
+      "quantity_step": 1.0,
+      "upc": "498717616915",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176169150",
+      "reference_ids": [
+        "04987176169150"
+      ],
+      "name": "Ariel Liquid Detergent with Downy French Lavender Refill | 2.10kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 77",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714411662/e02e321e5238662038b993ef0e042409",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176169150",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_french_lavender_refill_2_10kg/p/1564405684714411662"
+    },
+    {
+      "id": "1564405684714411660",
+      "store_id": "2052",
+      "like_code": "388766",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 6175,
+      "quantity_step": 1.0,
+      "upc": "498717616917",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176169174",
+      "reference_ids": [
+        "04987176169174"
+      ],
+      "name": "Ariel Liquid Detergent with Downy French Lavender Refill | 715g",
+      "size": "pc",
+      "price_disclaimer": "SAVE 25",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714411660/4d54810d25ec4afdf6f714c28a0c5a7b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176169174",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_french_lavender_refill_715g/p/1564405684714411660"
+    },
+    {
+      "id": "1564405684716282583",
+      "store_id": "2052",
+      "like_code": "421048",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 6955,
+      "quantity_step": 1.0,
+      "upc": "498717626948",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04987176269485",
+      "reference_ids": [
+        "04987176269485"
+      ],
+      "name": "Ariel Liquid Detergent with Downy Passion | 3.8kg",
+      "size": "pc",
+      "price_disclaimer": "SAVE 131",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716282583/a5138fff9157f660ac6f555c79e7eae0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04987176269485",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_liquid_detergent_with_downy_passion_3_8kg/p/1564405684716282583"
+    },
+    {
+      "id": "1564405684702553569",
+      "store_id": "2052",
+      "like_code": "224902",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 9939,
+      "quantity_step": 1.0,
+      "upc": "490243067150",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430671507",
+      "reference_ids": [
+        "04902430671507"
+      ],
+      "name": "Ariel Liquid Sunrise Fresh | 800ml",
+      "size": "pc",
+      "price_disclaimer": "SAVE 26",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553569/dcebe24b37bef79bec3544233bd4da99",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430671507",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_liquid_sunrise_fresh_800ml/p/1564405684702553569"
+    },
+    {
+      "id": "1564405684702553568",
+      "store_id": "2052",
+      "like_code": "224905",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱206.00",
+      "unit_price": 206.0,
+      "popularity": 999999,
+      "upc": "490243067153",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430671538",
+      "reference_ids": [
+        "04902430671538"
+      ],
+      "name": "Ariel Power Gel Floral Passion Liquid Detergent | 790g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553568/d40d8947bd118c0f7f0a8b530b8caebd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04902430671538",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/ariel_power_gel_floral_passion_liquid_detergent_790g/p/1564405684702553568"
+    },
+    {
+      "id": "1564405684702553872",
+      "store_id": "2052",
+      "like_code": "262841",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 6288,
+      "upc": "490243076490",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430764902",
+      "reference_ids": [
+        "04902430764902"
+      ],
+      "name": "Ariel Power Gel Liquid Detergent with Downy Floral Passion | 54g x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553872/1d57e4c719df3ae5f552318a367e4a66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430764902",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_power_gel_liquid_detergent_with_downy_floral_passion_54g_x_6_s/p/1564405684702553872"
+    },
+    {
+      "id": "1564405684702553899",
+      "store_id": "2052",
+      "like_code": "270025",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 1242,
+      "upc": "490243077467",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430774673",
+      "reference_ids": [
+        "04902430774673"
+      ],
+      "name": "Ariel Power Gel with Downy Floral Passion | 54g (BUY 6 GET 1 FREE)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702553899/85506c5b6c320b7dfc93c6f79ef53250",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430774673",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/ariel_power_gel_with_downy_floral_passion_54g_buy_6_get_1_free/p/1564405684702553899"
+    },
+    {
+      "id": "1564405684702552891",
+      "store_id": "2052",
+      "like_code": "116525",
+      "department_id": [
+        "21946397"
+      ],
+      "price": "₱15.00",
+      "unit_price": 15.0,
+      "popularity": 142,
+      "upc": "490243019182",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902430191821",
+      "reference_ids": [
+        "04902430191821"
+      ],
+      "name": "Ariel Scrubber Detergent Bar | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552891/cf024fbdf3db5d73cac662f39fc1748f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902430191821",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 39",
+        "sequence": 39,
+        "identifier": "7f1b7a69-d52a-4033-b315-9fa1b46e605d",
+        "id": "22356802"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-ariel/ariel_scrubber_detergent_bar_125g/p/1564405684702552891"
+    },
+    {
+      "id": "1564405684714650192",
+      "store_id": "2052",
+      "like_code": "395213",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300871876",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008718763",
+      "reference_ids": [
+        "00613008718763"
+      ],
+      "name": "Arizona All Natural Fruit Punch | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650192/3d818a1349fe363ac74696f6ab82e149",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008718763",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_all_natural_fruit_punch_22oz/p/1564405684714650192"
+    },
+    {
+      "id": "1564405684714650201",
+      "store_id": "2052",
+      "like_code": "395219",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300873543",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008735432",
+      "reference_ids": [
+        "00613008735432"
+      ],
+      "name": "Arizona All Natural Kiwi Strawberry | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650201/91f8daf1e11d69c8f515f1b887e2b63c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008735432",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_all_natural_kiwi_strawberry_22oz/p/1564405684714650201"
+    },
+    {
+      "id": "1564405684714650199",
+      "store_id": "2052",
+      "like_code": "395217",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300873541",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008735418",
+      "reference_ids": [
+        "00613008735418"
+      ],
+      "name": "Arizona All Natural Mucho Mango | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650199/6c4cfb72d0fc10774db6b0459c4e9e10",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008735418",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_all_natural_mucho_mango_22oz/p/1564405684714650199"
+    },
+    {
+      "id": "1564405684714650197",
+      "store_id": "2052",
+      "like_code": "395214",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 7943,
+      "upc": "61300872020",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008720209",
+      "reference_ids": [
+        "00613008720209"
+      ],
+      "name": "Arizona All Natural Watermelon | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650197/4f27f283c6d1fa5412b8b401783b5a85",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00613008720209",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_all_natural_watermelon_22oz/p/1564405684714650197"
+    },
+    {
+      "id": "1564405684714650194",
+      "store_id": "2052",
+      "like_code": "395220",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300872286",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008722869",
+      "reference_ids": [
+        "00613008722869"
+      ],
+      "name": "Arizona Black & White Iced Tea with Ginseng and Honey | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650194/7378c65a03746d7ab653e5fd7ac91b52",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008722869",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_black_white_iced_tea_with_ginseng_and_honey_22oz/p/1564405684714650194"
+    },
+    {
+      "id": "1564405684714650195",
+      "store_id": "2052",
+      "like_code": "395216",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300872071",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008720711",
+      "reference_ids": [
+        "00613008720711"
+      ],
+      "name": "Arizona Diet Green Tea with Ginseng | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650195/6c9069bdbdf4838721db9a42d859cecb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008720711",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_diet_green_tea_with_ginseng_22oz/p/1564405684714650195"
+    },
+    {
+      "id": "1564405684715387487",
+      "store_id": "2052",
+      "like_code": "406345",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 999999,
+      "upc": "61300876761",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008767617",
+      "reference_ids": [
+        "00613008767617",
+        "00613008715243"
+      ],
+      "name": "Arizona Green Tea | 15.5oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715387487/47a3a06d7170bf483b9b50066dd32911",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008767617",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_green_tea_15_5oz/p/1564405684715387487"
+    },
+    {
+      "id": "1564405684714650200",
+      "store_id": "2052",
+      "like_code": "395211",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300874590",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008745905",
+      "reference_ids": [
+        "00613008745905"
+      ],
+      "name": "Arizona Green Tea Cucumber with Citrus | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650200/4ae16db77410a2ca9eabe9b982f39fe3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008745905",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_green_tea_cucumber_with_citrus_22oz/p/1564405684714650200"
+    },
+    {
+      "id": "1564405684715387485",
+      "store_id": "2052",
+      "like_code": "406343",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 999999,
+      "upc": "61300873535",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008735357",
+      "reference_ids": [
+        "00613008735357"
+      ],
+      "name": "Arizona Iced Tea Lemon | 15.5oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715387485/f204d8de87bd1820b3301df6aa7345a0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008735357",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_iced_tea_lemon_15_5oz/p/1564405684715387485"
+    },
+    {
+      "id": "1564405684715387489",
+      "store_id": "2052",
+      "like_code": "406346",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 10377,
+      "upc": "61300876755",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008767556",
+      "reference_ids": [
+        "00613008767556",
+        "00613008735340"
+      ],
+      "name": "Arizona Iced Tea Peach | 15.5oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715387489/7aefc319b2f0a0a56edd9c8fffda26ad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00613008767556",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_iced_tea_peach_15_5oz/p/1564405684715387489"
+    },
+    {
+      "id": "1564405684714650196",
+      "store_id": "2052",
+      "like_code": "395218",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 7181,
+      "upc": "61300875649",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008756499",
+      "reference_ids": [
+        "00613008756499",
+        "00613008735159"
+      ],
+      "name": "Arizona Iced Tea with Lemon Flavor | 22oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650196/e3fdef4205afa2728cd128d2468f7723",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00613008756499",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_iced_tea_with_lemon_flavor_22oz/p/1564405684714650196"
+    },
+    {
+      "id": "1564405684714650193",
+      "store_id": "2052",
+      "like_code": "395215",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 999999,
+      "upc": "61300871930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008719302",
+      "reference_ids": [
+        "00613008719302"
+      ],
+      "name": "Arizona Lite Half Iced Tea and Half Lemonade | 23oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650193/439163405b4a0dcb63722a931cd2153c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00613008719302",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_lite_half_iced_tea_and_half_lemonade_23oz/p/1564405684714650193"
+    },
+    {
+      "id": "1564405684714650198",
+      "store_id": "2052",
+      "like_code": "395212",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 8108,
+      "upc": "61300873530",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00613008735302",
+      "reference_ids": [
+        "00613008735302"
+      ],
+      "name": "Arizona Strawberry Half Iced Tea and Half Lemonade | 23oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714650198/5ffd33ca3bbac7fdd6f64ea03dce429d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00613008735302",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/arizona_strawberry_half_iced_tea_and_half_lemonade_23oz/p/1564405684714650198"
+    },
+    {
+      "id": "1564405684702555048",
+      "store_id": "2052",
+      "like_code": "152368",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱212.00",
+      "unit_price": 212.0,
+      "popularity": 9790,
+      "upc": "576046679944",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466799447",
+      "reference_ids": [
+        "05760466799447"
+      ],
+      "name": "Arla Apetina Feta Cheese with Herbs & Spices | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555048/b7c5d2a139273411862b6846b01f4791",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05760466799447",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_apetina_feta_cheese_with_herbs_spices_100g/p/1564405684702555048"
+    },
+    {
+      "id": "1564405684702555045",
+      "store_id": "2052",
+      "like_code": "162760",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱225.00",
+      "unit_price": 225.0,
+      "popularity": 999999,
+      "upc": "576046675432",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05760466754323",
+      "reference_ids": [
+        "05760466754323"
+      ],
+      "name": "Arla Apetina Feta in Plastic | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555045/9a4f0e53c52611ff0d72eced3df067ab",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05760466754323",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/arla_apetina_feta_in_plastic_200g/p/1564405684702555045"
+    },
+    {
+      "id": "1564405684702555019",
+      "store_id": "2052",
+      "like_code": "253522",
+      "department_id": [
+        "1496136"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 7860,
+      "upc": "571195305609",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953056093",
+      "reference_ids": [
+        "05711953056093"
+      ],
+      "name": "Arla Butter Salted Foil | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555019/c5bbc09b65b343194281b2bd96ffda60",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953056093",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/butter_margarine/arla_butter_salted_foil_200g/p/1564405684702555019"
+    },
+    {
+      "id": "1564405684702555017",
+      "store_id": "2052",
+      "like_code": "253530",
+      "department_id": [
+        "1496136"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 6659,
+      "upc": "571195305601",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05711953056017",
+      "reference_ids": [
+        "05711953056017"
+      ],
+      "name": "Arla Butter Unsalted Foil | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555017/ad7b1972c78aa181455ee7dbef944ff2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05711953056017",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/butter_margarine/arla_butter_unsalted_foil_200g/p/1564405684702555017"
+    }
+  ]
+}

@@ -1,0 +1,2092 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684714423884",
+      "store_id": "2052",
+      "like_code": "388881",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱260.00",
+      "unit_price": 260.0,
+      "popularity": 7808,
+      "upc": "480901606802",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809016068020",
+      "reference_ids": [
+        "04809016068020"
+      ],
+      "name": "Daddy Mikks Chilli Crunch | 130g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714423884/7010649b17336a191fabe4882a72f214",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809016068020",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/daddy_mikks_chilli_crunch_130g/p/1564405684714423884"
+    },
+    {
+      "id": "1564405684714423885",
+      "store_id": "2052",
+      "like_code": "388880",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 999999,
+      "upc": "480901606806",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809016068068",
+      "reference_ids": [
+        "04809016068068"
+      ],
+      "name": "Daddy Mikks Garlic Crunch | 130g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714423885/3be2303aa52741afbf85044ef5debac1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809016068068",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/daddy_mikks_garlic_crunch_130g/p/1564405684714423885"
+    },
+    {
+      "id": "1564405684702548455",
+      "store_id": "2052",
+      "like_code": "139303",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 3154,
+      "upc": "480651664014",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640145",
+      "reference_ids": [
+        "04806516640145"
+      ],
+      "name": "Dae Jang Gum Big Lumpia Wrapper | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548455/40421002b9be3462695fde0050cb801d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640145",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/dae_jang_gum_big_lumpia_wrapper_210g/p/1564405684702548455"
+    },
+    {
+      "id": "1564405684704749376",
+      "store_id": "2052",
+      "like_code": "293111",
+      "department_id": [
+        "22459240"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 3129,
+      "upc": "480651664049",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640497",
+      "reference_ids": [
+        "04806516640497"
+      ],
+      "name": "Dae Jang Gum Firm Tofu | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704749376/f72bfcd4d664423533ebb591d34443b6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640497",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/herbs_mushrooms_tofu/dae_jang_gum_firm_tofu_300g/p/1564405684704749376"
+    },
+    {
+      "id": "1564405684702548458",
+      "store_id": "2052",
+      "like_code": "149695",
+      "department_id": [
+        "22459240"
+      ],
+      "price": "₱69.00",
+      "unit_price": 69.0,
+      "popularity": 3194,
+      "upc": "480651664021",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640213",
+      "reference_ids": [
+        "04806516640213"
+      ],
+      "name": "Dae Jang Gum Firm Tofu | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548458/af23137bf140b930b25c99758da5d7a0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640213",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/herbs_mushrooms_tofu/dae_jang_gum_firm_tofu_500g/p/1564405684702548458"
+    },
+    {
+      "id": "1564405684702548450",
+      "store_id": "2052",
+      "like_code": "106664",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 3069,
+      "upc": "480651664001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640015",
+      "reference_ids": [
+        "04806516640015"
+      ],
+      "name": "Dae Jang Gum Kimchi | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548450/bd8c7d9b60505cb185b489ddf3c5f61c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_kimchi_120g/p/1564405684702548450"
+    },
+    {
+      "id": "1564405684702548462",
+      "store_id": "2052",
+      "like_code": "204018",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱279.00",
+      "unit_price": 279.0,
+      "popularity": 2971,
+      "upc": "480651664031",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640312",
+      "reference_ids": [
+        "04806516640312"
+      ],
+      "name": "Dae Jang Gum Kimchi | 1kg",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548462/a6b3a0e0f3bc7e6eec979142efad6742",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640312",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_kimchi_1kg/p/1564405684702548462"
+    },
+    {
+      "id": "1564405684702548456",
+      "store_id": "2052",
+      "like_code": "151998",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱83.00",
+      "unit_price": 83.0,
+      "popularity": 3588,
+      "upc": "480651664019",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640190",
+      "reference_ids": [
+        "04806516640190"
+      ],
+      "name": "Dae Jang Gum Kimchi | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548456/bfaa35ce3726d8e636c91c7e2306de22",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640190",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_kimchi_210g/p/1564405684702548456"
+    },
+    {
+      "id": "1564405684702548457",
+      "store_id": "2052",
+      "like_code": "152004",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 3589,
+      "upc": "480651664020",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640206",
+      "reference_ids": [
+        "04806516640206"
+      ],
+      "name": "Dae Jang Gum Kimchi | 410g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548457/4e84370a36f189bc87868d0b1557fae8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640206",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_kimchi_410g/p/1564405684702548457"
+    },
+    {
+      "id": "1564405684702548448",
+      "store_id": "2052",
+      "like_code": "106665",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 3095,
+      "upc": "480651664000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640008",
+      "reference_ids": [
+        "04806516640008"
+      ],
+      "name": "Dae Jang Gum Kimchi | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548448/c5d77fa40e9a789852d72f4e01fe1f2a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640008",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_kimchi_500g/p/1564405684702548448"
+    },
+    {
+      "id": "1564405684702548449",
+      "store_id": "2052",
+      "like_code": "106666",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 3093,
+      "upc": "480651664002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640022",
+      "reference_ids": [
+        "04806516640022"
+      ],
+      "name": "Dae Jang Gum Kimchi Fresh Unchopped | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548449/4fab90c8a0d6550ad28d975859dcb7b7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640022",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_kimchi_fresh_unchopped_500g/p/1564405684702548449"
+    },
+    {
+      "id": "1564405684702548454",
+      "store_id": "2052",
+      "like_code": "139302",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 999999,
+      "upc": "480651664013",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640138",
+      "reference_ids": [
+        "04806516640138"
+      ],
+      "name": "Dae Jang Gum Lumpia Wrapper | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548454/3931ff2dcb6d1bcc0da01f931599f93c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806516640138",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/dae_jang_gum_lumpia_wrapper_150g/p/1564405684702548454"
+    },
+    {
+      "id": "1564405684702548452",
+      "store_id": "2052",
+      "like_code": "123121",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 3071,
+      "upc": "480651664011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640114",
+      "reference_ids": [
+        "04806516640114"
+      ],
+      "name": "Dae Jang Gum Papaya Atchara | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548452/d3defc9c18ddb9085a9eed7979fc04c4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640114",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/dae_jang_gum_papaya_atchara_210g/p/1564405684702548452"
+    },
+    {
+      "id": "1564405684702548453",
+      "store_id": "2052",
+      "like_code": "123122",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 3104,
+      "upc": "480651664012",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640121",
+      "reference_ids": [
+        "04806516640121"
+      ],
+      "name": "Dae Jang Gum Papaya Atchara | 480g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548453/7470a32b43f74b984864a3eae5bbe48c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640121",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/dae_jang_gum_papaya_atchara_480g/p/1564405684702548453"
+    },
+    {
+      "id": "1564405684713094193",
+      "store_id": "2052",
+      "like_code": "329144",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 2461,
+      "upc": "480651664043",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640435",
+      "reference_ids": [
+        "04806516640435"
+      ],
+      "name": "Dae Jang Gum Silken Tofu | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713094193/b63db1e4e8c4461b66a9bf6c52f44acb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640435",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/dae_jang_gum_silken_tofu_300g/p/1564405684713094193"
+    },
+    {
+      "id": "1564405684702548459",
+      "store_id": "2052",
+      "like_code": "138096",
+      "department_id": [
+        "22459240"
+      ],
+      "price": "₱69.00",
+      "unit_price": 69.0,
+      "popularity": 3074,
+      "upc": "480651664022",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640220",
+      "reference_ids": [
+        "04806516640220"
+      ],
+      "name": "Dae Jang Gum Silken Tofu | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548459/2f21e97e124f3e9dde4f648c59ec0a38",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640220",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/herbs_mushrooms_tofu/dae_jang_gum_silken_tofu_500g/p/1564405684702548459"
+    },
+    {
+      "id": "1564405684713094194",
+      "store_id": "2052",
+      "like_code": "329145",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱43.00",
+      "unit_price": 43.0,
+      "popularity": 2462,
+      "upc": "480651664044",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640442",
+      "reference_ids": [
+        "04806516640442"
+      ],
+      "name": "Dae Jang Gum Soft Tofu | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713094194/c9b65761fd426e31e39336590dc5a9e8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640442",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/dae_jang_gum_soft_tofu_300g/p/1564405684713094194"
+    },
+    {
+      "id": "1564405684702548460",
+      "store_id": "2052",
+      "like_code": "149696",
+      "department_id": [
+        "1511066"
+      ],
+      "price": "₱69.00",
+      "unit_price": 69.0,
+      "popularity": 3527,
+      "upc": "480651664023",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806516640237",
+      "reference_ids": [
+        "04806516640237"
+      ],
+      "name": "Dae Jang Gum Soft Tofu | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548460/c757a8b62abebf2378697c32ef396cfd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806516640237",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/korean_specials/dae_jang_gum_soft_tofu_500g/p/1564405684702548460"
+    },
+    {
+      "id": "1564405684702533459",
+      "store_id": "2052",
+      "like_code": "272964",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 3136,
+      "upc": "207710255431",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077102554319",
+      "reference_ids": [
+        "02077102554319"
+      ],
+      "name": "Dagupan Foods Bangus Rolls | 20pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702533459/741aacea51f6651d165368e4862097af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02077102554319",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/dagupan_foods_bangus_rolls_20pcs/p/1564405684702533459"
+    },
+    {
+      "id": "1564405684702533457",
+      "store_id": "2052",
+      "like_code": "203170",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 2988,
+      "upc": "207710253483",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077102534830",
+      "reference_ids": [
+        "02077102534830"
+      ],
+      "name": "Dagupan Foods Boneless Golden Tinapa | 3pcs",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702533457/aad93f13ee3ef43331231aa963b920ec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02077102534830",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/dagupan_foods_boneless_golden_tinapa_3pcs/p/1564405684702533457"
+    },
+    {
+      "id": "1564405684703767452",
+      "store_id": "2052",
+      "like_code": "279116",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 2652,
+      "upc": "207710496822",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077104968220",
+      "reference_ids": [
+        "02077104968220",
+        "02000027911684"
+      ],
+      "name": "Dagupan Foods Marinated Boneless Bangus | 2pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703767452/936ffcf974af70e84abdf6d59230ad34",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704391196817985",
+          "reference_id": "tpr_2052_02077104968220_199_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684703767452"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-10-09T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2652,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22475760",
+            "22817308",
+            "22919042",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "16615659cef5c4c2b56fe28b43c1a528",
+          "similarity_priority": 5,
+          "name": "Dagupan Foods Marinated Boneless Bangus | 2pcs",
+          "sale_price": "₱199.00",
+          "sale_price_md": "**₱199.00** (09/26/25 - 10/09/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-10-09"
+        },
+        {
+          "id": "3729705576540682447",
+          "reference_id": "ad_2052_02077104968220_1_199_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684703767452"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-10-09T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1326,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22475760",
+            "22817308",
+            "22919042",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "de28ac1b293f293b370fa6a065af89a7",
+          "similarity_priority": 6,
+          "name": "Dagupan Foods Marinated Boneless Bangus | 2pcs",
+          "sale_price": "₱199.00",
+          "sale_price_md": "**₱199.00** (09/26/25 - 10/09/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-10-09"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-10-09",
+      "sale_price": "₱199.00",
+      "sale_price_md": "**₱199.00** (09/26/25 - 10/09/25)",
+      "sale_offer": {
+        "id": "3729704391196817985",
+        "reference_id": "tpr_2052_02077104968220_199_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684703767452"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-10-09T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2652,
+        "product_tag_ids": [
+          "22356784",
+          "22459114",
+          "22475760",
+          "22817308",
+          "22919042",
+          "22983137"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "16615659cef5c4c2b56fe28b43c1a528",
+        "similarity_priority": 5,
+        "name": "Dagupan Foods Marinated Boneless Bangus | 2pcs",
+        "sale_price": "₱199.00",
+        "sale_price_md": "**₱199.00** (09/26/25 - 10/09/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-10-09"
+      },
+      "offer_sale_price": 199.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱199.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02077104968220",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/dagupan_foods_marinated_boneless_bangus_2pcs/p/1564405684703767452"
+    },
+    {
+      "id": "1564405684702533466",
+      "store_id": "2052",
+      "like_code": "203163",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱245.00",
+      "unit_price": 245.0,
+      "popularity": 2989,
+      "upc": "207710311390",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077103113904",
+      "reference_ids": [
+        "02077103113904"
+      ],
+      "name": "Dagupan Foods Marinated Boneless Bangus Belly | 2pcs",
+      "size": "pack",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 4.0,
+      "review_count": 2,
+      "cover_image": "02077103113904/4c9c67436e5c20ee33f9814caac19485",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02077103113904",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/dagupan_foods_marinated_boneless_bangus_belly_2pcs/p/1564405684702533466"
+    },
+    {
+      "id": "1564405684709537496",
+      "store_id": "2052",
+      "like_code": "339171",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱234.00",
+      "unit_price": 234.0,
+      "popularity": 6479,
+      "upc": "480603020362",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806030203628",
+      "reference_ids": [
+        "04806030203628"
+      ],
+      "name": "Daily Fix Berry Special Granola | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684709537496/73010162ecef40acecca7a5605654538",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806030203628",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/daily_fix_berry_special_granola_350g/p/1564405684709537496"
+    },
+    {
+      "id": "1564405684716323525",
+      "store_id": "2052",
+      "like_code": "422171",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 8320,
+      "upc": "480603020697",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806030206971",
+      "reference_ids": [
+        "04806030206971"
+      ],
+      "name": "Daily Fix Trail Mix Almond and Dark Chocolate Deluxe | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716323525/403dadeb49911aeb1d56b114b97fea86",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806030206971",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/daily_fix_trail_mix_almond_and_dark_chocolate_deluxe_250g/p/1564405684716323525"
+    },
+    {
+      "id": "1564405684716323521",
+      "store_id": "2052",
+      "like_code": "422173",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 4807,
+      "upc": "480603020696",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806030206964",
+      "reference_ids": [
+        "04806030206964"
+      ],
+      "name": "Daily Fix Trail Mix Cranberry Yogurt Delight | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716323521/e781d27be2044fcb8b17006c6eff5fae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806030206964",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/daily_fix_trail_mix_cranberry_yogurt_delight_250g/p/1564405684716323521"
+    },
+    {
+      "id": "1564405684716323519",
+      "store_id": "2052",
+      "like_code": "422172",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 9095,
+      "upc": "480603020695",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806030206957",
+      "reference_ids": [
+        "04806030206957"
+      ],
+      "name": "Daily Fix Trail Mix Nutty & Nice | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716323519/d9fd9c23338ae4eece19522b6410770b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806030206957",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/daily_fix_trail_mix_nutty_nice_250g/p/1564405684716323519"
+    },
+    {
+      "id": "1564405684709537495",
+      "store_id": "2052",
+      "like_code": "339173",
+      "department_id": [
+        "22459139"
+      ],
+      "price": "₱234.00",
+      "unit_price": 234.0,
+      "popularity": 8417,
+      "upc": "480603020364",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806030203642",
+      "reference_ids": [
+        "04806030203642"
+      ],
+      "name": "Daily Fix Very Nutty Granola | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684709537495/b84445526f3890eb3e21d8615821eb89",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806030203642",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/oats_cereals/daily_fix_very_nutty_granola_350g/p/1564405684709537495"
+    },
+    {
+      "id": "1564405684709537494",
+      "store_id": "2052",
+      "like_code": "339174",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱434.00",
+      "unit_price": 434.0,
+      "popularity": 8182,
+      "upc": "480603020365",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806030203659",
+      "reference_ids": [
+        "04806030203659"
+      ],
+      "name": "Daily Fix Very Nutty Granola | 700g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709537494/b5592b36eefebf578ace0bf5145ec27c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806030203659",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/daily_fix_very_nutty_granola_700g/p/1564405684709537494"
+    },
+    {
+      "id": "1564405684710103787",
+      "store_id": "2052",
+      "like_code": "341470",
+      "department_id": [
+        "1496136"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 5693,
+      "upc": "480005603101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800056031012",
+      "reference_ids": [
+        "04800056031012"
+      ],
+      "name": "Dairy Magic Margarine | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710103787/6e94e9741d3c40cb304947e1c76cd624",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800056031012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/butter_margarine/dairy_magic_margarine_225g/p/1564405684710103787"
+    },
+    {
+      "id": "1564405684712197144",
+      "store_id": "2052",
+      "like_code": "321366",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213660",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032136607",
+      "reference_ids": [
+        "02000032136607"
+      ],
+      "name": "DAKKI Pillow | Avengers",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197144/ed5dffc58f547341dd6ae856473e6df4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032136607",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_avengers/p/1564405684712197144"
+    },
+    {
+      "id": "1564405684712197161",
+      "store_id": "2052",
+      "like_code": "337427",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003374270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033742708",
+      "reference_ids": [
+        "02000033742708"
+      ],
+      "name": "DAKKI Pillow | Batman",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197161/90160cbdbe2d867ca0cee68520d15137",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033742708",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_batman/p/1564405684712197161"
+    },
+    {
+      "id": "1564405684712197142",
+      "store_id": "2052",
+      "like_code": "321365",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213650",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032136508",
+      "reference_ids": [
+        "02000032136508"
+      ],
+      "name": "DAKKI Pillow | Frozen II Elsa and Anna",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197142/1287ea48cea65e8b5f9c7b266fe49611",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032136508",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_frozen_ii_elsa_and_anna/p/1564405684712197142"
+    },
+    {
+      "id": "1564405684712197146",
+      "store_id": "2052",
+      "like_code": "321369",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213690",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032136904",
+      "reference_ids": [
+        "02000032136904"
+      ],
+      "name": "DAKKI Pillow | Hello Kitty",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197146/346fdf7dd5b6a202ca8d5887045eee4f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032136904",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_hello_kitty/p/1564405684712197146"
+    },
+    {
+      "id": "1564405684712197143",
+      "store_id": "2052",
+      "like_code": "321364",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213640",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032136409",
+      "reference_ids": [
+        "02000032136409"
+      ],
+      "name": "DAKKI Pillow | Mickey Mouse Red",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197143/cd93755f09603e7b73703bb8dc623264",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032136409",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_mickey_mouse_red/p/1564405684712197143"
+    },
+    {
+      "id": "1564405684712197147",
+      "store_id": "2052",
+      "like_code": "321370",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213700",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032137000",
+      "reference_ids": [
+        "02000032137000"
+      ],
+      "name": "DAKKI Pillow | Paw Patrol Game On",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197147/d1145db7c345ed25aa166ce83400f711",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032137000",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_paw_patrol_game_on/p/1564405684712197147"
+    },
+    {
+      "id": "1564405684712197145",
+      "store_id": "2052",
+      "like_code": "321367",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213670",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032136706",
+      "reference_ids": [
+        "02000032136706"
+      ],
+      "name": "DAKKI Pillow | Peppa Pig Warm Up Together",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197145/ea1a509c02f469945e6d10bdb30a7a9e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032136706",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_peppa_pig_warm_up_together/p/1564405684712197145"
+    },
+    {
+      "id": "1564405684712197159",
+      "store_id": "2052",
+      "like_code": "337421",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003374210",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033742104",
+      "reference_ids": [
+        "02000033742104"
+      ],
+      "name": "DAKKI Pillow | Princess Elegant Dreamer",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197159/8247813978cbb2f48a58e583985ae4ff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033742104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_princess_elegant_dreamer/p/1564405684712197159"
+    },
+    {
+      "id": "1564405684712197148",
+      "store_id": "2052",
+      "like_code": "321371",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003213710",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032137109",
+      "reference_ids": [
+        "02000032137109"
+      ],
+      "name": "DAKKI Pillow | Spiderman",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197148/153fbdbd889715504a6d09d2c7030ab5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032137109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_spiderman/p/1564405684712197148"
+    },
+    {
+      "id": "1564405684712197160",
+      "store_id": "2052",
+      "like_code": "337425",
+      "department_id": [
+        "22575953"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "200003374250",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033742500",
+      "reference_ids": [
+        "02000033742500"
+      ],
+      "name": "DAKKI Pillow | Superman Strength and Justice",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712197160/728bc8beba9b15bbf6c4584a7c6cc114",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033742500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dakki_pillow_superman_strength_and_justice/p/1564405684712197160"
+    },
+    {
+      "id": "1564405684711917625",
+      "store_id": "2052",
+      "like_code": "266880",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "629110444513",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06291104445130",
+      "reference_ids": [
+        "06291104445130",
+        "02000026688006"
+      ],
+      "name": "DALES & DUNES Fairytale Eau de Toilette | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917625/dcef7dcd78867a9b7c8b646acbb21181",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06291104445130",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/dales_dunes_fairytale_eau_de_toilette_100ml/p/1564405684711917625"
+    },
+    {
+      "id": "1764405684715284566",
+      "store_id": "2052",
+      "like_code": "442519",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 7915,
+      "upc": "893509091237",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935090912372",
+      "reference_ids": [
+        "08935090912372"
+      ],
+      "name": "Dan-D Pak Almonds Salted | 235g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715284566/d8d7ed76ebe232168e4d5c40234c9f31",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935090912372",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dan_d_pak_almonds_salted_235g/p/1764405684715284566"
+    },
+    {
+      "id": "1764405684715284564",
+      "store_id": "2052",
+      "like_code": "442520",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 7626,
+      "upc": "893509091171",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935090911719",
+      "reference_ids": [
+        "08935090911719"
+      ],
+      "name": "Dan-D Pak Cashews Salted | 215g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715284564/0a6778f2c192b36d7c759a31f6c977e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935090911719",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dan_d_pak_cashews_salted_215g/p/1764405684715284564"
+    },
+    {
+      "id": "1764405684715284570",
+      "store_id": "2052",
+      "like_code": "442521",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 7122,
+      "upc": "893509091238",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935090912389",
+      "reference_ids": [
+        "08935090912389"
+      ],
+      "name": "Dan-D Pak Crispy Cashews Salted | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715284570/e811ebdd16e6f00f3598e9c94303fd3e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935090912389",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dan_d_pak_crispy_cashews_salted_180g/p/1764405684715284570"
+    },
+    {
+      "id": "1764405684715284562",
+      "store_id": "2052",
+      "like_code": "442522",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 9245,
+      "upc": "893509091207",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935090912075",
+      "reference_ids": [
+        "08935090912075"
+      ],
+      "name": "Dan-D Pak Pistachios Salted | 160g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715284562/99a6ebc8b4a29315c86156fad21ec8ed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935090912075",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dan_d_pak_pistachios_salted_160g/p/1764405684715284562"
+    },
+    {
+      "id": "1764405684715284568",
+      "store_id": "2052",
+      "like_code": "442529",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 9808,
+      "upc": "893509091287",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935090912877",
+      "reference_ids": [
+        "08935090912877"
+      ],
+      "name": "Dan-D Pak Trail Mix with Cranberries | 227g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715284568/3b5c2bdb472faf973de0cc6fe60d955e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935090912877",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dan_d_pak_trail_mix_with_cranberries_227g/p/1764405684715284568"
+    },
+    {
+      "id": "1564405684702548135",
+      "store_id": "2052",
+      "like_code": "233182",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 7745,
+      "upc": "480651461029",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514610294",
+      "reference_ids": [
+        "04806514610294"
+      ],
+      "name": "Dandy's Almonds Nut | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548135/542f37986edb8a2a9588723f3e931ee5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514610294",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dandy_s_almonds_nut_300g/p/1564405684702548135"
+    },
+    {
+      "id": "1564405684702548132",
+      "store_id": "2052",
+      "like_code": "233179",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱141.00",
+      "unit_price": 141.0,
+      "popularity": 7992,
+      "upc": "480651461026",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514610263",
+      "reference_ids": [
+        "04806514610263"
+      ],
+      "name": "Dandy's Mix Nuts | 280g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548132/183176e9194cbb348fa621e4e1d76158",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514610263",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dandy_s_mix_nuts_280g/p/1564405684702548132"
+    },
+    {
+      "id": "1564405684702548143",
+      "store_id": "2052",
+      "like_code": "269869",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱91.00",
+      "unit_price": 91.0,
+      "popularity": 6669,
+      "upc": "480651461215",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514612151",
+      "reference_ids": [
+        "04806514612151"
+      ],
+      "name": "Dandys Nut Almonds | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548143/db5f4373cd5c6cdfa8a44dd2382204d0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514612151",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/dandys_nut_almonds_70g/p/1564405684702548143"
+    }
+  ]
+}

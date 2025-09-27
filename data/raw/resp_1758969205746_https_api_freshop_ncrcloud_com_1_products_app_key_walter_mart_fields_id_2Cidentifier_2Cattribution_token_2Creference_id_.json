@@ -1,0 +1,2327 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684709769487",
+      "store_id": "2052",
+      "like_code": "339457",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 5858,
+      "upc": "893483912580",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839125806",
+      "reference_ids": [
+        "08934839125806"
+      ],
+      "name": "Close Up All Around Fresh Soothing Menthol | 125g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709769487/8ad0101823031024a6061cf1e3058721",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839125806",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_all_around_fresh_soothing_menthol_125g_x_2s/p/1564405684709769487"
+    },
+    {
+      "id": "1564405684709769488",
+      "store_id": "2052",
+      "like_code": "339456",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 6295,
+      "upc": "893483912579",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839125790",
+      "reference_ids": [
+        "08934839125790"
+      ],
+      "name": "Close Up All Around Fresh Soothing Menthol | 191g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709769488/a21d9db93aee21d47a3a270026379569",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839125790",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_all_around_fresh_soothing_menthol_191g_x_2s/p/1564405684709769488"
+    },
+    {
+      "id": "1564405684712186523",
+      "store_id": "2052",
+      "like_code": "337754",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱103.00",
+      "unit_price": 103.0,
+      "popularity": 9976,
+      "upc": "480088821114",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888211149",
+      "reference_ids": [
+        "04800888211149"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 10g Buy 11 Get 1 Free",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712186523/0f50a0b72cd0e409630a905d323b7d30",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888211149",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_anti_bacterial_toothpaste_menthol_fresh_10g_buy_11_get_1_free/p/1564405684712186523"
+    },
+    {
+      "id": "1564405684707215029",
+      "store_id": "2052",
+      "like_code": "337755",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱134.00",
+      "unit_price": 134.0,
+      "popularity": 8365,
+      "upc": "893483912567",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839125677",
+      "reference_ids": [
+        "08934839125677"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 120g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707215029/b67b9c98cf31a0156e43ce0fb83e29eb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839125677",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_anti_bacterial_toothpaste_menthol_fresh_120g_x_2s/p/1564405684707215029"
+    },
+    {
+      "id": "1564405684707215024",
+      "store_id": "2052",
+      "like_code": "337758",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱151.00",
+      "unit_price": 151.0,
+      "popularity": 2001,
+      "upc": "480088821716",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217165",
+      "reference_ids": [
+        "04800888217165"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 173g x 2s",
+      "size": "pc",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707215024/572d8fae0ae76cacb1cae2a9d67185a1",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557061927778856",
+          "reference_id": "tpr_2052_04800888217165_146_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684707215024"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2001,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21884433",
+            "22197754",
+            "22356772",
+            "22475760",
+            "22587914",
+            "22588055"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2b03c4b8709d03fe2190488f6bf5460b",
+          "similarity_priority": 5,
+          "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 173g x 2s",
+          "sale_price": "₱146.00",
+          "sale_price_md": "**₱146.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3719557633259092067",
+          "reference_id": "ad_2052_04800888217165_1_146_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684707215024"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1001,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21884433",
+            "22197754",
+            "22356772",
+            "22475760",
+            "22587914",
+            "22588055"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ab7333046502dfc31118296f22dff235",
+          "similarity_priority": 6,
+          "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 173g x 2s",
+          "sale_price": "₱146.00",
+          "sale_price_md": "**₱146.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱146.00",
+      "sale_price_md": "**₱146.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557061927778856",
+        "reference_id": "tpr_2052_04800888217165_146_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684707215024"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2001,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "21884433",
+          "22197754",
+          "22356772",
+          "22475760",
+          "22587914",
+          "22588055"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2b03c4b8709d03fe2190488f6bf5460b",
+        "similarity_priority": 5,
+        "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 173g x 2s",
+        "sale_price": "₱146.00",
+        "sale_price_md": "**₱146.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 146.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱146.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217165",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/close_up_anti_bacterial_toothpaste_menthol_fresh_173g_x_2s/p/1564405684707215024"
+    },
+    {
+      "id": "1564405684702542203",
+      "store_id": "2052",
+      "like_code": "118871",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱27.75",
+      "unit_price": 27.75,
+      "popularity": 2404,
+      "upc": "480088814724",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888147240",
+      "reference_ids": [
+        "04800888147240"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Menthol Fresh | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542203/186dd94e9e820be5ccd0901d5aa5ae1a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888147240",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_anti_bacterial_toothpaste_menthol_fresh_20g/p/1564405684702542203"
+    },
+    {
+      "id": "1564405684712186522",
+      "store_id": "2052",
+      "like_code": "337756",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱103.00",
+      "unit_price": 103.0,
+      "popularity": 4986,
+      "upc": "480088821113",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888211132",
+      "reference_ids": [
+        "04800888211132"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 10g Buy 11 Get 1 Free",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712186522/c2bbe287d780023625406afba20b01de",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888211132",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_anti_bacterial_toothpaste_red_hot_10g_buy_11_get_1_free/p/1564405684712186522"
+    },
+    {
+      "id": "1564405684707215021",
+      "store_id": "2052",
+      "like_code": "337757",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱134.00",
+      "unit_price": 134.0,
+      "popularity": 1557,
+      "upc": "893483912569",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839125691",
+      "reference_ids": [
+        "08934839125691"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 120g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707215021/e452451d1a87e538dca890685b69c37e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839125691",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_anti_bacterial_toothpaste_red_hot_120g_x_2s/p/1564405684707215021"
+    },
+    {
+      "id": "1564405684702542120",
+      "store_id": "2052",
+      "like_code": "69581",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 999999,
+      "upc": "480088811365",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888113658",
+      "reference_ids": [
+        "04800888113658",
+        "04800888153968",
+        "04800888156266",
+        "04800888162236"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 145ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542120/638717caa5c51a22457a2714c0a9d761",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888113658",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/close_up_anti_bacterial_toothpaste_red_hot_145ml/p/1564405684702542120"
+    },
+    {
+      "id": "1564405684707215020",
+      "store_id": "2052",
+      "like_code": "337759",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 342,
+      "upc": "480088821715",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217158",
+      "reference_ids": [
+        "04800888217158"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 173g x 2s",
+      "size": "pc",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707215020/3ade6351c5bd7d392bc22a54a47b6701",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217158",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/close_up_anti_bacterial_toothpaste_red_hot_173g_x_2s/p/1564405684707215020"
+    },
+    {
+      "id": "1564405684702542204",
+      "store_id": "2052",
+      "like_code": "118870",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱31.00",
+      "unit_price": 31.0,
+      "popularity": 4809,
+      "upc": "480088814728",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888147288",
+      "reference_ids": [
+        "04800888147288"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542204/bb809e1cfc3480cb6684538701edd441",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888147288",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_anti_bacterial_toothpaste_red_hot_20g/p/1564405684702542204"
+    },
+    {
+      "id": "1564405684702542117",
+      "store_id": "2052",
+      "like_code": "69577",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 999999,
+      "upc": "480088811348",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888113481",
+      "reference_ids": [
+        "04800888113481"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 50ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542117/46866aa5b0807346ffdbbc0487a21774",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888113481",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/close_up_anti_bacterial_toothpaste_red_hot_50ml/p/1564405684702542117"
+    },
+    {
+      "id": "1564405684702542114",
+      "store_id": "2052",
+      "like_code": "69578",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱107.00",
+      "unit_price": 107.0,
+      "popularity": 999999,
+      "upc": "2480088816481",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "24800888164814",
+      "reference_ids": [
+        "24800888164814",
+        "04800888113474",
+        "04800888154002",
+        "04800888156242",
+        "04800888163998",
+        "04800888164810"
+      ],
+      "name": "Close Up Anti-Bacterial Toothpaste Red Hot | 95ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542114/f96f972c90d654c95ddbde82e2ba67b1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "24800888164814",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/close_up_anti_bacterial_toothpaste_red_hot_95ml/p/1564405684702542114"
+    },
+    {
+      "id": "1764405684715729104",
+      "store_id": "2052",
+      "like_code": "456057",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "upc": "200004560572",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000045605725",
+      "reference_ids": [
+        "02000045605725"
+      ],
+      "name": "Close-up Freshness Bundle With Free Pouch",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000045605725",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/close_up_freshness_bundle_with_free_pouch/p/1764405684715729104"
+    },
+    {
+      "id": "1564405684716290605",
+      "store_id": "2052",
+      "like_code": "421115",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 7032,
+      "quantity_step": 1.0,
+      "upc": "893483913494",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839134945",
+      "reference_ids": [
+        "08934839134945"
+      ],
+      "name": "CloseUp Toothpaste Multivitamin | 150g x 2s",
+      "size": "pc",
+      "price_disclaimer": "SAVE 9",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716290605/f402c55110a7b0435951b8085a529e62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839134945",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_toothpaste_multivitamin_150g_x_2s/p/1564405684716290605"
+    },
+    {
+      "id": "1764405684714993066",
+      "store_id": "2052",
+      "like_code": "434119",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱92.00",
+      "unit_price": 92.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "893483913519",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839135195",
+      "reference_ids": [
+        "08934839135195"
+      ],
+      "name": "Close Up Toothpaste with Multivitamins | 135g",
+      "size": "pc",
+      "price_disclaimer": "SAVE 7",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714993066/025c6b75280b1b368d217cdd11639176",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08934839135195",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/close_up_toothpaste_with_multivitamins_135g/p/1764405684714993066"
+    },
+    {
+      "id": "1764405684715319150",
+      "store_id": "2052",
+      "like_code": "444001",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 6798,
+      "upc": "893483913572",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839135720",
+      "reference_ids": [
+        "08934839135720"
+      ],
+      "name": "Close Up White Now Detox Cleanse Serum Toothpaste | 100g",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715319150/ec2d586b68e323311da467a64697a3c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839135720",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/close_up_white_now_detox_cleanse_serum_toothpaste_100g/p/1764405684715319150"
+    },
+    {
+      "id": "1764405684715319142",
+      "store_id": "2052",
+      "like_code": "444000",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 1,
+      "upc": "893483913574",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934839135744",
+      "reference_ids": [
+        "08934839135744"
+      ],
+      "name": "Close Up White Now Purple Serum Toothpaste | 100g",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715319142/a5336e61d935971c684aba54a60d3265",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934839135744",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/close_up_white_now_purple_serum_toothpaste_100g/p/1764405684715319142"
+    },
+    {
+      "id": "1564405684714615160",
+      "store_id": "2052",
+      "like_code": "393928",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱21.50",
+      "unit_price": 21.5,
+      "popularity": 999999,
+      "upc": "480001602658",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016026584",
+      "reference_ids": [
+        "04800016026584"
+      ],
+      "name": "Cloud 9 Choco Caramel Drink | 180ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714615160/69f483292ee3735e9f469ca578e3a2f7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800016026584",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cloud_9_choco_caramel_drink_180ml/p/1564405684714615160"
+    },
+    {
+      "id": "1764405684715523480",
+      "store_id": "2052",
+      "like_code": "453246",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱10.00",
+      "unit_price": 10.0,
+      "popularity": 2,
+      "upc": "480001604391",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016043918",
+      "reference_ids": [
+        "04800016043918"
+      ],
+      "name": "Cloud 9 Chocolate Crunchies | 20g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715523480/253eb8cbcc42cea35b639a09d540c5d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016043918",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cloud_9_chocolate_crunchies_20g/p/1764405684715523480"
+    },
+    {
+      "id": "1564405684711518830",
+      "store_id": "2052",
+      "like_code": "272488",
+      "department_id": [
+        "1496200"
+      ],
+      "price": "₱13.00",
+      "unit_price": 13.0,
+      "popularity": 7816,
+      "upc": "480001607393",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016073939",
+      "reference_ids": [
+        "04800016073939"
+      ],
+      "name": "Cloud 9 Chocolate Milk Drink | 110ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711518830/d8f913aad3670127261259d3f69fc15f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016073939",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/ready_to_drink/cloud_9_chocolate_milk_drink_110ml/p/1564405684711518830"
+    },
+    {
+      "id": "1564405684713082027",
+      "store_id": "2052",
+      "like_code": "359892",
+      "department_id": [
+        "1501956"
+      ],
+      "price": "₱19.50",
+      "unit_price": 19.5,
+      "popularity": 5634,
+      "upc": "480001696446",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016964466",
+      "reference_ids": [
+        "04800016964466"
+      ],
+      "name": "Cloud 9 Gold Almond Fudge Chocolate Bar | 36g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713082027/35dfe28d8f496f5b187f385e95e5f48e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016964466",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate/cloud_9_gold_almond_fudge_chocolate_bar_36g/p/1564405684713082027"
+    },
+    {
+      "id": "1564405684707091743",
+      "store_id": "2052",
+      "like_code": "337251",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱3,039.00",
+      "unit_price": 3039.0,
+      "popularity": 999999,
+      "upc": "941840808001",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "09418408080011",
+      "reference_ids": [
+        "09418408080011"
+      ],
+      "name": "Cloudy Bay Pinot Noir | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707091743/bd4bcca50a15f0cc660b213ab5f8b9ad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09418408080011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/cloudy_bay_pinot_noir_750ml/p/1564405684707091743"
+    },
+    {
+      "id": "1564405684709820955",
+      "store_id": "2052",
+      "like_code": "339599",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱2,149.00",
+      "unit_price": 2149.0,
+      "popularity": 999999,
+      "upc": "941840803001",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09418408030016",
+      "reference_ids": [
+        "09418408030016"
+      ],
+      "name": "Cloudy Bay Sauvignon Blanc | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709820955/db1c2988fe0324eb09bca755fc2923ac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09418408030016",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/cloudy_bay_sauvignon_blanc_750ml/p/1564405684709820955"
+    },
+    {
+      "id": "8195390",
+      "store_id": "2052",
+      "like_code": "4544",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 4708,
+      "upc": "480021611014",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216110144",
+      "reference_ids": [
+        "04800216110144"
+      ],
+      "name": "Clover Chips Barbecue | 145g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195390/dbe2351c2cfc37fe7930a14db0924e07",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216110144",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_barbecue_145g/p/8195390"
+    },
+    {
+      "id": "1564405684702539355",
+      "store_id": "2052",
+      "like_code": "4536",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱10.00",
+      "unit_price": 10.0,
+      "popularity": 1061,
+      "upc": "480021612011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216120112",
+      "reference_ids": [
+        "04800216120112",
+        "04800216120012"
+      ],
+      "name": "Clover Chips Barbecue | 26g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539355/8b2c10cb1a6d6698afbf8dc988861b76",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216120112",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_barbecue_26g/p/1564405684702539355"
+    },
+    {
+      "id": "1564405684702539351",
+      "store_id": "2052",
+      "like_code": "4539",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 5507,
+      "upc": "480021611016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216110168",
+      "reference_ids": [
+        "04800216110168"
+      ],
+      "name": "Clover Chips Barbecue | 55g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539351/5f7b7c0fe74db3e885fc7ee403e202c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216110168",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_barbecue_55g/p/1564405684702539351"
+    },
+    {
+      "id": "5223091",
+      "store_id": "2052",
+      "like_code": "4533",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 1266,
+      "upc": "480021611004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216110045",
+      "reference_ids": [
+        "04800216110045"
+      ],
+      "name": "Clover Chips Cheesier | 165g",
+      "size": "5.11 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "5223091/7cd0b621032b8f4482548c7a2f61fb8a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216110045",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_cheesier_165g/p/5223091"
+    },
+    {
+      "id": "1564405684702539359",
+      "store_id": "2052",
+      "like_code": "4525",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱10.00",
+      "unit_price": 10.0,
+      "popularity": 222,
+      "upc": "480021612001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216120013",
+      "reference_ids": [
+        "04800216120013"
+      ],
+      "name": "Clover Chips Cheesier | 26g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539359/33ce312bb34f31b5ece087b2326c75d5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216120013",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_cheesier_26g/p/1564405684702539359"
+    },
+    {
+      "id": "1564405684702539350",
+      "store_id": "2052",
+      "like_code": "4528",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 417,
+      "upc": "480021611006",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216110069",
+      "reference_ids": [
+        "04800216110069"
+      ],
+      "name": "Clover Chips Cheesier | 55g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539350/15728fd8347b787e5b3ebaa0c0ac2384",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216110069",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_cheesier_55g/p/1564405684702539350"
+    },
+    {
+      "id": "1564405684702539348",
+      "store_id": "2052",
+      "like_code": "4531",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 347,
+      "upc": "480021611001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216110014",
+      "reference_ids": [
+        "04800216110014"
+      ],
+      "name": "Clover Chips Cheesier | 95g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539348/1669a6eae2f1454f999d9c432a0a187d",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3713758946700310883",
+          "reference_id": "ad_2052_04800216110014_3_100_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 3",
+          "product_ids": [
+            "1564405684702539348"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 397,
+          "product_tag_ids": [
+            "22356777",
+            "22459148",
+            "22475760",
+            "22634340",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c99d888123de2d9767d8fa35cadd2c82",
+          "similarity_priority": 6,
+          "name": "Clover Chips Cheesier | 95g",
+          "sale_price": "3 for ₱100.00 with purchase of 3",
+          "sale_price_md": "**3 for ₱100.00 with purchase of 3** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "3 for ₱100.00 with purchase of 3",
+      "sale_price_md": "**3 for ₱100.00 with purchase of 3** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3713758946700310883",
+        "reference_id": "ad_2052_04800216110014_3_100_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 3",
+        "product_ids": [
+          "1564405684702539348"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 397,
+        "product_tag_ids": [
+          "22356777",
+          "22459148",
+          "22475760",
+          "22634340",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c99d888123de2d9767d8fa35cadd2c82",
+        "similarity_priority": 6,
+        "name": "Clover Chips Cheesier | 95g",
+        "sale_price": "3 for ₱100.00 with purchase of 3",
+        "sale_price_md": "**3 for ₱100.00 with purchase of 3** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 3",
+      "offer_sale_price": 33.333333333333336,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216110014",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_cheesier_95g/p/1564405684702539348"
+    },
+    {
+      "id": "8195395",
+      "store_id": "2052",
+      "like_code": "4553",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 7058,
+      "upc": "480021613004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216130043",
+      "reference_ids": [
+        "04800216130043",
+        "04800216110043"
+      ],
+      "name": "Clover Chips Ham & Cheese | 145g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195395/26d1ed470747036ccf515a21a10254e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216130043",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_ham_cheese_145g/p/8195395"
+    },
+    {
+      "id": "1564405684702539347",
+      "store_id": "2052",
+      "like_code": "4549",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 6180,
+      "upc": "480021613002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216130029",
+      "reference_ids": [
+        "04800216130029",
+        "04800216110029"
+      ],
+      "name": "Clover Chips Ham & Cheese | 55g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539347/72f628cce687f3a26be1cbf638e6e760",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216130029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/clover_chips_ham_cheese_55g/p/1564405684702539347"
+    },
+    {
+      "id": "1564405684702539346",
+      "store_id": "2052",
+      "like_code": "4551",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 4885,
+      "upc": "480021613003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800216130036",
+      "reference_ids": [
+        "04800216130036",
+        "04800216110036"
+      ],
+      "name": "Clover Chips Ham & Cheese | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539346/b1a1daeb6ffea2fb9c5149ff2dd1d0e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800216130036",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/clover_chips_ham_cheese_85g/p/1564405684702539346"
+    },
+    {
+      "id": "1564405684704734318",
+      "store_id": "2052",
+      "like_code": "295856",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱52.75",
+      "unit_price": 52.75,
+      "popularity": 5936,
+      "upc": "480014212201",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800142122013",
+      "reference_ids": [
+        "04800142122013"
+      ],
+      "name": "Club Mix Lime Juice | 350ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704734318/b8b3817cb68fa4837401a4bb9a41e1e9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800142122013",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/club_mix_lime_juice_350ml/p/1564405684704734318"
+    },
+    {
+      "id": "1764405684715693932",
+      "store_id": "2052",
+      "like_code": "441134",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱137.50",
+      "unit_price": 137.5,
+      "popularity": 8295,
+      "upc": "480014211963",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800142119631",
+      "reference_ids": [
+        "04800142119631"
+      ],
+      "name": "Clvb Empi Brandy 750ml 22.5 Abv",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04800142119631",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/clvb_empi_brandy_750ml_22_5_abv/p/1764405684715693932"
+    },
+    {
+      "id": "1564405684702542029",
+      "store_id": "2052",
+      "like_code": "112196",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱24.00",
+      "unit_price": 24.0,
+      "popularity": 4773,
+      "upc": "480061154676",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800611546760",
+      "reference_ids": [
+        "04800611546760"
+      ],
+      "name": "Cobra Energy Drink | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542029/ba1c4fce5f7f2e47b18aeffeed59142a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800611546760",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/cobra_energy_drink_330ml/p/1564405684702542029"
+    },
+    {
+      "id": "1764405684715309064",
+      "store_id": "2052",
+      "like_code": "443949",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 7561,
+      "upc": "480061111294",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800611112941",
+      "reference_ids": [
+        "04800611112941"
+      ],
+      "name": "Cobra Rise Blue Cola Energy Drink | 290ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715309064/cf9003fbbdb86fde78bae93b24fd7bfc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800611112941",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/cobra_rise_blue_cola_energy_drink_290ml/p/1764405684715309064"
+    },
+    {
+      "id": "1764405684715309066",
+      "store_id": "2052",
+      "like_code": "443950",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱20.00",
+      "unit_price": 20.0,
+      "popularity": 7007,
+      "upc": "480061111295",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800611112958",
+      "reference_ids": [
+        "04800611112958"
+      ],
+      "name": "Cobra Rise Lemon Blast Energy Drink | 290ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715309066/c09492354844b18e5226919a9cfa69e2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800611112958",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/cobra_rise_lemon_blast_energy_drink_290ml/p/1764405684715309066"
+    },
+    {
+      "id": "1564405684702542027",
+      "store_id": "2052",
+      "like_code": "133497",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 6512,
+      "upc": "480061122357",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800611223579",
+      "reference_ids": [
+        "04800611223579"
+      ],
+      "name": "Cobra Smart Energy Drink | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542027/6b38568076ec8adb9227801853ce781e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800611223579",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/cobra_smart_energy_drink_330ml/p/1564405684702542027"
+    },
+    {
+      "id": "1564405684702542026",
+      "store_id": "2052",
+      "like_code": "152589",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱24.00",
+      "unit_price": 24.0,
+      "popularity": 999999,
+      "upc": "480061111288",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800611112880",
+      "reference_ids": [
+        "04800611112880"
+      ],
+      "name": "Cobra Strawberry Energy Drink | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542026/4fcc882c4eaf405be553010aea21d8e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800611112880",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/cobra_strawberry_energy_drink_330ml/p/1564405684702542026"
+    },
+    {
+      "id": "1564405684702542030",
+      "store_id": "2052",
+      "like_code": "160351",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 999999,
+      "upc": "480061192889",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800611928894",
+      "reference_ids": [
+        "04800611928894"
+      ],
+      "name": "Cobra Vitamin C Energy Drink | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542030/c4f0a3e2d034ebd03b567141473e760b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800611928894",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/cobra_vitamin_c_energy_drink_330ml/p/1564405684702542030"
+    },
+    {
+      "id": "1564405684714079073",
+      "store_id": "2052",
+      "like_code": "385433",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 999999,
+      "upc": "4900000050",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00049000000504",
+      "reference_ids": [
+        "00000004905004",
+        "00049000000504"
+      ],
+      "name": "Coca-Cola Cherry Coke | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714079073/0feef7d8d61672fd813f3a1740881310",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00049000000504",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/coca_cola_cherry_coke_12oz/p/1564405684714079073"
+    },
+    {
+      "id": "1564405684702543774",
+      "store_id": "2052",
+      "like_code": "39843",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱68.50",
+      "unit_price": 68.5,
+      "popularity": 4137,
+      "upc": "480198111696",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981116966",
+      "reference_ids": [
+        "04801981116966"
+      ],
+      "name": "Coca Cola Light | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543774/3bc25163d900eff20fb30331035d2d4b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981116966",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/coca_cola_light_1_75_l/p/1564405684702543774"
+    },
+    {
+      "id": "1564405684702543769",
+      "store_id": "2052",
+      "like_code": "77310",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱92.00",
+      "unit_price": 92.0,
+      "popularity": 4879,
+      "upc": "480198111296",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981112968",
+      "reference_ids": [
+        "04801981112968"
+      ],
+      "name": "Coca Cola Light | 2L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543769/23063052fc02ab1f185c78ba77b96ec9",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557640523627509",
+          "reference_id": "ad_2052_04801981112968_2_169_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702543769"
+          ],
+          "start_date": "2025-09-12T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3291,
+          "product_tag_ids": [
+            "288839",
+            "1496165",
+            "22037168",
+            "22356781",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b8c98440ea3958011c9d40dd051bc60c",
+          "similarity_priority": 6,
+          "name": "Coca Cola Light | 2L",
+          "sale_price": "2 for ₱169.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱169.00 with purchase of 2** (09/12/25 - 09/30/25)",
+          "display_start_date": "2025-09-12",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-12",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱169.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱169.00 with purchase of 2** (09/12/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557640523627509",
+        "reference_id": "ad_2052_04801981112968_2_169_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702543769"
+        ],
+        "start_date": "2025-09-12T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3291,
+        "product_tag_ids": [
+          "288839",
+          "1496165",
+          "22037168",
+          "22356781",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b8c98440ea3958011c9d40dd051bc60c",
+        "similarity_priority": 6,
+        "name": "Coca Cola Light | 2L",
+        "sale_price": "2 for ₱169.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱169.00 with purchase of 2** (09/12/25 - 09/30/25)",
+        "display_start_date": "2025-09-12",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 84.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981112968",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/coca_cola_light_2_l/p/1564405684702543769"
+    },
+    {
+      "id": "1564405684712587095",
+      "store_id": "2052",
+      "like_code": "363766",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 1904,
+      "upc": "480198109049",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981090495",
+      "reference_ids": [
+        "04801981090495"
+      ],
+      "name": "Coca-Cola Mini Zero Sugar Cans | 180mL x 6pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684712587095/eec8571d11714f59c18df9488304d0b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981090495",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/coca_cola_mini_zero_sugar_cans_180m_l_x_6pcs/p/1564405684712587095"
+    },
+    {
+      "id": "1564405684713085668",
+      "store_id": "2052",
+      "like_code": "345915",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 3979,
+      "upc": "480198109130",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981091300",
+      "reference_ids": [
+        "04801981091300"
+      ],
+      "name": "Coca-Cola Original Mini Cans | 180ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713085668/f6a7ae18c27628e494bf1833113e16aa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981091300",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/coca_cola_original_mini_cans_180ml_x_6s/p/1564405684713085668"
+    },
+    {
+      "id": "1564405684702543770",
+      "store_id": "2052",
+      "like_code": "4681",
+      "department_id": [
+        "1496165"
+      ],
+      "price": "₱61.00",
+      "unit_price": 61.0,
+      "popularity": 12,
+      "upc": "480198111607",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801981116072",
+      "reference_ids": [
+        "04801981116072",
+        "04801981116003"
+      ],
+      "name": "Coca Cola Original Taste | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702543770/4bee7ba00e81816068d177c084f5ad77",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801981116072",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 18",
+        "sequence": 18,
+        "identifier": "ee6b60fd-cce4-43ec-a2e0-c78ef6074b1f",
+        "id": "22356781"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/soft_drinks/coca_cola_original_taste_1_75_l/p/1564405684702543770"
+    }
+  ]
+}

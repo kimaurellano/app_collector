@@ -1,0 +1,2302 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1764405684715726442",
+      "store_id": "2052",
+      "like_code": "457020",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱249.00",
+      "unit_price": 249.0,
+      "popularity": 999999,
+      "upc": "490130136726",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901301367266",
+      "reference_ids": [
+        "04901301367266"
+      ],
+      "name": "Biore Wipes Peach Soap Scent 20 Sheets",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901301367266",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/biore_wipes_peach_soap_scent_20_sheets/p/1764405684715726442"
+    },
+    {
+      "id": "1564405684713445497",
+      "store_id": "2052",
+      "like_code": "375442",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱399.50",
+      "unit_price": 399.5,
+      "popularity": 7614,
+      "upc": "74848540203",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485402031",
+      "reference_ids": [
+        "00748485402031"
+      ],
+      "name": "Birch Tree Advance Mocha Flavor | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713445497/12020ad465144f0c1943a6755ac9b0de",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485402031",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/birch_tree_advance_mocha_flavor_300g/p/1564405684713445497"
+    },
+    {
+      "id": "1564405684713445495",
+      "store_id": "2052",
+      "like_code": "375441",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱1,099.50",
+      "unit_price": 1099.5,
+      "popularity": 8315,
+      "upc": "74848540204",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485402048",
+      "reference_ids": [
+        "00748485402048"
+      ],
+      "name": "Birch Tree Advance Mocha Flavor | 850g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713445495/96b74cbd85b412d4d04a7564e7532107",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485402048",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_advance_mocha_flavor_850g/p/1564405684713445495"
+    },
+    {
+      "id": "1564405684713445494",
+      "store_id": "2052",
+      "like_code": "375440",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱399.50",
+      "unit_price": 399.5,
+      "popularity": 8530,
+      "upc": "74848540185",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401850",
+      "reference_ids": [
+        "00748485401850"
+      ],
+      "name": "Birch Tree Advance Vanilla Flavor | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713445494/b90115cda1072a18ce2d49553a269dfe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401850",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_advance_vanilla_flavor_300g/p/1564405684713445494"
+    },
+    {
+      "id": "1564405684713445496",
+      "store_id": "2052",
+      "like_code": "375443",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱61.50",
+      "unit_price": 61.5,
+      "popularity": 999999,
+      "upc": "74848540183",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401836",
+      "reference_ids": [
+        "00748485401836"
+      ],
+      "name": "Birch Tree Advance Vanilla Flavor | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713445496/e2306caadf2a426b6da47b1779ecf0c9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00748485401836",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/birch_tree_advance_vanilla_flavor_60g/p/1564405684713445496"
+    },
+    {
+      "id": "1564405684713445498",
+      "store_id": "2052",
+      "like_code": "375250",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱1,099.50",
+      "unit_price": 1099.5,
+      "popularity": 9163,
+      "upc": "74848540205",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485402055",
+      "reference_ids": [
+        "00748485402055"
+      ],
+      "name": "Birch Tree Advance Vanilla Flavor | 850g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713445498/cfe0b9204adbdc1716310b5ccde975bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485402055",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_advance_vanilla_flavor_850g/p/1564405684713445498"
+    },
+    {
+      "id": "1564405684704723545",
+      "store_id": "2052",
+      "like_code": "314969",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱10.25",
+      "unit_price": 10.25,
+      "popularity": 538,
+      "upc": "74848540162",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401621",
+      "reference_ids": [
+        "00748485401621"
+      ],
+      "name": "Birch Tree Fortified Choco Milk Drink | 29g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723545/737103e8b80bd245e4ac52de239f0aa5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401621",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_choco_milk_drink_29g/p/1564405684704723545"
+    },
+    {
+      "id": "1564405684716133201",
+      "store_id": "2052",
+      "like_code": "405769",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱405.00",
+      "unit_price": 405.0,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848591502",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485915029",
+      "reference_ids": [
+        "00748485915029"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk | 1.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716133201/acde667d20ba9ce3f8c8a3e40f763f4d",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3535464185586530731",
+          "reference_id": "tpr_2052_00748485915029_405_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3537751599604578829",
+            "3677826621760355034",
+            "3699552570667186629",
+            "3722685906956598214"
+          ],
+          "product_ids": [
+            "1564405684716133201"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 15,
+          "product_tag_ids": [
+            "1496135",
+            "22072785",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22555084",
+            "22634689",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3ff7708fc1bf57a081ff043dd226027e",
+          "similarity_priority": 5,
+          "name": "Birch Tree Fortified Powdered Milk | 1.4kg",
+          "sale_price": "₱405.00",
+          "sale_price_md": "**₱405.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱405.00",
+      "sale_price_md": "**₱405.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3535464185586530731",
+        "reference_id": "tpr_2052_00748485915029_405_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183112460587"
+        ],
+        "circular_page_ids": [
+          "3719247209875651551"
+        ],
+        "circular_spot_ids": [
+          "3537751599604578829",
+          "3677826621760355034",
+          "3699552570667186629",
+          "3722685906956598214"
+        ],
+        "product_ids": [
+          "1564405684716133201"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 15,
+        "product_tag_ids": [
+          "1496135",
+          "22072785",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22555084",
+          "22634689",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "3ff7708fc1bf57a081ff043dd226027e",
+        "similarity_priority": 5,
+        "name": "Birch Tree Fortified Powdered Milk | 1.4kg",
+        "sale_price": "₱405.00",
+        "sale_price_md": "**₱405.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 405.0,
+      "sale_configuration_type_id": "1",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485915029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/birch_tree_fortified_powdered_milk_1_4kg/p/1564405684716133201"
+    },
+    {
+      "id": "1764405684715653440",
+      "store_id": "2052",
+      "like_code": "454846",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱207.00",
+      "unit_price": 207.0,
+      "popularity": 2,
+      "upc": "480002294067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022940676",
+      "reference_ids": [
+        "04800022940676"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk | 660g + Free Argentina Corned Beef",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715653440/268677050762f308c015982b134c0fb1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022940676",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/birch_tree_fortified_powdered_milk_660g_free_argentina_corned_beef/p/1764405684715653440"
+    },
+    {
+      "id": "1564405684704660747",
+      "store_id": "2052",
+      "like_code": "280530",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱44.00",
+      "unit_price": 44.0,
+      "popularity": 1595,
+      "upc": "74848540159",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401591",
+      "reference_ids": [
+        "00748485401591"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk Drink | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704660747/af4d168c3793886af49b1d4621a1f8e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401591",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_powdered_milk_drink_135g/p/1564405684704660747"
+    },
+    {
+      "id": "1564405684709311477",
+      "store_id": "2052",
+      "like_code": "338906",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱562.00",
+      "unit_price": 562.0,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848540171",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401713",
+      "reference_ids": [
+        "00748485401713"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk Drink | 2kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684709311477/4b8386f26ef3f540724ad8849f5de428",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401713",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_powdered_milk_drink_2kg/p/1564405684709311477"
+    },
+    {
+      "id": "1564405684702504509",
+      "store_id": "2052",
+      "like_code": "204455",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱93.00",
+      "unit_price": 93.0,
+      "popularity": 489,
+      "upc": "74848591302",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485913025",
+      "reference_ids": [
+        "00748485913025",
+        "00748485401508"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk Drink | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504509/4d91f5b15b79a2923332410f17db1d39",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485913025",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_powdered_milk_drink_300g/p/1564405684702504509"
+    },
+    {
+      "id": "1564405684702504508",
+      "store_id": "2052",
+      "like_code": "204748",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱10.25",
+      "unit_price": 10.25,
+      "popularity": 11,
+      "upc": "74848540149",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401492",
+      "reference_ids": [
+        "00748485401492"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk Drink | 33g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504508/d92dfbfd9f271ed6b2db4b81f24ac1d6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401492",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_powdered_milk_drink_33g/p/1564405684702504508"
+    },
+    {
+      "id": "1564405684702504510",
+      "store_id": "2052",
+      "like_code": "204456",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱207.00",
+      "unit_price": 207.0,
+      "popularity": 4056,
+      "upc": "74848591303",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485913032",
+      "reference_ids": [
+        "00748485913032",
+        "00748485401515"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk Drink | 660g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504510/2c685f3e27b25e928ff4f006e92228ab",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485913032",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_powdered_milk_drink_660g/p/1564405684702504510"
+    },
+    {
+      "id": "1564405684709311479",
+      "store_id": "2052",
+      "like_code": "338907",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱277.00",
+      "unit_price": 277.0,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848591304",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485913049",
+      "reference_ids": [
+        "00748485913049",
+        "00748485401706"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk Drink | 925g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709311479/79bbf305c4d2805662bc5fd114122fde",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485913049",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_fortified_powdered_milk_drink_925g/p/1564405684709311479"
+    },
+    {
+      "id": "1764405684715067318",
+      "store_id": "2052",
+      "like_code": "434096",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 5125,
+      "upc": "480002294055",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022940553",
+      "reference_ids": [
+        "04800022940553"
+      ],
+      "name": "Birch Tree Fortified Powdered Milk (Save ₱30) | 300g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715067318/0e1d250aecd0508b4f1b19fb665bc6d9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022940553",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/birch_tree_fortified_powdered_milk_save_30_300g_x_2s/p/1764405684715067318"
+    },
+    {
+      "id": "1564405684702504501",
+      "store_id": "2052",
+      "like_code": "123787",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "2 for ₱280.00",
+      "unit_price": 140.0,
+      "popularity": 15,
+      "quantity_step": 2.0,
+      "upc": "74848591000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485910000",
+      "reference_ids": [
+        "00748485910000",
+        "00748485400891",
+        "00748485906911"
+      ],
+      "name": "Birch Tree Full Cream Milk Powder | 300g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504501/e7ad978b286231865b4c3b49db722a84",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705572665146335",
+          "reference_id": "ad_2052_00748485910000_2_280_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702504501"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8,
+          "product_tag_ids": [
+            "1496140",
+            "22072785",
+            "22072787",
+            "22197754",
+            "22356775",
+            "22475760",
+            "22547975",
+            "22555084",
+            "22634689",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ffdb1d26131d3a91162874009016d98b",
+          "similarity_priority": 6,
+          "name": "Birch Tree Full Cream Milk Powder | 300g",
+          "sale_price": "2 for ₱280.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱280.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱280.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱280.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705572665146335",
+        "reference_id": "ad_2052_00748485910000_2_280_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702504501"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8,
+        "product_tag_ids": [
+          "1496140",
+          "22072785",
+          "22072787",
+          "22197754",
+          "22356775",
+          "22475760",
+          "22547975",
+          "22555084",
+          "22634689",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ffdb1d26131d3a91162874009016d98b",
+        "similarity_priority": 6,
+        "name": "Birch Tree Full Cream Milk Powder | 300g",
+        "sale_price": "2 for ₱280.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱280.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 140.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485910000",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_full_cream_milk_powder_300g/p/1564405684702504501"
+    },
+    {
+      "id": "1564405684702504502",
+      "store_id": "2052",
+      "like_code": "123788",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱325.50",
+      "unit_price": 325.5,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848590999",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485909998",
+      "reference_ids": [
+        "00748485909998",
+        "00748485401034",
+        "00748485905549",
+        "00748485908663"
+      ],
+      "name": "Birch Tree Full Cream Milk Powder | 700g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504502/7f7e8602ff14a574be5b91efe0fe3986",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485909998",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_full_cream_milk_powder_700g/p/1564405684702504502"
+    },
+    {
+      "id": "1564405684710220558",
+      "store_id": "2052",
+      "like_code": "343105",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱123.00",
+      "unit_price": 123.0,
+      "popularity": 7078,
+      "upc": "74848591306",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485913063",
+      "reference_ids": [
+        "00748485913063",
+        "00748485401751"
+      ],
+      "name": "Birch Tree Milk Fortified Adult Boost | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710220558/596c2547c24cf512560811b3fcf83a3b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485913063",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_milk_fortified_adult_boost_300g/p/1564405684710220558"
+    },
+    {
+      "id": "1564405684710220560",
+      "store_id": "2052",
+      "like_code": "343106",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱15.00",
+      "unit_price": 15.0,
+      "popularity": 644,
+      "upc": "74848540174",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401744",
+      "reference_ids": [
+        "00748485401744"
+      ],
+      "name": "Birch Tree Milk Fortified Adult Boost | 33g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710220560/08461f8f3ee49e14970ece7d13aead94",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401744",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_milk_fortified_adult_boost_33g/p/1564405684710220560"
+    },
+    {
+      "id": "1564405684710220562",
+      "store_id": "2052",
+      "like_code": "343104",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848591307",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485913070",
+      "reference_ids": [
+        "00748485913070",
+        "00748485401768"
+      ],
+      "name": "Birch Tree Milk Fortified Adult Boost | 600g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710220562/21ce25ed5ed625b62b1d38dbc3206f32",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485913070",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_milk_fortified_adult_boost_600g/p/1564405684710220562"
+    },
+    {
+      "id": "1564405684711113583",
+      "store_id": "2052",
+      "like_code": "347832",
+      "department_id": [
+        "22459165"
+      ],
+      "price": "₱320.00",
+      "unit_price": 320.0,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848540177",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401775",
+      "reference_ids": [
+        "00748485401775"
+      ],
+      "name": "Birch Tree Milk Fortified Adult Boost | 925g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711113583/b33480fed5da8f73074e35852bd9775d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401775",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/birch_tree_milk_fortified_adult_boost_925g/p/1564405684711113583"
+    },
+    {
+      "id": "1564405684709311486",
+      "store_id": "2052",
+      "like_code": "338908",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱283.25",
+      "unit_price": 283.25,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "1074848540173",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "10748485401734",
+      "reference_ids": [
+        "10748485401734",
+        "00748485401737"
+      ],
+      "name": "Birch Tree Milk Fortified Choco Powdered Milk Drink | 1kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709311486/636ee9872882e3d021626bd1165d8b1f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "10748485401734",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_milk_fortified_choco_powdered_milk_drink_1kg/p/1564405684709311486"
+    },
+    {
+      "id": "1564405684704723547",
+      "store_id": "2052",
+      "like_code": "314967",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱94.00",
+      "unit_price": 94.0,
+      "popularity": 4181,
+      "upc": "74848540164",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401645",
+      "reference_ids": [
+        "00748485401645"
+      ],
+      "name": "Birch Tree Milk Fortified Choco Powdered Milk Drink | 290g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704723547/9f0c758b37297d7766faf4542c0add42",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401645",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_milk_fortified_choco_powdered_milk_drink_290g/p/1564405684704723547"
+    },
+    {
+      "id": "1564405684709311478",
+      "store_id": "2052",
+      "like_code": "338909",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱181.50",
+      "unit_price": 181.5,
+      "popularity": 15,
+      "quantity_step": 1.0,
+      "upc": "74848540172",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485401720",
+      "reference_ids": [
+        "00748485401720"
+      ],
+      "name": "Birch Tree Milk Fortified Choco Powdered Milk Drink | 600g",
+      "size": "pc",
+      "price_disclaimer": "BUY P399 WORTH OF ITEMS, FREE DELIVERY + FREE BIRCH TREE. USE PROMO CODE : WMCENTURYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684709311478/bcd357f987e65561bb376720f5d2b239",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485401720",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/birch_tree_milk_fortified_choco_powdered_milk_drink_600g/p/1564405684709311478"
+    },
+    {
+      "id": "1564405684710341030",
+      "store_id": "2052",
+      "like_code": "343812",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱234.00",
+      "unit_price": 234.0,
+      "popularity": 999999,
+      "upc": "480652087040",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520870408",
+      "reference_ids": [
+        "04806520870408"
+      ],
+      "name": "Bite Block Citronella Lotion | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710341030/98915fd771b2d39e9cd83e7228730c3a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806520870408",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bite_block_citronella_lotion_100ml/p/1564405684710341030"
+    },
+    {
+      "id": "1564405684712005003",
+      "store_id": "2052",
+      "like_code": "299445",
+      "department_id": [
+        "22459151"
+      ],
+      "price": "₱154.00",
+      "unit_price": 154.0,
+      "popularity": 999999,
+      "upc": "480652087039",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520870392",
+      "reference_ids": [
+        "04806520870392"
+      ],
+      "name": "Bite Block Citronella Lotion with Eucalyptus | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712005003/ccc91bcaa1d3a42a4f8075d93ab8f0c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806520870392",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/skin_care/bite_block_citronella_lotion_with_eucalyptus_100ml/p/1564405684712005003"
+    },
+    {
+      "id": "1564405684710341028",
+      "store_id": "2052",
+      "like_code": "343813",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱264.00",
+      "unit_price": 264.0,
+      "popularity": 9052,
+      "upc": "480652087038",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520870385",
+      "reference_ids": [
+        "04806520870385"
+      ],
+      "name": "Bite Block Citronella Spray with Eucalyptus | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710341028/6c1ca35c22bc008d9feb0e81eeb93444",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806520870385",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bite_block_citronella_spray_with_eucalyptus_100ml/p/1564405684710341028"
+    },
+    {
+      "id": "1564405684710341027",
+      "store_id": "2052",
+      "like_code": "343814",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱204.00",
+      "unit_price": 204.0,
+      "popularity": 7060,
+      "upc": "480652087022",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520870224",
+      "reference_ids": [
+        "04806520870224"
+      ],
+      "name": "Bite Block Insect Repellent Daily | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710341027/aa07ef71a3985432767ab0549e37b76e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806520870224",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/bite_block_insect_repellent_daily_100ml/p/1564405684710341027"
+    },
+    {
+      "id": "1564405684711722809",
+      "store_id": "2052",
+      "like_code": "347841",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱13.00",
+      "unit_price": 13.0,
+      "popularity": 10348,
+      "upc": "480019411282",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800194112826",
+      "reference_ids": [
+        "04800194112826"
+      ],
+      "name": "Bizikits Toasted Crackers Cheese | 48g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711722809/32659ce5fb4b7278ab21062033a6ea03",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800194112826",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/bizikits_toasted_crackers_cheese_48g/p/1564405684711722809"
+    },
+    {
+      "id": "1564405684711722808",
+      "store_id": "2052",
+      "like_code": "347842",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱13.00",
+      "unit_price": 13.0,
+      "popularity": 999999,
+      "upc": "480019411281",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800194112819",
+      "reference_ids": [
+        "04800194112819"
+      ],
+      "name": "Bizikits Toasted Crackers Sour Cream and Onion | 48g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711722808/96238735a1dee24bb8b5a561053fd2fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800194112819",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/bizikits_toasted_crackers_sour_cream_and_onion_48g/p/1564405684711722808"
+    },
+    {
+      "id": "1764405684714997018",
+      "store_id": "2052",
+      "like_code": "433289",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱482.00",
+      "unit_price": 482.0,
+      "popularity": 999999,
+      "upc": "471158781388",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587813889",
+      "reference_ids": [
+        "04711587813889"
+      ],
+      "name": "Black Bridge Taiwan Black Hog Sausage | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997018/f4896afe2d5b2e2274b920aa5c13839f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587813889",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_black_hog_sausage_220g/p/1764405684714997018"
+    },
+    {
+      "id": "1764405684714997016",
+      "store_id": "2052",
+      "like_code": "433292",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱1,044.00",
+      "unit_price": 1044.0,
+      "popularity": 999999,
+      "upc": "471158781354",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587813544",
+      "reference_ids": [
+        "04711587813544"
+      ],
+      "name": "Black Bridge Taiwan Black Hog Sausage | 530g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997016/278643b4988fce5b6174e5248aeec127",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587813544",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_black_hog_sausage_530g/p/1764405684714997016"
+    },
+    {
+      "id": "1764405684714997008",
+      "store_id": "2052",
+      "like_code": "433288",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱466.00",
+      "unit_price": 466.0,
+      "popularity": 999999,
+      "upc": "471158780088",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587800889",
+      "reference_ids": [
+        "04711587800889"
+      ],
+      "name": "Black Bridge Taiwan Pork Sausage Garlic | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997008/d4e5989a47639d0805bb1ccc1e1de4c6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587800889",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_pork_sausage_garlic_220g/p/1764405684714997008"
+    },
+    {
+      "id": "1764405684714997010",
+      "store_id": "2052",
+      "like_code": "433293",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱925.00",
+      "unit_price": 925.0,
+      "popularity": 999999,
+      "upc": "471158780090",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587800902",
+      "reference_ids": [
+        "04711587800902"
+      ],
+      "name": "Black Bridge Taiwan Pork Sausage Garlic | 530g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997010/dfd0cce6da9f89a67c9db173375e59cb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587800902",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_pork_sausage_garlic_530g/p/1764405684714997010"
+    },
+    {
+      "id": "1764405684714997006",
+      "store_id": "2052",
+      "like_code": "433287",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱466.00",
+      "unit_price": 466.0,
+      "popularity": 999999,
+      "upc": "471158780087",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587800872",
+      "reference_ids": [
+        "04711587800872"
+      ],
+      "name": "Black Bridge Taiwan Pork Sausage Original | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997006/088cd5244a9e6d1444501dba1c5513f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587800872",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_pork_sausage_original_220g/p/1764405684714997006"
+    },
+    {
+      "id": "1764405684714997012",
+      "store_id": "2052",
+      "like_code": "433291",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱925.00",
+      "unit_price": 925.0,
+      "popularity": 999999,
+      "upc": "471158780089",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587800896",
+      "reference_ids": [
+        "04711587800896"
+      ],
+      "name": "Black Bridge Taiwan Pork Sausage Original | 530g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997012/c31f76144f8411afaae9e579a0520836",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587800896",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_pork_sausage_original_530g/p/1764405684714997012"
+    },
+    {
+      "id": "1764405684714997014",
+      "store_id": "2052",
+      "like_code": "433290",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱925.00",
+      "unit_price": 925.0,
+      "popularity": 999999,
+      "upc": "471158780168",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711587801688",
+      "reference_ids": [
+        "04711587801688"
+      ],
+      "name": "Black Bridge Taiwan Sausage Black Pepper | 530g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997014/1fc825c2fc03ab84f2f729393a171924",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711587801688",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/black_bridge_taiwan_sausage_black_pepper_530g/p/1764405684714997014"
+    },
+    {
+      "id": "1564405684708671598",
+      "store_id": "2052",
+      "like_code": "304864",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "480031015407",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800310154075",
+      "reference_ids": [
+        "04800310154075"
+      ],
+      "name": "Blackwater Deo Spray Dark Pleasure | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708671598/1e2235d9bd931a4fa7d3a02cd09cd917",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800310154075",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/blackwater_deo_spray_dark_pleasure_150ml/p/1564405684708671598"
+    },
+    {
+      "id": "1564405684708671596",
+      "store_id": "2052",
+      "like_code": "304865",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "480031015406",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800310154068",
+      "reference_ids": [
+        "04800310154068"
+      ],
+      "name": "Blackwater Deo Spray Dark Rebel | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708671596/0a7a5c7e54dbb719da19b4c2a3782691",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800310154068",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/blackwater_deo_spray_dark_rebel_150ml/p/1564405684708671596"
+    },
+    {
+      "id": "1564405684708671603",
+      "store_id": "2052",
+      "like_code": "305102",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 999999,
+      "upc": "480031026036",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800310260363",
+      "reference_ids": [
+        "04800310260363"
+      ],
+      "name": "Blackwater Men's Spray Aqua | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708671603/d3d0b9031ab239a0de0ab52cb1fa2a21",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800310260363",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/blackwater_men_s_spray_aqua_100ml/p/1564405684708671603"
+    },
+    {
+      "id": "1564405684708671602",
+      "store_id": "2052",
+      "like_code": "305104",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 999999,
+      "upc": "480031026037",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800310260370",
+      "reference_ids": [
+        "04800310260370"
+      ],
+      "name": "Blackwater Men's Spray Dynamic | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708671602/1b59a0417f6e1d2722fdc122f953bdd9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800310260370",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/blackwater_men_s_spray_dynamic_100ml/p/1564405684708671602"
+    },
+    {
+      "id": "1564405684708671626",
+      "store_id": "2052",
+      "like_code": "304874",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "480031015356",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800310153566",
+      "reference_ids": [
+        "04800310153566"
+      ],
+      "name": "Blackwater Women Deo Spray Desire Blue | 150ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708671626/d7eacaaecf8e98e822c27ad13eeebb4d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800310153566",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/blackwater_women_deo_spray_desire_blue_150ml/p/1564405684708671626"
+    },
+    {
+      "id": "1564405684712271684",
+      "store_id": "2052",
+      "like_code": "358996",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱84.00",
+      "unit_price": 84.0,
+      "popularity": 8861,
+      "upc": "480057514386",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575143869",
+      "reference_ids": [
+        "04800575143869"
+      ],
+      "name": "Black & White Full Cream Evaporated Milk | 385ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712271684/9f23956285f8916040046ec97d85086f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800575143869",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/black_white_full_cream_evaporated_milk_385ml/p/1564405684712271684"
+    },
+    {
+      "id": "1564405684713527659",
+      "store_id": "2052",
+      "like_code": "353287",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003532870",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035328702",
+      "reference_ids": [
+        "02000035328702"
+      ],
+      "name": "Bl Avocado Rectangle Pillow | 45cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000035328702",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bl_avocado_rectangle_pillow_45cm/p/1564405684713527659"
+    },
+    {
+      "id": "1564405684702535670",
+      "store_id": "2052",
+      "like_code": "127882",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱22.50",
+      "unit_price": 22.5,
+      "popularity": 500,
+      "upc": "480001605490",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016054907",
+      "reference_ids": [
+        "04800016054907"
+      ],
+      "name": "Blend 45 3-in-1 Original Coffee Mix | 18g x 5s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535670/98e4429bedac136de6c210d70186bfed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016054907",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/blend_45_3_in_1_original_coffee_mix_18g_x_5s/p/1564405684702535670"
+    },
+    {
+      "id": "1564405684713804468",
+      "store_id": "2052",
+      "like_code": "384770",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 1539,
+      "upc": "480001602431",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016024313",
+      "reference_ids": [
+        "04800016024313"
+      ],
+      "name": "Blend 45 Kapeng Pinoy Malunggay Coffee Doble Pack | 52g x 5s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713804468/f6919be1950238fb9291fae37fe2af71",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016024313",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/blend_45_kapeng_pinoy_malunggay_coffee_doble_pack_52g_x_5s/p/1564405684713804468"
+    },
+    {
+      "id": "1564405684702535630",
+      "store_id": "2052",
+      "like_code": "172787",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱60.25",
+      "unit_price": 60.25,
+      "popularity": 750,
+      "upc": "480001602430",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016024306",
+      "reference_ids": [
+        "04800016024306",
+        "04800016021633"
+      ],
+      "name": "Blend 45 Kondensada Coffee Mix | 40g x 5s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535630/fb1748e29c337f70994fd19125c03533",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016024306",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/blend_45_kondensada_coffee_mix_40g_x_5s/p/1564405684702535630"
+    }
+  ]
+}

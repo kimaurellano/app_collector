@@ -1,0 +1,2945 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684710735450",
+      "store_id": "2052",
+      "like_code": "321344",
+      "department_id": [
+        "22575948"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 999999,
+      "upc": "200003213440",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000032134405",
+      "reference_ids": [
+        "02000032134405"
+      ],
+      "name": "Bath Towel | 65x135cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710735450/d0ff5792f84b49b2d5334d9d441742ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000032134405",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bath_towel_65x135cm/p/1564405684710735450"
+    },
+    {
+      "id": "1564405684702543718",
+      "store_id": "2052",
+      "like_code": "35230",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱168.00",
+      "unit_price": 168.0,
+      "popularity": 5519,
+      "upc": "480196265356",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962653565",
+      "reference_ids": [
+        "04801962653565"
+      ],
+      "name": "Bayer Racumin Paste | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543718/916bb1c3896219d664e3cb17c6606403",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962653565",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/bayer_racumin_paste_100g/p/1564405684702543718"
+    },
+    {
+      "id": "1564405684702543701",
+      "store_id": "2052",
+      "like_code": "14884",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱84.25",
+      "unit_price": 84.25,
+      "popularity": 5817,
+      "upc": "480196220303",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962203036",
+      "reference_ids": [
+        "04801962203036"
+      ],
+      "name": "Bayer Racumin Ready-Made Bait | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543701/c904e8012acac98e7043b34b4ca0d644",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962203036",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/bayer_racumin_ready_made_bait_50g/p/1564405684702543701"
+    },
+    {
+      "id": "1564405684702543405",
+      "store_id": "2052",
+      "like_code": "108728",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱317.00",
+      "unit_price": 317.0,
+      "popularity": 6238,
+      "upc": "480123411411",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234114114",
+      "reference_ids": [
+        "04801234114114"
+      ],
+      "name": "Baygon 24-Hour Roach Killer | 6s",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543405/e71e4bc345b99a54ccd0d2a8e3eea57f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234114114",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_24_hour_roach_killer_6s/p/1564405684702543405"
+    },
+    {
+      "id": "1564405684702543406",
+      "store_id": "2052",
+      "like_code": "61633",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱54.75",
+      "unit_price": 54.75,
+      "popularity": 3453,
+      "upc": "480123411371",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234113711",
+      "reference_ids": [
+        "04801234113711"
+      ],
+      "name": "Baygon Chalk Roach & Ant Killer | 15g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543406/bdc580c05d2f33b5e683c8f903c4dadd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234113711",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_chalk_roach_ant_killer_15g/p/1564405684702543406"
+    },
+    {
+      "id": "1564405684702543379",
+      "store_id": "2052",
+      "like_code": "14558",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱255.00",
+      "unit_price": 255.0,
+      "popularity": 8395,
+      "upc": "480196220886",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962208864",
+      "reference_ids": [
+        "04801962208864",
+        "04801234107017"
+      ],
+      "name": "Baygon Cockroach Killer | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543379/b0c238b17a8c99aa9a0761d5520d0347",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962208864",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_cockroach_killer_300ml/p/1564405684702543379"
+    },
+    {
+      "id": "1564405684702543377",
+      "store_id": "2052",
+      "like_code": "14561",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱379.00",
+      "unit_price": 379.0,
+      "popularity": 1,
+      "upc": "480196220887",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962208871",
+      "reference_ids": [
+        "04801962208871",
+        "04801234107024"
+      ],
+      "name": "Baygon Cockroach Killer | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543377/04159cbdc7fa2c92b5a71c05d6349da8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962208871",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_cockroach_killer_500ml/p/1564405684702543377"
+    },
+    {
+      "id": "1564405684702543372",
+      "store_id": "2052",
+      "like_code": "110184",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱256.00",
+      "unit_price": 256.0,
+      "popularity": 999999,
+      "upc": "480123410601",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234106010",
+      "reference_ids": [
+        "04801234106010"
+      ],
+      "name": "Baygon Defense Flying Insect Killer | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543372/07827409740da2173dc35c6c194f740e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04801234106010",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_defense_flying_insect_killer_300ml/p/1564405684702543372"
+    },
+    {
+      "id": "1564405684702543373",
+      "store_id": "2052",
+      "like_code": "110185",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱375.00",
+      "unit_price": 375.0,
+      "popularity": 2,
+      "upc": "480123410602",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234106027",
+      "reference_ids": [
+        "04801234106027"
+      ],
+      "name": "Baygon Defense Flying Insect Killer | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543373/51badc825ad1d02570ca13bc05bb6b25",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234106027",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_defense_flying_insect_killer_500ml/p/1564405684702543373"
+    },
+    {
+      "id": "1564405684702543374",
+      "store_id": "2052",
+      "like_code": "110186",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱419.00",
+      "unit_price": 419.0,
+      "popularity": 999999,
+      "upc": "480123410603",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234106034",
+      "reference_ids": [
+        "04801234106034"
+      ],
+      "name": "Baygon Defense Flying Insect Killer | 600ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543374/68f750f6c5803eab800e4a3b0df33133",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04801234106034",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_defense_flying_insect_killer_600ml/p/1564405684702543374"
+    },
+    {
+      "id": "1564405684702543403",
+      "store_id": "2052",
+      "like_code": "14715",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 875,
+      "upc": "480196220147",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962201476",
+      "reference_ids": [
+        "04801962201476",
+        "04801234113520"
+      ],
+      "name": "Baygon Fly Paper | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543403/d6d564583a7ca8ff37ce7ee63829dfb1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962201476",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_fly_paper_2s/p/1564405684702543403"
+    },
+    {
+      "id": "1564405684702543400",
+      "store_id": "2052",
+      "like_code": "125242",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱101.00",
+      "unit_price": 101.0,
+      "popularity": 5419,
+      "upc": "480123411241",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234112417",
+      "reference_ids": [
+        "04801234112417"
+      ],
+      "name": "Baygon Mat Anti-Dengue Mosquitoes | 1 Heater + 5 Mats",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543400/5c0901ad5f7c00193d28802e1f184ad5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234112417",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_mat_anti_dengue_mosquitoes_1_heater_5_mats/p/1564405684702543400"
+    },
+    {
+      "id": "1564405684702543404",
+      "store_id": "2052",
+      "like_code": "125244",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱132.00",
+      "unit_price": 132.0,
+      "popularity": 2219,
+      "upc": "480123411243",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234112431",
+      "reference_ids": [
+        "04801234112431"
+      ],
+      "name": "Baygon Mat Anti-Dengue Mosquitoes | 30s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543404/bf11d5b284a9fbbce757456d1b9d8586",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234112431",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_mat_anti_dengue_mosquitoes_30s/p/1564405684702543404"
+    },
+    {
+      "id": "1564405684704766651",
+      "store_id": "2052",
+      "like_code": "292381",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱23.25",
+      "unit_price": 23.25,
+      "popularity": 1188,
+      "upc": "480123413441",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234134419",
+      "reference_ids": [
+        "04801234134419"
+      ],
+      "name": "Baygon Mosquito Coil Anti Dengue | 12s",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766651/0309070302ebbd597f83a936ea5ee4d1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234134419",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baygon_mosquito_coil_anti_dengue_12s/p/1564405684704766651"
+    },
+    {
+      "id": "1564405684704766652",
+      "store_id": "2052",
+      "like_code": "278334",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱23.25",
+      "unit_price": 23.25,
+      "popularity": 3,
+      "upc": "480123413449",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234134495",
+      "reference_ids": [
+        "04801234134495"
+      ],
+      "name": "Baygon Mosquito Coil Jumbo | 10s",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766652/8c60a04e55082e2c39a764f3c659fe49",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234134495",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_mosquito_coil_jumbo_10s/p/1564405684704766652"
+    },
+    {
+      "id": "1564405684702543368",
+      "store_id": "2052",
+      "like_code": "81108",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱201.00",
+      "unit_price": 201.0,
+      "popularity": 4769,
+      "upc": "480123410222",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234102227",
+      "reference_ids": [
+        "04801234102227"
+      ],
+      "name": "Baygon Mosquito Repellent Liquid Electric Refill | 19.8g",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543368/b8c0fd856fb259c2071fa95dd412bdfe",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3689115606965041441",
+          "reference_id": "tpr_2052_04801234102227_180_75",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3689399153063901342"
+          ],
+          "product_ids": [
+            "1564405684702543368"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4769,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d3bb41c022f6edbd707fef2e3fe3bf81",
+          "similarity_priority": 5,
+          "name": "Baygon Mosquito Repellent Liquid Electric Refill | 19.8g",
+          "sale_price": "₱180.75",
+          "sale_price_md": "**₱180.75** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3689116189352540197",
+          "reference_id": "ad_2052_04801234102227_1_180_75",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3689399153063901342"
+          ],
+          "product_ids": [
+            "1564405684702543368"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2385,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "301d2d4fce2aba3c576110ac11c247d6",
+          "similarity_priority": 6,
+          "name": "Baygon Mosquito Repellent Liquid Electric Refill | 19.8g",
+          "sale_price": "₱180.75",
+          "sale_price_md": "**₱180.75** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱180.75",
+      "sale_price_md": "**₱180.75** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3689115606965041441",
+        "reference_id": "tpr_2052_04801234102227_180_75",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3689399153063901342"
+        ],
+        "product_ids": [
+          "1564405684702543368"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4769,
+        "product_tag_ids": [
+          "547877",
+          "22174175",
+          "22174177",
+          "22197754",
+          "22356799",
+          "22459239",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "d3bb41c022f6edbd707fef2e3fe3bf81",
+        "similarity_priority": 5,
+        "name": "Baygon Mosquito Repellent Liquid Electric Refill | 19.8g",
+        "sale_price": "₱180.75",
+        "sale_price_md": "**₱180.75** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 180.75,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱180.75 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234102227",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_mosquito_repellent_liquid_electric_refill_19_8g/p/1564405684702543368"
+    },
+    {
+      "id": "1564405684702543367",
+      "store_id": "2052",
+      "like_code": "81107",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱286.00",
+      "unit_price": 286.0,
+      "popularity": 6490,
+      "upc": "480123410221",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234102210",
+      "reference_ids": [
+        "04801234102210"
+      ],
+      "name": "Baygon Mosquito Repellent Liquid Electric Starter | 19.8g",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543367/3d36f9b6c3aff886a7a20092439b75c1",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3689115606956652831",
+          "reference_id": "tpr_2052_04801234102210_257_25",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3689399200023329480",
+            "3711844539376351279",
+            "3722701401806092891"
+          ],
+          "product_ids": [
+            "1564405684702543367"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6490,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4838871abeea4eaa52322044b984f363",
+          "similarity_priority": 5,
+          "name": "Baygon Mosquito Repellent Liquid Electric Starter | 19.8g",
+          "sale_price": "₱257.25",
+          "sale_price_md": "**₱257.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3689116189318985759",
+          "reference_id": "ad_2052_04801234102210_1_257_25",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3689399200023329480",
+            "3711844539376351279",
+            "3722701401806092891"
+          ],
+          "product_ids": [
+            "1564405684702543367"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3245,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "77992f038fc1e2a6829741df4ad1ffc4",
+          "similarity_priority": 6,
+          "name": "Baygon Mosquito Repellent Liquid Electric Starter | 19.8g",
+          "sale_price": "₱257.25",
+          "sale_price_md": "**₱257.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱257.25",
+      "sale_price_md": "**₱257.25** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3689115606956652831",
+        "reference_id": "tpr_2052_04801234102210_257_25",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183942932783"
+        ],
+        "circular_page_ids": [
+          "3719247210563517409"
+        ],
+        "circular_spot_ids": [
+          "3689399200023329480",
+          "3711844539376351279",
+          "3722701401806092891"
+        ],
+        "product_ids": [
+          "1564405684702543367"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6490,
+        "product_tag_ids": [
+          "547877",
+          "22174175",
+          "22174177",
+          "22197754",
+          "22356799",
+          "22459239",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4838871abeea4eaa52322044b984f363",
+        "similarity_priority": 5,
+        "name": "Baygon Mosquito Repellent Liquid Electric Starter | 19.8g",
+        "sale_price": "₱257.25",
+        "sale_price_md": "**₱257.25** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 257.25,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱257.25 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234102210",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_mosquito_repellent_liquid_electric_starter_19_8g/p/1564405684702543367"
+    },
+    {
+      "id": "1564405684702543387",
+      "store_id": "2052",
+      "like_code": "14502",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱227.00",
+      "unit_price": 227.0,
+      "popularity": 3712,
+      "upc": "480196220889",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962208895",
+      "reference_ids": [
+        "04801962208895",
+        "04801234108014"
+      ],
+      "name": "Baygon Multi Insect Killer (Kerosene Based) | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543387/cc69a1fbcff8911b7cfc879923014cc7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962208895",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_kerosene_based_300ml/p/1564405684702543387"
+    },
+    {
+      "id": "1564405684702543395",
+      "store_id": "2052",
+      "like_code": "14577",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱307.00",
+      "unit_price": 307.0,
+      "popularity": 5498,
+      "upc": "480196220897",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962208970",
+      "reference_ids": [
+        "04801962208970",
+        "04801234111038"
+      ],
+      "name": "Baygon Multi Insect Killer (Kerosene Based) | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543395/3106dd181caa3912781b1523e22ffa32",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962208970",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_kerosene_based_500ml/p/1564405684702543395"
+    },
+    {
+      "id": "1564405684702543388",
+      "store_id": "2052",
+      "like_code": "14512",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱336.00",
+      "unit_price": 336.0,
+      "popularity": 4,
+      "upc": "480196220890",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962208901",
+      "reference_ids": [
+        "04801962208901",
+        "04801234108021"
+      ],
+      "name": "Baygon Multi Insect Killer (Kerosene Based) | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543388/bc551defab7fec4a2a260d67bdc47a98",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962208901",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_kerosene_based_500ml/p/1564405684702543388"
+    },
+    {
+      "id": "1764405684715150508",
+      "store_id": "2052",
+      "like_code": "439866",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱466.00",
+      "unit_price": 466.0,
+      "popularity": 6560,
+      "upc": "955522261329",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09555222613299",
+      "reference_ids": [
+        "09555222613299"
+      ],
+      "name": "Baygon Multi Insect Killer Protector | 700ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715150508/6a33c2abb8dad894507156ea2b7b6c53",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461944167283469",
+          "reference_id": "tpr_2052_09555222613299_419_25",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3722701327709518379"
+          ],
+          "product_ids": [
+            "1764405684715150508"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6560,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "547877",
+            "22174175",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c694b7b9429274c232ce00297674f0a7",
+          "similarity_priority": 5,
+          "name": "Baygon Multi Insect Killer Protector | 700ml",
+          "sale_price": "₱419.25",
+          "sale_price_md": "**₱419.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461664457537942",
+          "reference_id": "ad_2052_09555222613299_1_419_25",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183942932783"
+          ],
+          "circular_page_ids": [
+            "3719247210563517409"
+          ],
+          "circular_spot_ids": [
+            "3722701327709518379"
+          ],
+          "product_ids": [
+            "1764405684715150508"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3280,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "547877",
+            "22174175",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d238d170812c6e920f5289f58ce0b948",
+          "similarity_priority": 6,
+          "name": "Baygon Multi Insect Killer Protector | 700ml",
+          "sale_price": "₱419.25",
+          "sale_price_md": "**₱419.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱419.25",
+      "sale_price_md": "**₱419.25** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461944167283469",
+        "reference_id": "tpr_2052_09555222613299_419_25",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183942932783"
+        ],
+        "circular_page_ids": [
+          "3719247210563517409"
+        ],
+        "circular_spot_ids": [
+          "3722701327709518379"
+        ],
+        "product_ids": [
+          "1764405684715150508"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6560,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "547877",
+          "22174175",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c694b7b9429274c232ce00297674f0a7",
+        "similarity_priority": 5,
+        "name": "Baygon Multi Insect Killer Protector | 700ml",
+        "sale_price": "₱419.25",
+        "sale_price_md": "**₱419.25** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 419.25,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱419.25 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09555222613299",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baygon_multi_insect_killer_protector_700ml/p/1764405684715150508"
+    },
+    {
+      "id": "1564405684702543382",
+      "store_id": "2052",
+      "like_code": "230527",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱274.00",
+      "unit_price": 274.0,
+      "popularity": 1505,
+      "upc": "480123410771",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234107710",
+      "reference_ids": [
+        "04801234107710"
+      ],
+      "name": "Baygon Multi Insect Killer Shield Defense | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543382/8b8cb4c1b9433d7770ed6fdceca42d60",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3599969780737522011",
+          "reference_id": "tpr_2052_04801234107710_192_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702543382"
+          ],
+          "start_date": "2025-09-04T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1505,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "dc89274b7f310220f281b400fdd319d2",
+          "similarity_priority": 5,
+          "name": "Baygon Multi Insect Killer Shield Defense | 300ml",
+          "sale_price": "₱192.00",
+          "sale_price_md": "**₱192.00** (09/04/25 - 12/31/25)",
+          "display_start_date": "2025-09-04",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3599969783463819626",
+          "reference_id": "ad_2052_04801234107710_1_192_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702543382"
+          ],
+          "start_date": "2025-09-04T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 753,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "eea146fece48b6f86f78600217d8efd4",
+          "similarity_priority": 6,
+          "name": "Baygon Multi Insect Killer Shield Defense | 300ml",
+          "sale_price": "₱192.00",
+          "sale_price_md": "**₱192.00** (09/04/25 - 12/31/25)",
+          "display_start_date": "2025-09-04",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-04",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱192.00",
+      "sale_price_md": "**₱192.00** (09/04/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3599969780737522011",
+        "reference_id": "tpr_2052_04801234107710_192_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702543382"
+        ],
+        "start_date": "2025-09-04T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1505,
+        "product_tag_ids": [
+          "547877",
+          "22174175",
+          "22174177",
+          "22197754",
+          "22356799",
+          "22459239",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "dc89274b7f310220f281b400fdd319d2",
+        "similarity_priority": 5,
+        "name": "Baygon Multi Insect Killer Shield Defense | 300ml",
+        "sale_price": "₱192.00",
+        "sale_price_md": "**₱192.00** (09/04/25 - 12/31/25)",
+        "display_start_date": "2025-09-04",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 192.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱192.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234107710",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_shield_defense_300ml/p/1564405684702543382"
+    },
+    {
+      "id": "1564405684702543385",
+      "store_id": "2052",
+      "like_code": "230528",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱385.00",
+      "unit_price": 385.0,
+      "popularity": 5,
+      "upc": "480123410772",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234107727",
+      "reference_ids": [
+        "04801234107727"
+      ],
+      "name": "Baygon Multi Insect Killer Shield Defense | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543385/1a8c5b2eb06bd2217cce8a7ae507119e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3600692566841899141",
+          "reference_id": "tpr_2052_04801234107727_290_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3642452763624880992"
+          ],
+          "product_ids": [
+            "1564405684702543385"
+          ],
+          "start_date": "2025-09-04T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "501b4a20929204a093404e8ca3528537",
+          "similarity_priority": 5,
+          "name": "Baygon Multi Insect Killer Shield Defense | 500ml",
+          "sale_price": "₱290.00",
+          "sale_price_md": "**₱290.00** (09/04/25 - 12/31/25)",
+          "display_start_date": "2025-09-04",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3600693057214757503",
+          "reference_id": "ad_2052_04801234107727_1_290_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3642452763624880992"
+          ],
+          "product_ids": [
+            "1564405684702543385"
+          ],
+          "start_date": "2025-09-04T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "e3044b7e16cfb15cff3937a032d1fb5b",
+          "similarity_priority": 6,
+          "name": "Baygon Multi Insect Killer Shield Defense | 500ml",
+          "sale_price": "₱290.00",
+          "sale_price_md": "**₱290.00** (09/04/25 - 12/31/25)",
+          "display_start_date": "2025-09-04",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-04",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱290.00",
+      "sale_price_md": "**₱290.00** (09/04/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3600692566841899141",
+        "reference_id": "tpr_2052_04801234107727_290_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3642452763624880992"
+        ],
+        "product_ids": [
+          "1564405684702543385"
+        ],
+        "start_date": "2025-09-04T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5,
+        "product_tag_ids": [
+          "547877",
+          "22174175",
+          "22174177",
+          "22197754",
+          "22356799",
+          "22459239",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "501b4a20929204a093404e8ca3528537",
+        "similarity_priority": 5,
+        "name": "Baygon Multi Insect Killer Shield Defense | 500ml",
+        "sale_price": "₱290.00",
+        "sale_price_md": "**₱290.00** (09/04/25 - 12/31/25)",
+        "display_start_date": "2025-09-04",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 290.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱290.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234107727",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_shield_defense_500ml/p/1564405684702543385"
+    },
+    {
+      "id": "1564405684702543407",
+      "store_id": "2052",
+      "like_code": "14609",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 6736,
+      "upc": "480196220296",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962202961",
+      "reference_ids": [
+        "04801962202961",
+        "04801234116514"
+      ],
+      "name": "Baygon Multi Insect Killer Spray | 1pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543407/b074b887668492d0f916e5f8b6972435",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962202961",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_spray_1pc/p/1564405684702543407"
+    },
+    {
+      "id": "1564405684702543391",
+      "store_id": "2052",
+      "like_code": "110676",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱284.00",
+      "unit_price": 284.0,
+      "popularity": 3657,
+      "upc": "480123410821",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234108212",
+      "reference_ids": [
+        "04801234108212"
+      ],
+      "name": "Baygon Multi Insect Killer Water Based | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543391/592a2e9de50123e4da6a429d137cd86d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234108212",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_water_based_300ml/p/1564405684702543391"
+    },
+    {
+      "id": "1564405684702543390",
+      "store_id": "2052",
+      "like_code": "111673",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "2 for ₱774.00",
+      "unit_price": 387.0,
+      "popularity": 6,
+      "quantity_step": 2.0,
+      "upc": "480123410822",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234108229",
+      "reference_ids": [
+        "04801234108229"
+      ],
+      "name": "Baygon Multi Insect Killer Waterbased | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 50",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543390/211e9b100e722abda8a5d3adfbb9c44a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234108229",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_waterbased_500ml/p/1564405684702543390"
+    },
+    {
+      "id": "1564405684702543399",
+      "store_id": "2052",
+      "like_code": "14595",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱308.00",
+      "unit_price": 308.0,
+      "popularity": 5727,
+      "upc": "480196225212",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962252126",
+      "reference_ids": [
+        "04801962252126",
+        "04801234111137"
+      ],
+      "name": "Baygon Multi Insect Killer (Water Based) | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543399/e998e61ab9e16b3fd5aa4b74c9fedb53",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962252126",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_water_based_500ml/p/1564405684702543399"
+    },
+    {
+      "id": "1564405684702543393",
+      "store_id": "2052",
+      "like_code": "110677",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "2 for ₱840.00",
+      "unit_price": 420.0,
+      "popularity": 5432,
+      "quantity_step": 2.0,
+      "upc": "480123410823",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234108236",
+      "reference_ids": [
+        "04801234108236"
+      ],
+      "name": "Baygon Multi Insect Killer Water Based | 600ml",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 100",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543393/bed46b89e99f6b902f82b9cbadd407f2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234108236",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_killer_water_based_600ml/p/1564405684702543393"
+    },
+    {
+      "id": "1564405684702543401",
+      "store_id": "2052",
+      "like_code": "97224",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱77.00",
+      "unit_price": 77.0,
+      "popularity": 4909,
+      "upc": "480123411175",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234111755",
+      "reference_ids": [
+        "04801234111755"
+      ],
+      "name": "Baygon Multi Insect Spray Water Based Refill | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543401/7f4da61653cc10be09db6d3a08534998",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234111755",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_multi_insect_spray_water_based_refill_100ml/p/1564405684702543401"
+    },
+    {
+      "id": "1564405684702543378",
+      "store_id": "2052",
+      "like_code": "129869",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱256.00",
+      "unit_price": 256.0,
+      "popularity": 999999,
+      "upc": "480123410731",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234107314",
+      "reference_ids": [
+        "04801234107314"
+      ],
+      "name": "Baygon Protector Crawling Insect Killer | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543378/1c0e848219bc6ce616de0e8380ba0908",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04801234107314",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_protector_crawling_insect_killer_300ml/p/1564405684702543378"
+    },
+    {
+      "id": "1564405684702543380",
+      "store_id": "2052",
+      "like_code": "129870",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱379.00",
+      "unit_price": 379.0,
+      "popularity": 7708,
+      "upc": "480123410732",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234107321",
+      "reference_ids": [
+        "04801234107321"
+      ],
+      "name": "Baygon Protector Crawling Insect Killer | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543380/b7fc0783cc58a0396c16c176fcadbd20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234107321",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_protector_crawling_insect_killer_500ml/p/1564405684702543380"
+    },
+    {
+      "id": "1564405684702543376",
+      "store_id": "2052",
+      "like_code": "129867",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱256.00",
+      "unit_price": 256.0,
+      "popularity": 6647,
+      "upc": "480123410641",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234106416",
+      "reference_ids": [
+        "04801234106416"
+      ],
+      "name": "Baygon Protector Flying Insect Killer | 300ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543376/9b564f06d7039237048ee30749ed2c42",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234106416",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baygon_protector_flying_insect_killer_300ml/p/1564405684702543376"
+    },
+    {
+      "id": "1564405684702543375",
+      "store_id": "2052",
+      "like_code": "129868",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱374.00",
+      "unit_price": 374.0,
+      "popularity": 6971,
+      "upc": "480123410642",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234106423",
+      "reference_ids": [
+        "04801234106423"
+      ],
+      "name": "Baygon Protector Flying Insect Killer | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543375/097a04e50a268763d9f86898cce8378c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234106423",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_protector_flying_insect_killer_500ml/p/1564405684702543375"
+    },
+    {
+      "id": "1564405684702543386",
+      "store_id": "2052",
+      "like_code": "129871",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱255.00",
+      "unit_price": 255.0,
+      "popularity": 2109,
+      "upc": "480123410781",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234107819",
+      "reference_ids": [
+        "04801234107819"
+      ],
+      "name": "Baygon Protector Multi Insect Killer | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543386/8b73b75dc8898f03288703c42445c4aa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234107819",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_protector_multi_insect_killer_300ml/p/1564405684702543386"
+    },
+    {
+      "id": "1564405684702543383",
+      "store_id": "2052",
+      "like_code": "129872",
+      "department_id": [
+        "22459239"
+      ],
+      "price": "₱348.00",
+      "unit_price": 348.0,
+      "popularity": 7,
+      "upc": "480123410782",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234107826",
+      "reference_ids": [
+        "04801234107826"
+      ],
+      "name": "Baygon Protector Multi Insect Killer | 500ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543383/cdfc64d95cb54db4ae25bf2c60234785",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3379770984184676727",
+          "reference_id": "tpr_2052_04801234107826_305_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702543383"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "99db69b23f15874244ca3fbce76225a9",
+          "similarity_priority": 5,
+          "name": "Baygon Protector Multi Insect Killer | 500ml",
+          "sale_price": "₱305.00",
+          "sale_price_md": "**₱305.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3379677076394082869",
+          "reference_id": "ad_2052_04801234107826_1_305_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702543383"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4,
+          "product_tag_ids": [
+            "547877",
+            "22174175",
+            "22174177",
+            "22197754",
+            "22356799",
+            "22459239",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ce1d78b82959ac3804c8c4a01e11a4eb",
+          "similarity_priority": 6,
+          "name": "Baygon Protector Multi Insect Killer | 500ml",
+          "sale_price": "₱305.00",
+          "sale_price_md": "**₱305.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱305.00",
+      "sale_price_md": "**₱305.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3379770984184676727",
+        "reference_id": "tpr_2052_04801234107826_305_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702543383"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7,
+        "product_tag_ids": [
+          "547877",
+          "22174175",
+          "22174177",
+          "22197754",
+          "22356799",
+          "22459239",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "99db69b23f15874244ca3fbce76225a9",
+        "similarity_priority": 5,
+        "name": "Baygon Protector Multi Insect Killer | 500ml",
+        "sale_price": "₱305.00",
+        "sale_price_md": "**₱305.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 305.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱305.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234107826",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/insect_pest_control/baygon_protector_multi_insect_killer_500ml/p/1564405684702543383"
+    },
+    {
+      "id": "1564405684704766650",
+      "store_id": "2052",
+      "like_code": "278333",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱23.25",
+      "unit_price": 23.25,
+      "popularity": 915,
+      "upc": "480123413442",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801234134426",
+      "reference_ids": [
+        "04801234134426"
+      ],
+      "name": "Baygon Scented Mosquito Coil Floral | 12s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766650/4a01d0e3162586c30179d1ba3bd45c7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801234134426",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baygon_scented_mosquito_coil_floral_12s/p/1564405684704766650"
+    },
+    {
+      "id": "1564405684716059627",
+      "store_id": "2052",
+      "like_code": "411387",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱490.00",
+      "unit_price": 490.0,
+      "popularity": 7552,
+      "upc": "955522261330",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09555222613305",
+      "reference_ids": [
+        "09555222613305"
+      ],
+      "name": "Baygon Shield Defense Multi Insect Killer | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716059627/9fede16dc0f1c2374b2be0d4213d1705",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3599969832495233228",
+          "reference_id": "tpr_2052_09555222613305_376_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684716059627"
+          ],
+          "start_date": "2025-09-04T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7552,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "547877",
+            "22174175",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d7422ac8c8cab8a8b9bda8e3005eb838",
+          "similarity_priority": 5,
+          "name": "Baygon Shield Defense Multi Insect Killer | 700ml",
+          "sale_price": "₱376.00",
+          "sale_price_md": "**₱376.00** (09/04/25 - 12/31/25)",
+          "display_start_date": "2025-09-04",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3599969833711581498",
+          "reference_id": "ad_2052_09555222613305_1_376_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684716059627"
+          ],
+          "start_date": "2025-09-04T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3776,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "547877",
+            "22174175",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22919042",
+            "22975289"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3c842f6b9f51ad9ff403650e3c3b8625",
+          "similarity_priority": 6,
+          "name": "Baygon Shield Defense Multi Insect Killer | 700ml",
+          "sale_price": "₱376.00",
+          "sale_price_md": "**₱376.00** (09/04/25 - 12/31/25)",
+          "display_start_date": "2025-09-04",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-09-04",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱376.00",
+      "sale_price_md": "**₱376.00** (09/04/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3599969832495233228",
+        "reference_id": "tpr_2052_09555222613305_376_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684716059627"
+        ],
+        "start_date": "2025-09-04T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7552,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "547877",
+          "22174175",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22919042",
+          "22975289"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "d7422ac8c8cab8a8b9bda8e3005eb838",
+        "similarity_priority": 5,
+        "name": "Baygon Shield Defense Multi Insect Killer | 700ml",
+        "sale_price": "₱376.00",
+        "sale_price_md": "**₱376.00** (09/04/25 - 12/31/25)",
+        "display_start_date": "2025-09-04",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 376.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱376.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09555222613305",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baygon_shield_defense_multi_insect_killer_700ml/p/1564405684716059627"
+    },
+    {
+      "id": "1564405684715587069",
+      "store_id": "2052",
+      "like_code": "407929",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱423.00",
+      "unit_price": 423.0,
+      "popularity": 5765,
+      "upc": "955522261326",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09555222613268",
+      "reference_ids": [
+        "09555222613268"
+      ],
+      "name": "Baygon Shield Multi Insect Killer | 700ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P599 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMSCJFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715587069/57a48924b364c0a011642613d47d650f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09555222613268",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/baygon_shield_multi_insect_killer_700ml/p/1564405684715587069"
+    },
+    {
+      "id": "1564405684702543716",
+      "store_id": "2052",
+      "like_code": "146875",
+      "department_id": [
+        "1496198"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 6024,
+      "upc": "480196266534",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962665346",
+      "reference_ids": [
+        "04801962665346"
+      ],
+      "name": "Bayopet Clean 'n Shine Soap | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543716/993ed3a7f26c4140f07105a38e3a5013",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962665346",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 42",
+        "sequence": 42,
+        "identifier": "c69a2375-b109-4d38-a52d-45144be5c18d",
+        "id": "22356805"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/bayopet_clean_n_shine_soap_90g/p/1564405684702543716"
+    },
+    {
+      "id": "1564405684702543712",
+      "store_id": "2052",
+      "like_code": "19245",
+      "department_id": [
+        "1501983"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 999999,
+      "upc": "480196265321",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962653210",
+      "reference_ids": [
+        "04801962653210",
+        "04801962653213"
+      ],
+      "name": "Bayopet Dog Shampoo | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543712/48ae479276066834f7499553aba7bf99",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04801962653210",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 42",
+        "sequence": 42,
+        "identifier": "c69a2375-b109-4d38-a52d-45144be5c18d",
+        "id": "22356805"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_grooming/bayopet_dog_shampoo_100ml/p/1564405684702543712"
+    },
+    {
+      "id": "1564405684702543714",
+      "store_id": "2052",
+      "like_code": "19243",
+      "department_id": [
+        "1501983"
+      ],
+      "price": "₱107.00",
+      "unit_price": 107.0,
+      "popularity": 5243,
+      "upc": "480196265355",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801962653555",
+      "reference_ids": [
+        "04801962653555",
+        "04801962653558"
+      ],
+      "name": "Bayopet Dog Soap | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702543714/c93e17a4c9805c29554596c024c68554",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801962653555",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 42",
+        "sequence": 42,
+        "identifier": "c69a2375-b109-4d38-a52d-45144be5c18d",
+        "id": "22356805"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/pet_care/pet_grooming/bayopet_dog_soap_90g/p/1564405684702543714"
+    },
+    {
+      "id": "1564405684702537285",
+      "store_id": "2052",
+      "like_code": "193681",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱89.00",
+      "unit_price": 89.0,
+      "popularity": 999999,
+      "upc": "480007320252",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800073202525",
+      "reference_ids": [
+        "04800073202525"
+      ],
+      "name": "BBQ King Brick Charcoal | 4s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537285/0f66969707b2b008a14a8817c777a3e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800073202525",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bbq_king_brick_charcoal_4s/p/1564405684702537285"
+    },
+    {
+      "id": "1564405684712853951",
+      "store_id": "2052",
+      "like_code": "337269",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱349.00",
+      "unit_price": 349.0,
+      "popularity": 999999,
+      "upc": "200003372690",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033726906",
+      "reference_ids": [
+        "02000033726906"
+      ],
+      "name": "BCW L/s Rashguard | 349",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000033726906",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_l_s_rashguard_349/p/1564405684712853951"
+    },
+    {
+      "id": "1564405684712853923",
+      "store_id": "2052",
+      "like_code": "307685",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003076850",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000030768503",
+      "reference_ids": [
+        "02000030768503"
+      ],
+      "name": "Bcw  Printed Muscle 299 | 2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712853923/16adfac78244bcee90aafecf84df61cd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000030768503",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_printed_muscle_299_2_pc/p/1564405684712853923"
+    },
+    {
+      "id": "1564405684712853931",
+      "store_id": "2052",
+      "like_code": "317867",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003178670",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031786704",
+      "reference_ids": [
+        "02000031786704"
+      ],
+      "name": "Bcw  Printed Sando 299 | 2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000031786704",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_printed_sando_299_2_pc/p/1564405684712853931"
+    },
+    {
+      "id": "1564405684712853929",
+      "store_id": "2052",
+      "like_code": "317864",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003178640",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031786407",
+      "reference_ids": [
+        "02000031786407"
+      ],
+      "name": "Bcw Printed Short 299 | 2 Pc",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712853929/67d21c3e522dfa6f1e2a4396557aa853",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000031786407",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_printed_short_299_2_pc/p/1564405684712853929"
+    },
+    {
+      "id": "1564405684712853930",
+      "store_id": "2052",
+      "like_code": "317865",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003178650",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031786506",
+      "reference_ids": [
+        "02000031786506"
+      ],
+      "name": "Bcw Prnted Tshirt 299 | 2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712853930/88132a37e3513c45b83c485750e89e55",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000031786506",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_prnted_tshirt_299_2_pc/p/1564405684712853930"
+    },
+    {
+      "id": "1564405684712853950",
+      "store_id": "2052",
+      "like_code": "337270",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003372700",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033727002",
+      "reference_ids": [
+        "02000033727002"
+      ],
+      "name": "BCW S/s Rashguard | 299",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000033727002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_s_s_rashguard_299/p/1564405684712853950"
+    }
+  ]
+}

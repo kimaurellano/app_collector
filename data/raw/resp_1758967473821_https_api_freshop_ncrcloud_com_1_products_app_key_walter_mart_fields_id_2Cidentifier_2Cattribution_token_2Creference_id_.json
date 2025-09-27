@@ -1,0 +1,2136 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1764405684715326174",
+      "store_id": "2052",
+      "like_code": "439878",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 1,
+      "upc": "931016101651",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310161016514",
+      "reference_ids": [
+        "09310161016514"
+      ],
+      "name": "Bulla Australian Style Yogurt Mango | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326174/58bd3a97137c670de611deb1a71498a5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310161016514",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bulla_australian_style_yogurt_mango_160g/p/1764405684715326174"
+    },
+    {
+      "id": "1764405684715326164",
+      "store_id": "2052",
+      "like_code": "439879",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 1,
+      "upc": "931016101653",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310161016538",
+      "reference_ids": [
+        "09310161016538"
+      ],
+      "name": "Bulla Australian Style Yogurt Strawberry | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326164/2de59be267f794d2005702eb566f7f32",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09310161016538",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bulla_australian_style_yogurt_strawberry_160g/p/1764405684715326164"
+    },
+    {
+      "id": "1764405684715326152",
+      "store_id": "2052",
+      "like_code": "439880",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 999999,
+      "upc": "931016101654",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310161016545",
+      "reference_ids": [
+        "09310161016545"
+      ],
+      "name": "Bulla Australian Style Yogurt Vanilla | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326152/2859932dec015b62bb701deac93da5ce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09310161016545",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bulla_australian_style_yogurt_vanilla_160g/p/1764405684715326152"
+    },
+    {
+      "id": "1764405684715326166",
+      "store_id": "2052",
+      "like_code": "439881",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱223.00",
+      "unit_price": 223.0,
+      "popularity": 999999,
+      "upc": "931016100500",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310161005006",
+      "reference_ids": [
+        "09310161005006"
+      ],
+      "name": "Bulla Cottage Cheese Original | 200g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326166/8f62411c84f137aaf40def75463ac944",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09310161005006",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bulla_cottage_cheese_original_200g/p/1764405684715326166"
+    },
+    {
+      "id": "1764405684715326156",
+      "store_id": "2052",
+      "like_code": "439877",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 999999,
+      "upc": "931016101652",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09310161016521",
+      "reference_ids": [
+        "09310161016521"
+      ],
+      "name": "Bulla Creamy Australian Style Yogurt Natural | 160g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715326156/5e945a673e838a16ea42ac642bcc85e3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09310161016521",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bulla_creamy_australian_style_yogurt_natural_160g/p/1764405684715326156"
+    },
+    {
+      "id": "1564405684711074032",
+      "store_id": "2052",
+      "like_code": "106760",
+      "department_id": [
+        "1496159"
+      ],
+      "price": "₱276.25",
+      "unit_price": 276.25,
+      "popularity": 6860,
+      "upc": "471125800250",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711258002505",
+      "reference_ids": [
+        "04711258002505"
+      ],
+      "name": "Bullhead Barbecue Satay Sauce | 8.5oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711074032/60416dee3704209225de943683f11bbb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04711258002505",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/bullhead_barbecue_satay_sauce_8_5oz/p/1564405684711074032"
+    },
+    {
+      "id": "1564405684704729495",
+      "store_id": "2052",
+      "like_code": "283663",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱144.50",
+      "unit_price": 144.5,
+      "popularity": 999999,
+      "upc": "471125800125",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711258001256",
+      "reference_ids": [
+        "04711258001256"
+      ],
+      "name": "Bullhead Barbeque Sauce Regular | 4.5oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729495/159d9d2a9038694ecba4b264d5774897",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711258001256",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/bullhead_barbeque_sauce_regular_4_5oz/p/1564405684704729495"
+    },
+    {
+      "id": "1564405684710184071",
+      "store_id": "2052",
+      "like_code": "342433",
+      "department_id": [
+        "1496146"
+      ],
+      "price": "₱330.00",
+      "unit_price": 330.0,
+      "popularity": 999999,
+      "upc": "471125861301",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04711258613015",
+      "reference_ids": [
+        "04711258613015"
+      ],
+      "name": "Bull Head Curry Sauce | 360g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710184071/127aae8537696b25a55148c9328b3955",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04711258613015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/bull_head_curry_sauce_360g/p/1564405684710184071"
+    },
+    {
+      "id": "1564405684702536491",
+      "store_id": "2052",
+      "like_code": "113412",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 4860,
+      "upc": "480004031121",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040311212",
+      "reference_ids": [
+        "04800040311212"
+      ],
+      "name": "Butter Cookies | 170g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536491/04729fa4589937afb8126f2b8d23e243",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040311212",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/butter_cookies_170g/p/1564405684702536491"
+    },
+    {
+      "id": "1564405684702536489",
+      "store_id": "2052",
+      "like_code": "8018",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "480004031113",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040311137",
+      "reference_ids": [
+        "04800040311137"
+      ],
+      "name": "Butter Cookies | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536489/c07b7852c6605aeea4af2a047efb2104",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800040311137",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/butter_cookies_400g/p/1564405684702536489"
+    },
+    {
+      "id": "1564405684702536490",
+      "store_id": "2052",
+      "like_code": "8012",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱188.50",
+      "unit_price": 188.5,
+      "popularity": 5693,
+      "upc": "480004031111",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040311113",
+      "reference_ids": [
+        "04800040311113"
+      ],
+      "name": "Butter Cookies | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536490/3e4c1a3cb308fab8a5ae649bb78e2e78",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040311113",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/butter_cookies_600g/p/1564405684702536490"
+    },
+    {
+      "id": "1564405684704733021",
+      "store_id": "2052",
+      "like_code": "295766",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 6661,
+      "upc": "480011613702",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800116137029",
+      "reference_ids": [
+        "04800116137029"
+      ],
+      "name": "Butter Cream Chocolate Crackers with Rainbow Sprinkles | 25g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704733021/edfb2cbe5a67133b7198aefb661e5e78",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800116137029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/butter_cream_chocolate_crackers_with_rainbow_sprinkles_25g_x_10s/p/1564405684704733021"
+    },
+    {
+      "id": "8134575",
+      "store_id": "2052",
+      "like_code": "5737",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 2000,
+      "upc": "480011604302",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800116043023",
+      "reference_ids": [
+        "04800116043023"
+      ],
+      "name": "Butter Cream Crackers | 25g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8134575/5f0f74d6d498febdc66469419d1fba59",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800116043023",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/butter_cream_crackers_25g_x_10s/p/8134575"
+    },
+    {
+      "id": "8131996",
+      "store_id": "2052",
+      "like_code": "263908",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 1843,
+      "upc": "480011609902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800116099020",
+      "reference_ids": [
+        "04800116099020"
+      ],
+      "name": "Butter Cream Crackers Ensaymada | 25g x 10pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8131996/3e97885afbba26849bf28beb45498109",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800116099020",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/butter_cream_crackers_ensaymada_25g_x_10pcs/p/8131996"
+    },
+    {
+      "id": "1564405684712187305",
+      "store_id": "2052",
+      "like_code": "358034",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 8877,
+      "upc": "480011614902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800116149022",
+      "reference_ids": [
+        "04800116149022"
+      ],
+      "name": "Butter Cream Mocha Crackers | 25g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712187305/aceb337506b362155a5a6d8370c9dec9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800116149022",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/butter_cream_mocha_crackers_25g_x_10s/p/1564405684712187305"
+    },
+    {
+      "id": "8134576",
+      "store_id": "2052",
+      "like_code": "263907",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 3843,
+      "upc": "480011609802",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800116098023",
+      "reference_ids": [
+        "04800116098023"
+      ],
+      "name": "Butter Cream Ube Crackers | 25g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8134576/ad96d6a6a5e59e3a7d55fb87d5d497c3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800116098023",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/butter_cream_ube_crackers_25g_x_10s/p/8134576"
+    },
+    {
+      "id": "1564405684715004865",
+      "store_id": "2052",
+      "like_code": "359341",
+      "department_id": [
+        "1496136"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 1351,
+      "upc": "480651179056",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511790562",
+      "reference_ids": [
+        "04806511790562"
+      ],
+      "name": "Buttercreme Margarine | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715004865/d244a30a2b086697ff3be8b44b697686",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806511790562",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/butter_margarine/buttercreme_margarine_200g/p/1564405684715004865"
+    },
+    {
+      "id": "1564405684712186991",
+      "store_id": "2052",
+      "like_code": "250318",
+      "department_id": [
+        "22371875"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 9760,
+      "upc": "200002503180",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000025031803",
+      "reference_ids": [
+        "02000025031803"
+      ],
+      "name": "Buy 1 Take 1 Urban Kitchen Carafe Serving Pitcher With Cover | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712186991/6fa728fe836fc305b2b60c03850808f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000025031803",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/home_essentials/kitchenware_houseware/buy_1_take_1_urban_kitchen_carafe_serving_pitcher_with_cover_1_l/p/1564405684712186991"
+    },
+    {
+      "id": "1764405684715119660",
+      "store_id": "2052",
+      "like_code": "419637",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱599.00",
+      "unit_price": 599.0,
+      "popularity": 999999,
+      "upc": "200004196370",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041963706",
+      "reference_ids": [
+        "02000041963706"
+      ],
+      "name": "Buy Low Bear Stuffed Toy | 50cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715119660/3d3911f297b582ffd1d177710823e47a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041963706",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buy_low_bear_stuffed_toy_50cm/p/1764405684715119660"
+    },
+    {
+      "id": "1764405684715119668",
+      "store_id": "2052",
+      "like_code": "419641",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱599.00",
+      "unit_price": 599.0,
+      "popularity": 999999,
+      "upc": "200004196410",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041964109",
+      "reference_ids": [
+        "02000041964109"
+      ],
+      "name": "Buy Low Cat Long Stuffed Toy | 100cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715119668/099731e995e1423c0c31bb08d4295668",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041964109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buy_low_cat_long_stuffed_toy_100cm/p/1764405684715119668"
+    },
+    {
+      "id": "1764405684715119666",
+      "store_id": "2052",
+      "like_code": "419643",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200004196430",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041964307",
+      "reference_ids": [
+        "02000041964307"
+      ],
+      "name": "Buy Low Cute Dog Stuffed Toy | 50cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715119666/1e014feafa171710ca532e5a16187d28",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041964307",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buy_low_cute_dog_stuffed_toy_50cm/p/1764405684715119666"
+    },
+    {
+      "id": "1764405684715119664",
+      "store_id": "2052",
+      "like_code": "403686",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "200004036860",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040368601",
+      "reference_ids": [
+        "02000040368601"
+      ],
+      "name": "Buy Low Round Stuffed Animal | 38cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715119664/c126da2582c42742520a89442b50fa7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040368601",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buy_low_round_stuffed_animal_38cm/p/1764405684715119664"
+    },
+    {
+      "id": "1764405684715119662",
+      "store_id": "2052",
+      "like_code": "419625",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱499.00",
+      "unit_price": 499.0,
+      "popularity": 999999,
+      "upc": "200004196250",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041962501",
+      "reference_ids": [
+        "02000041962501"
+      ],
+      "name": "Buy Low Unicorn Stuffed Toy | 45cm",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715119662/d25bfe0d0e6dfed79f64e3c54d1611b9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041962501",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buy_low_unicorn_stuffed_toy_45cm/p/1764405684715119662"
+    },
+    {
+      "id": "1564405684702512673",
+      "store_id": "2052",
+      "like_code": "137835",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱321.25",
+      "unit_price": 321.25,
+      "popularity": 99999,
+      "upc": "1480001605707",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "14800016057073",
+      "reference_ids": [
+        "14800016057073"
+      ],
+      "name": "C2 Apple Green Tea Solo | 230ml x 24pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702512673/5bf2bf9e95d6dd950bca2b2b466a2bf1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "14800016057073",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/c2_apple_green_tea_solo_230ml_x_24pcs/p/1564405684702512673"
+    },
+    {
+      "id": "1564405684702535661",
+      "store_id": "2052",
+      "like_code": "72177",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 2126,
+      "upc": "480001605201",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052019",
+      "reference_ids": [
+        "04800016052019"
+      ],
+      "name": "C2 Classic Green Tea | 335ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535661/2877d5c31cf7512856858b7b37cf76a4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052019",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/c2_classic_green_tea_335ml/p/1564405684702535661"
+    },
+    {
+      "id": "1564405684702535667",
+      "store_id": "2052",
+      "like_code": "102675",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱56.00",
+      "unit_price": 56.0,
+      "popularity": 341,
+      "upc": "480001605277",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052774",
+      "reference_ids": [
+        "04800016052774"
+      ],
+      "name": "C2 Green Tea Apple | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702535667/7e77b05759d8b8dbaaac62383a21f7d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052774",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/c2_green_tea_apple_1_l/p/1564405684702535667"
+    },
+    {
+      "id": "1564405684702535664",
+      "store_id": "2052",
+      "like_code": "72449",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 1951,
+      "upc": "480001605204",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052040",
+      "reference_ids": [
+        "04800016052040"
+      ],
+      "name": "C2 Green Tea Apple | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535664/a7044d4895e17ad816d55a7e59f01f1d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052040",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/c2_green_tea_apple_355ml/p/1564405684702535664"
+    },
+    {
+      "id": "8195187",
+      "store_id": "2052",
+      "like_code": "72455",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱31.50",
+      "unit_price": 31.5,
+      "popularity": 677,
+      "upc": "480001605213",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052132",
+      "reference_ids": [
+        "04800016052132"
+      ],
+      "name": "C2 Green Tea Apple | 455ml",
+      "size": "16.91 fl oz",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195187/8cc95408b29125fa7aff64755ff543c1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052132",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/c2_green_tea_apple_455ml/p/8195187"
+    },
+    {
+      "id": "1564405684702535693",
+      "store_id": "2052",
+      "like_code": "157663",
+      "department_id": [
+        "1496200"
+      ],
+      "price": "₱81.50",
+      "unit_price": 81.5,
+      "popularity": 348,
+      "upc": "480001607269",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016072697",
+      "reference_ids": [
+        "04800016072697"
+      ],
+      "name": "C2 Green Tea Apple Baon Pack | 230ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535693/fcb345a854a410cda5c38b50dd56f844",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016072697",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/ready_to_drink/c2_green_tea_apple_baon_pack_230ml_x_6s/p/1564405684702535693"
+    },
+    {
+      "id": "1564405684702535666",
+      "store_id": "2052",
+      "like_code": "72454",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱31.50",
+      "unit_price": 31.5,
+      "popularity": 1803,
+      "upc": "480001605210",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052101",
+      "reference_ids": [
+        "04800016052101"
+      ],
+      "name": "C2 Green Tea Classic | 455ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535666/e67f890b1498d123c69573feb0ed1028",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/c2_green_tea_classic_455ml/p/1564405684702535666"
+    },
+    {
+      "id": "1564405684702535668",
+      "store_id": "2052",
+      "like_code": "102673",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 6156,
+      "upc": "480001605276",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052767",
+      "reference_ids": [
+        "04800016052767"
+      ],
+      "name": "C2 Green Tea Lemon | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535668/0f0d6238808eac6d098ff481a6058cf6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052767",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/c2_green_tea_lemon_1_l/p/1564405684702535668"
+    },
+    {
+      "id": "1564405684702535665",
+      "store_id": "2052",
+      "like_code": "72450",
+      "department_id": [
+        "1496200"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 2167,
+      "upc": "480001605205",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052057",
+      "reference_ids": [
+        "04800016052057"
+      ],
+      "name": "C2 Green Tea Lemon | 335ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535665/4a5f67441d2d23309be79a4532c7b9a0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052057",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/ready_to_drink/c2_green_tea_lemon_335ml/p/1564405684702535665"
+    },
+    {
+      "id": "8195188",
+      "store_id": "2052",
+      "like_code": "72456",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱31.50",
+      "unit_price": 31.5,
+      "popularity": 988,
+      "upc": "480001605214",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016052149",
+      "reference_ids": [
+        "04800016052149"
+      ],
+      "name": "C2 Green Tea Lemon | 455ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195188/d71368f41ebe840f2b4448c5bb5b8509",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016052149",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/c2_green_tea_lemon_455ml/p/8195188"
+    },
+    {
+      "id": "1564405684702512668",
+      "store_id": "2052",
+      "like_code": "137836",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱321.25",
+      "unit_price": 321.25,
+      "popularity": 99999,
+      "upc": "1480001605708",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "14800016057080",
+      "reference_ids": [
+        "14800016057080"
+      ],
+      "name": "C2 Green Tea Lemon Box | 230ml x 24s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702512668/c8c6a0f327c939bba2cc922658db13ce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "14800016057080",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/c2_green_tea_lemon_box_230ml_x_24s/p/1564405684702512668"
+    },
+    {
+      "id": "1564405684715484781",
+      "store_id": "2052",
+      "like_code": "406803",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 5141,
+      "upc": "480001602686",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016026867",
+      "reference_ids": [
+        "04800016026867"
+      ],
+      "name": "C2 Green Tea Peach | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715484781/e696f45c915d4b89581d109490143427",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016026867",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/c2_green_tea_peach_1_l/p/1564405684715484781"
+    },
+    {
+      "id": "1564405684715632171",
+      "store_id": "2052",
+      "like_code": "409943",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱31.50",
+      "unit_price": 31.5,
+      "popularity": 9199,
+      "upc": "480001602730",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016027307",
+      "reference_ids": [
+        "04800016027307"
+      ],
+      "name": "C2 Green Tea Peach Pink | 455ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715632171/eee549e6cf384ed7223ef1af9c989f5c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016027307",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/c2_green_tea_peach_pink_455ml/p/1564405684715632171"
+    },
+    {
+      "id": "1564405684715484787",
+      "store_id": "2052",
+      "like_code": "406802",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱321.25",
+      "unit_price": 321.25,
+      "popularity": 8799,
+      "upc": "1480001602687",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "14800016026871",
+      "reference_ids": [
+        "14800016026871"
+      ],
+      "name": "C2 Green Tea Peach Solo | 230ml (Box of 24s)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715484787/62c3465bcd8b0a065128a25cab89a38b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "14800016026871",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/c2_green_tea_peach_solo_230ml_box_of_24s/p/1564405684715484787"
+    },
+    {
+      "id": "1564405684707431105",
+      "store_id": "2052",
+      "like_code": "337966",
+      "department_id": [
+        "1496164"
+      ],
+      "price": "₱34.00",
+      "unit_price": 34.0,
+      "popularity": 4309,
+      "upc": "480001607477",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016074776",
+      "reference_ids": [
+        "04800016074776"
+      ],
+      "name": "C2 Milk Tea Wintermelon | 270ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707431105/997898422d74acfe98df1a07f8d97424",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016074776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/juices/c2_milk_tea_wintermelon_270ml/p/1564405684707431105"
+    },
+    {
+      "id": "1564405684702535691",
+      "store_id": "2052",
+      "like_code": "155012",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 2235,
+      "upc": "480001607242",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800016072420",
+      "reference_ids": [
+        "04800016072420"
+      ],
+      "name": "C2 Red Tea Raspberry | 335ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535691/88490cee5d24e87ff77c7b92c4df823a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800016072420",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 17",
+        "sequence": 17,
+        "identifier": "153557e5-163a-4e3e-a991-dc01b6d363bd",
+        "id": "22356780"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/c2_red_tea_raspberry_335ml/p/1564405684702535691"
+    },
+    {
+      "id": "1564405684714967847",
+      "store_id": "2052",
+      "like_code": "93416",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱345.00",
+      "unit_price": 345.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9341",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000093416",
+      "reference_ids": [
+        "00000000093416"
+      ],
+      "name": "Cabanatuan Meat Products Beef Ground Regular | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714967847/9a2ce91535ccab9e397333e2df0e3a70",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000093416",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_beef_ground_regular_kg/p/1564405684714967847"
+    },
+    {
+      "id": "1564405684715584711",
+      "store_id": "2052",
+      "like_code": "407757",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "200004077578",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040775782",
+      "reference_ids": [
+        "02000040775782"
+      ],
+      "name": "Cabanatuan Meat Products Beef Longganisa Batutay | 365-385g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715584711/08b36d6c36799853400aed128902b003",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040775782",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_beef_longganisa_batutay_365_385g/p/1564405684715584711"
+    },
+    {
+      "id": "1564405684714967845",
+      "store_id": "2052",
+      "like_code": "93409",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱424.00",
+      "unit_price": 424.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9340",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000093409",
+      "reference_ids": [
+        "00000000093409"
+      ],
+      "name": "Cabanatuan Meat Products Beef Shank Whole | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714967845/979fe04af9e1b069c83693e1da0f01e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000093409",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_beef_shank_whole_kg/p/1564405684714967845"
+    },
+    {
+      "id": "1564405684712075987",
+      "store_id": "2052",
+      "like_code": "343148",
+      "department_id": [
+        "22459301"
+      ],
+      "price": "₱415.00",
+      "unit_price": 415.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "34314",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000343148",
+      "reference_ids": [
+        "00000000343148"
+      ],
+      "name": "Cabanatuan Meat Products Beef Spicy Batutay Longanisa | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684712075987/a96d82677165992d687415217bc1cad8",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461902761114599",
+          "reference_id": "tpr_2052_00000000343148_400_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182240045351"
+          ],
+          "circular_page_ids": [
+            "3719247209212951517"
+          ],
+          "circular_spot_ids": [
+            "3722684553748298357"
+          ],
+          "product_ids": [
+            "1564405684712075987"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459301",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "3efea31993b00fc47a72b84693db9cca",
+          "similarity_priority": 5,
+          "name": "Cabanatuan Meat Products Beef Spicy Batutay Longanisa | kg",
+          "sale_price": "₱400.00",
+          "sale_price_md": "**₱400.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461645197293570",
+          "reference_id": "ad_2052_00000000343148_1_400_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245182240045351"
+          ],
+          "circular_page_ids": [
+            "3719247209212951517"
+          ],
+          "circular_spot_ids": [
+            "3722684553748298357"
+          ],
+          "product_ids": [
+            "1564405684712075987"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459301",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "4cdaf8f1004d508cc15d2890e6d01efe",
+          "similarity_priority": 6,
+          "name": "Cabanatuan Meat Products Beef Spicy Batutay Longanisa | kg",
+          "sale_price": "₱400.00",
+          "sale_price_md": "**₱400.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱400.00",
+      "sale_price_md": "**₱400.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461902761114599",
+        "reference_id": "tpr_2052_00000000343148_400_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245182240045351"
+        ],
+        "circular_page_ids": [
+          "3719247209212951517"
+        ],
+        "circular_spot_ids": [
+          "3722684553748298357"
+        ],
+        "product_ids": [
+          "1564405684712075987"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459301",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "3efea31993b00fc47a72b84693db9cca",
+        "similarity_priority": 5,
+        "name": "Cabanatuan Meat Products Beef Spicy Batutay Longanisa | kg",
+        "sale_price": "₱400.00",
+        "sale_price_md": "**₱400.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 400.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱400.00 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000343148",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/beef/cabanatuan_meat_products_beef_spicy_batutay_longanisa_kg/p/1564405684712075987"
+    },
+    {
+      "id": "1564405684715584709",
+      "store_id": "2052",
+      "like_code": "407759",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 999999,
+      "upc": "200004077598",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040775980",
+      "reference_ids": [
+        "02000040775980"
+      ],
+      "name": "Cabanatuan Meat Products Beef Spicy Batutay Longganisa | 365-385g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684715584709/14291c3c3e536858421fdbd7f7a3a8bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040775980",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_beef_spicy_batutay_longganisa_365_385g/p/1564405684715584709"
+    },
+    {
+      "id": "1564405684714967849",
+      "store_id": "2052",
+      "like_code": "97518",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱549.00",
+      "unit_price": 549.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9751",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000097518",
+      "reference_ids": [
+        "00000000097518"
+      ],
+      "name": "Cabanatuan Meat Products Beef Steak | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714967849/42dd1ec1b9d3dabb7aa03e1fbf11f422",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000097518",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_beef_steak_kg/p/1564405684714967849"
+    },
+    {
+      "id": "1564405684711716401",
+      "store_id": "2052",
+      "like_code": "352169",
+      "department_id": [
+        "22459170"
+      ],
+      "price": "₱352.00",
+      "unit_price": 352.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "35216",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000352169",
+      "reference_ids": [
+        "00000000352169"
+      ],
+      "name": "Cabanatuan Meat Products Butterfly Cut | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711716401/b78bed067f6fefc4296678e47b8d6277",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000352169",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/pork/cabanatuan_meat_products_butterfly_cut_kg/p/1564405684711716401"
+    },
+    {
+      "id": "1564405684714967851",
+      "store_id": "2052",
+      "like_code": "112305",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11230",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000112305",
+      "reference_ids": [
+        "00000000112305"
+      ],
+      "name": "Cabanatuan Meat Products Pork Adobo Cut | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684714967851/6c65a8412fc466f5d49373f7a9cd1507",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000112305",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_adobo_cut_kg/p/1564405684714967851"
+    },
+    {
+      "id": "1564405684704764660",
+      "store_id": "2052",
+      "like_code": "92861",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "9286",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000092861",
+      "reference_ids": [
+        "00000000092861"
+      ],
+      "name": "Cabanatuan Meat Products Pork BBQ | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000092861",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cabanatuan_meat_products_pork_bbq_kg/p/1564405684704764660"
+    }
+  ]
+}

@@ -1,0 +1,2314 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1764405684715638950",
+      "store_id": "2052",
+      "like_code": "454011",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 4,
+      "upc": "480088829018",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290182",
+      "reference_ids": [
+        "04800888290182"
+      ],
+      "name": "Breeze Liquid Detergent Powermac Fresh Clean | 535g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715638950/31f1dadc305ae94551716b9ed003fa7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290182",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/breeze_liquid_detergent_powermac_fresh_clean_535g/p/1764405684715638950"
+    },
+    {
+      "id": "1764405684715638928",
+      "store_id": "2052",
+      "like_code": "454012",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱116.00",
+      "unit_price": 116.0,
+      "popularity": 4,
+      "upc": "480088829016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290168",
+      "reference_ids": [
+        "04800888290168"
+      ],
+      "name": "Breeze Liquid Detergent Powermac Fresh Clean | 87g x 6s",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715638928/592a154e06a86df15d6831ee8811e6d8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290168",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/breeze_liquid_detergent_powermac_fresh_clean_87g_x_6s/p/1764405684715638928"
+    },
+    {
+      "id": "1564405684709827479",
+      "store_id": "2052",
+      "like_code": "340106",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱486.00",
+      "unit_price": 486.0,
+      "popularity": 1,
+      "upc": "893486814818",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934868148180",
+      "reference_ids": [
+        "08934868148180",
+        "18934868148187"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine with Rose Gold Perfume | 2.35kg Bottle",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709827479/b45fc08716c6b975f22bed20f5044776",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934868148180",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_rose_gold_perfume_2_35kg_bottle/p/1564405684709827479"
+    },
+    {
+      "id": "1564405684704639554",
+      "store_id": "2052",
+      "like_code": "317674",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱580.00",
+      "unit_price": 580.0,
+      "popularity": 999999,
+      "upc": "893486814003",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934868140030",
+      "reference_ids": [
+        "08934868140030"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine With Rose Gold Perfume | 2.8kg Bottle",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704639554/b3e0c762b0cfbdf4124bc755e4890a18",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08934868140030",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_rose_gold_perfume_2_8kg_bottle/p/1564405684704639554"
+    },
+    {
+      "id": "1564405684704613536",
+      "store_id": "2052",
+      "like_code": "309357",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱86.00",
+      "unit_price": 86.0,
+      "popularity": 4955,
+      "upc": "893486813795",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934868137955",
+      "reference_ids": [
+        "08934868137955"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine with Rose Gold Perfume | 58g Sachet",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704613536/470bd86b1b376f7ac28a54e97a4b3e1c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934868137955",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_rose_gold_perfume_58g_sachet/p/1564405684704613536"
+    },
+    {
+      "id": "1564405684704613534",
+      "store_id": "2052",
+      "like_code": "309359",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 7390,
+      "upc": "480088822471",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888224712",
+      "reference_ids": [
+        "04800888224712",
+        "08934868137719"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine With Rose Gold Perfume | 950g Bottle",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704613534/13db79fe8bae845e1d321e53e5e29d70",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888224712",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_rose_gold_perfume_950g_bottle/p/1564405684704613534"
+    },
+    {
+      "id": "1564405684704613535",
+      "store_id": "2052",
+      "like_code": "309358",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱142.00",
+      "unit_price": 142.0,
+      "popularity": 5826,
+      "upc": "480088824042",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888240422",
+      "reference_ids": [
+        "04800888240422",
+        "08934868137931"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine with Rose Gold Perfume Pouch | 725g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704613535/8374a4849d5c5c786bcc65e92ede0dc8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888240422",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_rose_gold_perfume_pouch_725g/p/1564405684704613535"
+    },
+    {
+      "id": "1564405684709827477",
+      "store_id": "2052",
+      "like_code": "340104",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱486.00",
+      "unit_price": 486.0,
+      "popularity": 1,
+      "upc": "893486814767",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934868147671",
+      "reference_ids": [
+        "08934868147671",
+        "18934868147678"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine with Ultraclean Concentrate | 2.4Kg Bottle",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709827477/4db4d4791392231ea55dbd9eca03fefd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934868147671",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_ultraclean_concentrate_2_4_kg_bottle/p/1564405684709827477"
+    },
+    {
+      "id": "1564405684702558545",
+      "store_id": "2052",
+      "like_code": "204311",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱86.00",
+      "unit_price": 86.0,
+      "popularity": 1487,
+      "upc": "893486811303",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934868113034",
+      "reference_ids": [
+        "08934868113034"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine With Ultraclean Concentrate | 64ml Sachet",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558545/318d5d926eb45c18f5f71152aa316b7e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08934868113034",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_ultraclean_concentrate_64ml_sachet/p/1564405684702558545"
+    },
+    {
+      "id": "1564405684702558548",
+      "store_id": "2052",
+      "like_code": "204312",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱142.00",
+      "unit_price": 142.0,
+      "popularity": 2149,
+      "upc": "480088824041",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888240415",
+      "reference_ids": [
+        "04800888240415",
+        "08934868113058"
+      ],
+      "name": "Breeze Liquid Detergent Powermachine With Ultraclean Concentrate | 750g Pouch",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558548/934bd6ef228bccfdc551a0535ae7dcc7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888240415",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_liquid_detergent_powermachine_with_ultraclean_concentrate_750g_pouch/p/1564405684702558548"
+    },
+    {
+      "id": "1764405684715638924",
+      "store_id": "2052",
+      "like_code": "454013",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 4,
+      "upc": "480088829021",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290212",
+      "reference_ids": [
+        "04800888290212"
+      ],
+      "name": "Breeze Liquid Detergent Powermac Rosegold | 1.27kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715638924/19882b085b7175014c8147a1bc19f025",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290212",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/breeze_liquid_detergent_powermac_rosegold_1_27kg/p/1764405684715638924"
+    },
+    {
+      "id": "1764405684715638972",
+      "store_id": "2052",
+      "like_code": "454014",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱114.00",
+      "unit_price": 114.0,
+      "popularity": 4,
+      "upc": "480088829019",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290199",
+      "reference_ids": [
+        "04800888290199"
+      ],
+      "name": "Breeze Liquid Detergent Powermac Rosegold | 515g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715638972/5391bd76ebbfdac97f08f8c72a2c1cb4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290199",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/breeze_liquid_detergent_powermac_rosegold_515g/p/1764405684715638972"
+    },
+    {
+      "id": "1764405684715638978",
+      "store_id": "2052",
+      "like_code": "454015",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱116.00",
+      "unit_price": 116.0,
+      "popularity": 4,
+      "upc": "480088829017",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888290175",
+      "reference_ids": [
+        "04800888290175"
+      ],
+      "name": "Breeze Liquid Detergent Powermac Rosegold | 84g x 6s",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715638978/8bede9c25ff5193a4e4ed9dcc878c322",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888290175",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/breeze_liquid_detergent_powermac_rosegold_84g_x_6s/p/1764405684715638978"
+    },
+    {
+      "id": "1564405684710202664",
+      "store_id": "2052",
+      "like_code": "342640",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱247.00",
+      "unit_price": 247.0,
+      "popularity": 5897,
+      "upc": "480088822469",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888224699",
+      "reference_ids": [
+        "04800888224699",
+        "04800888217851"
+      ],
+      "name": "Breeze Powder Detergent Anti-Bacterial | 1205g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710202664/f3998340515ad1a0a5546b6bd09a8b38",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888224699",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 38",
+        "sequence": 38,
+        "identifier": "4b8ddbc0-921f-494e-8661-8834d8009e5b",
+        "id": "22356801"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/breeze_powder_detergent_anti_bacterial_1205g/p/1564405684710202664"
+    },
+    {
+      "id": "1564405684709252807",
+      "store_id": "2052",
+      "like_code": "280780",
+      "department_id": [
+        "22459227"
+      ],
+      "price": "₱247.00",
+      "unit_price": 247.0,
+      "popularity": 8805,
+      "upc": "480088822468",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888224682",
+      "reference_ids": [
+        "04800888224682",
+        "04800888202789"
+      ],
+      "name": "Breeze Powder Detergent with Rose Gold Perfume Pouch | 1205g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709252807/2da53fd3b3799b90fa23fa8b72a16512",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888224682",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/detergent_powder/breeze_powder_detergent_with_rose_gold_perfume_pouch_1205g/p/1564405684709252807"
+    },
+    {
+      "id": "1564405684704639555",
+      "store_id": "2052",
+      "like_code": "317677",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱580.00",
+      "unit_price": 580.0,
+      "popularity": 999999,
+      "upc": "893486814005",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08934868140054",
+      "reference_ids": [
+        "08934868140054"
+      ],
+      "name": "Breeze Power Machine Liquid Detergent Fresh Clean | 2.9Kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704639555/70201f163b34235e13bb9ffc724d05c4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08934868140054",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_power_machine_liquid_detergent_fresh_clean_2_9_kg/p/1564405684704639555"
+    },
+    {
+      "id": "1564405684702558546",
+      "store_id": "2052",
+      "like_code": "204313",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 8698,
+      "upc": "480088822470",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888224705",
+      "reference_ids": [
+        "04800888224705",
+        "08934868113041"
+      ],
+      "name": "Breeze Power Machine Liquid Detergent Fresh Clean | 970g",
+      "size": "pc",
+      "price_disclaimer": "BUY P299 WORTH OF ITEMS, FREE DELIVERY ; PROMO CODE : WMULPFD",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558546/53df6269f7046289516beed2583571ea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888224705",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 37",
+        "sequence": 37,
+        "identifier": "17dfebd8-112d-42f5-b502-ffb406ead955",
+        "id": "22356800"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/breeze_power_machine_liquid_detergent_fresh_clean_970g/p/1564405684702558546"
+    },
+    {
+      "id": "1564405684702535561",
+      "store_id": "2052",
+      "like_code": "251268",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱56.50",
+      "unit_price": 56.5,
+      "popularity": 999999,
+      "upc": "480001407081",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800014070817",
+      "reference_ids": [
+        "04800014070817"
+      ],
+      "name": "Brew Kettle Beer | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535561/5f4024ddc5bf55633386e2767416792a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800014070817",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/brew_kettle_beer_330ml/p/1564405684702535561"
+    },
+    {
+      "id": "1564405684702535586",
+      "store_id": "2052",
+      "like_code": "190815",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱56.00",
+      "unit_price": 56.0,
+      "popularity": 999999,
+      "upc": "480001422357",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800014223572",
+      "reference_ids": [
+        "04800014223572"
+      ],
+      "name": "Brew Kettle Beer | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535586/75e87974d09ab8777a53c9d9f5e4a8af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800014223572",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/brew_kettle_beer_330ml/p/1564405684702535586"
+    },
+    {
+      "id": "1564405684711563416",
+      "store_id": "2052",
+      "like_code": "351736",
+      "department_id": [
+        "21884429"
+      ],
+      "price": "₱77.50",
+      "unit_price": 77.5,
+      "popularity": 999999,
+      "upc": "629100790218",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06291007902181",
+      "reference_ids": [
+        "06291007902181"
+      ],
+      "name": "Britannia Sugar Free Digestive Biscuits | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711563416/e911a992ab17965722f514f6d4cf6702",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06291007902181",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/biscuits/britannia_sugar_free_digestive_biscuits_200g/p/1564405684711563416"
+    },
+    {
+      "id": "1564405684704723600",
+      "store_id": "2052",
+      "like_code": "289963",
+      "department_id": [
+        "22459306"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 7826,
+      "upc": "885034010026",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850340100265",
+      "reference_ids": [
+        "08850340100265"
+      ],
+      "name": "Brooke Farms Finest Rice Flour | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723600/314f974a9274101fcba4d7337428cfde",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850340100265",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/flour/brooke_farms_finest_rice_flour_500g/p/1564405684704723600"
+    },
+    {
+      "id": "1564405684704723601",
+      "store_id": "2052",
+      "like_code": "289962",
+      "department_id": [
+        "22459306"
+      ],
+      "price": "₱56.00",
+      "unit_price": 56.0,
+      "popularity": 6334,
+      "upc": "885034020023",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850340200231",
+      "reference_ids": [
+        "08850340200231"
+      ],
+      "name": "Brooke Farms Glutinous Rice Flour | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723601/40558b51755c516d3dd3c28a79e9b41e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850340200231",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 30",
+        "sequence": 30,
+        "identifier": "5e12c3f0-5a3a-4214-be33-90516440167e",
+        "id": "22356793"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/flour/brooke_farms_glutinous_rice_flour_500g/p/1564405684704723601"
+    },
+    {
+      "id": "1564405684702556282",
+      "store_id": "2052",
+      "like_code": "123815",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱875.00",
+      "unit_price": 875.0,
+      "popularity": 999999,
+      "upc": "779024009017",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07790240090178",
+      "reference_ids": [
+        "07790240090178"
+      ],
+      "name": "Broquel Chardonnay | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556282/9ec1459b8176f24d46266bf508861475",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "07790240090178",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/broquel_chardonnay_750ml/p/1564405684702556282"
+    },
+    {
+      "id": "1564405684715066885",
+      "store_id": "2052",
+      "like_code": "382127",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 6425,
+      "upc": "480009255691",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092556913",
+      "reference_ids": [
+        "04800092556913"
+      ],
+      "name": "Brownie Break Double Choco Delight | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715066885/430c774058a4a83618a804244ec779db",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593261039631000",
+          "reference_id": "tpr_2052_04800092556913_71_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684715066885"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6425,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22893379",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7048cc01d3e841191d8d8daa83ae8d52",
+          "similarity_priority": 5,
+          "name": "Brownie Break Double Choco Delight | 20s",
+          "sale_price": "₱71.00",
+          "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589694253840597",
+          "reference_id": "ad_2052_04800092556913_1_71_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684715066885"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3213,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22893379",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "efa9dd867b945c974740f79b365e1928",
+          "similarity_priority": 6,
+          "name": "Brownie Break Double Choco Delight | 20s",
+          "sale_price": "₱71.00",
+          "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱71.00",
+      "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593261039631000",
+        "reference_id": "tpr_2052_04800092556913_71_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684715066885"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6425,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22893379",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7048cc01d3e841191d8d8daa83ae8d52",
+        "similarity_priority": 5,
+        "name": "Brownie Break Double Choco Delight | 20s",
+        "sale_price": "₱71.00",
+        "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 71.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱71.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092556913",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/brownie_break_double_choco_delight_20s/p/1564405684715066885"
+    },
+    {
+      "id": "1564405684715066889",
+      "store_id": "2052",
+      "like_code": "382128",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 6588,
+      "upc": "480009255693",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092556937",
+      "reference_ids": [
+        "04800092556937"
+      ],
+      "name": "Brownie Break Nutty Choco | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715066889/25cc8fad8fcfbf5461adcbd4b9df2f1b",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593261324843674",
+          "reference_id": "tpr_2052_04800092556937_71_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684715066889"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6588,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22893379"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7048cc01d3e841191d8d8daa83ae8d52",
+          "similarity_priority": 5,
+          "name": "Brownie Break Nutty Choco | 20s",
+          "sale_price": "₱71.00",
+          "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589694715214038",
+          "reference_id": "ad_2052_04800092556937_1_71_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684715066889"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3294,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22893379"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "efa9dd867b945c974740f79b365e1928",
+          "similarity_priority": 6,
+          "name": "Brownie Break Nutty Choco | 20s",
+          "sale_price": "₱71.00",
+          "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱71.00",
+      "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593261324843674",
+        "reference_id": "tpr_2052_04800092556937_71_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684715066889"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6588,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22893379"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7048cc01d3e841191d8d8daa83ae8d52",
+        "similarity_priority": 5,
+        "name": "Brownie Break Nutty Choco | 20s",
+        "sale_price": "₱71.00",
+        "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 71.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱71.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092556937",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/brownie_break_nutty_choco_20s/p/1564405684715066889"
+    },
+    {
+      "id": "1564405684714972649",
+      "store_id": "2052",
+      "like_code": "400953",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 5427,
+      "upc": "480043400052",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800434000524",
+      "reference_ids": [
+        "04800434000524"
+      ],
+      "name": "Brownie Break Ube Bar | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714972649/67827e2acfa2a2188f33201212a6d108",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593266743884553",
+          "reference_id": "tpr_2052_04800434000524_71_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684714972649"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5427,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22893379"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7048cc01d3e841191d8d8daa83ae8d52",
+          "similarity_priority": 5,
+          "name": "Brownie Break Ube Bar | 20s",
+          "sale_price": "₱71.00",
+          "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589703271594248",
+          "reference_id": "ad_2052_04800434000524_1_71_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684714972649"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2714,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22893379"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "efa9dd867b945c974740f79b365e1928",
+          "similarity_priority": 6,
+          "name": "Brownie Break Ube Bar | 20s",
+          "sale_price": "₱71.00",
+          "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱71.00",
+      "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593266743884553",
+        "reference_id": "tpr_2052_04800434000524_71_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684714972649"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5427,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22893379"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7048cc01d3e841191d8d8daa83ae8d52",
+        "similarity_priority": 5,
+        "name": "Brownie Break Ube Bar | 20s",
+        "sale_price": "₱71.00",
+        "sale_price_md": "**₱71.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 71.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱71.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800434000524",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/brownie_break_ube_bar_20s/p/1564405684714972649"
+    },
+    {
+      "id": "1564405684712853926",
+      "store_id": "2052",
+      "like_code": "311842",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003118420",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031184203",
+      "reference_ids": [
+        "02000031184203"
+      ],
+      "name": "Btodd  Printed Sando 299 | 2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000031184203",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/btodd_printed_sando_299_2_pc/p/1564405684712853926"
+    },
+    {
+      "id": "1564405684712853928",
+      "store_id": "2052",
+      "like_code": "311843",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003118430",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031184302",
+      "reference_ids": [
+        "02000031184302"
+      ],
+      "name": "Btodd  Printed Short 299 | 2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000031184302",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/btodd_printed_short_299_2_pc/p/1564405684712853928"
+    },
+    {
+      "id": "1564405684712853944",
+      "store_id": "2052",
+      "like_code": "332728",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003327280",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033272809",
+      "reference_ids": [
+        "02000033272809"
+      ],
+      "name": "Btodd Prnted Muscle 299 |  2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000033272809",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/btodd_prnted_muscle_299_2_pc/p/1564405684712853944"
+    },
+    {
+      "id": "1564405684712853932",
+      "store_id": "2052",
+      "like_code": "317868",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003178680",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031786803",
+      "reference_ids": [
+        "02000031786803"
+      ],
+      "name": "Btodd  Prnted Tshirt 299 | 2 Pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000031786803",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/btodd_prnted_tshirt_299_2_pc/p/1564405684712853932"
+    },
+    {
+      "id": "1564405684704657741",
+      "store_id": "2052",
+      "like_code": "318225",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 999999,
+      "upc": "480652508087",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806525080871",
+      "reference_ids": [
+        "04806525080871"
+      ],
+      "name": "Bubbleman Baby Bottle & Utensil Cleanser | 880ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704657741/f7e5107aa6dd0e60d5a9080ebc86e5ed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806525080871",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bubbleman_baby_bottle_utensil_cleanser_880ml/p/1564405684704657741"
+    },
+    {
+      "id": "1564405684702505779",
+      "store_id": "2052",
+      "like_code": "110630",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 604,
+      "upc": "480901385501",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013855012",
+      "reference_ids": [
+        "04809013855012",
+        "01111324100020",
+        "02000011063030"
+      ],
+      "name": "Bubble Man Dishwashing Liquid Kalamansi | 880ml x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702505779/e22e082f9fddf90bb5cc7b9aa8803226",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013855012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 34",
+        "sequence": 34,
+        "identifier": "78377b68-5bdb-40fb-b418-f17b6077de82",
+        "id": "22356797"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bubble_man_dishwashing_liquid_kalamansi_880ml_x_2s/p/1564405684702505779"
+    },
+    {
+      "id": "1564405684710279268",
+      "store_id": "2052",
+      "like_code": "343498",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱70.00",
+      "unit_price": 70.0,
+      "popularity": 3600,
+      "upc": "893609429310",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936094293108",
+      "reference_ids": [
+        "08936094293108"
+      ],
+      "name": "Budweiser | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710279268/cce14d17fae48b505e0714c8cf6ead7c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08936094293108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/budweiser_330ml/p/1564405684710279268"
+    },
+    {
+      "id": "1564405684702503004",
+      "store_id": "2052",
+      "like_code": "164532",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 999999,
+      "upc": "181682",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00000001816820",
+      "reference_ids": [
+        "00000001816820"
+      ],
+      "name": "Budweiser Beer | 355ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503004/6927ed237eb3107a36c387d1f9d496f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000001816820",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/budweiser_beer_355ml/p/1564405684702503004"
+    },
+    {
+      "id": "1564405684713578214",
+      "store_id": "2052",
+      "like_code": "377976",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱410.00",
+      "unit_price": 410.0,
+      "popularity": 999999,
+      "upc": "881816396",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00008818163962",
+      "reference_ids": [
+        "00008818163962"
+      ],
+      "name": "Budweiser Beer Bottle | 330ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713578214/16dbd9dbac14370cd600038a9f53551e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00008818163962",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/budweiser_beer_bottle_330ml_x_6s/p/1564405684713578214"
+    },
+    {
+      "id": "1564405684711319492",
+      "store_id": "2052",
+      "like_code": "349248",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 3143,
+      "upc": "893609429320",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936094293207",
+      "reference_ids": [
+        "08936094293207"
+      ],
+      "name": "Budweiser Beer Can | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711319492/261a39a98cc1c270499d171a73257589",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08936094293207",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/budweiser_beer_can_330ml/p/1564405684711319492"
+    },
+    {
+      "id": "1564405684713578218",
+      "store_id": "2052",
+      "like_code": "377975",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱392.00",
+      "unit_price": 392.0,
+      "popularity": 999999,
+      "upc": "893609429532",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936094295324",
+      "reference_ids": [
+        "08936094295324"
+      ],
+      "name": "Budweiser Beer Can | 330ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713578218/0f69f1dbe4312439ea9dc006eeb24c37",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08936094295324",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/budweiser_beer_can_330ml_x_6s/p/1564405684713578218"
+    },
+    {
+      "id": "1564405684713726465",
+      "store_id": "2052",
+      "like_code": "371476",
+      "department_id": [
+        "1496196"
+      ],
+      "price": "₱96.50",
+      "unit_price": 96.5,
+      "popularity": 3769,
+      "upc": "893609429330",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936094293306",
+      "reference_ids": [
+        "08936094293306"
+      ],
+      "name": "Budweiser Beer Can | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713726465/a111bb9c94aa4fa6db46997978facf43",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08936094293306",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/beer/budweiser_beer_can_500ml/p/1564405684713726465"
+    },
+    {
+      "id": "1764405684715028012",
+      "store_id": "2052",
+      "like_code": "433214",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱118.00",
+      "unit_price": 118.0,
+      "popularity": 6897,
+      "upc": "480651465701",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514657015",
+      "reference_ids": [
+        "04806514657015"
+      ],
+      "name": "Buenas Creamy Fruit Mix & Beans Halo-Halo | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715028012/9acd29deff8536f920e6c71da4d85585",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514657015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buenas_creamy_fruit_mix_beans_halo_halo_12oz/p/1764405684715028012"
+    },
+    {
+      "id": "1764405684715030704",
+      "store_id": "2052",
+      "like_code": "435778",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱118.00",
+      "unit_price": 118.0,
+      "popularity": 7765,
+      "upc": "480651465702",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514657022",
+      "reference_ids": [
+        "04806514657022"
+      ],
+      "name": "Buenas Creamy Ube Fruit Mix & Beans Halo-Halo | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715030704/fb905205a9dc42dcf69fe6c9f60efdf8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514657022",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buenas_creamy_ube_fruit_mix_beans_halo_halo_12oz/p/1764405684715030704"
+    },
+    {
+      "id": "1564405684702504781",
+      "store_id": "2052",
+      "like_code": "159834",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 5702,
+      "upc": "480651465011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514650115",
+      "reference_ids": [
+        "04806514650115",
+        "00853693001706"
+      ],
+      "name": "Buenas Halo Halo Fruit Mix | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504781/84b9cf03356e48d969bcd3282ce3f569",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514650115",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/buenas_halo_halo_fruit_mix_12oz/p/1564405684702504781"
+    },
+    {
+      "id": "1764405684715028010",
+      "store_id": "2052",
+      "like_code": "433212",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱104.00",
+      "unit_price": 104.0,
+      "popularity": 6231,
+      "upc": "480651465006",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514650061",
+      "reference_ids": [
+        "04806514650061"
+      ],
+      "name": "Buenas Kaong Green | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715028010/c420ec1065e4d9c5682890a8020ab866",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514650061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buenas_kaong_green_12oz/p/1764405684715028010"
+    },
+    {
+      "id": "1764405684715028008",
+      "store_id": "2052",
+      "like_code": "433213",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 7687,
+      "upc": "480651465003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514650030",
+      "reference_ids": [
+        "04806514650030"
+      ],
+      "name": "Buenas Nata De Coco Green | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715028008/662f0a1938af9c2c069e91e588158c93",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514650030",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buenas_nata_de_coco_green_12oz/p/1764405684715028008"
+    },
+    {
+      "id": "1564405684702548161",
+      "store_id": "2052",
+      "like_code": "159842",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱91.00",
+      "unit_price": 91.0,
+      "popularity": 999999,
+      "upc": "480651465260",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514652607",
+      "reference_ids": [
+        "04806514652607"
+      ],
+      "name": "Buenas Red Kaong in Syrup | 360g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548161/56f63656f347b4b037b066e6c3136c7f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806514652607",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/buenas_red_kaong_in_syrup_360g/p/1564405684702548161"
+    },
+    {
+      "id": "1564405684702504774",
+      "store_id": "2052",
+      "like_code": "159844",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱104.00",
+      "unit_price": 104.0,
+      "popularity": 6644,
+      "upc": "480651465004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514650047",
+      "reference_ids": [
+        "04806514650047",
+        "00853693001010"
+      ],
+      "name": "Buenas White Kaong | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504774/313562fe8cf8631b102fcfa9c52f796a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514650047",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buenas_white_kaong_12oz/p/1564405684702504774"
+    },
+    {
+      "id": "1564405684702548158",
+      "store_id": "2052",
+      "like_code": "159840",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱91.00",
+      "unit_price": 91.0,
+      "popularity": 6453,
+      "upc": "480651465259",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514652591",
+      "reference_ids": [
+        "04806514652591"
+      ],
+      "name": "Buenas White Kaong in Syrup | 360g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548158/a0474ef46aecae44810a4b4d33d39ac5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514652591",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/buenas_white_kaong_in_syrup_360g/p/1564405684702548158"
+    },
+    {
+      "id": "1564405684702504777",
+      "store_id": "2052",
+      "like_code": "159843",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 6442,
+      "upc": "480651465001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514650016",
+      "reference_ids": [
+        "04806514650016",
+        "00853693001041"
+      ],
+      "name": "Buenas White Nata De Coco | 12oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504777/8ae31c4c6f4cd92306b69900a76d3eae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514650016",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/buenas_white_nata_de_coco_12oz/p/1564405684702504777"
+    },
+    {
+      "id": "1564405684702548155",
+      "store_id": "2052",
+      "like_code": "159837",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 2130,
+      "upc": "480651465256",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806514652560",
+      "reference_ids": [
+        "04806514652560"
+      ],
+      "name": "Buenas White Nata De Coco | 360g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548155/0b6f95dfd89c7a7fbbe7c42f2917ca65",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806514652560",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/buenas_white_nata_de_coco_360g/p/1564405684702548155"
+    }
+  ]
+}

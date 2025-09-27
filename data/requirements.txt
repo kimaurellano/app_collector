@@ -1,0 +1,4 @@
+playwright==1.46.0
+pandas==2.2.2
+duckdb==1.0.0
+streamlit==1.37.1

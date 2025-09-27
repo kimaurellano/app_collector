@@ -1,0 +1,2259 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684716287843",
+      "store_id": "2052",
+      "like_code": "421090",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱580.00",
+      "unit_price": 580.0,
+      "popularity": 9642,
+      "upc": "480036142608",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426084",
+      "reference_ids": [
+        "04800361426084"
+      ],
+      "name": "Nan Milk Optipro 1-3 Years Old | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716287843/5bab386cd39240bc8c65a3eef57c95e2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426084",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nan_milk_optipro_1_3_years_old_400g/p/1564405684716287843"
+    },
+    {
+      "id": "1564405684710263982",
+      "store_id": "2052",
+      "like_code": "343142",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱3,245.00",
+      "unit_price": 3245.0,
+      "popularity": 9555,
+      "upc": "480036141552",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361415521",
+      "reference_ids": [
+        "04800361415521"
+      ],
+      "name": "Nan Milk Optipro 2 | 2.4kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710263982/076fb6c2bafb79d7a601a7dbb6edab88",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361415521",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_milk_optipro_2_2_4kg/p/1564405684710263982"
+    },
+    {
+      "id": "1564405684716287841",
+      "store_id": "2052",
+      "like_code": "421089",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱760.00",
+      "unit_price": 760.0,
+      "popularity": 9960,
+      "upc": "480036142606",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426060",
+      "reference_ids": [
+        "04800361426060"
+      ],
+      "name": "Nan Milk Optipro 6-12 Months | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716287841/da1cd0e0b36ad2b76fdfce6e3d5a3e10",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426060",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_milk_optipro_6_12_months_400g/p/1564405684716287841"
+    },
+    {
+      "id": "1564405684710263981",
+      "store_id": "2052",
+      "like_code": "343143",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱3,449.00",
+      "unit_price": 3449.0,
+      "popularity": 10138,
+      "upc": "480036141550",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361415507",
+      "reference_ids": [
+        "04800361415507"
+      ],
+      "name": "Nan Milk Optipro One | 2.4kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710263981/da4b344cd23f4fbb2d2c8b9aaad99dfc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361415507",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_milk_optipro_one_2_4kg/p/1564405684710263981"
+    },
+    {
+      "id": "1564405684702540533",
+      "store_id": "2052",
+      "like_code": "165114",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱2,347.00",
+      "unit_price": 2347.0,
+      "popularity": 10157,
+      "upc": "480036139174",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361391740",
+      "reference_ids": [
+        "04800361391740"
+      ],
+      "name": "NAN MLK INFPRO HW THREE1.4KG/3",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540533/f4b3b011f1ff8340a040a3d2959fdde3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361391740",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_mlk_infpro_hw_three1_4_kg_3/p/1564405684702540533"
+    },
+    {
+      "id": "1564405684702556136",
+      "store_id": "2052",
+      "like_code": "211543",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱1,288.00",
+      "unit_price": 1288.0,
+      "popularity": 9741,
+      "upc": "761328782646",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "07613287826466",
+      "reference_ids": [
+        "07613287826466",
+        "07613035061491"
+      ],
+      "name": "Nan Mlk Kid Infpro4 Hw | 800g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702556136/e755fbf7dab7712cc94ede04071d1a4e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705706127899087",
+          "reference_id": "ad_2052_07613287826466_2_2326_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702556136"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4871,
+          "product_tag_ids": [
+            "528514",
+            "1496189",
+            "1553889",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22883903",
+            "22967205",
+            "22974205",
+            "22983209"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "032038f125d468a3c081746cf8ff0e90",
+          "similarity_priority": 6,
+          "name": "Nan Mlk Kid Infpro4 Hw | 800g",
+          "sale_price": "2 for ₱2,326.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱2,326.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱2,326.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱2,326.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705706127899087",
+        "reference_id": "ad_2052_07613287826466_2_2326_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702556136"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4871,
+        "product_tag_ids": [
+          "528514",
+          "1496189",
+          "1553889",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22883903",
+          "22967205",
+          "22974205",
+          "22983209"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "032038f125d468a3c081746cf8ff0e90",
+        "similarity_priority": 6,
+        "name": "Nan Mlk Kid Infpro4 Hw | 800g",
+        "sale_price": "2 for ₱2,326.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱2,326.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 1163.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07613287826466",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_mlk_kid_infpro4_hw_800g/p/1564405684702556136"
+    },
+    {
+      "id": "1564405684702540699",
+      "store_id": "2052",
+      "like_code": "264844",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "2 for ₱4,290.00",
+      "unit_price": 2145.0,
+      "popularity": 8632,
+      "quantity_step": 2.0,
+      "upc": "480036140124",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361401241",
+      "reference_ids": [
+        "04800361401241"
+      ],
+      "name": "Nan Optipro Four | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY 2 SAVE 400",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702540699/9519e68afbd7ae0b19052b0bb72935ee",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361401241",
+      "quantity_initial": 2.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_optipro_four_2_4kg/p/1564405684702540699"
+    },
+    {
+      "id": "1564405684702540421",
+      "store_id": "2052",
+      "like_code": "142441",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱2,227.00",
+      "unit_price": 2227.0,
+      "popularity": 9899,
+      "upc": "480036136894",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361368940",
+      "reference_ids": [
+        "04800361368940"
+      ],
+      "name": "Nan Optipro One | 1.3kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540421/d849a8ccc6c4be599623b77f521482d5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361368940",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_optipro_one_1_3kg/p/1564405684702540421"
+    },
+    {
+      "id": "1564405684702540423",
+      "store_id": "2052",
+      "like_code": "126137",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱1,665.00",
+      "unit_price": 1665.0,
+      "popularity": 9689,
+      "upc": "480036136898",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361368988",
+      "reference_ids": [
+        "04800361368988"
+      ],
+      "name": "Nan Optipro Three | 1.3kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 5,
+      "cover_image": "1564405684702540423/eac15ffffd304616508f36a89f0e12bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361368988",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_optipro_three_1_3kg/p/1564405684702540423"
+    },
+    {
+      "id": "1564405684702540700",
+      "store_id": "2052",
+      "like_code": "264845",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱2,621.00",
+      "unit_price": 2621.0,
+      "popularity": 10,
+      "upc": "480036140122",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361401227",
+      "reference_ids": [
+        "04800361401227"
+      ],
+      "name": "Nan Optipro Three | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540700/a3c0fd98558c77233a6afca552cb9ac2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361401227",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_optipro_three_2_4kg/p/1564405684702540700"
+    },
+    {
+      "id": "1564405684702540422",
+      "store_id": "2052",
+      "like_code": "126136",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱2,064.00",
+      "unit_price": 2064.0,
+      "popularity": 10256,
+      "upc": "480036136896",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361368964",
+      "reference_ids": [
+        "04800361368964"
+      ],
+      "name": "Nan Optipro Two | 1.3kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540422/ec89506b44bc9c24b68e20f0939b2224",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361368964",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/nan_optipro_two_1_3kg/p/1564405684702540422"
+    },
+    {
+      "id": "1564405684702504038",
+      "store_id": "2052",
+      "like_code": "139340",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱400.75",
+      "unit_price": 400.75,
+      "popularity": 999999,
+      "upc": "9842620276",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00098426202764",
+      "reference_ids": [
+        "00098426202764"
+      ],
+      "name": "Napoleon Brandy VSOP | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504038/d2ba27dca9b400f2ea9bd950d530edaf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00098426202764",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/napoleon_brandy_vsop_750ml/p/1564405684702504038"
+    },
+    {
+      "id": "1564405684702534863",
+      "store_id": "2052",
+      "like_code": "174752",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱260.00",
+      "unit_price": 260.0,
+      "popularity": 7672,
+      "upc": "366040705983",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "03660407059833",
+      "reference_ids": [
+        "03660407059833"
+      ],
+      "name": "Napoli Mozzarella Cheese Portion | 190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702534863/7b88df8a7cc5cc0f62b99dae8650a8e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "03660407059833",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/napoli_mozzarella_cheese_portion_190g/p/1564405684702534863"
+    },
+    {
+      "id": "1564405684702555216",
+      "store_id": "2052",
+      "like_code": "117441",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱55.50",
+      "unit_price": 55.5,
+      "popularity": 7137,
+      "upc": "690100900476",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06901009004768",
+      "reference_ids": [
+        "06901009004768"
+      ],
+      "name": "Narcissus Mushrooms Pieces & Stems | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555216/577acce27cc7bdfa381a44f5f9d401f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06901009004768",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/narcissus_mushrooms_pieces_stems_40g/p/1564405684702555216"
+    },
+    {
+      "id": "1564405684702555211",
+      "store_id": "2052",
+      "like_code": "15543",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱55.50",
+      "unit_price": 55.5,
+      "popularity": 999999,
+      "upc": "690100900026",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06901009000265",
+      "reference_ids": [
+        "06901009000265"
+      ],
+      "name": "Narcissus Mushrooms Whole | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555211/90f0bda5e3e52c9eac718dc2d324c655",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06901009000265",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/narcissus_mushrooms_whole_400g/p/1564405684702555211"
+    },
+    {
+      "id": "1564405684712690280",
+      "store_id": "2052",
+      "like_code": "283658",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱89.00",
+      "unit_price": 89.0,
+      "popularity": 999999,
+      "upc": "690101733120",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06901017331207",
+      "reference_ids": [
+        "06901017331207"
+      ],
+      "name": "Narcissus White Rice Vinegar | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712690280/2b0bdf4aadeee633e601639bf7206576",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06901017331207",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/narcissus_white_rice_vinegar_600g/p/1564405684712690280"
+    },
+    {
+      "id": "1564405684711681748",
+      "store_id": "2052",
+      "like_code": "350573",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱1,195.00",
+      "unit_price": 1195.0,
+      "popularity": 999999,
+      "upc": "200003505730",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035057305",
+      "reference_ids": [
+        "02000035057305"
+      ],
+      "name": "Nassau Expert Smash | Set",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681748/ee6e02c62e59719374e0016f5902455f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035057305",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_expert_smash_set/p/1564405684711681748"
+    },
+    {
+      "id": "1564405684711681746",
+      "store_id": "2052",
+      "like_code": "350574",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱1,195.00",
+      "unit_price": 1195.0,
+      "popularity": 999999,
+      "upc": "200003505740",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035057404",
+      "reference_ids": [
+        "02000035057404"
+      ],
+      "name": "Nassau Expert Speed | Set",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681746/776d929ee99f42277849ae84435d322c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035057404",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_expert_speed_set/p/1564405684711681746"
+    },
+    {
+      "id": "1564405684711681749",
+      "store_id": "2052",
+      "like_code": "350591",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱755.00",
+      "unit_price": 755.0,
+      "popularity": 999999,
+      "upc": "200003505910",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035059101",
+      "reference_ids": [
+        "02000035059101"
+      ],
+      "name": "Nassau Mega Power 004 | Set",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681749/aedf71f1cada3781dfae8f1487cfc6fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035059101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_mega_power_004_set/p/1564405684711681749"
+    },
+    {
+      "id": "1564405684711681751",
+      "store_id": "2052",
+      "like_code": "350592",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱755.00",
+      "unit_price": 755.0,
+      "popularity": 999999,
+      "upc": "200003505920",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035059200",
+      "reference_ids": [
+        "02000035059200"
+      ],
+      "name": "Nassau Mega Power 005 | 1s",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681751/987278dc641a2c9f3e7bc28d6d38cb23",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035059200",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_mega_power_005_1s/p/1564405684711681751"
+    },
+    {
+      "id": "1564405684711681752",
+      "store_id": "2052",
+      "like_code": "350593",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 999999,
+      "upc": "200003505930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035059309",
+      "reference_ids": [
+        "02000035059309"
+      ],
+      "name": "Nassau NSC-701 Alpha Shuttlecock (Tube) | 1s",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681752/7a4745a6df73f0ba1acc662e74aec3fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035059309",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_nsc_701_alpha_shuttlecock_tube_1s/p/1564405684711681752"
+    },
+    {
+      "id": "1564405684711681750",
+      "store_id": "2052",
+      "like_code": "350575",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱869.00",
+      "unit_price": 869.0,
+      "popularity": 999999,
+      "upc": "200003505750",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035057503",
+      "reference_ids": [
+        "02000035057503"
+      ],
+      "name": "Nassau Power Impact 2000 | Set",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681750/8eb717d595a2577942f2a244d64251e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035057503",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_power_impact_2000_set/p/1564405684711681750"
+    },
+    {
+      "id": "1564405684711681747",
+      "store_id": "2052",
+      "like_code": "350590",
+      "department_id": [
+        "22074968"
+      ],
+      "price": "₱869.00",
+      "unit_price": 869.0,
+      "popularity": 999999,
+      "upc": "200003505900",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035059002",
+      "reference_ids": [
+        "02000035059002"
+      ],
+      "name": "Nassau Power Swing 2000 | Set",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711681747/79f190c618cf18487739007f49efbf61",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035059002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/nassau_power_swing_2000_set/p/1564405684711681747"
+    },
+    {
+      "id": "1564405684715335949",
+      "store_id": "2052",
+      "like_code": "325322",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱260.00",
+      "unit_price": 260.0,
+      "popularity": 999999,
+      "upc": "480652340031",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400312",
+      "reference_ids": [
+        "04806523400312"
+      ],
+      "name": "Nathaniel's Brownies | 20pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715335949/7f3bb31d7ecb2d79605af3aa9b506d1a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523400312",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniel_s_brownies_20pcs/p/1564405684715335949"
+    },
+    {
+      "id": "1764405684714899266",
+      "store_id": "2052",
+      "like_code": "422842",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱230.00",
+      "unit_price": 230.0,
+      "popularity": 9228,
+      "upc": "480652340885",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523408851",
+      "reference_ids": [
+        "04806523408851"
+      ],
+      "name": "Nathaniels Buko Lychee Sherbet | 850g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714899266/2d03f600567b2cf4f75997a0cd3b7b28",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523408851",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniels_buko_lychee_sherbet_850g/p/1764405684714899266"
+    },
+    {
+      "id": "1564405684702549551",
+      "store_id": "2052",
+      "like_code": "166931",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱695.00",
+      "unit_price": 695.0,
+      "popularity": 20,
+      "upc": "480652340001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400015",
+      "reference_ids": [
+        "04806523400015"
+      ],
+      "name": "Nathaniel's Buko Pandan Salad | 1/2gal",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549551/883bec381773a23a59af1f7eb876f543",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/nathaniel_s_buko_pandan_salad_1_2gal/p/1564405684702549551"
+    },
+    {
+      "id": "1564405684702549553",
+      "store_id": "2052",
+      "like_code": "166932",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱425.00",
+      "unit_price": 425.0,
+      "popularity": 20,
+      "upc": "480652340002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400022",
+      "reference_ids": [
+        "04806523400022"
+      ],
+      "name": "Nathaniel's Buko Pandan Salad | 1/4gal",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549553/d3ae4cd5c94bed1db05df83c85f75798",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400022",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/nathaniel_s_buko_pandan_salad_1_4gal/p/1564405684702549553"
+    },
+    {
+      "id": "1564405684702549554",
+      "store_id": "2052",
+      "like_code": "166933",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱230.00",
+      "unit_price": 230.0,
+      "popularity": 6940,
+      "upc": "480652340004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400046",
+      "reference_ids": [
+        "04806523400046"
+      ],
+      "name": "Nathaniel's Buko Pandan Salad Ice Cream Pint | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549554/d663e896b8fc62144c1b275cd75d832a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400046",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/nathaniel_s_buko_pandan_salad_ice_cream_pint_340g/p/1564405684702549554"
+    },
+    {
+      "id": "1564405684715335951",
+      "store_id": "2052",
+      "like_code": "325344",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "upc": "480652340026",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400268",
+      "reference_ids": [
+        "04806523400268"
+      ],
+      "name": "Nathaniel's Buko Pie | 6pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715335951/57234f99b17765c55bb296a05e261a8b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523400268",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniel_s_buko_pie_6pcs/p/1564405684715335951"
+    },
+    {
+      "id": "1564405684715335959",
+      "store_id": "2052",
+      "like_code": "325343",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱230.00",
+      "unit_price": 230.0,
+      "popularity": 999999,
+      "upc": "480652340077",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400770",
+      "reference_ids": [
+        "04806523400770"
+      ],
+      "name": "Nathaniel's Chocolate Crinkles | pack",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715335959/358ad892671d4379b8d479f590e07605",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523400770",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniel_s_chocolate_crinkles_pack/p/1564405684715335959"
+    },
+    {
+      "id": "1764405684714899264",
+      "store_id": "2052",
+      "like_code": "422843",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱480.00",
+      "unit_price": 480.0,
+      "popularity": 8183,
+      "upc": "480652340009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400091",
+      "reference_ids": [
+        "04806523400091"
+      ],
+      "name": "Nathaniels Fruit Salad | 1/4gal",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714899264/35ab6bfe8a696bd8b639bf7a45ec5368",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400091",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniels_fruit_salad_1_4gal/p/1764405684714899264"
+    },
+    {
+      "id": "1564405684702549558",
+      "store_id": "2052",
+      "like_code": "264044",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 9577,
+      "upc": "480652340095",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400954",
+      "reference_ids": [
+        "04806523400954"
+      ],
+      "name": "Nathaniels Lasagna | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549558/54c4cc3ba0e355b7e444a4adce88caac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400954",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/nathaniels_lasagna_420g/p/1564405684702549558"
+    },
+    {
+      "id": "1564405684715335955",
+      "store_id": "2052",
+      "like_code": "325347",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱245.00",
+      "unit_price": 245.0,
+      "popularity": 999999,
+      "upc": "480652340113",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523401135",
+      "reference_ids": [
+        "04806523401135"
+      ],
+      "name": "Nathaniel's Macapuno Tarts | 12pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715335955/54ade6b9dd98b8012ad3b30542d644d6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523401135",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniel_s_macapuno_tarts_12pcs/p/1564405684715335955"
+    },
+    {
+      "id": "1564405684702549555",
+      "store_id": "2052",
+      "like_code": "166934",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱365.00",
+      "unit_price": 365.0,
+      "popularity": 4292,
+      "upc": "480652340005",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400053",
+      "reference_ids": [
+        "04806523400053"
+      ],
+      "name": "Nathaniel's Pork Siomai | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549555/ce2e5b1f53cefed6d408b303c0afc4fd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400053",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/nathaniel_s_pork_siomai_20s/p/1564405684702549555"
+    },
+    {
+      "id": "1564405684715335953",
+      "store_id": "2052",
+      "like_code": "325358",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱260.00",
+      "unit_price": 260.0,
+      "popularity": 999999,
+      "upc": "480652340053",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400534",
+      "reference_ids": [
+        "04806523400534"
+      ],
+      "name": "Nathaniel's Puto Pao | 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715335953/7c4d03fad66c52b414c3f1b7796fe73c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523400534",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniel_s_puto_pao_6s/p/1564405684715335953"
+    },
+    {
+      "id": "1564405684715335957",
+      "store_id": "2052",
+      "like_code": "325342",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱290.00",
+      "unit_price": 290.0,
+      "popularity": 999999,
+      "upc": "480652340039",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400398",
+      "reference_ids": [
+        "04806523400398"
+      ],
+      "name": "Nathaniel's Silvannas Plain | 10pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715335957/e82dfc3a0f501b9487ff80ab850341d3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523400398",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nathaniel_s_silvannas_plain_10pcs/p/1564405684715335957"
+    },
+    {
+      "id": "1564405684702526088",
+      "store_id": "2052",
+      "like_code": "203053",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱355.00",
+      "unit_price": 355.0,
+      "popularity": 6095,
+      "upc": "480652340018",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400183",
+      "reference_ids": [
+        "04806523400183",
+        "02000020305381"
+      ],
+      "name": "Nathaniels Siopao Asado | 10pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702526088/9b8070faebc0eeccf077af3edb8f5a75",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400183",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/nathaniels_siopao_asado_10pcs/p/1564405684702526088"
+    },
+    {
+      "id": "1564405684702526086",
+      "store_id": "2052",
+      "like_code": "203052",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱455.00",
+      "unit_price": 455.0,
+      "popularity": 999999,
+      "upc": "480652340019",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400190",
+      "reference_ids": [
+        "04806523400190",
+        "02000020305282"
+      ],
+      "name": "Nathaniels Siopao Bola | 10pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702526086/904dbe4c7915830730501da927eaf419",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523400190",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/nathaniels_siopao_bola_10pcs/p/1564405684702526086"
+    },
+    {
+      "id": "1564405684702526083",
+      "store_id": "2052",
+      "like_code": "203050",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱255.00",
+      "unit_price": 255.0,
+      "popularity": 7046,
+      "upc": "480652340015",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523400152",
+      "reference_ids": [
+        "04806523400152",
+        "02000020305084"
+      ],
+      "name": "Nathaniels Skinless Longganisa | 14pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702526083/97f8b8e547457d789752ed8e922b9648",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806523400152",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/nathaniels_skinless_longganisa_14pcs/p/1564405684702526083"
+    },
+    {
+      "id": "1564405684710266178",
+      "store_id": "2052",
+      "like_code": "343186",
+      "department_id": [
+        "22459232"
+      ],
+      "price": "₱237.00",
+      "unit_price": 237.0,
+      "popularity": 8754,
+      "upc": "893601325150",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936013251509",
+      "reference_ids": [
+        "08936013251509"
+      ],
+      "name": "Natucair Pink Blossom Fabric Spray | 400ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710266178/1b7036ceda471d218e4b204ebd16a15c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08936013251509",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/fabric_softener/natucair_pink_blossom_fabric_spray_400ml/p/1564405684710266178"
+    },
+    {
+      "id": "1564405684710266179",
+      "store_id": "2052",
+      "like_code": "343187",
+      "department_id": [
+        "22459232"
+      ],
+      "price": "₱237.00",
+      "unit_price": 237.0,
+      "popularity": 9340,
+      "upc": "893601325151",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936013251516",
+      "reference_ids": [
+        "08936013251516"
+      ],
+      "name": "Natucair Relaxing Purple Fabric Spray | 400ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710266179/5971641f81e5143164682a5a7992cb4e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08936013251516",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/fabric_softener/natucair_relaxing_purple_fabric_spray_400ml/p/1564405684710266179"
+    },
+    {
+      "id": "1564405684710266181",
+      "store_id": "2052",
+      "like_code": "343185",
+      "department_id": [
+        "22459232"
+      ],
+      "price": "₱237.00",
+      "unit_price": 237.0,
+      "popularity": 9416,
+      "upc": "893601325152",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08936013251523",
+      "reference_ids": [
+        "08936013251523"
+      ],
+      "name": "Natucair Sparkling Yellow Fabric Spray | 400ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710266181/e09c9203caa63de146254fcdc1f5d4a5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08936013251523",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/fabric_softener/natucair_sparkling_yellow_fabric_spray_400ml/p/1564405684710266181"
+    },
+    {
+      "id": "1564405684702546259",
+      "store_id": "2052",
+      "like_code": "159001",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱203.00",
+      "unit_price": 203.0,
+      "popularity": 7009,
+      "upc": "480650235319",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502353196",
+      "reference_ids": [
+        "04806502353196"
+      ],
+      "name": "Naturale 2 ply Kitchen Towel | 3pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546259/6939f6d4921f56d1d349fcc4207626d8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502353196",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/naturale_2_ply_kitchen_towel_3pcs/p/1564405684702546259"
+    },
+    {
+      "id": "1564405684702546233",
+      "store_id": "2052",
+      "like_code": "153805",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱112.00",
+      "unit_price": 112.0,
+      "popularity": 5627,
+      "upc": "480650235188",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502351888",
+      "reference_ids": [
+        "04806502351888"
+      ],
+      "name": "Naturale Folded Table Napkin | 300 Pulls",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04806502351888/dfe29196c034d1df791d60e00de6bbdb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502351888",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/naturale_folded_table_napkin_300_pulls/p/1564405684702546233"
+    },
+    {
+      "id": "1564405684702546234",
+      "store_id": "2052",
+      "like_code": "153806",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱25.00",
+      "unit_price": 25.0,
+      "popularity": 2057,
+      "upc": "480650235187",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502351871",
+      "reference_ids": [
+        "04806502351871"
+      ],
+      "name": "Naturale Folded Table Napkin | 50 Pulls",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546234/4e6bcd2593d34872257cd5be5f43a82e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3692740085431679828",
+          "reference_id": "ad_2052_04806502351871_2_40_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702546234"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1029,
+          "product_tag_ids": [
+            "1496217",
+            "22076602",
+            "22356795",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7e39df7cd2699430626c6715c4ac1e66",
+          "similarity_priority": 6,
+          "name": "Naturale Folded Table Napkin | 50 Pulls",
+          "sale_price": "2 for ₱40.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱40.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱40.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱40.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3692740085431679828",
+        "reference_id": "ad_2052_04806502351871_2_40_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702546234"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1029,
+        "product_tag_ids": [
+          "1496217",
+          "22076602",
+          "22356795",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7e39df7cd2699430626c6715c4ac1e66",
+        "similarity_priority": 6,
+        "name": "Naturale Folded Table Napkin | 50 Pulls",
+        "sale_price": "2 for ₱40.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱40.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 20.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502351871",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/naturale_folded_table_napkin_50_pulls/p/1564405684702546234"
+    },
+    {
+      "id": "1564405684702546261",
+      "store_id": "2052",
+      "like_code": "162199",
+      "department_id": [
+        "22459136"
+      ],
+      "price": "₱449.00",
+      "unit_price": 449.0,
+      "popularity": 9627,
+      "upc": "480650235322",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502353226",
+      "reference_ids": [
+        "04806502353226"
+      ],
+      "name": "Naturale Hand Roll Towel Hartlam Refill 2 ply",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546261/e55a2fbe6600c7f6c98ebe6b382deb91",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502353226",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/kitchen_towel/naturale_hand_roll_towel_hartlam_refill_2_ply/p/1564405684702546261"
+    },
+    {
+      "id": "1564405684702546232",
+      "store_id": "2052",
+      "like_code": "153804",
+      "department_id": [
+        "1496217"
+      ],
+      "price": "₱62.00",
+      "unit_price": 62.0,
+      "popularity": 6143,
+      "upc": "480650235186",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502351864",
+      "reference_ids": [
+        "04806502351864"
+      ],
+      "name": "Naturale Interfolded Paper Towels | 175 Pulls",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546232/b88d873fe9c07310fc5461fe2ab0bc31",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461927297792450",
+          "reference_id": "tpr_2052_04806502351864_52_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546232"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6143,
+          "product_tag_ids": [
+            "1496217",
+            "22076602",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7e0fd50a7452c1412f158e3d3ff9a021",
+          "similarity_priority": 5,
+          "name": "Naturale Interfolded Paper Towels | 175 Pulls",
+          "sale_price": "₱52.00",
+          "sale_price_md": "**₱52.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3722461656169593058",
+          "reference_id": "ad_2052_04806502351864_1_52_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546232"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3072,
+          "product_tag_ids": [
+            "1496217",
+            "22076602",
+            "22356795",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "8529a48503e6dd9670f58418a1f1f343",
+          "similarity_priority": 6,
+          "name": "Naturale Interfolded Paper Towels | 175 Pulls",
+          "sale_price": "₱52.00",
+          "sale_price_md": "**₱52.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱52.00",
+      "sale_price_md": "**₱52.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3722461927297792450",
+        "reference_id": "tpr_2052_04806502351864_52_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546232"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6143,
+        "product_tag_ids": [
+          "1496217",
+          "22076602",
+          "22356795",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "7e0fd50a7452c1412f158e3d3ff9a021",
+        "similarity_priority": 5,
+        "name": "Naturale Interfolded Paper Towels | 175 Pulls",
+        "sale_price": "₱52.00",
+        "sale_price_md": "**₱52.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 52.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱52.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502351864",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 32",
+        "sequence": 32,
+        "identifier": "810c2055-9029-4601-aa65-51cdd631a33b",
+        "id": "22356795"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/tissue_paper_towels/naturale_interfolded_paper_towels_175_pulls/p/1564405684702546232"
+    },
+    {
+      "id": "1764405684715542974",
+      "store_id": "2052",
+      "like_code": "453235",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱147.00",
+      "unit_price": 147.0,
+      "popularity": 6,
+      "upc": "480650216924",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806502169247",
+      "reference_ids": [
+        "04806502169247"
+      ],
+      "name": "Naturale Rippled Cups Brown | 12oz x 20s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715542974/0180e20c987897b15cbde50c79218140",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806502169247",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/naturale_rippled_cups_brown_12oz_x_20s/p/1764405684715542974"
+    }
+  ]
+}

@@ -1,0 +1,2035 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684712891031",
+      "store_id": "2052",
+      "like_code": "348730",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487300",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034873005",
+      "reference_ids": [
+        "02000034873005"
+      ],
+      "name": "FILA Men's Gelato Slides | Orange | Size 10",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891031/f6bb20492d700f4cbb5b69d7b5aa7b80",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034873005",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_orange_size_10/p/1564405684712891031"
+    },
+    {
+      "id": "1564405684712891029",
+      "store_id": "2052",
+      "like_code": "348727",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872701",
+      "reference_ids": [
+        "02000034872701"
+      ],
+      "name": "FILA Men's Gelato Slides | Orange | Size 7",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891029/18dfbf60fa56ef1845070d33c231429c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872701",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_orange_size_7/p/1564405684712891029"
+    },
+    {
+      "id": "1564405684712891030",
+      "store_id": "2052",
+      "like_code": "348728",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487280",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872800",
+      "reference_ids": [
+        "02000034872800"
+      ],
+      "name": "FILA Men's Gelato Slides | Orange | Size 8",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891030/94f5e8393d342dcf1d406703a954b96a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872800",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_orange_size_8/p/1564405684712891030"
+    },
+    {
+      "id": "1564405684712891032",
+      "store_id": "2052",
+      "like_code": "348729",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱799.00",
+      "unit_price": 799.0,
+      "popularity": 999999,
+      "upc": "200003487290",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034872909",
+      "reference_ids": [
+        "02000034872909"
+      ],
+      "name": "FILA Men's Gelato Slides | Orange | Size 9",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891032/07b8515a0f59071909d9af5885a6aa0b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034872909",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_orange_size_9/p/1564405684712891032"
+    },
+    {
+      "id": "1564405684712891046",
+      "store_id": "2052",
+      "like_code": "353266",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱999.00",
+      "unit_price": 999.0,
+      "popularity": 999999,
+      "upc": "200003532660",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035326609",
+      "reference_ids": [
+        "02000035326609"
+      ],
+      "name": "FILA Men's Gelato Slides Srappy | Light Gray",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891046/78f430ef4dd60f0c6daa60e827f4316c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035326609",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_srappy_light_gray/p/1564405684712891046"
+    },
+    {
+      "id": "1564405684712891043",
+      "store_id": "2052",
+      "like_code": "353265",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱999.00",
+      "unit_price": 999.0,
+      "popularity": 999999,
+      "upc": "200003532650",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035326500",
+      "reference_ids": [
+        "02000035326500"
+      ],
+      "name": "FILA Men's Gelato Slides Steps | Navy & White",
+      "size": "pr",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712891043/909db9710ca16669903ce8e944b0af53",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035326500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fila_men_s_gelato_slides_steps_navy_white/p/1564405684712891043"
+    },
+    {
+      "id": "1564405684702556449",
+      "store_id": "2052",
+      "like_code": "74462",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱191.00",
+      "unit_price": 191.0,
+      "popularity": 7219,
+      "upc": "800221011244",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210112445",
+      "reference_ids": [
+        "08002210112445"
+      ],
+      "name": "Filippo Berio Classic Pesto Sauce | 190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702556449/12bff36bb0259e913447acab5fc53df3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210112445",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/filippo_berio_classic_pesto_sauce_190g/p/1564405684702556449"
+    },
+    {
+      "id": "29959",
+      "store_id": "2052",
+      "like_code": "74454",
+      "department_id": [
+        "22459196"
+      ],
+      "price": "₱267.00",
+      "unit_price": 267.0,
+      "popularity": 9789,
+      "upc": "800221050010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210500105",
+      "reference_ids": [
+        "08002210500105",
+        "00041736010161"
+      ],
+      "name": "Filippo Berio Extra Virgin Olive Oil | 250ml",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00041736010161/e3fab961d3e880cf8bb255626d877731",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210500105",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/olive_oil/filippo_berio_extra_virgin_olive_oil_250ml/p/29959"
+    },
+    {
+      "id": "7056",
+      "store_id": "2052",
+      "like_code": "74455",
+      "department_id": [
+        "22459196"
+      ],
+      "price": "₱497.00",
+      "unit_price": 497.0,
+      "popularity": 7374,
+      "upc": "800221011609",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210116092",
+      "reference_ids": [
+        "08002210116092",
+        "00041736010147",
+        "08002210500204"
+      ],
+      "name": "Filippo Berio Extra Virgin Olive Oil | 500ml",
+      "size": "16.9 fl oz",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00041736010147/d2a05bb26535ef54d0af793bfd8f1b2d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210116092",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/olive_oil/filippo_berio_extra_virgin_olive_oil_500ml/p/7056"
+    },
+    {
+      "id": "29957",
+      "store_id": "2052",
+      "like_code": "74457",
+      "department_id": [
+        "22459196"
+      ],
+      "price": "₱243.00",
+      "unit_price": 243.0,
+      "popularity": 999999,
+      "upc": "4173600190",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00041736001909",
+      "reference_ids": [
+        "08002210501102",
+        "00041736001909"
+      ],
+      "name": "Filippo Berio Olive Oil | 250ml",
+      "size": "8.4 fl oz",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00041736001909/b9da822ad2557c6caebeb0dadc05e44b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00041736001909",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/olive_oil/filippo_berio_olive_oil_250ml/p/29957"
+    },
+    {
+      "id": "29956",
+      "store_id": "2052",
+      "like_code": "74458",
+      "department_id": [
+        "22459196"
+      ],
+      "price": "₱442.00",
+      "unit_price": 442.0,
+      "popularity": 8613,
+      "upc": "800221011633",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210116337",
+      "reference_ids": [
+        "08002210116337",
+        "00041736001800",
+        "08002210501201"
+      ],
+      "name": "Filippo Berio Olive Oil | 500ml",
+      "size": "16.9 fl oz",
+      "shelf_tag_ids": [
+        "230986"
+      ],
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00041736001800/f9a2b083571468a7bb5e225980a2f0f7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210116337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 23",
+        "sequence": 23,
+        "identifier": "f53d2016-1019-4880-b3c7-2e0c7a462377",
+        "id": "22356786"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/olive_oil/filippo_berio_olive_oil_500ml/p/29956"
+    },
+    {
+      "id": "1564405684714621837",
+      "store_id": "2052",
+      "like_code": "394013",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 7391,
+      "upc": "800221013323",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210133235",
+      "reference_ids": [
+        "08002210133235"
+      ],
+      "name": "Filippo Berio Pasta Sauce Arrabbiata | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714621837/0b3cf979d18a8f971c54665efa3fc192",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210133235",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/filippo_berio_pasta_sauce_arrabbiata_340g/p/1564405684714621837"
+    },
+    {
+      "id": "1564405684714621839",
+      "store_id": "2052",
+      "like_code": "394012",
+      "department_id": [
+        "1496155"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 9011,
+      "upc": "800221013321",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210133211",
+      "reference_ids": [
+        "08002210133211"
+      ],
+      "name": "Filippo Berio Pasta Sauce Basilico | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714621839/cde43d390e1e5295877361422576e2ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210133211",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/filippo_berio_pasta_sauce_basilico_340g/p/1564405684714621839"
+    },
+    {
+      "id": "1564405684702556450",
+      "store_id": "2052",
+      "like_code": "74461",
+      "department_id": [
+        "22459178"
+      ],
+      "price": "₱191.00",
+      "unit_price": 191.0,
+      "popularity": 7798,
+      "upc": "800221011270",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210112704",
+      "reference_ids": [
+        "08002210112704"
+      ],
+      "name": "Filippo Berio Sun Dried Tomato Pesto Sauce | 190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556450/6fac99e40ef73c982f50bcd1639483e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08002210112704",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 26",
+        "sequence": 26,
+        "identifier": "01e1bca6-6c19-44c1-ba0b-2a9d34d647c4",
+        "id": "22356789"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/pasta_noodles/pasta_sauces/filippo_berio_sun_dried_tomato_pesto_sauce_190g/p/1564405684702556450"
+    },
+    {
+      "id": "1564405684702556451",
+      "store_id": "2052",
+      "like_code": "74460",
+      "department_id": [
+        "22459154"
+      ],
+      "price": "₱183.00",
+      "unit_price": 183.0,
+      "popularity": 999999,
+      "upc": "800221012249",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08002210122499",
+      "reference_ids": [
+        "08002210122499",
+        "08002210113466"
+      ],
+      "name": "Filippo Berrio Balsmic Vinegar | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556451/6d0cb444761d0774b0d5277e54fb329b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08002210122499",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/sauce/filippo_berrio_balsmic_vinegar_250ml/p/1564405684702556451"
+    },
+    {
+      "id": "1564405684702554890",
+      "store_id": "2052",
+      "like_code": "55624",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱83.00",
+      "unit_price": 83.0,
+      "popularity": 999999,
+      "upc": "520191122015",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05201911220159",
+      "reference_ids": [
+        "05201911220159"
+      ],
+      "name": "Finetti Hazelnut Choco Spread | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554890/6e33028293795549158034f629356051",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05201911220159",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/finetti_hazelnut_choco_spread_200g/p/1564405684702554890"
+    },
+    {
+      "id": "1764405684715726428",
+      "store_id": "2052",
+      "like_code": "457028",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱529.00",
+      "unit_price": 529.0,
+      "popularity": 999999,
+      "upc": "490187283714",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901872837144",
+      "reference_ids": [
+        "04901872837144"
+      ],
+      "name": "Fino Hair Mask Rich Beauty Serum 230g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04901872837144",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fino_hair_mask_rich_beauty_serum_230g/p/1764405684715726428"
+    },
+    {
+      "id": "1564405684702548198",
+      "store_id": "2052",
+      "like_code": "117705",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 6418,
+      "upc": "480651516036",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160361",
+      "reference_ids": [
+        "04806515160361"
+      ],
+      "name": "Fiona Cologne Bubbly Pink | 100mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548198/55357ce4a6f43e6c5d1b1899665a5410",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3531235043764615992",
+          "reference_id": "tpr_2052_04806515160361_41_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702548198"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6418,
+          "product_tag_ids": [
+            "22459175",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ab8fce9fcb2463fbb2318f1ff1cd0c75",
+          "similarity_priority": 5,
+          "name": "Fiona Cologne Bubbly Pink | 100mL",
+          "sale_price": "₱41.00",
+          "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3531236581404851084",
+          "reference_id": "ad_2052_04806515160361_1_41_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702548198"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3209,
+          "product_tag_ids": [
+            "22459175",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5c3043b14ad9bff379655d45e0f832db",
+          "similarity_priority": 6,
+          "name": "Fiona Cologne Bubbly Pink | 100mL",
+          "sale_price": "₱41.00",
+          "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱41.00",
+      "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3531235043764615992",
+        "reference_id": "tpr_2052_04806515160361_41_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702548198"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6418,
+        "product_tag_ids": [
+          "22459175",
+          "22474153",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ab8fce9fcb2463fbb2318f1ff1cd0c75",
+        "similarity_priority": 5,
+        "name": "Fiona Cologne Bubbly Pink | 100mL",
+        "sale_price": "₱41.00",
+        "sale_price_md": "**₱41.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 41.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱41.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160361",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/fiona_cologne_bubbly_pink_100m_l/p/1564405684702548198"
+    },
+    {
+      "id": "1564405684702548205",
+      "store_id": "2052",
+      "like_code": "137234",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 8086,
+      "upc": "480651516056",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160569",
+      "reference_ids": [
+        "04806515160569"
+      ],
+      "name": "Fiona Cologne Pretty Mist | 100mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548205/38af6d9950591d7525dc8af20ac488fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160569",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/fiona_cologne_pretty_mist_100m_l/p/1564405684702548205"
+    },
+    {
+      "id": "1564405684702548223",
+      "store_id": "2052",
+      "like_code": "165534",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 6299,
+      "upc": "480651516091",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160910",
+      "reference_ids": [
+        "04806515160910"
+      ],
+      "name": "Fiona Cologne Rosy Red | 100mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548223/5f8a93e100e5507817d1e7474fb6dbd8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160910",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/fiona_cologne_rosy_red_100m_l/p/1564405684702548223"
+    },
+    {
+      "id": "1564405684702548193",
+      "store_id": "2052",
+      "like_code": "124113",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 4839,
+      "upc": "480651516011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160118",
+      "reference_ids": [
+        "04806515160118"
+      ],
+      "name": "Fiona Cologne Youthful Bliss | 100mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548193/449d18ab37e74b9a761746c030d82115",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160118",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/fiona_cologne_youthful_bliss_100m_l/p/1564405684702548193"
+    },
+    {
+      "id": "1564405684711917278",
+      "store_id": "2052",
+      "like_code": "292067",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200002920670",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000029206702",
+      "reference_ids": [
+        "02000029206702"
+      ],
+      "name": "Fio Sling Bag | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917278/37e5bedb8a26a3a213d4d89f2e14975d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000029206702",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/fio_sling_bag_assorted_colors/p/1564405684711917278"
+    },
+    {
+      "id": "1564405684715696723",
+      "store_id": "2052",
+      "like_code": "410160",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "upc": "480651086574",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510865742",
+      "reference_ids": [
+        "04806510865742"
+      ],
+      "name": "Firsherfarms Corn & Coconut Shrimp | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696723/6a0503d09023d1013087943360ed02b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510865742",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/firsherfarms_corn_coconut_shrimp_220g/p/1564405684715696723"
+    },
+    {
+      "id": "1564405684715696729",
+      "store_id": "2052",
+      "like_code": "410162",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱257.00",
+      "unit_price": 257.0,
+      "popularity": 999999,
+      "upc": "480651086576",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510865766",
+      "reference_ids": [
+        "04806510865766"
+      ],
+      "name": "Firsherfarms Shrimp Burger Patty | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696729/e04bb99bb1e9a8a95eea3b809de798fb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510865766",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/firsherfarms_shrimp_burger_patty_300g/p/1564405684715696729"
+    },
+    {
+      "id": "1564405684715696727",
+      "store_id": "2052",
+      "like_code": "410161",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 999999,
+      "upc": "480651086575",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510865759",
+      "reference_ids": [
+        "04806510865759"
+      ],
+      "name": "Firsherfarms Shrimp Nuggets | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696727/dc3b26d960588822dfd282837de9bfe5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510865759",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/firsherfarms_shrimp_nuggets_200g/p/1564405684715696727"
+    },
+    {
+      "id": "1764405684714997034",
+      "store_id": "2052",
+      "like_code": "433296",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 999999,
+      "upc": "934949900512",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09349499005129",
+      "reference_ids": [
+        "09349499005129"
+      ],
+      "name": "First Press Iced Coffee Almond Milk | 350ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997034/c38f6104c335e98044ec3de469c653c4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09349499005129",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/first_press_iced_coffee_almond_milk_350ml/p/1764405684714997034"
+    },
+    {
+      "id": "1764405684714997032",
+      "store_id": "2052",
+      "like_code": "433295",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 999999,
+      "upc": "934949900379",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09349499003798",
+      "reference_ids": [
+        "09349499003798"
+      ],
+      "name": "First Press Iced Coffee Almond Milk Zero | 350ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997032/1ef275c2f415b360e71312e4194d7edf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09349499003798",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/first_press_iced_coffee_almond_milk_zero_350ml/p/1764405684714997032"
+    },
+    {
+      "id": "1764405684714997038",
+      "store_id": "2052",
+      "like_code": "433298",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱233.00",
+      "unit_price": 233.0,
+      "popularity": 999999,
+      "upc": "934949900777",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09349499007772",
+      "reference_ids": [
+        "09349499007772"
+      ],
+      "name": "First Press Iced Coffee Espresso Martini | 200ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997038/6d7a0ac4886701c06e61f2dc791d4b9e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09349499007772",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/first_press_iced_coffee_espresso_martini_200ml/p/1764405684714997038"
+    },
+    {
+      "id": "1764405684714997036",
+      "store_id": "2052",
+      "like_code": "433297",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 999999,
+      "upc": "934949900802",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09349499008021",
+      "reference_ids": [
+        "09349499008021"
+      ],
+      "name": "First Press Iced Coffee Oat Milk Zero | 350ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997036/006f38f72bce85545f04c09ae8201506",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09349499008021",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/first_press_iced_coffee_oat_milk_zero_350ml/p/1764405684714997036"
+    },
+    {
+      "id": "1764405684714997030",
+      "store_id": "2052",
+      "like_code": "433294",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 999999,
+      "upc": "934949900256",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09349499002562",
+      "reference_ids": [
+        "09349499002562"
+      ],
+      "name": "First Press Iced Mocha Almond Milk Zero | 350ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714997030/89c4eb8148890c84677c0f63c28f750a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "09349499002562",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/first_press_iced_mocha_almond_milk_zero_350ml/p/1764405684714997030"
+    },
+    {
+      "id": "1564405684704897780",
+      "store_id": "2052",
+      "like_code": "326603",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 999999,
+      "upc": "4151213790",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00041512137907",
+      "reference_ids": [
+        "00041512137907"
+      ],
+      "name": "First Street Apple Cider Vinaigrette | 16oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00041512137907/7b35a2f4467d966e5d2014fde81bba5a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00041512137907",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/first_street_apple_cider_vinaigrette_16oz/p/1564405684704897780"
+    },
+    {
+      "id": "1564405684704897776",
+      "store_id": "2052",
+      "like_code": "326600",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 999999,
+      "upc": "4151208438",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00041512084386",
+      "reference_ids": [
+        "00041512084386"
+      ],
+      "name": "First Street Thousand Island Dressing & Dip | 16oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704897776/631ffb0d968dd76168e31f1414d0af8b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00041512084386",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/first_street_thousand_island_dressing_dip_16oz/p/1564405684704897776"
+    },
+    {
+      "id": "1564405684702547574",
+      "store_id": "2052",
+      "like_code": "162911",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱288.00",
+      "unit_price": 288.0,
+      "popularity": 9492,
+      "upc": "480651086005",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860051",
+      "reference_ids": [
+        "04806510860051"
+      ],
+      "name": "Fisherfarms Deboned Premium Cut MilkFish Belly | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547574/23ca909190ebc5246a3912fb8e17b6e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860051",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fisherfarms_deboned_premium_cut_milk_fish_belly_350g/p/1564405684702547574"
+    },
+    {
+      "id": "1564405684713786887",
+      "store_id": "2052",
+      "like_code": "372806",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱363.00",
+      "unit_price": 363.0,
+      "popularity": 999999,
+      "upc": "480651086156",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510861560",
+      "reference_ids": [
+        "04806510861560",
+        "02000037280688"
+      ],
+      "name": "Fisherfarms Deboned Pure Milkfish Belly | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786887/95296e852a10504dc8b5eabb7fa08588",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510861560",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_deboned_pure_milkfish_belly_350g/p/1564405684713786887"
+    },
+    {
+      "id": "1564405684715696721",
+      "store_id": "2052",
+      "like_code": "410159",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱325.00",
+      "unit_price": 325.0,
+      "popularity": 999999,
+      "upc": "480651086573",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510865735",
+      "reference_ids": [
+        "04806510865735"
+      ],
+      "name": "Fisherfarms Ebi Fry | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696721/7aaf23464b0efe19547e26e309ba4084",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510865735",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_ebi_fry_250g/p/1564405684715696721"
+    },
+    {
+      "id": "1764405684714973588",
+      "store_id": "2052",
+      "like_code": "432408",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 999999,
+      "upc": "480651086166",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510861669",
+      "reference_ids": [
+        "04806510861669"
+      ],
+      "name": "Fisherfarms Fish Frankfurter | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973588/34e283a60fddaa3d44b1544980807993",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510861669",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_fish_frankfurter_250g/p/1764405684714973588"
+    },
+    {
+      "id": "1564405684702547581",
+      "store_id": "2052",
+      "like_code": "162903",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 9389,
+      "upc": "480651086136",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510861362",
+      "reference_ids": [
+        "04806510861362"
+      ],
+      "name": "Fisherfarms Fish Nuggets | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547581/ce0a5316e54e7b2f1cb252d4e30469d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510861362",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_fish_nuggets_200g/p/1564405684702547581"
+    },
+    {
+      "id": "1564405684702547588",
+      "store_id": "2052",
+      "like_code": "213725",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱449.00",
+      "unit_price": 449.0,
+      "popularity": 999999,
+      "upc": "480651086243",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510862437",
+      "reference_ids": [
+        "04806510862437"
+      ],
+      "name": "Fisherfarms Gourmet Bangus Relleno | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547588/7a2f52592dbec7ccdcc8c6e3dc56d3a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510862437",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_gourmet_bangus_relleno_500g/p/1564405684702547588"
+    },
+    {
+      "id": "1764405684714973590",
+      "store_id": "2052",
+      "like_code": "432407",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 999999,
+      "upc": "480651086204",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510862048",
+      "reference_ids": [
+        "04806510862048"
+      ],
+      "name": "Fisherfarms Gourmet Fillet Asian Curry | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973590/689557631071d12e9b93ab5b07b54d9e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510862048",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_gourmet_fillet_asian_curry_200g/p/1764405684714973590"
+    },
+    {
+      "id": "1764405684714973592",
+      "store_id": "2052",
+      "like_code": "432405",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 999999,
+      "upc": "480651086205",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510862055",
+      "reference_ids": [
+        "04806510862055"
+      ],
+      "name": "Fisherfarms Gourmet Fillet Garlic & Herb | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973592/cdd6242ace9415b8b74d239bfed93ba5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510862055",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_gourmet_fillet_garlic_herb_200g/p/1764405684714973592"
+    },
+    {
+      "id": "1764405684714973596",
+      "store_id": "2052",
+      "like_code": "432403",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 999999,
+      "upc": "480651086207",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510862079",
+      "reference_ids": [
+        "04806510862079"
+      ],
+      "name": "Fisherfarms Gourmet Fillet Mexican Glaze | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973596/afbc90b2e32489b06102a36c075b2c45",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510862079",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_gourmet_fillet_mexican_glaze_200g/p/1764405684714973596"
+    },
+    {
+      "id": "1764405684714973594",
+      "store_id": "2052",
+      "like_code": "432406",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 999999,
+      "upc": "480651086206",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510862062",
+      "reference_ids": [
+        "04806510862062"
+      ],
+      "name": "Fisherfarms Gourmet Fillet Pepper Steak | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973594/ffc8e37525a2a39c9d315b039e14124b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510862062",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_gourmet_fillet_pepper_steak_200g/p/1764405684714973594"
+    },
+    {
+      "id": "1764405684714973598",
+      "store_id": "2052",
+      "like_code": "432404",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 999999,
+      "upc": "480651086209",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510862093",
+      "reference_ids": [
+        "04806510862093"
+      ],
+      "name": "Fisherfarms Gourmet Fillet Summer Onion Marinade | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973598/5c789fa3a138a793f0e871d4a07c11fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510862093",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_gourmet_fillet_summer_onion_marinade_200g/p/1764405684714973598"
+    },
+    {
+      "id": "1564405684702547584",
+      "store_id": "2052",
+      "like_code": "162902",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "upc": "480651086170",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510861706",
+      "reference_ids": [
+        "04806510861706"
+      ],
+      "name": "Fisherfarms Hungarian Sausage Hotdog | 310g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547584/0b629f12463dee1158da37f6d510ccbc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510861706",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/fisherfarms_hungarian_sausage_hotdog_310g/p/1564405684702547584"
+    },
+    {
+      "id": "1764405684714973602",
+      "store_id": "2052",
+      "like_code": "432409",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱135.00",
+      "unit_price": 135.0,
+      "popularity": 999999,
+      "upc": "480651086410",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510864103",
+      "reference_ids": [
+        "04806510864103"
+      ],
+      "name": "Fisherfarms Jalapeno Cheddar Fish Sausage | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973602/46c4c3cbf9c0fb36eef888d34805755f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510864103",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_jalapeno_cheddar_fish_sausage_180g/p/1764405684714973602"
+    },
+    {
+      "id": "1564405684713786884",
+      "store_id": "2052",
+      "like_code": "372807",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱349.00",
+      "unit_price": 349.0,
+      "popularity": 9143,
+      "upc": "480651086368",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510863687",
+      "reference_ids": [
+        "02000037280787",
+        "04806510863687"
+      ],
+      "name": "Fisherfarms Kurin Shrimp Raw | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786884/682e8270151eb87eebf055e511f279ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510863687",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_kurin_shrimp_raw_500g/p/1564405684713786884"
+    },
+    {
+      "id": "1564405684702547579",
+      "store_id": "2052",
+      "like_code": "162906",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 10099,
+      "upc": "480651086025",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860259",
+      "reference_ids": [
+        "04806510860259"
+      ],
+      "name": "Fisherfarms Marinated Baby Milkfish | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 1.0,
+      "review_count": 1,
+      "cover_image": "1564405684702547579/37fbc99bce6b0b0f05ade714c28935be",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860259",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_marinated_baby_milkfish_450g/p/1564405684702547579"
+    },
+    {
+      "id": "1564405684713786886",
+      "store_id": "2052",
+      "like_code": "372804",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱256.00",
+      "unit_price": 256.0,
+      "popularity": 9953,
+      "upc": "480651086008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860082",
+      "reference_ids": [
+        "04806510860082",
+        "02000037280480"
+      ],
+      "name": "Fisherfarms Marinated Deboned Milkfish Small | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786886/83e9f715d83287f793c75de1eb8295ed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860082",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_marinated_deboned_milkfish_small_350g/p/1564405684713786886"
+    }
+  ]
+}

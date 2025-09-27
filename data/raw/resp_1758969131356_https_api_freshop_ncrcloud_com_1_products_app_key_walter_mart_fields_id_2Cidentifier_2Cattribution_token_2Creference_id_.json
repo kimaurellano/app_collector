@@ -1,0 +1,2812 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702550217",
+      "store_id": "2052",
+      "like_code": "93845",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 9678,
+      "upc": "480778851919",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788519191",
+      "reference_ids": [
+        "04807788027726",
+        "04807788519191"
+      ],
+      "name": "Ceelin Drops (Ages 0-2) | 15ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550217/3d801d739a895c123f864294de56c6ae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788519191",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_drops_ages_0_2_15ml/p/1564405684702550217"
+    },
+    {
+      "id": "1564405684702550218",
+      "store_id": "2052",
+      "like_code": "93847",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 9702,
+      "upc": "480778851920",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788519207",
+      "reference_ids": [
+        "04807788519207",
+        "04807788027733"
+      ],
+      "name": "Ceelin Drops (Ages 0-2) | 30ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550218/88dcfe1fc4633a63382bfcddc071b2c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788519207",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_drops_ages_0_2_30ml/p/1564405684702550218"
+    },
+    {
+      "id": "1564405684702550332",
+      "store_id": "2052",
+      "like_code": "124815",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 5901,
+      "upc": "480778852364",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788523648",
+      "reference_ids": [
+        "04807788523648",
+        "04807788417237"
+      ],
+      "name": "Ceelin Plus Syrup Apple | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550332/e4325b98ada4881e97477c3da1e7651b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788523648",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_plus_syrup_apple_120ml/p/1564405684702550332"
+    },
+    {
+      "id": "1564405684702550372",
+      "store_id": "2052",
+      "like_code": "155062",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱171.00",
+      "unit_price": 171.0,
+      "popularity": 6549,
+      "upc": "480778854965",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788549655",
+      "reference_ids": [
+        "04807788549655"
+      ],
+      "name": "Ceelin Plus Syrup Apple | 30ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550372/47e1137fef298085e1b35198b8a503b6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788549655",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_plus_syrup_apple_30ml/p/1564405684702550372"
+    },
+    {
+      "id": "1564405684702550330",
+      "store_id": "2052",
+      "like_code": "124814",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱92.00",
+      "unit_price": 92.0,
+      "popularity": 9565,
+      "upc": "480778852363",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788523631",
+      "reference_ids": [
+        "04807788523631",
+        "04807788417220"
+      ],
+      "name": "Ceelin Plus Syrup Apple | 60ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550330/a3797c2594d21e1046ebca2532601b0e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788523631",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_plus_syrup_apple_60ml/p/1564405684702550330"
+    },
+    {
+      "id": "1564405684702550219",
+      "store_id": "2052",
+      "like_code": "8364",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 9339,
+      "upc": "480778851922",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788519221",
+      "reference_ids": [
+        "04807788519221",
+        "04807788027849"
+      ],
+      "name": "Ceelin Syrup (Ages 2-12) | 120ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550219/8932d1e56bdb7096ac285616bc62d790",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788519221",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_syrup_ages_2_12_120ml/p/1564405684702550219"
+    },
+    {
+      "id": "1564405684702550220",
+      "store_id": "2052",
+      "like_code": "102661",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱458.00",
+      "unit_price": 458.0,
+      "popularity": 9791,
+      "upc": "480778851924",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788519245",
+      "reference_ids": [
+        "04807788519245",
+        "04807788027870"
+      ],
+      "name": "Ceelin Syrup (Ages 2-12) | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550220/f5dfc61f27f42d0fba2586d4ab1e0932",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788519245",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_syrup_ages_2_12_500ml/p/1564405684702550220"
+    },
+    {
+      "id": "2378288",
+      "store_id": "2052",
+      "like_code": "270192",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱181.00",
+      "unit_price": 181.0,
+      "popularity": 999999,
+      "upc": "7073400010",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00070734000102",
+      "reference_ids": [
+        "00070734000102"
+      ],
+      "name": "Celestial Seasonings Chamomile Herbal Tea | 20s",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "2378288/b514e7d78c7328dcf048be6048d04f1b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00070734000102",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/celestial_seasonings_chamomile_herbal_tea_20s/p/2378288"
+    },
+    {
+      "id": "2378287",
+      "store_id": "2052",
+      "like_code": "270309",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱191.50",
+      "unit_price": 191.5,
+      "popularity": 9634,
+      "upc": "7073400008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00070734000089",
+      "reference_ids": [
+        "00070734000089"
+      ],
+      "name": "Celestial Seasonings Peppermint Herbal Tea | 20s",
+      "size": "20 ea",
+      "shelf_tag_ids": [
+        "230986",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "2378287/2b91340a4f77a0154831bc933483c569",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00070734000089",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/celestial_seasonings_peppermint_herbal_tea_20s/p/2378287"
+    },
+    {
+      "id": "2378296",
+      "store_id": "2052",
+      "like_code": "270308",
+      "department_id": [
+        "22459267"
+      ],
+      "price": "₱239.50",
+      "unit_price": 239.5,
+      "popularity": 9513,
+      "upc": "7073405316",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00070734053160",
+      "reference_ids": [
+        "00070734053160"
+      ],
+      "name": "Celestial Seasonings Raspberry Zinger Herbal Tea | 20s",
+      "size": "20 ea",
+      "shelf_tag_ids": [
+        "230986",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "2378296/266ab2f9fafdeda64f63b73d31926556",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00070734053160",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/tea/celestial_seasonings_raspberry_zinger_herbal_tea_20s/p/2378296"
+    },
+    {
+      "id": "1564405684709841982",
+      "store_id": "2052",
+      "like_code": "283682",
+      "department_id": [
+        "22459253"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 999999,
+      "upc": "480013500021",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000212",
+      "reference_ids": [
+        "04800135000212",
+        "04807788570253"
+      ],
+      "name": "Celeteque Brightening Alcohol-Free Toner | 125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709841982/65ac110906f2fb45960140c4ed465992",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800135000212",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/facial_care/celeteque_brightening_alcohol_free_toner_125ml/p/1564405684709841982"
+    },
+    {
+      "id": "1564405684709841981",
+      "store_id": "2052",
+      "like_code": "283692",
+      "department_id": [
+        "1496180"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 9461,
+      "upc": "480013500017",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000175",
+      "reference_ids": [
+        "04800135000175",
+        "04807788545565"
+      ],
+      "name": "Celeteque Brightening Facial Wash | 75ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709841981/f65f432621457527b23efd14c5529a0e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800135000175",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/facial_care/celeteque_brightening_facial_wash_75ml/p/1564405684709841981"
+    },
+    {
+      "id": "1564405684716070363",
+      "store_id": "2052",
+      "like_code": "411779",
+      "department_id": [
+        "1496180"
+      ],
+      "price": "₱146.00",
+      "unit_price": 146.0,
+      "popularity": 999999,
+      "upc": "480013501279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135012796",
+      "reference_ids": [
+        "04800135012796"
+      ],
+      "name": "Celeteque Brightening Micellar Water | 125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716070363/9bfb8bcabc65128f6c82d933acf7166b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800135012796",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/facial_care/celeteque_brightening_micellar_water_125ml/p/1564405684716070363"
+    },
+    {
+      "id": "1564405684702550199",
+      "store_id": "2052",
+      "like_code": "76262",
+      "department_id": [
+        "1496180"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 1716,
+      "upc": "480013500066",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000663",
+      "reference_ids": [
+        "04800135000663",
+        "04807788001658",
+        "04807788519047"
+      ],
+      "name": "Celeteque Facial Wash | 60mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550199/f94699bf5da3750bdd43327f2d3d86e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800135000663",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/facial_care/celeteque_facial_wash_60m_l/p/1564405684702550199"
+    },
+    {
+      "id": "1564405684702550209",
+      "store_id": "2052",
+      "like_code": "111228",
+      "department_id": [
+        "22459253"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 6039,
+      "upc": "480013500067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000670",
+      "reference_ids": [
+        "04800135000670",
+        "04807788019660",
+        "04807788518965"
+      ],
+      "name": "Celeteque Hydration Alcohol-Free Toner | 125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550209/442e669b36200b693f10daabc35269ae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800135000670",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/facial_care/celeteque_hydration_alcohol_free_toner_125ml/p/1564405684702550209"
+    },
+    {
+      "id": "1564405684702550203",
+      "store_id": "2052",
+      "like_code": "76266",
+      "department_id": [
+        "22459253"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 6841,
+      "upc": "480013500061",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000618",
+      "reference_ids": [
+        "04800135000618",
+        "04807788001764",
+        "04807788519030"
+      ],
+      "name": "Celeteque Hydration Facial Moisturizer | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550203/9068248467d6c8aee6fde67930ef7f96",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800135000618",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/facial_care/celeteque_hydration_facial_moisturizer_100ml/p/1564405684702550203"
+    },
+    {
+      "id": "1564405684709841983",
+      "store_id": "2052",
+      "like_code": "76265",
+      "department_id": [
+        "22459253"
+      ],
+      "price": "₱177.00",
+      "unit_price": 177.0,
+      "popularity": 4998,
+      "upc": "480013500062",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000625",
+      "reference_ids": [
+        "04800135000625",
+        "04807788001757",
+        "04807788518996"
+      ],
+      "name": "Celeteque Hydration Facial Moisturizer | 50ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709841983/43659551600562324e0708bacc831e75",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800135000625",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/facial_care/celeteque_hydration_facial_moisturizer_50ml/p/1564405684709841983"
+    },
+    {
+      "id": "1564405684702550201",
+      "store_id": "2052",
+      "like_code": "76264",
+      "department_id": [
+        "22459253"
+      ],
+      "price": "₱375.00",
+      "unit_price": 375.0,
+      "popularity": 999999,
+      "upc": "480013500064",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135000649",
+      "reference_ids": [
+        "04807788519023",
+        "04807788001672",
+        "04800135000649"
+      ],
+      "name": "Celeteque Hydration Facial Wash | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550201/0c61dd2bf86c636ec988e5a2ae6f2414",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800135000649",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/facial_care/celeteque_hydration_facial_wash_250ml/p/1564405684702550201"
+    },
+    {
+      "id": "1564405684716070361",
+      "store_id": "2052",
+      "like_code": "411780",
+      "department_id": [
+        "1496180"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 999999,
+      "upc": "480013501278",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800135012789",
+      "reference_ids": [
+        "04800135012789"
+      ],
+      "name": "Celeteque Hydration Micellar Water | 125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716070361/07dcf8112731be1ab4a37dd7924d44d0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800135012789",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/facial_care/celeteque_hydration_micellar_water_125ml/p/1564405684716070361"
+    },
+    {
+      "id": "1564405684716279477",
+      "store_id": "2052",
+      "like_code": "421032",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱135.00",
+      "unit_price": 135.0,
+      "popularity": 9263,
+      "upc": "480031800230",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800318002309",
+      "reference_ids": [
+        "04800318002309"
+      ],
+      "name": "Centrum Kids Gummies Apple | 15s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716279477/34056f6fab9270d1ad1764bdd4878451",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800318002309",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/centrum_kids_gummies_apple_15s/p/1564405684716279477"
+    },
+    {
+      "id": "1564405684716279475",
+      "store_id": "2052",
+      "like_code": "421033",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱135.00",
+      "unit_price": 135.0,
+      "popularity": 7893,
+      "upc": "480031800247",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800318002477",
+      "reference_ids": [
+        "04800318002477"
+      ],
+      "name": "Centrum Kids Gummies Fruit Burst | 15s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716279475/a4bd10cdef018a6ffd8e4854191c016e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800318002477",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/centrum_kids_gummies_fruit_burst_15s/p/1564405684716279475"
+    },
+    {
+      "id": "1564405684702504444",
+      "store_id": "2052",
+      "like_code": "140461",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱280.00",
+      "unit_price": 280.0,
+      "popularity": 8256,
+      "upc": "74848510777",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107776",
+      "reference_ids": [
+        "00748485107776"
+      ],
+      "name": "Century Bangus Belly Smoked Milkfish | 280g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504444/2e2730136abc6cdf702e0f7e4c9c0d13",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_bangus_belly_smoked_milkfish_280g/p/1564405684702504444"
+    },
+    {
+      "id": "1564405684702504434",
+      "store_id": "2052",
+      "like_code": "132063",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱294.00",
+      "unit_price": 294.0,
+      "popularity": 9946,
+      "upc": "74848510757",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107578",
+      "reference_ids": [
+        "00748485107578"
+      ],
+      "name": "Century Bangus Boneless Belly Unseasoned | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504434/0f481055f16393af95c3d10f277072b8",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3586924756512815658",
+          "reference_id": "tpr_2052_00748485107578_269_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3598218182738851988"
+          ],
+          "product_ids": [
+            "1564405684702504434"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7891,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22475760",
+            "22547975",
+            "22634589",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "de3d4bd2a87d19233e72b012dc7d4111",
+          "similarity_priority": 5,
+          "name": "Century Bangus Boneless Belly Unseasoned | 400g",
+          "sale_price": "₱269.00",
+          "sale_price_md": "**₱269.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3586924920006785942",
+          "reference_id": "ad_2052_00748485107578_1_269_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3598218182738851988"
+          ],
+          "product_ids": [
+            "1564405684702504434"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3946,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22475760",
+            "22547975",
+            "22634589",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "146e254e31e830cc092256fefa511dc2",
+          "similarity_priority": 6,
+          "name": "Century Bangus Boneless Belly Unseasoned | 400g",
+          "sale_price": "₱269.00",
+          "sale_price_md": "**₱269.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱269.00",
+      "sale_price_md": "**₱269.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3586924756512815658",
+        "reference_id": "tpr_2052_00748485107578_269_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3598218182738851988"
+        ],
+        "product_ids": [
+          "1564405684702504434"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7891,
+        "product_tag_ids": [
+          "22356784",
+          "22459114",
+          "22475760",
+          "22547975",
+          "22634589",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "de3d4bd2a87d19233e72b012dc7d4111",
+        "similarity_priority": 5,
+        "name": "Century Bangus Boneless Belly Unseasoned | 400g",
+        "sale_price": "₱269.00",
+        "sale_price_md": "**₱269.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 269.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱269.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107578",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_bangus_boneless_belly_unseasoned_400g/p/1564405684702504434"
+    },
+    {
+      "id": "8193460",
+      "store_id": "2052",
+      "like_code": "112238",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 816,
+      "upc": "74848510220",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102207",
+      "reference_ids": [
+        "00748485102207"
+      ],
+      "name": "Century Bangus Fillet Spanish Style | 184g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8193460/121281f435345834d054de90efebd033",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102207",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_bangus_fillet_spanish_style_184g/p/8193460"
+    },
+    {
+      "id": "1564405684702504449",
+      "store_id": "2052",
+      "like_code": "224268",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 8059,
+      "upc": "74848518005",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485180052",
+      "reference_ids": [
+        "00748485180052"
+      ],
+      "name": "Century Bangus Gourmet Tinapa Spicy | 184g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504449/c214450b946da14f7d11e716ed396c25",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557585469192641",
+          "reference_id": "ad_2052_00748485180052_2_149_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702504449"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2348,
+          "product_tag_ids": [
+            "22459134",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "332ebb79850f72c7623a6f67e9398b31",
+          "similarity_priority": 6,
+          "name": "Century Bangus Gourmet Tinapa Spicy | 184g",
+          "sale_price": "2 for ₱149.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱149.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱149.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱149.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557585469192641",
+        "reference_id": "ad_2052_00748485180052_2_149_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702504449"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2348,
+        "product_tag_ids": [
+          "22459134",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "332ebb79850f72c7623a6f67e9398b31",
+        "similarity_priority": 6,
+        "name": "Century Bangus Gourmet Tinapa Spicy | 184g",
+        "sale_price": "2 for ₱149.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱149.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 74.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485180052",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_bangus_gourmet_tinapa_spicy_184g/p/1564405684702504449"
+    },
+    {
+      "id": "1564405684711116868",
+      "store_id": "2052",
+      "like_code": "314581",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱259.00",
+      "unit_price": 259.0,
+      "popularity": 8121,
+      "upc": "74848510755",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107554",
+      "reference_ids": [
+        "00748485107554"
+      ],
+      "name": "Century Bangus Marinated | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711116868/fb4e4d17356e04ba9961768ebf7343a5",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3586924755296467496",
+          "reference_id": "tpr_2052_00748485107554_234_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711116868"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8121,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22459153",
+            "22475760",
+            "22634589"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b83a8dc4f1b27754260999fe572f2046",
+          "similarity_priority": 5,
+          "name": "Century Bangus Marinated | 450g",
+          "sale_price": "₱234.00",
+          "sale_price_md": "**₱234.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3586924919537023891",
+          "reference_id": "ad_2052_00748485107554_1_234_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711116868"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4061,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22459153",
+            "22475760",
+            "22634589"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b0ff86b52ccd6c030322ac53617bb8f8",
+          "similarity_priority": 6,
+          "name": "Century Bangus Marinated | 450g",
+          "sale_price": "₱234.00",
+          "sale_price_md": "**₱234.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱234.00",
+      "sale_price_md": "**₱234.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3586924755296467496",
+        "reference_id": "tpr_2052_00748485107554_234_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711116868"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8121,
+        "product_tag_ids": [
+          "22356784",
+          "22459114",
+          "22459153",
+          "22475760",
+          "22634589"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b83a8dc4f1b27754260999fe572f2046",
+        "similarity_priority": 5,
+        "name": "Century Bangus Marinated | 450g",
+        "sale_price": "₱234.00",
+        "sale_price_md": "**₱234.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 234.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱234.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107554",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_bangus_marinated_450g/p/1564405684711116868"
+    },
+    {
+      "id": "1564405684711049620",
+      "store_id": "2052",
+      "like_code": "314583",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱259.00",
+      "unit_price": 259.0,
+      "popularity": 9735,
+      "upc": "74848510756",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107561",
+      "reference_ids": [
+        "00748485107561"
+      ],
+      "name": "Century Bangus Marinated | 450g (2pcs)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711049620/85e432c30ef35ef999e67abecbf47b0c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107561",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_bangus_marinated_450g_2pcs/p/1564405684711049620"
+    },
+    {
+      "id": "1564405684702504437",
+      "store_id": "2052",
+      "like_code": "127722",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 1873,
+      "upc": "74848510763",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107639",
+      "reference_ids": [
+        "00748485107639"
+      ],
+      "name": "Century Bangus Sisig | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504437/144e2e26a9e91e2e01c3736cbe4f3ca1",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3685492305965365712",
+          "reference_id": "ad_2052_00748485107639_2_89_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "circular_spot_ids": [
+            "3699552472377866660"
+          ],
+          "product_ids": [
+            "1564405684702504437"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2803,
+          "product_tag_ids": [
+            "22459134",
+            "22474153",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "c2ff7dee41f1afe1941d020b4bb6bef1",
+          "similarity_priority": 6,
+          "name": "Century Bangus Sisig | 150g",
+          "sale_price": "2 for ₱89.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱89.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱89.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱89.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3685492305965365712",
+        "reference_id": "ad_2052_00748485107639_2_89_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "circular_spot_ids": [
+          "3699552472377866660"
+        ],
+        "product_ids": [
+          "1564405684702504437"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2803,
+        "product_tag_ids": [
+          "22459134",
+          "22474153",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "c2ff7dee41f1afe1941d020b4bb6bef1",
+        "similarity_priority": 6,
+        "name": "Century Bangus Sisig | 150g",
+        "sale_price": "2 for ₱89.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱89.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 44.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107639",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_bangus_sisig_150g/p/1564405684702504437"
+    },
+    {
+      "id": "1564405684711739804",
+      "store_id": "2052",
+      "like_code": "353642",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 8752,
+      "upc": "74848510855",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485108551",
+      "reference_ids": [
+        "00748485108551"
+      ],
+      "name": "Century Bangus Sisig | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711739804/7fa7125de05bb176929c63e5ab3fde71",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3586924762762328639",
+          "reference_id": "tpr_2052_00748485108551_140_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711739804"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8752,
+          "product_tag_ids": [
+            "22356784",
+            "22459243",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3d03e5cc926f6f67989cffb474c05565",
+          "similarity_priority": 5,
+          "name": "Century Bangus Sisig | 300g",
+          "sale_price": "₱140.00",
+          "sale_price_md": "**₱140.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3586924927313263532",
+          "reference_id": "ad_2052_00748485108551_1_140_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711739804"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4376,
+          "product_tag_ids": [
+            "22356784",
+            "22459243",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "1a0306aa4833be0368f823e57d30df7a",
+          "similarity_priority": 6,
+          "name": "Century Bangus Sisig | 300g",
+          "sale_price": "₱140.00",
+          "sale_price_md": "**₱140.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱140.00",
+      "sale_price_md": "**₱140.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3586924762762328639",
+        "reference_id": "tpr_2052_00748485108551_140_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711739804"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8752,
+        "product_tag_ids": [
+          "22356784",
+          "22459243",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "3d03e5cc926f6f67989cffb474c05565",
+        "similarity_priority": 5,
+        "name": "Century Bangus Sisig | 300g",
+        "sale_price": "₱140.00",
+        "sale_price_md": "**₱140.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 140.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱140.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485108551",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/century_bangus_sisig_300g/p/1564405684711739804"
+    },
+    {
+      "id": "1564405684702504446",
+      "store_id": "2052",
+      "like_code": "140460",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 8271,
+      "upc": "74848510779",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107790",
+      "reference_ids": [
+        "00748485107790"
+      ],
+      "name": "Century Bangus Unseasoned Milkfish | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504446/e5703def34f8c13f81494cbebd223a3b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107790",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_bangus_unseasoned_milkfish_450g/p/1564405684702504446"
+    },
+    {
+      "id": "1564405684711116869",
+      "store_id": "2052",
+      "like_code": "314580",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 999999,
+      "upc": "74848510781",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107813",
+      "reference_ids": [
+        "00748485107813"
+      ],
+      "name": "Century Boneless Baby Bangus Marinated Milkfish | 500g (3 - 4pcs)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711116869/f53f4c599527664a11ab80ed246f75f0",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3586924762133183036",
+          "reference_id": "tpr_2052_00748485107813_260_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711116869"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22475760",
+            "22547975",
+            "22634589",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "a6ef8a86171e00359fe004dd1f37e29c",
+          "similarity_priority": 5,
+          "name": "Century Boneless Baby Bangus Marinated Milkfish | 500g (3 - 4pcs)",
+          "sale_price": "₱260.00",
+          "sale_price_md": "**₱260.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        },
+        {
+          "id": "3586924927229377450",
+          "reference_id": "ad_2052_00748485107813_1_260_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711116869"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-10-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22475760",
+            "22547975",
+            "22634589",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "e2ca3ff3c5c033a67d43fca328d1e40b",
+          "similarity_priority": 6,
+          "name": "Century Boneless Baby Bangus Marinated Milkfish | 500g (3 - 4pcs)",
+          "sale_price": "₱260.00",
+          "sale_price_md": "**₱260.00** (09/16/25 - 10/15/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-10-15"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-10-15",
+      "sale_price": "₱260.00",
+      "sale_price_md": "**₱260.00** (09/16/25 - 10/15/25)",
+      "sale_offer": {
+        "id": "3586924762133183036",
+        "reference_id": "tpr_2052_00748485107813_260_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711116869"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-10-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "22356784",
+          "22459114",
+          "22475760",
+          "22547975",
+          "22634589",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "a6ef8a86171e00359fe004dd1f37e29c",
+        "similarity_priority": 5,
+        "name": "Century Boneless Baby Bangus Marinated Milkfish | 500g (3 - 4pcs)",
+        "sale_price": "₱260.00",
+        "sale_price_md": "**₱260.00** (09/16/25 - 10/15/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-10-15"
+      },
+      "offer_sale_price": 260.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱260.00 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00748485107813",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_boneless_baby_bangus_marinated_milkfish_500g_3_4pcs/p/1564405684711116869"
+    },
+    {
+      "id": "1564405684710453802",
+      "store_id": "2052",
+      "like_code": "314573",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱319.00",
+      "unit_price": 319.0,
+      "popularity": 9278,
+      "upc": "74848510760",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107608",
+      "reference_ids": [
+        "00748485107608"
+      ],
+      "name": "Century Boneless Bangus Belly Marinated Milkfish | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710453802/d3034a52b8d1299339265fc0e336a7cd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107608",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_boneless_bangus_belly_marinated_milkfish_400g/p/1564405684710453802"
+    },
+    {
+      "id": "1564405684702504440",
+      "store_id": "2052",
+      "like_code": "144973",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱282.00",
+      "unit_price": 282.0,
+      "popularity": 10090,
+      "upc": "74848510771",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107714",
+      "reference_ids": [
+        "00748485107714"
+      ],
+      "name": "Century Boneless Bangus Smoked Milkfish | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504440/a1668385be83b9d256d3da90a54a3e49",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107714",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_boneless_bangus_smoked_milkfish_450g/p/1564405684702504440"
+    },
+    {
+      "id": "1564405684711049621",
+      "store_id": "2052",
+      "like_code": "314577",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱272.00",
+      "unit_price": 272.0,
+      "popularity": 7679,
+      "upc": "74848510762",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485107622",
+      "reference_ids": [
+        "00748485107622"
+      ],
+      "name": "Century Boneless Bangus Spicy Marinated Milkfish | 450g (2pcs)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711049621/5b85d25c9c95def1bfffc065c99782a8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485107622",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/century_boneless_bangus_spicy_marinated_milkfish_450g_2pcs/p/1564405684711049621"
+    },
+    {
+      "id": "1564405684704729480",
+      "store_id": "2052",
+      "like_code": "295635",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱32.75",
+      "unit_price": 32.75,
+      "popularity": 3872,
+      "upc": "74848510366",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485103662",
+      "reference_ids": [
+        "00748485103662"
+      ],
+      "name": "Century Chunky Corned Tuna Sisig | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729480/8de94b3deb57a76114f22eaec476c30c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485103662",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_chunky_corned_tuna_sisig_150g/p/1564405684704729480"
+    },
+    {
+      "id": "1564405684702504419",
+      "store_id": "2052",
+      "like_code": "125916",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱32.75",
+      "unit_price": 32.75,
+      "popularity": 2001,
+      "upc": "74848510233",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102337",
+      "reference_ids": [
+        "00748485102337"
+      ],
+      "name": "Century Corned Tuna | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504419/db4717168cf686496f6436fb68004d13",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_corned_tuna_150g/p/1564405684702504419"
+    },
+    {
+      "id": "8193463",
+      "store_id": "2052",
+      "like_code": "125917",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱42.75",
+      "unit_price": 42.75,
+      "popularity": 5212,
+      "upc": "74848510231",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102313",
+      "reference_ids": [
+        "00748485102313"
+      ],
+      "name": "Century Corned Tuna | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8193463/f71e275affe1809979525d21fd00d803",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102313",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_corned_tuna_180g/p/8193463"
+    },
+    {
+      "id": "1564405684690331041",
+      "store_id": "2052",
+      "like_code": "131557",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 5138,
+      "upc": "74848510242",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102429",
+      "reference_ids": [
+        "00748485102429"
+      ],
+      "name": "Century Milkfish Fillet in Vegetable Oil | 184g",
+      "size": "6.5 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00748485102429/63d422e00cfde3aa50ffa69d116db928",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102429",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_milkfish_fillet_in_vegetable_oil_184g/p/1564405684690331041"
+    },
+    {
+      "id": "1564405684707880938",
+      "store_id": "2052",
+      "like_code": "278156",
+      "department_id": [
+        "22459117"
+      ],
+      "price": "₱80.00",
+      "unit_price": 80.0,
+      "popularity": 4446,
+      "upc": "200002781568",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000027815685",
+      "reference_ids": [
+        "02000027815685"
+      ],
+      "name": "Century Pears | 2pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684707880938/5f1a62102b297bfcbf3b32d08cac753d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000027815685",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_fruits/century_pears_2pcs/p/1564405684707880938"
+    },
+    {
+      "id": "1764405684715588008",
+      "store_id": "2052",
+      "like_code": "454031",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 3,
+      "upc": "480002283008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022830083",
+      "reference_ids": [
+        "04800022830083"
+      ],
+      "name": "Century Superkids Cheesy Tuna Nuggets | 220g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715588008/6ca9683e6d9f19060c1a0c7dd0b3ea64",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3721730925306853505",
+          "reference_id": "tpr_2052_04800022830083_95_0",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684715588008"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-12-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459113",
+            "22474153",
+            "22475760",
+            "22765221"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2cd20244f7c0a4d2a5d15789c98a80bf",
+          "similarity_priority": 5,
+          "name": "Century Superkids Cheesy Tuna Nuggets | 220g",
+          "sale_price": "₱95.00",
+          "sale_price_md": "**₱95.00** (09/15/25 - 12/15/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-12-15"
+        },
+        {
+          "id": "3721731727484270763",
+          "reference_id": "ad_2052_04800022830083_1_95_0",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684715588008"
+          ],
+          "start_date": "2025-09-15T00:00:00.000+00:00",
+          "finish_date": "2025-12-15T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459113",
+            "22474153",
+            "22475760",
+            "22765221"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3dd485b8aef8ffacd3e17813acefa74b",
+          "similarity_priority": 6,
+          "name": "Century Superkids Cheesy Tuna Nuggets | 220g",
+          "sale_price": "₱95.00",
+          "sale_price_md": "**₱95.00** (09/15/25 - 12/15/25)",
+          "display_start_date": "2025-09-15",
+          "display_finish_date": "2025-12-15"
+        }
+      ],
+      "sale_start_date": "2025-09-15",
+      "sale_finish_date": "2025-12-15",
+      "sale_price": "₱95.00",
+      "sale_price_md": "**₱95.00** (09/15/25 - 12/15/25)",
+      "sale_offer": {
+        "id": "3721730925306853505",
+        "reference_id": "tpr_2052_04800022830083_95_0",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684715588008"
+        ],
+        "start_date": "2025-09-15T00:00:00.000+00:00",
+        "finish_date": "2025-12-15T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22459113",
+          "22474153",
+          "22475760",
+          "22765221"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2cd20244f7c0a4d2a5d15789c98a80bf",
+        "similarity_priority": 5,
+        "name": "Century Superkids Cheesy Tuna Nuggets | 220g",
+        "sale_price": "₱95.00",
+        "sale_price_md": "**₱95.00** (09/15/25 - 12/15/25)",
+        "display_start_date": "2025-09-15",
+        "display_finish_date": "2025-12-15"
+      },
+      "offer_sale_price": 95.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱95.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022830083",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/century_superkids_cheesy_tuna_nuggets_220g/p/1764405684715588008"
+    },
+    {
+      "id": "1564405684716239975",
+      "store_id": "2052",
+      "like_code": "414771",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 10,
+      "upc": "480002283000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022830007",
+      "reference_ids": [
+        "04800022830007"
+      ],
+      "name": "Century Superkids Crispy Tuna Nuggets | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716239975/6a867f4645c296929adbca557c7e3783",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3666647136864320104",
+          "reference_id": "tpr_2052_04800022830007_84_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616320433338803"
+          ],
+          "product_ids": [
+            "1564405684716239975"
+          ],
+          "start_date": "2025-07-01T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "215019",
+            "379851",
+            "414223",
+            "22459113",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "707292bc050164bf24cbb18573439028",
+          "similarity_priority": 5,
+          "name": "Century Superkids Crispy Tuna Nuggets | 220g",
+          "sale_price": "₱84.00",
+          "sale_price_md": "**₱84.00** (07/01/25 - 12/31/25)",
+          "display_start_date": "2025-07-01",
+          "display_finish_date": "2025-12-31"
+        },
+        {
+          "id": "3666650259934689986",
+          "reference_id": "ad_2052_04800022830007_1_84_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616320433338803"
+          ],
+          "product_ids": [
+            "1564405684716239975"
+          ],
+          "start_date": "2025-07-01T00:00:00.000+00:00",
+          "finish_date": "2025-12-31T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "215019",
+            "379851",
+            "414223",
+            "22459113",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "508c3ace8013decbf59483a4c8e01d7f",
+          "similarity_priority": 6,
+          "name": "Century Superkids Crispy Tuna Nuggets | 220g",
+          "sale_price": "₱84.00",
+          "sale_price_md": "**₱84.00** (07/01/25 - 12/31/25)",
+          "display_start_date": "2025-07-01",
+          "display_finish_date": "2025-12-31"
+        }
+      ],
+      "sale_start_date": "2025-07-01",
+      "sale_finish_date": "2025-12-31",
+      "sale_price": "₱84.00",
+      "sale_price_md": "**₱84.00** (07/01/25 - 12/31/25)",
+      "sale_offer": {
+        "id": "3666647136864320104",
+        "reference_id": "tpr_2052_04800022830007_84_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616320433338803"
+        ],
+        "product_ids": [
+          "1564405684716239975"
+        ],
+        "start_date": "2025-07-01T00:00:00.000+00:00",
+        "finish_date": "2025-12-31T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "215019",
+          "379851",
+          "414223",
+          "22459113",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22775806"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "707292bc050164bf24cbb18573439028",
+        "similarity_priority": 5,
+        "name": "Century Superkids Crispy Tuna Nuggets | 220g",
+        "sale_price": "₱84.00",
+        "sale_price_md": "**₱84.00** (07/01/25 - 12/31/25)",
+        "display_start_date": "2025-07-01",
+        "display_finish_date": "2025-12-31"
+      },
+      "offer_sale_price": 84.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱84.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022830007",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/century_superkids_crispy_tuna_nuggets_220g/p/1564405684716239975"
+    },
+    {
+      "id": "1564405684702504410",
+      "store_id": "2052",
+      "like_code": "3698",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱36.50",
+      "unit_price": 36.5,
+      "popularity": 5249,
+      "upc": "74848510043",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100432",
+      "reference_ids": [
+        "00748485100432"
+      ],
+      "name": "Century Tuna Afritada | 155g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504410/1828f89c33c4ed2d42538abe8dd512ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100432",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_afritada_155g/p/1564405684702504410"
+    },
+    {
+      "id": "1564405684711221251",
+      "store_id": "2052",
+      "like_code": "347846",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "3 for ₱115.00",
+      "unit_price": 38.33,
+      "popularity": 15,
+      "quantity_step": 3.0,
+      "upc": "74848510223",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102238",
+      "reference_ids": [
+        "00748485102238"
+      ],
+      "name": "Century Tuna Calamansi | 155g",
+      "size": "pc",
+      "price_disclaimer": "BUY 3 SAVE 8",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711221251/c6282bc4a81f5023e608b1b851daff72",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102238",
+      "quantity_initial": 3.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_calamansi_155g/p/1564405684711221251"
+    },
+    {
+      "id": "1564405684702504409",
+      "store_id": "2052",
+      "like_code": "3715",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱36.50",
+      "unit_price": 36.5,
+      "popularity": 3950,
+      "upc": "74848510045",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100456",
+      "reference_ids": [
+        "00748485100456"
+      ],
+      "name": "Century Tuna Caldereta | 155g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504409/17c195107428ce3308bc905c9e76d10f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100456",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_caldereta_155g/p/1564405684702504409"
+    },
+    {
+      "id": "1564405684702504420",
+      "store_id": "2052",
+      "like_code": "125914",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱28.00",
+      "unit_price": 28.0,
+      "popularity": 201,
+      "upc": "74848510225",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485102252",
+      "reference_ids": [
+        "00748485102252"
+      ],
+      "name": "Century Tuna Flakes Hot & Spicy | 95g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504420/9c7ebd4ddb42e2c06c767ff51a58afc1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485102252",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_flakes_hot_spicy_95g/p/1564405684702504420"
+    },
+    {
+      "id": "1564405684702504402",
+      "store_id": "2052",
+      "like_code": "2576",
+      "department_id": [
+        "22459134"
+      ],
+      "price": "₱60.25",
+      "unit_price": 60.25,
+      "popularity": 299,
+      "upc": "74848510010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100104",
+      "reference_ids": [
+        "00748485100104"
+      ],
+      "name": "Century Tuna Flakes in Brine | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504402/f8e163c88183c74e1aa9a87bf957db10",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_seafood/century_tuna_flakes_in_brine_180g/p/1564405684702504402"
+    },
+    {
+      "id": "1564405684702504407",
+      "store_id": "2052",
+      "like_code": "3723",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "3 for ₱103.00",
+      "unit_price": 34.33,
+      "popularity": 15,
+      "quantity_step": 3.0,
+      "upc": "74848510040",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00748485100401",
+      "reference_ids": [
+        "00748485100401"
+      ],
+      "name": "Century Tuna Flakes in Oil | 155g",
+      "size": "pc",
+      "price_disclaimer": "BUY 3 SAVE 5",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702504407/6e6213d98fdfcf775979d6df4770adba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00748485100401",
+      "quantity_initial": 3.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_flakes_in_oil_155g/p/1564405684702504407"
+    },
+    {
+      "id": "1764405684715180546",
+      "store_id": "2052",
+      "like_code": "440953",
+      "department_id": [
+        "1496148"
+      ],
+      "price": "₱108.00",
+      "unit_price": 108.0,
+      "popularity": 84,
+      "upc": "480002291030",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800022910303",
+      "reference_ids": [
+        "04800022910303"
+      ],
+      "name": "Century Tuna Flakes in Oil | 155g x 3s (Free PSJ Photocard)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715180546/1a8716e930c554145554186e06d6ca06",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800022910303",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/century_tuna_flakes_in_oil_155g_x_3s_free_psj_photocard/p/1764405684715180546"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "total_rows": 48,
+  "api_pages": 3,
+  "break_reason": "dom-no-growth",
+  "stagnant_limit": 6,
+  "max_dom_nodes": 1500,
+  "allow_no_price": false,
+  "timestamp": 1758972575.7291415
+}

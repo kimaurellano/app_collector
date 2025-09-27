@@ -1,0 +1,2685 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684712853791",
+      "store_id": "2052",
+      "like_code": "336885",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "200003368850",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033688501",
+      "reference_ids": [
+        "02000033688501"
+      ],
+      "name": "Bcw Swimwear Set | 399",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000033688501",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/bcw_swimwear_set_399/p/1564405684712853791"
+    },
+    {
+      "id": "1564405684711651673",
+      "store_id": "2052",
+      "like_code": "313053",
+      "department_id": [
+        "22459151"
+      ],
+      "price": "₱359.00",
+      "unit_price": 359.0,
+      "popularity": 6166,
+      "upc": "480652087033",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520870330",
+      "reference_ids": [
+        "04806520870330"
+      ],
+      "name": "Beach Hut Max 100++ SPF | 50ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711651673/613c76029ff2d2beea47922ba388a392",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3699262555995257790",
+          "reference_id": "tpr_2052_04806520870330_287_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711651673"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6166,
+          "product_tag_ids": [
+            "22388993",
+            "22459151",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "dbbf8dd48e9afefbffe37e5f6e964bfc",
+          "similarity_priority": 5,
+          "name": "Beach Hut Max 100++ SPF | 50ml",
+          "sale_price": "₱287.00",
+          "sale_price_md": "**₱287.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3699263676159637664",
+          "reference_id": "ad_2052_04806520870330_1_287_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711651673"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3083,
+          "product_tag_ids": [
+            "22388993",
+            "22459151",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "92356de72920aa09eb6c0f4061213765",
+          "similarity_priority": 6,
+          "name": "Beach Hut Max 100++ SPF | 50ml",
+          "sale_price": "₱287.00",
+          "sale_price_md": "**₱287.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱287.00",
+      "sale_price_md": "**₱287.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3699262555995257790",
+        "reference_id": "tpr_2052_04806520870330_287_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711651673"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6166,
+        "product_tag_ids": [
+          "22388993",
+          "22459151",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "dbbf8dd48e9afefbffe37e5f6e964bfc",
+        "similarity_priority": 5,
+        "name": "Beach Hut Max 100++ SPF | 50ml",
+        "sale_price": "₱287.00",
+        "sale_price_md": "**₱287.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 287.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱287.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806520870330",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/skin_care/beach_hut_max_100_spf_50ml/p/1564405684711651673"
+    },
+    {
+      "id": "1564405684702549424",
+      "store_id": "2052",
+      "like_code": "135888",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱599.00",
+      "unit_price": 599.0,
+      "popularity": 6559,
+      "upc": "480652087016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806520870163",
+      "reference_ids": [
+        "04806520870163",
+        "04806520871092"
+      ],
+      "name": "Beach Hut Max SPF100 Lotion | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549424/1aef7931f5608c721f8e3d879c23bfb9",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3699262555483552670",
+          "reference_id": "tpr_2052_04806520870163_479_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702549424"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6559,
+          "product_tag_ids": [
+            "21907375",
+            "22388993",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b099da39afa77f70d4c4d49172c64d56",
+          "similarity_priority": 5,
+          "name": "Beach Hut Max SPF100 Lotion | 100ml",
+          "sale_price": "₱479.00",
+          "sale_price_md": "**₱479.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3699263675849259133",
+          "reference_id": "ad_2052_04806520870163_1_479_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702549424"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3280,
+          "product_tag_ids": [
+            "21907375",
+            "22388993",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a20e8694d8473f7cfee4e9a592b6ee61",
+          "similarity_priority": 6,
+          "name": "Beach Hut Max SPF100 Lotion | 100ml",
+          "sale_price": "₱479.00",
+          "sale_price_md": "**₱479.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱479.00",
+      "sale_price_md": "**₱479.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3699262555483552670",
+        "reference_id": "tpr_2052_04806520870163_479_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702549424"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6559,
+        "product_tag_ids": [
+          "21907375",
+          "22388993",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b099da39afa77f70d4c4d49172c64d56",
+        "similarity_priority": 5,
+        "name": "Beach Hut Max SPF100 Lotion | 100ml",
+        "sale_price": "₱479.00",
+        "sale_price_md": "**₱479.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 479.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱479.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806520870163",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/beach_hut_max_spf100_lotion_100ml/p/1564405684702549424"
+    },
+    {
+      "id": "1564405684702552147",
+      "store_id": "2052",
+      "like_code": "123480",
+      "department_id": [
+        "22459151"
+      ],
+      "price": "₱204.50",
+      "unit_price": 204.5,
+      "popularity": 6746,
+      "upc": "480901331045",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013310450",
+      "reference_ids": [
+        "04809013310450"
+      ],
+      "name": "Beach Hut SPF36 Lotion | 40ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552147/e4cc1428c33503740c2fa2b223c9e0cd",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3699262561842116848",
+          "reference_id": "tpr_2052_04809013310450_163_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702552147"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6746,
+          "product_tag_ids": [
+            "22388993",
+            "22459151",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3296486fe2e508e24157e402af399920",
+          "similarity_priority": 5,
+          "name": "Beach Hut SPF36 Lotion | 40ml",
+          "sale_price": "₱163.50",
+          "sale_price_md": "**₱163.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3699263680010009163",
+          "reference_id": "ad_2052_04809013310450_1_163_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702552147"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3373,
+          "product_tag_ids": [
+            "22388993",
+            "22459151",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "e3d4587b435ab593a6b8457c1c79c321",
+          "similarity_priority": 6,
+          "name": "Beach Hut SPF36 Lotion | 40ml",
+          "sale_price": "₱163.50",
+          "sale_price_md": "**₱163.50** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱163.50",
+      "sale_price_md": "**₱163.50** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3699262561842116848",
+        "reference_id": "tpr_2052_04809013310450_163_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702552147"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6746,
+        "product_tag_ids": [
+          "22388993",
+          "22459151",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "3296486fe2e508e24157e402af399920",
+        "similarity_priority": 5,
+        "name": "Beach Hut SPF36 Lotion | 40ml",
+        "sale_price": "₱163.50",
+        "sale_price_md": "**₱163.50** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 163.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱163.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013310450",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/skin_care/beach_hut_spf36_lotion_40ml/p/1564405684702552147"
+    },
+    {
+      "id": "1564405684704723574",
+      "store_id": "2052",
+      "like_code": "272710",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱515.00",
+      "unit_price": 515.0,
+      "popularity": 1543,
+      "upc": "480036140344",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361403443",
+      "reference_ids": [
+        "04800361403443"
+      ],
+      "name": "Bear Brand Adult Plus Powdered Milk | 1.2kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723574/900c4aac1c91b73b2043f11b523c5131",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361403443",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_adult_plus_powdered_milk_1_2kg/p/1564405684704723574"
+    },
+    {
+      "id": "1564405684702540460",
+      "store_id": "2052",
+      "like_code": "141347",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱98.00",
+      "unit_price": 98.0,
+      "popularity": 5498,
+      "upc": "480036137939",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361379397",
+      "reference_ids": [
+        "04800361379397"
+      ],
+      "name": "Bear Brand Adult Plus Powdered Milk | 200g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540460/cc2911537729c16591c04189dbd15d86",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361379397",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_adult_plus_powdered_milk_200g/p/1564405684702540460"
+    },
+    {
+      "id": "1564405684702540459",
+      "store_id": "2052",
+      "like_code": "141332",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 468,
+      "upc": "480036137937",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361379373",
+      "reference_ids": [
+        "04800361379373"
+      ],
+      "name": "Bear Brand Adult Plus Powdered Milk | 300g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540459/33297bd2406100745dddde81f580687f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361379373",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_adult_plus_powdered_milk_300g/p/1564405684702540459"
+    },
+    {
+      "id": "1564405684702540608",
+      "store_id": "2052",
+      "like_code": "238066",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱18.50",
+      "unit_price": 18.5,
+      "popularity": 17,
+      "upc": "480036139667",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361396677",
+      "reference_ids": [
+        "04800361396677"
+      ],
+      "name": "Bear Brand Adult Plus Powdered Milk | 33g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540608/0c4b11a59b7dd3227690f745955ded52",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361396677",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_adult_plus_powdered_milk_33g/p/1564405684702540608"
+    },
+    {
+      "id": "1564405684702540467",
+      "store_id": "2052",
+      "like_code": "141333",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱269.00",
+      "unit_price": 269.0,
+      "popularity": 832,
+      "upc": "480036138083",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361380836",
+      "reference_ids": [
+        "04800361380836"
+      ],
+      "name": "Bear Brand Adult Plus Powdered Milk | 600g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540467/48bc06d104c6e6c43199d9f9d732c892",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361380836",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_adult_plus_powdered_milk_600g/p/1564405684702540467"
+    },
+    {
+      "id": "1564405684702540500",
+      "store_id": "2052",
+      "like_code": "148671",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 2083,
+      "upc": "480036138531",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361385312",
+      "reference_ids": [
+        "04800361385312"
+      ],
+      "name": "Bear Brand Adult Plus Powdered Milk | 900g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540500/b978b5cd9b563e59c2e00b8dfa08c1f9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361385312",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_adult_plus_powdered_milk_900g/p/1564405684702540500"
+    },
+    {
+      "id": "1764405684715333372",
+      "store_id": "2052",
+      "like_code": "292375",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.50",
+      "unit_price": 299.5,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142639",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426398",
+      "reference_ids": [
+        "04800361426398",
+        "04800361409292"
+      ],
+      "name": "Bear Brand Choco Milk Drink | 840g (Free Shaker)",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715333372/619df5f707562ec774dca3eac7d9ba49",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361426398",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bear_brand_choco_milk_drink_840g_free_shaker/p/1764405684715333372"
+    },
+    {
+      "id": "1564405684702540562",
+      "store_id": "2052",
+      "like_code": "231677",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱299.50",
+      "unit_price": 299.5,
+      "popularity": 738,
+      "quantity_step": 1.0,
+      "upc": "480036139351",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361393515",
+      "reference_ids": [
+        "04800361393515"
+      ],
+      "name": "Bear Brand Fortified Chocolate Powdered Milk Drink | 840g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540562/41ebe05ab8d74142bd35ba3c2a76bc49",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361393515",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_fortified_chocolate_powdered_milk_drink_840g/p/1564405684702540562"
+    },
+    {
+      "id": "1564405684704939596",
+      "store_id": "2052",
+      "like_code": "326870",
+      "department_id": [
+        "1496200"
+      ],
+      "price": "₱14.50",
+      "unit_price": 14.5,
+      "popularity": 10068,
+      "quantity_step": 1.0,
+      "upc": "480036141210",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361412100",
+      "reference_ids": [
+        "04800361412100"
+      ],
+      "name": "Bear Brand Fortified Milk | 110ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704939596/5691ddce68c65a3dcaec3f2720d4efaa",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3567356879900260793",
+          "reference_id": "ad_2052_04800361412100_4_55_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 4",
+          "product_ids": [
+            "1564405684704939596"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5034,
+          "product_tag_ids": [
+            "668335",
+            "1496200",
+            "1496242",
+            "21724132",
+            "22197754",
+            "22356773",
+            "22458758",
+            "22475760",
+            "22575675",
+            "22919042",
+            "23092654",
+            "23092656"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "09421f191d5c2daf2c08f04879530b9b",
+          "similarity_priority": 6,
+          "name": "Bear Brand Fortified Milk | 110ml",
+          "sale_price": "4 for ₱55.00 with purchase of 4",
+          "sale_price_md": "**4 for ₱55.00 with purchase of 4** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "4 for ₱55.00 with purchase of 4",
+      "sale_price_md": "**4 for ₱55.00 with purchase of 4** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3567356879900260793",
+        "reference_id": "ad_2052_04800361412100_4_55_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 4",
+        "product_ids": [
+          "1564405684704939596"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5034,
+        "product_tag_ids": [
+          "668335",
+          "1496200",
+          "1496242",
+          "21724132",
+          "22197754",
+          "22356773",
+          "22458758",
+          "22475760",
+          "22575675",
+          "22919042",
+          "23092654",
+          "23092656"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "09421f191d5c2daf2c08f04879530b9b",
+        "similarity_priority": 6,
+        "name": "Bear Brand Fortified Milk | 110ml",
+        "sale_price": "4 for ₱55.00 with purchase of 4",
+        "sale_price_md": "**4 for ₱55.00 with purchase of 4** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 4",
+      "offer_sale_price": 13.75,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361412100",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/ready_to_drink/bear_brand_fortified_milk_110ml/p/1564405684704939596"
+    },
+    {
+      "id": "1564405684704939595",
+      "store_id": "2052",
+      "like_code": "326871",
+      "department_id": [
+        "1496200"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 274,
+      "quantity_step": 1.0,
+      "upc": "480036141206",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361412063",
+      "reference_ids": [
+        "04800361412063"
+      ],
+      "name": "Bear Brand Fortified Milk | 180ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704939595/133c386e0682547b46cf77719a15ec39",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3567356880000924094",
+          "reference_id": "ad_2052_04800361412063_3_65_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 3",
+          "product_ids": [
+            "1564405684704939595"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 137,
+          "product_tag_ids": [
+            "668335",
+            "1496200",
+            "1496242",
+            "21724132",
+            "22197754",
+            "22356773",
+            "22458758",
+            "22475760",
+            "22575675",
+            "22919042",
+            "23092654",
+            "23092656"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2ebbcbf331d0530aab4de2b2305ee7ba",
+          "similarity_priority": 6,
+          "name": "Bear Brand Fortified Milk | 180ml",
+          "sale_price": "3 for ₱65.00 with purchase of 3",
+          "sale_price_md": "**3 for ₱65.00 with purchase of 3** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "3 for ₱65.00 with purchase of 3",
+      "sale_price_md": "**3 for ₱65.00 with purchase of 3** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3567356880000924094",
+        "reference_id": "ad_2052_04800361412063_3_65_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 3",
+        "product_ids": [
+          "1564405684704939595"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 137,
+        "product_tag_ids": [
+          "668335",
+          "1496200",
+          "1496242",
+          "21724132",
+          "22197754",
+          "22356773",
+          "22458758",
+          "22475760",
+          "22575675",
+          "22919042",
+          "23092654",
+          "23092656"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2ebbcbf331d0530aab4de2b2305ee7ba",
+        "similarity_priority": 6,
+        "name": "Bear Brand Fortified Milk | 180ml",
+        "sale_price": "3 for ₱65.00 with purchase of 3",
+        "sale_price_md": "**3 for ₱65.00 with purchase of 3** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 3",
+      "offer_sale_price": 21.666666666666668,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361412063",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/ready_to_drink/bear_brand_fortified_milk_180ml/p/1564405684704939595"
+    },
+    {
+      "id": "1764405684715437050",
+      "store_id": "2052",
+      "like_code": "450140",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱98.00",
+      "unit_price": 98.0,
+      "popularity": 2157,
+      "quantity_step": 1.0,
+      "upc": "480036142780",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361427807",
+      "reference_ids": [
+        "04800361427807"
+      ],
+      "name": "Bear Brand Fortified Milk | 1L",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715437050/6afd459367c1cc246d016b63421a9899",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3710864268749453924",
+          "reference_id": "ad_2052_04800361427807_2_181_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3711833433924712853",
+            "3722686713403816184"
+          ],
+          "product_ids": [
+            "1764405684715437050"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1079,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "21724132",
+            "22197754",
+            "22458758",
+            "22474153",
+            "22475760",
+            "22575675",
+            "22919042",
+            "23092654",
+            "23092656"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "e694de39bd754895ce6537ea4721d595",
+          "similarity_priority": 6,
+          "name": "Bear Brand Fortified Milk | 1L",
+          "sale_price": "2 for ₱181.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱181.00 with purchase of 2** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱181.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱181.00 with purchase of 2** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3710864268749453924",
+        "reference_id": "ad_2052_04800361427807_2_181_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183112460587"
+        ],
+        "circular_page_ids": [
+          "3719247209875651551"
+        ],
+        "circular_spot_ids": [
+          "3711833433924712853",
+          "3722686713403816184"
+        ],
+        "product_ids": [
+          "1764405684715437050"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1079,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "21724132",
+          "22197754",
+          "22458758",
+          "22474153",
+          "22475760",
+          "22575675",
+          "22919042",
+          "23092654",
+          "23092656"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "e694de39bd754895ce6537ea4721d595",
+        "similarity_priority": 6,
+        "name": "Bear Brand Fortified Milk | 1L",
+        "sale_price": "2 for ₱181.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱181.00 with purchase of 2** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 90.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361427807",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bear_brand_fortified_milk_1_l/p/1764405684715437050"
+    },
+    {
+      "id": "1564405684702540519",
+      "store_id": "2052",
+      "like_code": "155751",
+      "department_id": [
+        "22459165"
+      ],
+      "price": "₱429.00",
+      "unit_price": 429.0,
+      "popularity": 1834,
+      "quantity_step": 1.0,
+      "upc": "480036138833",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361388337",
+      "reference_ids": [
+        "04800361388337"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 1.12kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540519/fe1e50af39f18954ce1ae9329f99bcdc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361388337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/bear_brand_fortified_powdered_milk_drink_1_12kg/p/1564405684702540519"
+    },
+    {
+      "id": "1564405684702540463",
+      "store_id": "2052",
+      "like_code": "140426",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 1134,
+      "quantity_step": 1.0,
+      "upc": "480036138108",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361381086",
+      "reference_ids": [
+        "04800361381086",
+        "04800361379809"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 135g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540463/4bcf626515a59e4933167db889247662",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361381086",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_fortified_powdered_milk_drink_135g/p/1564405684702540463"
+    },
+    {
+      "id": "1564405684702540566",
+      "store_id": "2052",
+      "like_code": "210724",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱531.00",
+      "unit_price": 531.0,
+      "popularity": 2020,
+      "quantity_step": 1.0,
+      "upc": "480036142179",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361421799",
+      "reference_ids": [
+        "04800361421799",
+        "04800361393867"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 1.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540566/ba082def55fa590e86f699f1fa3ac426",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361421799",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_fortified_powdered_milk_drink_1_4kg/p/1564405684702540566"
+    },
+    {
+      "id": "1564405684702540743",
+      "store_id": "2052",
+      "like_code": "269646",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱695.00",
+      "unit_price": 695.0,
+      "popularity": 4997,
+      "quantity_step": 1.0,
+      "upc": "480036140347",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361403474",
+      "reference_ids": [
+        "04800361403474"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 1.9kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540743/44ecdc2993ed5a238f055ac596e3062b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361403474",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_fortified_powdered_milk_drink_1_9kg/p/1564405684702540743"
+    },
+    {
+      "id": "1564405684702540518",
+      "store_id": "2052",
+      "like_code": "155138",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱109.50",
+      "unit_price": 109.5,
+      "popularity": 35,
+      "quantity_step": 1.0,
+      "upc": "480036141089",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361410892",
+      "reference_ids": [
+        "04800361410892",
+        "04800361388757"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 300g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702540518/bae88a97c464eca48d44fb16aa146ebb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361410892",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_fortified_powdered_milk_drink_300g/p/1564405684702540518"
+    },
+    {
+      "id": "1564405684702540520",
+      "store_id": "2052",
+      "like_code": "155139",
+      "department_id": [
+        "22459165"
+      ],
+      "price": "₱246.50",
+      "unit_price": 246.5,
+      "popularity": 51,
+      "quantity_step": 1.0,
+      "upc": "480036138877",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361388771",
+      "reference_ids": [
+        "04800361388771"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 680g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540520/2052d6b9d3a76a3d626af6db445d1fce",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361388771",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/bear_brand_fortified_powdered_milk_drink_680g/p/1564405684702540520"
+    },
+    {
+      "id": "1564405684702540514",
+      "store_id": "2052",
+      "like_code": "155750",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱299.50",
+      "unit_price": 299.5,
+      "popularity": 149,
+      "quantity_step": 1.0,
+      "upc": "480036138804",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361388047",
+      "reference_ids": [
+        "04800361388047"
+      ],
+      "name": "Bear Brand Fortified Powdered Milk Drink | 840g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702540514/dd87fbe3d68e59f1ed11e74b4aea7750",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361388047",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_fortified_powdered_milk_drink_840g/p/1564405684702540514"
+    },
+    {
+      "id": "1564405684702540490",
+      "store_id": "2052",
+      "like_code": "148669",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱639.00",
+      "unit_price": 639.0,
+      "popularity": 9140,
+      "upc": "480036138439",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361384391",
+      "reference_ids": [
+        "04800361384391"
+      ],
+      "name": "Bear Brand Junior 1+ | 1.2kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540490/d98179d1d2a747b0e85a3da5b6c66d9b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361384391",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bear_brand_junior_1_1_2kg/p/1564405684702540490"
+    },
+    {
+      "id": "1564405684702540353",
+      "store_id": "2052",
+      "like_code": "42718",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱195.00",
+      "unit_price": 195.0,
+      "popularity": 7490,
+      "upc": "480036131405",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361314053",
+      "reference_ids": [
+        "04800361314053"
+      ],
+      "name": "Bear Brand Junior 1+ | 400g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540353/2d5d181929a3743755de40dcdd393987",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361314053",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bear_brand_junior_1_400g/p/1564405684702540353"
+    },
+    {
+      "id": "1564405684704723576",
+      "store_id": "2052",
+      "like_code": "307936",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 650,
+      "upc": "480036140400",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361404006",
+      "reference_ids": [
+        "04800361404006"
+      ],
+      "name": "Bear Brand Milk Adult Plus Coffee | 300g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723576/755737fc7e0f4584e1f2e9f1688f6e25",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361404006",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_milk_adult_plus_coffee_300g/p/1564405684704723576"
+    },
+    {
+      "id": "1564405684704723575",
+      "store_id": "2052",
+      "like_code": "308482",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱19.00",
+      "unit_price": 19.0,
+      "popularity": 1426,
+      "upc": "480036140399",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361403993",
+      "reference_ids": [
+        "04800361403993",
+        "04800361403986"
+      ],
+      "name": "Bear Brand Milk Adult Plus Coffee | 33g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723575/c85b5004b69091f08b0e2e9be1398f45",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361403993",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_milk_adult_plus_coffee_33g/p/1564405684704723575"
+    },
+    {
+      "id": "1564405684711916781",
+      "store_id": "2052",
+      "like_code": "292376",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 917,
+      "quantity_step": 1.0,
+      "upc": "480036142481",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361424813",
+      "reference_ids": [
+        "04800361424813",
+        "04800361404686",
+        "04800361413978"
+      ],
+      "name": "Bear Brand Milk Sterilized | 1L x 2s (Save ₱15)",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711916781/c6af09159273d45f96e17c7f7c5bb184",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361424813",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_milk_sterilized_1_l_x_2s_save_15/p/1564405684711916781"
+    },
+    {
+      "id": "1564405684711317460",
+      "store_id": "2052",
+      "like_code": "349169",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱1,150.00",
+      "unit_price": 1150.0,
+      "popularity": 6451,
+      "upc": "480036141630",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361416306",
+      "reference_ids": [
+        "04800361416306"
+      ],
+      "name": "Bear Brand Milk Vanilla 1+ Jr | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711317460/e964d8b4d89df5fea318ce6a82ad57d5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361416306",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_milk_vanilla_1_jr_2_4kg/p/1564405684711317460"
+    },
+    {
+      "id": "1564405684704563470",
+      "store_id": "2052",
+      "like_code": "306838",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱995.00",
+      "unit_price": 995.0,
+      "popularity": 8577,
+      "upc": "480036141009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361410090",
+      "reference_ids": [
+        "04800361410090"
+      ],
+      "name": "Bear Brand Milk Vanilla 1+ Jr | 2kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704563470/0a66cda25e27d71f2c071bfa43385740",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361410090",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bear_brand_milk_vanilla_1_jr_2kg/p/1564405684704563470"
+    },
+    {
+      "id": "1564405684711317459",
+      "store_id": "2052",
+      "like_code": "349170",
+      "department_id": [
+        "22459165"
+      ],
+      "price": "₱753.00",
+      "unit_price": 753.0,
+      "popularity": 599,
+      "quantity_step": 1.0,
+      "upc": "480036141386",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361413862",
+      "reference_ids": [
+        "04800361413862"
+      ],
+      "name": "Bear Brand Milk Vanilla | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711317459/cb34af8c187b3c4e2a756d0cd53fb7a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361413862",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/bear_brand_milk_vanilla_2_4kg/p/1564405684711317459"
+    },
+    {
+      "id": "1764405684715116090",
+      "store_id": "2052",
+      "like_code": "439022",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱753.00",
+      "unit_price": 753.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142877",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361428774",
+      "reference_ids": [
+        "04800361428774"
+      ],
+      "name": "Bear Brand Milk Vanilla | 2.4kg + Free Canister",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715116090/6a4bcdbebd713145927eca7640fbdf8c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361428774",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_milk_vanilla_2_4kg_free_canister/p/1764405684715116090"
+    },
+    {
+      "id": "1564405684707290710",
+      "store_id": "2052",
+      "like_code": "337903",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱12.00",
+      "unit_price": 12.0,
+      "popularity": 2,
+      "quantity_step": 1.0,
+      "upc": "480036141081",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361410816",
+      "reference_ids": [
+        "04800361410816"
+      ],
+      "name": "Bear Brand Milk Vanilla Swak | 33g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707290710/e076ba1a87b91dca0f18c3d5d42689f8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361410816",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_milk_vanilla_swak_33g/p/1564405684707290710"
+    },
+    {
+      "id": "1564405684715307975",
+      "store_id": "2052",
+      "like_code": "400041",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱204.00",
+      "unit_price": 204.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142754",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361427548",
+      "reference_ids": [
+        "04800361427548",
+        "04800361424745"
+      ],
+      "name": "Bear Brand Powdered Filled Milk | 300g x 2s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715307975/52a00faea3a673ed474bd95e7a841ddb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361427548",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_powdered_filled_milk_300g_x_2s/p/1564405684715307975"
+    },
+    {
+      "id": "1764405684715287652",
+      "store_id": "2052",
+      "like_code": "443180",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 92,
+      "quantity_step": 1.0,
+      "upc": "480036142602",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426022",
+      "reference_ids": [
+        "04800361426022"
+      ],
+      "name": "Bear Brand Powdered Filled Milk | 300g x 3s Save P30",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715287652/1cecaac8ba659a571b86d7ffcd797d9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426022",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_powdered_filled_milk_300g_x_3s_save_p30/p/1764405684715287652"
+    },
+    {
+      "id": "1564405684702540381",
+      "store_id": "2052",
+      "like_code": "101969",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱112.00",
+      "unit_price": 112.0,
+      "popularity": 1699,
+      "quantity_step": 1.0,
+      "upc": "480036139349",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361393492",
+      "reference_ids": [
+        "04800361393492",
+        "04800361339520"
+      ],
+      "name": "Bear Brand Powdered Filled Milk Choco | 300g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540381/0bb19e9cbb8e37991451f10420bddd3f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361393492",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_powdered_filled_milk_choco_300g/p/1564405684702540381"
+    },
+    {
+      "id": "1564405684716249825",
+      "store_id": "2052",
+      "like_code": "415454",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱531.00",
+      "unit_price": 531.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142659",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426596",
+      "reference_ids": [
+        "04800361426596"
+      ],
+      "name": "Bear Brand Powdered Filled Milk With Free Pencil Case | 1.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716249825/800851aa60f64f3856594e937c1dc8e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361426596",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_powdered_filled_milk_with_free_pencil_case_1_4kg/p/1564405684716249825"
+    },
+    {
+      "id": "1564405684716249827",
+      "store_id": "2052",
+      "like_code": "416018",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱109.50",
+      "unit_price": 109.5,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142693",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426930",
+      "reference_ids": [
+        "04800361426930"
+      ],
+      "name": "Bear Brand Powdered Filled Milk With Free Swak Pack 33g | 300g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716249827/350d789539017b06567b044324bd09c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361426930",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_powdered_filled_milk_with_free_swak_pack_33g_300g/p/1564405684716249827"
+    },
+    {
+      "id": "1564405684702540503",
+      "store_id": "2052",
+      "like_code": "150951",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱12.00",
+      "unit_price": 12.0,
+      "popularity": 141,
+      "quantity_step": 1.0,
+      "upc": "480036140911",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361409117",
+      "reference_ids": [
+        "04800361409117",
+        "04800361385671",
+        "04800361393805"
+      ],
+      "name": "Bear Brand Powdered Milk Choco | 29g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540503/14d61b559874af73cdaa3afa39071aa8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361409117",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 12",
+        "sequence": 12,
+        "identifier": "3f37a99d-2ade-4b9f-8b68-e045ecd63d17",
+        "id": "22356775"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/bear_brand_powdered_milk_choco_29g/p/1564405684702540503"
+    },
+    {
+      "id": "1764405684715333368",
+      "store_id": "2052",
+      "like_code": "436586",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.50",
+      "unit_price": 299.5,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142844",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361428446",
+      "reference_ids": [
+        "04800361428446"
+      ],
+      "name": "Bear Brand Powdered Milk Drink | 840g (Free Shaker)",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715333368/6e53b30147ddb91c9ad74ed699c88dd7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361428446",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bear_brand_powdered_milk_drink_840g_free_shaker/p/1764405684715333368"
+    },
+    {
+      "id": "1564405684716249823",
+      "store_id": "2052",
+      "like_code": "415887",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱753.00",
+      "unit_price": 753.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142661",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426619",
+      "reference_ids": [
+        "04800361426619"
+      ],
+      "name": "Bear Brand Powdered Milk With Free Lunchbox | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716249823/414bd0d1bd327f0c6f28ad9e6e4d8d43",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361426619",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/bear_brand_powdered_milk_with_free_lunchbox_2_4kg/p/1564405684716249823"
+    },
+    {
+      "id": "1564405684702540363",
+      "store_id": "2052",
+      "like_code": "91504",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 383,
+      "quantity_step": 1.0,
+      "upc": "480036133128",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361331289",
+      "reference_ids": [
+        "04800361331289"
+      ],
+      "name": "Bear Brand Sterilized Milk | 1L",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540363/bb13defa35be0a8a79ec9b0853e272a1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361331289",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/bear_brand_sterilized_milk_1_l/p/1564405684702540363"
+    },
+    {
+      "id": "1564405684702540362",
+      "store_id": "2052",
+      "like_code": "93591",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 1390,
+      "quantity_step": 1.0,
+      "upc": "480036133150",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361331500",
+      "reference_ids": [
+        "04800361331500"
+      ],
+      "name": "Bear Brand Sterilized Milk | 200ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540362/e048dd4927f22831a150b2f5cd618996",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361331500",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/bear_brand_sterilized_milk_200ml/p/1564405684702540362"
+    },
+    {
+      "id": "1564405684702540410",
+      "store_id": "2052",
+      "like_code": "122373",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 544,
+      "quantity_step": 1.0,
+      "upc": "480036136183",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361361835",
+      "reference_ids": [
+        "04800361361835"
+      ],
+      "name": "Bear Brand Sterilized Milk with Gingkobiloba | 200ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540410/54acac1160178abbe99982a534eb5ac6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361361835",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/bear_brand_sterilized_milk_with_gingkobiloba_200ml/p/1564405684702540410"
+    },
+    {
+      "id": "1764405684715337260",
+      "store_id": "2052",
+      "like_code": "400306",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142477",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361424776",
+      "reference_ids": [
+        "04800361424776"
+      ],
+      "name": "Bear Brand Sterilized Milk with Gingko Biloba | 200ml x 4s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715337260/a387e485e91545ada6b5e2e4cc5dc293",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361424776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bear_brand_sterilized_milk_with_gingko_biloba_200ml_x_4s/p/1764405684715337260"
+    },
+    {
+      "id": "1564405684702540409",
+      "store_id": "2052",
+      "like_code": "122372",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 5242,
+      "quantity_step": 1.0,
+      "upc": "480036136181",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361361811",
+      "reference_ids": [
+        "04800361361811"
+      ],
+      "name": "Bear Brand Sterilized Milk with Ginseng | 200ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540409/6bee3e90e6b4dcfb8e48456b6a7518bf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361361811",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/bear_brand_sterilized_milk_with_ginseng_200ml/p/1564405684702540409"
+    },
+    {
+      "id": "1764405684715337262",
+      "store_id": "2052",
+      "like_code": "400307",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 10147,
+      "quantity_step": 1.0,
+      "upc": "480036142479",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361424790",
+      "reference_ids": [
+        "04800361424790"
+      ],
+      "name": "Bear Brand Sterilized Milk with Ginseng | 200ml x 4s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715337262/e5a2f7feca9f654d5f59c5003f66b905",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361424790",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bear_brand_sterilized_milk_with_ginseng_200ml_x_4s/p/1764405684715337262"
+    },
+    {
+      "id": "1564405684712155803",
+      "store_id": "2052",
+      "like_code": "357877",
+      "department_id": [
+        "22459165"
+      ],
+      "price": "₱174.00",
+      "unit_price": 174.0,
+      "popularity": 999999,
+      "quantity_step": 1.0,
+      "upc": "480036142569",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361425698",
+      "reference_ids": [
+        "04800361425698",
+        "04800361419192",
+        "04800361422338"
+      ],
+      "name": "Bear Brand Sterilized UHT Milk | 200ml x 6s (FREE 1s)",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712155803/9956ca5aa4ad54a68117dbd043691ca5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361425698",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/bear_brand_sterilized_uht_milk_200ml_x_6s_free_1s/p/1564405684712155803"
+    },
+    {
+      "id": "1564405684704734708",
+      "store_id": "2052",
+      "like_code": "282125",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱280.00",
+      "unit_price": 280.0,
+      "popularity": 3068,
+      "upc": "8675497005",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00086754970059",
+      "reference_ids": [
+        "00086754970059"
+      ],
+      "name": "Bear Republic Red Wine | 750ml",
+      "size": "pc",
+      "price_disclaimer": "7 days processing time for 50 orders and above.",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704734708/d44fdf7b4e06e7835b160b10b05db909",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00086754970059",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/bear_republic_red_wine_750ml/p/1564405684704734708"
+    }
+  ]
+}

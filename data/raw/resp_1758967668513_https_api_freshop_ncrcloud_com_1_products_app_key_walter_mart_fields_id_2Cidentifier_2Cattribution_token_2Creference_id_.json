@@ -1,0 +1,2636 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684711434080",
+      "store_id": "2052",
+      "like_code": "350244",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱637.00",
+      "unit_price": 637.0,
+      "popularity": 8835,
+      "upc": "480088821769",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217691",
+      "reference_ids": [
+        "04800888217691"
+      ],
+      "name": "Cream Silk Ultimate Reborn Hairfall Defense Tri-Oleo Conditioner |  900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711434080/46fc9dbebd91970ae894fd90cbd51bf7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217691",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/cream_silk_ultimate_reborn_hairfall_defense_tri_oleo_conditioner_900ml/p/1564405684711434080"
+    },
+    {
+      "id": "1564405684714129544",
+      "store_id": "2052",
+      "like_code": "387185",
+      "department_id": [
+        "1496182"
+      ],
+      "price": "₱221.00",
+      "unit_price": 221.0,
+      "popularity": 999999,
+      "upc": "480088828112",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888281128",
+      "reference_ids": [
+        "04800888281128"
+      ],
+      "name": "Cream Silk Ultimate Reborn Hairfall Defense Tri-Oleo Conditioner BOGO50 | 180ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714129544/0ad59794700c3945b30e5afb109bf13c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888281128",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hair_care/cream_silk_ultimate_reborn_hairfall_defense_tri_oleo_conditioner_bogo50_180ml/p/1564405684714129544"
+    },
+    {
+      "id": "1564405684702542447",
+      "store_id": "2052",
+      "like_code": "149743",
+      "department_id": [
+        "22459189"
+      ],
+      "price": "₱78.50",
+      "unit_price": 78.5,
+      "popularity": 7213,
+      "upc": "480088818107",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888181077",
+      "reference_ids": [
+        "04800888181077",
+        "04800888179791"
+      ],
+      "name": "Cream Silk Ultimate Reborn Standout Straight | 13ml (11 + 1 FREE)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542447/f78033ba97cd9837402e7c8963b5963e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888181077",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/shampoo/cream_silk_ultimate_reborn_standout_straight_13ml_11_1_free/p/1564405684702542447"
+    },
+    {
+      "id": "1564405684702542157",
+      "store_id": "2052",
+      "like_code": "110871",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 329,
+      "upc": "480088820472",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888204721",
+      "reference_ids": [
+        "04800888204721",
+        "04800888139306"
+      ],
+      "name": "Cream Silk Ultimate Reborn Standout Straight Tri-Oleo Conditioner | 13ml x 6S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702542157/8825b01de42d9b7771e16a81fcc219e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888204721",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/cream_silk_ultimate_reborn_standout_straight_tri_oleo_conditioner_13ml_x_6_s/p/1564405684702542157"
+    },
+    {
+      "id": "8195452",
+      "store_id": "2052",
+      "like_code": "110917",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱147.75",
+      "unit_price": 147.75,
+      "popularity": 1659,
+      "upc": "480088817565",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888175656",
+      "reference_ids": [
+        "04800888175656",
+        "04800888139481",
+        "04800888159403",
+        "04800888160669",
+        "04800888162366"
+      ],
+      "name": "Cream Silk Ultimate Reborn Standout Straight Tri-Oleo Conditioner 180ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "8195452/65d44bb1f4841b900e4413bb70949329",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888175656",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/cream_silk_ultimate_reborn_standout_straight_tri_oleo_conditioner_180ml/p/8195452"
+    },
+    {
+      "id": "1564405684711434079",
+      "store_id": "2052",
+      "like_code": "350245",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱637.00",
+      "unit_price": 637.0,
+      "popularity": 6168,
+      "upc": "480088821765",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888217653",
+      "reference_ids": [
+        "04800888217653"
+      ],
+      "name": "Cream Silk Ultimate Reborn Standout Straight Tri-Oleo Conditioner | 900ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711434079/ec713d5483a340ee183db91851ac4641",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800888217653",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/cream_silk_ultimate_reborn_standout_straight_tri_oleo_conditioner_900ml/p/1564405684711434079"
+    },
+    {
+      "id": "1564405684714129542",
+      "store_id": "2052",
+      "like_code": "387186",
+      "department_id": [
+        "1496182"
+      ],
+      "price": "₱221.00",
+      "unit_price": 221.0,
+      "popularity": 999999,
+      "upc": "480088828111",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800888281111",
+      "reference_ids": [
+        "04800888281111"
+      ],
+      "name": "Cream Silk Ultimate Reborn Standout Straight Tri-Oleo Conditioner BOGO50 | 180ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714129542/c382cec370cb6a03cf0cebf845b5c7d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800888281111",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/hair_care/cream_silk_ultimate_reborn_standout_straight_tri_oleo_conditioner_bogo50_180ml/p/1564405684714129542"
+    },
+    {
+      "id": "1564405684711917734",
+      "store_id": "2052",
+      "like_code": "314704",
+      "department_id": [
+        "22575952"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "200003147040",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000031470405",
+      "reference_ids": [
+        "02000031470405"
+      ],
+      "name": "Creative Printed School Backpack | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917734/dfe0f5ab0134a6d458a24c015e090f26",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000031470405",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/creative_printed_school_backpack_assorted_colors/p/1564405684711917734"
+    },
+    {
+      "id": "1564405684702537001",
+      "store_id": "2052",
+      "like_code": "4954",
+      "department_id": [
+        "1496195"
+      ],
+      "price": "₱32.00",
+      "unit_price": 32.0,
+      "popularity": 4654,
+      "upc": "480602596156",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806025961564",
+      "reference_ids": [
+        "04806025961564",
+        "04800065241006"
+      ],
+      "name": "Cricket Lighter | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537001/344bde27b9a84f3497b89c8f4f227c4f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806025961564",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/tobacco/cricket_lighter_1s/p/1564405684702537001"
+    },
+    {
+      "id": "1564405684702537003",
+      "store_id": "2052",
+      "like_code": "4956",
+      "department_id": [
+        "1496195"
+      ],
+      "price": "₱57.00",
+      "unit_price": 57.0,
+      "popularity": 999999,
+      "upc": "480602596635",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806025966354",
+      "reference_ids": [
+        "04806025966354",
+        "04800065271003"
+      ],
+      "name": "Cricket Lighter Electric Simplicity | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537003/d2f31914467afda0b0e9ca2431503791",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806025966354",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/tobacco/cricket_lighter_electric_simplicity_pc/p/1564405684702537003"
+    },
+    {
+      "id": "1564405684702534634",
+      "store_id": "2052",
+      "like_code": "160350",
+      "department_id": [
+        "22459241"
+      ],
+      "price": "₱153.75",
+      "unit_price": 153.75,
+      "popularity": 9451,
+      "upc": "480602597101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806025971013",
+      "reference_ids": [
+        "04806025971013",
+        "03179110001140"
+      ],
+      "name": "Cricket Lighter Firepower | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702534634/9d911f2d8d577655165bcd090725476d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806025971013",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/hardware/cricket_lighter_firepower_1s/p/1564405684702534634"
+    },
+    {
+      "id": "1564405684702537000",
+      "store_id": "2052",
+      "like_code": "108378",
+      "department_id": [
+        "1496195"
+      ],
+      "price": "₱26.00",
+      "unit_price": 26.0,
+      "popularity": 8369,
+      "upc": "480602596326",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806025963261",
+      "reference_ids": [
+        "04806025963261",
+        "04800065226003"
+      ],
+      "name": "Cricket Lighter Original Mini Simplicity | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537000/d93ea29d2fad25b6dcb6051c3945b584",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806025963261",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/tobacco/cricket_lighter_original_mini_simplicity_1s/p/1564405684702537000"
+    },
+    {
+      "id": "1564405684712231858",
+      "store_id": "2052",
+      "like_code": "358861",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱58.25",
+      "unit_price": 58.25,
+      "popularity": 4987,
+      "upc": "480195847800",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958478004",
+      "reference_ids": [
+        "04801958478004"
+      ],
+      "name": "Crispy Fry Batter Mix | 160g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712231858/f194000a7dc576e9477d21a36e14bb9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958478004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/crispy_fry_batter_mix_160g/p/1564405684712231858"
+    },
+    {
+      "id": "1564405684714519812",
+      "store_id": "2052",
+      "like_code": "390203",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱15.00",
+      "unit_price": 15.0,
+      "popularity": 10000,
+      "upc": "480195867500",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958675007",
+      "reference_ids": [
+        "04801958675007"
+      ],
+      "name": "Crispy Fry Breading Mix Fish | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714519812/c19a79a30be0ec4c6605d6ad0a42c7b7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958675007",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/crispy_fry_breading_mix_fish_50g/p/1564405684714519812"
+    },
+    {
+      "id": "1564405684714519806",
+      "store_id": "2052",
+      "like_code": "390204",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱8.00",
+      "unit_price": 8.0,
+      "popularity": 10000,
+      "upc": "480195867400",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04801958674000",
+      "reference_ids": [
+        "04801958674000"
+      ],
+      "name": "Crispy Fry Gravy Mix | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714519806/7b7436665e878d79e33a25ec3b106235",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04801958674000",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/crispy_fry_gravy_mix_20g/p/1564405684714519806"
+    },
+    {
+      "id": "1564405684702537674",
+      "store_id": "2052",
+      "like_code": "148860",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱8.00",
+      "unit_price": 8.0,
+      "popularity": 204,
+      "upc": "480009277221",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092772214",
+      "reference_ids": [
+        "04800092772214"
+      ],
+      "name": "Criss Cross Creamy Cheese | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537674/095cbb1a1d0352d654e99e2bbb408747",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092772214",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/criss_cross_creamy_cheese_20g/p/1564405684702537674"
+    },
+    {
+      "id": "1564405684710222203",
+      "store_id": "2052",
+      "like_code": "343113",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 391,
+      "upc": "480009255658",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092556586",
+      "reference_ids": [
+        "04800092556586"
+      ],
+      "name": "Criss Cross Creamy Cheese | 64g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710222203/6d3dfd80a4c77c0a6812d40065e92dd5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092556586",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/criss_cross_creamy_cheese_64g/p/1564405684710222203"
+    },
+    {
+      "id": "1564405684702537675",
+      "store_id": "2052",
+      "like_code": "148861",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱8.00",
+      "unit_price": 8.0,
+      "popularity": 210,
+      "upc": "480009277252",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092772528",
+      "reference_ids": [
+        "04800092772528"
+      ],
+      "name": "Criss Cross Sour Cream & Onion | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537675/d48ab9ec6dd9d9b20d1e2cb6e38af513",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092772528",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 14",
+        "sequence": 14,
+        "identifier": "f1417cb4-d264-44e1-91d4-6fce80712eb6",
+        "id": "22356777"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/criss_cross_sour_cream_onion_20g/p/1564405684702537675"
+    },
+    {
+      "id": "1564405684714673229",
+      "store_id": "2052",
+      "like_code": "396605",
+      "department_id": [
+        "1496151"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 1750,
+      "upc": "480043460000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800434600007",
+      "reference_ids": [
+        "04800434600007"
+      ],
+      "name": "Criss Cross Sweet Pepper Steak | 60g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714673229/594674d167d0a29a486e475df0f38865",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800434600007",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips/criss_cross_sweet_pepper_steak_60g/p/1564405684714673229"
+    },
+    {
+      "id": "1564405684704733018",
+      "store_id": "2052",
+      "like_code": "295767",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱355.00",
+      "unit_price": 355.0,
+      "popularity": 7403,
+      "upc": "480011603503",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800116035035",
+      "reference_ids": [
+        "04800116035035"
+      ],
+      "name": "Croley Foods Assorted Biscuits | 2.5kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704733018/d53cbc604101872dbe8045ba80be3685",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800116035035",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/croley_foods_assorted_biscuits_2_5kg/p/1564405684704733018"
+    },
+    {
+      "id": "1764405684715521890",
+      "store_id": "2052",
+      "like_code": "453204",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 2,
+      "upc": "480009255237",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092552373",
+      "reference_ids": [
+        "04800092552373",
+        "00000000453204"
+      ],
+      "name": "Crossini Bavarian Cream | 41g x 10s",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715521890/32681aa5491a55fd1955c23095d0ce62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092552373",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/crossini_bavarian_cream_41g_x_10s/p/1764405684715521890"
+    },
+    {
+      "id": "1564405684710575818",
+      "store_id": "2052",
+      "like_code": "285430",
+      "department_id": [
+        "22459176"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 1940,
+      "upc": "480009255067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092550676",
+      "reference_ids": [
+        "04800092550676"
+      ],
+      "name": "Crossini Rolls Choco Hazelnut | 10pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710575818/175d3836caed07e7f041eec8b942bbfa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092550676",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/pastries/crossini_rolls_choco_hazelnut_10pcs/p/1564405684710575818"
+    },
+    {
+      "id": "1564405684702554932",
+      "store_id": "2052",
+      "like_code": "16004",
+      "department_id": [
+        "1496154"
+      ],
+      "price": "₱174.00",
+      "unit_price": 174.0,
+      "popularity": 9026,
+      "upc": "541029114129",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05410291141293",
+      "reference_ids": [
+        "05410291141293"
+      ],
+      "name": "Crumpy Dark Chocolate Spread | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702554932/8c54bd688f6d85da787e247bf6fa9a65",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05410291141293",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/jams_spreads/crumpy_dark_chocolate_spread_225g/p/1564405684702554932"
+    },
+    {
+      "id": "1564405684714521380",
+      "store_id": "2052",
+      "like_code": "390382",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱38.00",
+      "unit_price": 38.0,
+      "popularity": 6438,
+      "upc": "480036138307",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361383073",
+      "reference_ids": [
+        "04800361383073"
+      ],
+      "name": "Crunch Stick | 60ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714521380/853745081807f0fa2ca659037fd1cae8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361383073",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/crunch_stick_60ml/p/1564405684714521380"
+    },
+    {
+      "id": "1564405684702546778",
+      "store_id": "2052",
+      "like_code": "7835",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱29.50",
+      "unit_price": 29.5,
+      "popularity": 4129,
+      "upc": "480650475119",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751198",
+      "reference_ids": [
+        "04806504751198"
+      ],
+      "name": "Cuddles Cotton Buds Plastic Stem | 200s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546778/522a0f0bda716ed63b211389af943b63",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504751198",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cuddles_cotton_buds_plastic_stem_200s/p/1564405684702546778"
+    },
+    {
+      "id": "1764405684715166564",
+      "store_id": "2052",
+      "like_code": "440703",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱93.00",
+      "unit_price": 93.0,
+      "popularity": 999999,
+      "upc": "480650475152",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751525",
+      "reference_ids": [
+        "04806504751525"
+      ],
+      "name": "Cuddles Cotton Round Pads | 80pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715166564/318577e6473aa5bf14ea1bbde2eca26d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806504751525",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cuddles_cotton_round_pads_80pcs/p/1764405684715166564"
+    },
+    {
+      "id": "1564405684702546786",
+      "store_id": "2052",
+      "like_code": "94878",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱78.00",
+      "unit_price": 78.0,
+      "popularity": 999999,
+      "upc": "480650475143",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751433",
+      "reference_ids": [
+        "04806504751433"
+      ],
+      "name": "Cuddles Cotton Squares | 100s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546786/c88eb90571050c0596f712702df9d56f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3699262546088311126",
+          "reference_id": "tpr_2052_04806504751433_70_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546786"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "77113d43d55bbb9944e4a64fa4a27204",
+          "similarity_priority": 5,
+          "name": "Cuddles Cotton Squares | 100s",
+          "sale_price": "₱70.00",
+          "sale_price_md": "**₱70.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3699263668819605763",
+          "reference_id": "ad_2052_04806504751433_1_70_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546786"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "5d23cc6d399816113e4db84237364812",
+          "similarity_priority": 6,
+          "name": "Cuddles Cotton Squares | 100s",
+          "sale_price": "₱70.00",
+          "sale_price_md": "**₱70.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱70.00",
+      "sale_price_md": "**₱70.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3699262546088311126",
+        "reference_id": "tpr_2052_04806504751433_70_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546786"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "22356771",
+          "22459175",
+          "22475760"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "77113d43d55bbb9944e4a64fa4a27204",
+        "similarity_priority": 5,
+        "name": "Cuddles Cotton Squares | 100s",
+        "sale_price": "₱70.00",
+        "sale_price_md": "**₱70.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 70.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱70.00 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806504751433",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cuddles_cotton_squares_100s/p/1564405684702546786"
+    },
+    {
+      "id": "1564405684702546788",
+      "store_id": "2052",
+      "like_code": "149262",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱31.50",
+      "unit_price": 31.5,
+      "popularity": 1564,
+      "upc": "480650475154",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751549",
+      "reference_ids": [
+        "04806504751549"
+      ],
+      "name": "Cuddles Mini Cotton Buds Plastic Stem | 200s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546788/6824f5a72711ed201e28985b12381b39",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461929638214135",
+          "reference_id": "tpr_2052_04806504751549_28_25",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702546788"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3860,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b78aaa8f56cb357abfb7b133d629a45a",
+          "similarity_priority": 5,
+          "name": "Cuddles Mini Cotton Buds Plastic Stem | 200s",
+          "sale_price": "₱28.25",
+          "sale_price_md": "**₱28.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461657729874178",
+          "reference_id": "ad_2052_04806504751549_1_28_25",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702546788"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1930,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "35d7a1a16049758930a93ea48245d423",
+          "similarity_priority": 6,
+          "name": "Cuddles Mini Cotton Buds Plastic Stem | 200s",
+          "sale_price": "₱28.25",
+          "sale_price_md": "**₱28.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱28.25",
+      "sale_price_md": "**₱28.25** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461929638214135",
+        "reference_id": "tpr_2052_04806504751549_28_25",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702546788"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3860,
+        "product_tag_ids": [
+          "22356771",
+          "22459175",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b78aaa8f56cb357abfb7b133d629a45a",
+        "similarity_priority": 5,
+        "name": "Cuddles Mini Cotton Buds Plastic Stem | 200s",
+        "sale_price": "₱28.25",
+        "sale_price_md": "**₱28.25** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 28.25,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱28.25 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504751549",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cuddles_mini_cotton_buds_plastic_stem_200s/p/1564405684702546788"
+    },
+    {
+      "id": "1564405684702546789",
+      "store_id": "2052",
+      "like_code": "149261",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 1211,
+      "upc": "480650475155",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806504751556",
+      "reference_ids": [
+        "04806504751556"
+      ],
+      "name": "Cuddles Mini Cotton Buds Plastic Stem | 400s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546789/962cb15993a76fb79c1cdc55cf754a96",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3470963059458063319",
+          "reference_id": "tpr_2052_04806504751556_41_5",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183548668205"
+          ],
+          "circular_page_ids": [
+            "3719247210194418656"
+          ],
+          "circular_spot_ids": [
+            "3470674765323188577",
+            "3722700710702234546"
+          ],
+          "product_ids": [
+            "1564405684702546789"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1211,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6cc640538e6258650c43765747deba8e",
+          "similarity_priority": 5,
+          "name": "Cuddles Mini Cotton Buds Plastic Stem | 400s",
+          "sale_price": "₱41.50",
+          "sale_price_md": "**₱41.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3470963087484402405",
+          "reference_id": "ad_2052_04806504751556_1_41_5",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183548668205"
+          ],
+          "circular_page_ids": [
+            "3719247210194418656"
+          ],
+          "circular_spot_ids": [
+            "3470674765323188577",
+            "3722700710702234546"
+          ],
+          "product_ids": [
+            "1564405684702546789"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 606,
+          "product_tag_ids": [
+            "22356771",
+            "22459175",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b2f45c70744f23341a35f48af2a44428",
+          "similarity_priority": 6,
+          "name": "Cuddles Mini Cotton Buds Plastic Stem | 400s",
+          "sale_price": "₱41.50",
+          "sale_price_md": "**₱41.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱41.50",
+      "sale_price_md": "**₱41.50** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3470963059458063319",
+        "reference_id": "tpr_2052_04806504751556_41_5",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183548668205"
+        ],
+        "circular_page_ids": [
+          "3719247210194418656"
+        ],
+        "circular_spot_ids": [
+          "3470674765323188577",
+          "3722700710702234546"
+        ],
+        "product_ids": [
+          "1564405684702546789"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1211,
+        "product_tag_ids": [
+          "22356771",
+          "22459175",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "6cc640538e6258650c43765747deba8e",
+        "similarity_priority": 5,
+        "name": "Cuddles Mini Cotton Buds Plastic Stem | 400s",
+        "sale_price": "₱41.50",
+        "sale_price_md": "**₱41.50** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 41.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱41.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806504751556",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/cuddles_mini_cotton_buds_plastic_stem_400s/p/1564405684702546789"
+    },
+    {
+      "id": "1564405684709238560",
+      "store_id": "2052",
+      "like_code": "338739",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱440.00",
+      "unit_price": 440.0,
+      "popularity": 999999,
+      "upc": "480901045511",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010455116",
+      "reference_ids": [
+        "04809010455116"
+      ],
+      "name": "Culinary Exchange Coffee Arabica Blend Ground | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709238560/4a0dc803f075c5e6f803eb4bca8cdb63",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809010455116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/culinary_exchange_coffee_arabica_blend_ground_400g/p/1564405684709238560"
+    },
+    {
+      "id": "1564405684709238559",
+      "store_id": "2052",
+      "like_code": "338740",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱547.00",
+      "unit_price": 547.0,
+      "popularity": 999999,
+      "upc": "480901045510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010455109",
+      "reference_ids": [
+        "04809010455109"
+      ],
+      "name": "Culinary Exchange Coffee Arabica Blend Whole | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709238559/c94ee6e260a585bc23614d0f377e86c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809010455109",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/culinary_exchange_coffee_arabica_blend_whole_500g/p/1564405684709238559"
+    },
+    {
+      "id": "1564405684709238564",
+      "store_id": "2052",
+      "like_code": "338743",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱441.00",
+      "unit_price": 441.0,
+      "popularity": 999999,
+      "upc": "480901045516",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010455161",
+      "reference_ids": [
+        "04809010455161"
+      ],
+      "name": "Culinary Exchange Coffee Italian Blend Ground | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709238564/25b112ac5640a747f195c14c733dff88",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809010455161",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/culinary_exchange_coffee_italian_blend_ground_400g/p/1564405684709238564"
+    },
+    {
+      "id": "1564405684709238563",
+      "store_id": "2052",
+      "like_code": "338744",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱548.00",
+      "unit_price": 548.0,
+      "popularity": 999999,
+      "upc": "480901045515",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010455154",
+      "reference_ids": [
+        "04809010455154"
+      ],
+      "name": "Culinary Exchange Coffee Italian Blend Whole | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709238563/ef7046b83991c5fe90a7e88879f4af4f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809010455154",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/culinary_exchange_coffee_italian_blend_whole_500g/p/1564405684709238563"
+    },
+    {
+      "id": "1564405684709238562",
+      "store_id": "2052",
+      "like_code": "338746",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱486.00",
+      "unit_price": 486.0,
+      "popularity": 999999,
+      "upc": "480901045520",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010455208",
+      "reference_ids": [
+        "04809010455208"
+      ],
+      "name": "Culinary Exchange Coffee Jamaica Blend Whole | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709238562/9e8bd31a6b3c0749e16d909698b2767d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809010455208",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/culinary_exchange_coffee_jamaica_blend_whole_500g/p/1564405684709238562"
+    },
+    {
+      "id": "1564405684704723610",
+      "store_id": "2052",
+      "like_code": "302631",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 550,
+      "upc": "607212016313",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06072120163136",
+      "reference_ids": [
+        "06072120163136",
+        "09556771006518"
+      ],
+      "name": "Culture Blends Coffee American Latte | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723610/9a4d5e72b52c9d26410d5c51c4cb3088",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06072120163136",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/culture_blends_coffee_american_latte_20g/p/1564405684704723610"
+    },
+    {
+      "id": "1564405684704723611",
+      "store_id": "2052",
+      "like_code": "302590",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 600,
+      "upc": "955677100653",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556771006532",
+      "reference_ids": [
+        "09556771006532",
+        "06072120163143"
+      ],
+      "name": "Culture Blends Coffee Belgian Choco Mocha | 27g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723611/4f639dbabe28733f853114c69ffabdc4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556771006532",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/culture_blends_coffee_belgian_choco_mocha_27g/p/1564405684704723611"
+    },
+    {
+      "id": "1564405684714791453",
+      "store_id": "2052",
+      "like_code": "399447",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 10047,
+      "upc": "520010094803",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05200100948034",
+      "reference_ids": [
+        "05200100948034"
+      ],
+      "name": "Culture Blends Crumbs Cookies Peanut Butter Choco Chips | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714791453/c312d011e80042996a82820e78d46d51",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "05200100948034",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/culture_blends_crumbs_cookies_peanut_butter_choco_chips_200g/p/1564405684714791453"
+    },
+    {
+      "id": "1564405684714825063",
+      "store_id": "2052",
+      "like_code": "399572",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 999999,
+      "upc": "520010094800",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "05200100948003",
+      "reference_ids": [
+        "05200100948003"
+      ],
+      "name": "Culture Blends Crumbs Oat Sandwich Cookies Yogurt Cream Filling | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714825063/83920c5626b3d3d29f9fc582a2e45038",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "05200100948003",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/culture_blends_crumbs_oat_sandwich_cookies_yogurt_cream_filling_180g/p/1564405684714825063"
+    },
+    {
+      "id": "1564405684704723612",
+      "store_id": "2052",
+      "like_code": "302589",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 550,
+      "upc": "607212016315",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06072120163150",
+      "reference_ids": [
+        "06072120163150",
+        "09556771006556"
+      ],
+      "name": "Culture Blends Italian Creamy White Coffee | 30g x 7s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704723612/991320eb49af1444a8cf8d59b934da1b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06072120163150",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/culture_blends_italian_creamy_white_coffee_30g_x_7s/p/1564405684704723612"
+    },
+    {
+      "id": "1564405684689864013",
+      "store_id": "2052",
+      "like_code": "117610",
+      "department_id": [
+        "22459176"
+      ],
+      "price": "₱71.25",
+      "unit_price": 71.25,
+      "popularity": 2191,
+      "upc": "480009255210",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092552106",
+      "reference_ids": [
+        "04800092552106"
+      ],
+      "name": "Cupp Keyk Flavor Combo | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684689864013/42d07a69948fcb6a17f0735ed88d5f19",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092552106",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/pastries/cupp_keyk_flavor_combo_10s/p/1564405684689864013"
+    },
+    {
+      "id": "1564405684702537612",
+      "store_id": "2052",
+      "like_code": "122203",
+      "department_id": [
+        "22459176"
+      ],
+      "price": "₱83.50",
+      "unit_price": 83.5,
+      "popularity": 1172,
+      "upc": "480009255218",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092552182",
+      "reference_ids": [
+        "04800092552182"
+      ],
+      "name": "Cupp Keyk Topps Sarap Choco | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537612/7d439aff35e3b82767b79ad8101109d6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092552182",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 2",
+        "sequence": 2,
+        "identifier": "2d0e46c6-d398-4af0-8592-aa31f1bfd543",
+        "id": "22356765"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/pastries/cupp_keyk_topps_sarap_choco_10s/p/1564405684702537612"
+    },
+    {
+      "id": "1564405684704732366",
+      "store_id": "2052",
+      "like_code": "303955",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱181.00",
+      "unit_price": 181.0,
+      "popularity": 8695,
+      "upc": "480004021119",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800040211192",
+      "reference_ids": [
+        "04800040211192"
+      ],
+      "name": "Curly Tops Milk Chocolate in Pillow Wraps | 100s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732366/ff9c939b4bcc5119cf88352d0c506c96",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800040211192",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/curly_tops_milk_chocolate_in_pillow_wraps_100s/p/1564405684704732366"
+    },
+    {
+      "id": "1764405684715309036",
+      "store_id": "2052",
+      "like_code": "443947",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱32.00",
+      "unit_price": 32.0,
+      "popularity": 6367,
+      "upc": "480001478654",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800014786541",
+      "reference_ids": [
+        "04800014786541"
+      ],
+      "name": "C-vitt Lemon Vitamin Drink | 140ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715309036/fa0399c41e1d3e8098e322e7a4fe925e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800014786541",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/c_vitt_lemon_vitamin_drink_140ml/p/1764405684715309036"
+    },
+    {
+      "id": "1764405684715309038",
+      "store_id": "2052",
+      "like_code": "443948",
+      "department_id": [
+        "1501952"
+      ],
+      "price": "₱32.00",
+      "unit_price": 32.0,
+      "popularity": 6478,
+      "upc": "480001478655",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800014786558",
+      "reference_ids": [
+        "04800014786558"
+      ],
+      "name": "C-vitt Orange Vitamin Drink | 140ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715309038/1916393555a57657a0d9882e7fb1ec01",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800014786558",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/energy_drinks/c_vitt_orange_vitamin_drink_140ml/p/1764405684715309038"
+    },
+    {
+      "id": "1564405684702552271",
+      "store_id": "2052",
+      "like_code": "115639",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱339.00",
+      "unit_price": 339.0,
+      "popularity": 9172,
+      "upc": "480901399003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013990034",
+      "reference_ids": [
+        "04809013990034"
+      ],
+      "name": "Cycles Mild Laundry Detergent | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702552271/8a14e1d801766e235490ea411d739519",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704495836314421",
+          "reference_id": "tpr_2052_04809013990034_271_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702552271"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 9172,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6ad178f62c31955190e255acb7b7191d",
+          "similarity_priority": 5,
+          "name": "Cycles Mild Laundry Detergent | 1kg",
+          "sale_price": "₱271.00",
+          "sale_price_md": "**₱271.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705687849122556",
+          "reference_id": "ad_2052_04809013990034_1_271_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702552271"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4586,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "410fef10e2e7143a9650875f97ee6285",
+          "similarity_priority": 6,
+          "name": "Cycles Mild Laundry Detergent | 1kg",
+          "sale_price": "₱271.00",
+          "sale_price_md": "**₱271.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱271.00",
+      "sale_price_md": "**₱271.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704495836314421",
+        "reference_id": "tpr_2052_04809013990034_271_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702552271"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 9172,
+        "product_tag_ids": [
+          "22356766",
+          "22459313",
+          "22475760",
+          "22967205"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "6ad178f62c31955190e255acb7b7191d",
+        "similarity_priority": 5,
+        "name": "Cycles Mild Laundry Detergent | 1kg",
+        "sale_price": "₱271.00",
+        "sale_price_md": "**₱271.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 271.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱271.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013990034",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cycles_mild_laundry_detergent_1kg/p/1564405684702552271"
+    },
+    {
+      "id": "1564405684702552273",
+      "store_id": "2052",
+      "like_code": "125629",
+      "department_id": [
+        "22459313"
+      ],
+      "price": "₱289.00",
+      "unit_price": 289.0,
+      "popularity": 8436,
+      "upc": "480901399010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013990102",
+      "reference_ids": [
+        "04809013990102"
+      ],
+      "name": "Cycles Mild Laundry Detergent | 800ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702552273/683bc694766cf7a7aece4a14cc918c60",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704496129915714",
+          "reference_id": "tpr_2052_04809013990102_231_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702552273"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 8436,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b231fbdcd17ec57d4451ef30bda597ee",
+          "similarity_priority": 5,
+          "name": "Cycles Mild Laundry Detergent | 800ml",
+          "sale_price": "₱231.00",
+          "sale_price_md": "**₱231.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705687865899773",
+          "reference_id": "ad_2052_04809013990102_1_231_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702552273"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4218,
+          "product_tag_ids": [
+            "22356766",
+            "22459313",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "83dd16c6b3600232ed27d3452398ef24",
+          "similarity_priority": 6,
+          "name": "Cycles Mild Laundry Detergent | 800ml",
+          "sale_price": "₱231.00",
+          "sale_price_md": "**₱231.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱231.00",
+      "sale_price_md": "**₱231.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704496129915714",
+        "reference_id": "tpr_2052_04809013990102_231_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702552273"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 8436,
+        "product_tag_ids": [
+          "22356766",
+          "22459313",
+          "22475760",
+          "22967205"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b231fbdcd17ec57d4451ef30bda597ee",
+        "similarity_priority": 5,
+        "name": "Cycles Mild Laundry Detergent | 800ml",
+        "sale_price": "₱231.00",
+        "sale_price_md": "**₱231.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 231.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱231.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013990102",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/cycles_mild_laundry_detergent_800ml/p/1564405684702552273"
+    },
+    {
+      "id": "1564405684702552270",
+      "store_id": "2052",
+      "like_code": "125630",
+      "department_id": [
+        "22459230"
+      ],
+      "price": "₱556.00",
+      "unit_price": 556.0,
+      "popularity": 9337,
+      "upc": "480901399001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013990010",
+      "reference_ids": [
+        "04809013990010"
+      ],
+      "name": "Cycles Mild Laundry Liquid Detergent | 1.5L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552270/eb0bebea435b4541889cdd63990a2838",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729704495114894111",
+          "reference_id": "tpr_2052_04809013990010_445_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702552270"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 9337,
+          "product_tag_ids": [
+            "22356766",
+            "22459230",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "be2a0f6e189f1c0fe432bafa01f60d8f",
+          "similarity_priority": 5,
+          "name": "Cycles Mild Laundry Liquid Detergent | 1.5L",
+          "sale_price": "₱445.00",
+          "sale_price_md": "**₱445.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3729705686330784431",
+          "reference_id": "ad_2052_04809013990010_1_445_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702552270"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4669,
+          "product_tag_ids": [
+            "22356766",
+            "22459230",
+            "22475760",
+            "22967205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f5f90ad49450cdb0c983d0bd196786e9",
+          "similarity_priority": 6,
+          "name": "Cycles Mild Laundry Liquid Detergent | 1.5L",
+          "sale_price": "₱445.00",
+          "sale_price_md": "**₱445.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱445.00",
+      "sale_price_md": "**₱445.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729704495114894111",
+        "reference_id": "tpr_2052_04809013990010_445_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702552270"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 9337,
+        "product_tag_ids": [
+          "22356766",
+          "22459230",
+          "22475760",
+          "22967205"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "be2a0f6e189f1c0fe432bafa01f60d8f",
+        "similarity_priority": 5,
+        "name": "Cycles Mild Laundry Liquid Detergent | 1.5L",
+        "sale_price": "₱445.00",
+        "sale_price_md": "**₱445.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 445.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱445.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013990010",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 3",
+        "sequence": 3,
+        "identifier": "7ead8400-1b16-43f2-9c53-9903d4c10c46",
+        "id": "22356766"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/laundry_essentials/liquid_detergent/cycles_mild_laundry_liquid_detergent_1_5_l/p/1564405684702552270"
+    },
+    {
+      "id": "1564405684710341031",
+      "store_id": "2052",
+      "like_code": "343816",
+      "department_id": [
+        "22459276"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 6469,
+      "upc": "480652459067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806524590678",
+      "reference_ids": [
+        "04806524590678"
+      ],
+      "name": "Cycles Sensitive Anti-Mosquito Patches | 12s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710341031/3582b142eb819839f153756d1d784ca1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806524590678",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/body_care/cycles_sensitive_anti_mosquito_patches_12s/p/1564405684710341031"
+    }
+  ]
+}

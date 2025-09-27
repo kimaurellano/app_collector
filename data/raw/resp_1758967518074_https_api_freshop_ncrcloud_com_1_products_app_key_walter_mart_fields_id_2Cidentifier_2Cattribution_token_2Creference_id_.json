@@ -1,0 +1,2555 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702539937",
+      "store_id": "2052",
+      "like_code": "157461",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱96.00",
+      "unit_price": 96.0,
+      "popularity": 3697,
+      "upc": "480024998958",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249989588",
+      "reference_ids": [
+        "04800249989588"
+      ],
+      "name": "CDO Green Kaong | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539937/163d8922d0ff6eb90add99e3376daea9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249989588",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/cdo_green_kaong_340g/p/1564405684702539937"
+    },
+    {
+      "id": "1564405684702539939",
+      "store_id": "2052",
+      "like_code": "157460",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱71.50",
+      "unit_price": 71.5,
+      "popularity": 8384,
+      "upc": "480024998960",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249989601",
+      "reference_ids": [
+        "04800249989601"
+      ],
+      "name": "CDO Green Nata De Coco | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539939/fcf29aef341f312112ae7fd2f9da9328",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249989601",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/cdo_green_nata_de_coco_340g/p/1564405684702539939"
+    },
+    {
+      "id": "1564405684704764717",
+      "store_id": "2052",
+      "like_code": "272983",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱126.50",
+      "unit_price": 126.5,
+      "popularity": 5037,
+      "upc": "480024951904",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249519044",
+      "reference_ids": [
+        "04800249519044"
+      ],
+      "name": "CDO Holiday Bacon | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704764717/bbcf48d67845be601ed68d14a20e04ec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249519044",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_holiday_bacon_200g/p/1564405684704764717"
+    },
+    {
+      "id": "1564405684711965677",
+      "store_id": "2052",
+      "like_code": "348652",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱64.25",
+      "unit_price": 64.25,
+      "popularity": 9831,
+      "upc": "480024904293",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249042931",
+      "reference_ids": [
+        "04800249042931"
+      ],
+      "name": "CDO Holiday Chicken Siomai | 240g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965677/8b6e9107bb8f798d9909288b532db513",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249042931",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_holiday_chicken_siomai_240g/p/1564405684711965677"
+    },
+    {
+      "id": "1564405684702539897",
+      "store_id": "2052",
+      "like_code": "80111",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱63.25",
+      "unit_price": 63.25,
+      "popularity": 5072,
+      "upc": "480024963001",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249630015",
+      "reference_ids": [
+        "04800249630015"
+      ],
+      "name": "CDO Holiday Corned Beef | 220g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539897/a40a329c8af7033d3cfc79b444532897",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249630015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_holiday_corned_beef_220g/p/1564405684702539897"
+    },
+    {
+      "id": "1564405684702539753",
+      "store_id": "2052",
+      "like_code": "160904",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱619.00",
+      "unit_price": 619.0,
+      "popularity": 5,
+      "upc": "480024901983",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249019834",
+      "reference_ids": [
+        "04800249019834"
+      ],
+      "name": "CDO Holiday Ham Pre-Sliced | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702539753/f34af3cfb5847933f4fe35f3787b845c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249019834",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_holiday_ham_pre_sliced_1kg/p/1564405684702539753"
+    },
+    {
+      "id": "1564405684702539664",
+      "store_id": "2052",
+      "like_code": "111875",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱619.00",
+      "unit_price": 619.0,
+      "popularity": 5,
+      "upc": "480024900286",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249002867",
+      "reference_ids": [
+        "04800249002867"
+      ],
+      "name": "CDO Holiday Ham Whole | 1kg",
+      "size": "pc",
+      "price_disclaimer": "7 days processing time for 50 orders and above.",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539664/8d671023fb24672b9f9a07c98e905e9f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249002867",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_holiday_ham_whole_1kg/p/1564405684702539664"
+    },
+    {
+      "id": "1564405684711276474",
+      "store_id": "2052",
+      "like_code": "348510",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱51.25",
+      "unit_price": 51.25,
+      "popularity": 999999,
+      "upc": "480024904514",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249045147",
+      "reference_ids": [
+        "04800249045147"
+      ],
+      "name": "CDO Holiday Pizza Crust | 260g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711276474/c2adad0acf9fc87ed882b2d565e373cc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800249045147",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/cdo_holiday_pizza_crust_260g/p/1564405684711276474"
+    },
+    {
+      "id": "1564405684711965675",
+      "store_id": "2052",
+      "like_code": "348029",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱64.25",
+      "unit_price": 64.25,
+      "popularity": 7693,
+      "upc": "480024903912",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249039122",
+      "reference_ids": [
+        "04800249039122"
+      ],
+      "name": "CDO Holiday Pork Siomai | 240g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965675/74ce155e075dfddd6142723e9f5613d2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249039122",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_holiday_pork_siomai_240g/p/1564405684711965675"
+    },
+    {
+      "id": "1564405684702539861",
+      "store_id": "2052",
+      "like_code": "103658",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱183.00",
+      "unit_price": 183.0,
+      "popularity": 2,
+      "upc": "480024908202",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249082029",
+      "reference_ids": [
+        "04800249082029"
+      ],
+      "name": "CDO Idol Cheesedog | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539861/d57985d7b9ffa8f41d1569821c543aa9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249082029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_idol_cheesedog_1kg/p/1564405684702539861"
+    },
+    {
+      "id": "1564405684702539866",
+      "store_id": "2052",
+      "like_code": "103659",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱187.00",
+      "unit_price": 187.0,
+      "popularity": 2,
+      "upc": "480024909203",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249092035",
+      "reference_ids": [
+        "04800249092035"
+      ],
+      "name": "CDO Idol Cheesedog Jumbo | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539866/7101882fff3e61f19df4fe0c628705ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249092035",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_idol_cheesedog_jumbo_1kg/p/1564405684702539866"
+    },
+    {
+      "id": "1564405684702539864",
+      "store_id": "2052",
+      "like_code": "103668",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱112.50",
+      "unit_price": 112.5,
+      "popularity": 10,
+      "upc": "480024909107",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249091076",
+      "reference_ids": [
+        "04800249091076"
+      ],
+      "name": "CDO Idol Cheesedog Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539864/ecca9f3820477aff721578a938fd2378",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3666647171375053346",
+          "reference_id": "tpr_2052_04800249091076_107_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245179278866715"
+          ],
+          "circular_page_ids": [
+            "3719247204766989271"
+          ],
+          "circular_spot_ids": [
+            "3667457889435400203",
+            "3722601512023636075"
+          ],
+          "product_ids": [
+            "1564405684702539864"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 10,
+          "product_tag_ids": [
+            "22356784",
+            "22459113",
+            "22459130",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5219bac3fb02575de82ae5d0ad743cd4",
+          "similarity_priority": 5,
+          "name": "CDO Idol Cheesedog Jumbo | 500g",
+          "sale_price": "₱107.00",
+          "sale_price_md": "**₱107.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3666650308848662565",
+          "reference_id": "ad_2052_04800249091076_1_107_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245179278866715"
+          ],
+          "circular_page_ids": [
+            "3719247204766989271"
+          ],
+          "circular_spot_ids": [
+            "3667457889435400203",
+            "3722601512023636075"
+          ],
+          "product_ids": [
+            "1564405684702539864"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "22356784",
+            "22459113",
+            "22459130",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5f6c6f745ef4e49b386590f1ae07a3fc",
+          "similarity_priority": 6,
+          "name": "CDO Idol Cheesedog Jumbo | 500g",
+          "sale_price": "₱107.00",
+          "sale_price_md": "**₱107.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱107.00",
+      "sale_price_md": "**₱107.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3666647171375053346",
+        "reference_id": "tpr_2052_04800249091076_107_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245179278866715"
+        ],
+        "circular_page_ids": [
+          "3719247204766989271"
+        ],
+        "circular_spot_ids": [
+          "3667457889435400203",
+          "3722601512023636075"
+        ],
+        "product_ids": [
+          "1564405684702539864"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 10,
+        "product_tag_ids": [
+          "22356784",
+          "22459113",
+          "22459130",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "5219bac3fb02575de82ae5d0ad743cd4",
+        "similarity_priority": 5,
+        "name": "CDO Idol Cheesedog Jumbo | 500g",
+        "sale_price": "₱107.00",
+        "sale_price_md": "**₱107.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 107.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱107.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249091076",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_idol_cheesedog_jumbo_500g/p/1564405684702539864"
+    },
+    {
+      "id": "1564405684711677179",
+      "store_id": "2052",
+      "like_code": "352509",
+      "department_id": [
+        "21512103"
+      ],
+      "price": "₱112.50",
+      "unit_price": 112.5,
+      "popularity": 8448,
+      "upc": "480024904426",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249044263",
+      "reference_ids": [
+        "04800249044263"
+      ],
+      "name": "CDO Idol Cheesedog Super Jumbo | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711677179/c0c6030b8331dd7034a397ecc78b73e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249044263",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/ready_to_cook/cdo_idol_cheesedog_super_jumbo_500g/p/1564405684711677179"
+    },
+    {
+      "id": "1564405684702539935",
+      "store_id": "2052",
+      "like_code": "140080",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱96.00",
+      "unit_price": 96.0,
+      "popularity": 8405,
+      "upc": "480024998902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249989021",
+      "reference_ids": [
+        "04800249989021"
+      ],
+      "name": "CDO Kaong White | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539935/5e01f02a5c53e34846d5ba12ee4a34d0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249989021",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/cdo_kaong_white_340g/p/1564405684702539935"
+    },
+    {
+      "id": "1564405684702539930",
+      "store_id": "2052",
+      "like_code": "32862",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱20.75",
+      "unit_price": 20.75,
+      "popularity": 4986,
+      "upc": "480024990939",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249909395",
+      "reference_ids": [
+        "04800249909395"
+      ],
+      "name": "CDO Karne Norte | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539930/7a73d898f5745d798f249c13d271e35b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249909395",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_karne_norte_100g/p/1564405684702539930"
+    },
+    {
+      "id": "1564405684702539926",
+      "store_id": "2052",
+      "like_code": "45257",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱28.75",
+      "unit_price": 28.75,
+      "popularity": 520,
+      "upc": "480024990884",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249908848",
+      "reference_ids": [
+        "04800249908848"
+      ],
+      "name": "CDO Karne Norte | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539926/6104e49b211569587b50b3bd5f32d422",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461915830565107",
+          "reference_id": "tpr_2052_04800249908848_27_25",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3722686013970070501"
+          ],
+          "product_ids": [
+            "1564405684702539926"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 520,
+          "product_tag_ids": [
+            "22356791",
+            "22459295",
+            "22475760",
+            "22640942",
+            "22919042",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "94b130da54c1c04f1f905522906e7c06",
+          "similarity_priority": 5,
+          "name": "CDO Karne Norte | 150g",
+          "sale_price": "₱27.25",
+          "sale_price_md": "**₱27.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461651153205367",
+          "reference_id": "ad_2052_04800249908848_1_27_25",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183112460587"
+          ],
+          "circular_page_ids": [
+            "3719247209875651551"
+          ],
+          "circular_spot_ids": [
+            "3722686013970070501"
+          ],
+          "product_ids": [
+            "1564405684702539926"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 260,
+          "product_tag_ids": [
+            "22356791",
+            "22459295",
+            "22475760",
+            "22640942",
+            "22919042",
+            "23087576",
+            "23087588"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "da5d62cc37f575a8adbb7b827cc4d708",
+          "similarity_priority": 6,
+          "name": "CDO Karne Norte | 150g",
+          "sale_price": "₱27.25",
+          "sale_price_md": "**₱27.25** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱27.25",
+      "sale_price_md": "**₱27.25** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461915830565107",
+        "reference_id": "tpr_2052_04800249908848_27_25",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183112460587"
+        ],
+        "circular_page_ids": [
+          "3719247209875651551"
+        ],
+        "circular_spot_ids": [
+          "3722686013970070501"
+        ],
+        "product_ids": [
+          "1564405684702539926"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 520,
+        "product_tag_ids": [
+          "22356791",
+          "22459295",
+          "22475760",
+          "22640942",
+          "22919042",
+          "23087576",
+          "23087588"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "94b130da54c1c04f1f905522906e7c06",
+        "similarity_priority": 5,
+        "name": "CDO Karne Norte | 150g",
+        "sale_price": "₱27.25",
+        "sale_price_md": "**₱27.25** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 27.25,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱27.25 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249908848",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_karne_norte_150g/p/1564405684702539926"
+    },
+    {
+      "id": "1564405684702539924",
+      "store_id": "2052",
+      "like_code": "32863",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱33.50",
+      "unit_price": 33.5,
+      "popularity": 1716,
+      "upc": "480024990823",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249908237",
+      "reference_ids": [
+        "04800249908237"
+      ],
+      "name": "CDO Karne Norte  | 175g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539924/2cdda0bd1df7211d00c07e679461eda5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249908237",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_karne_norte_175g/p/1564405684702539924"
+    },
+    {
+      "id": "1564405684702539923",
+      "store_id": "2052",
+      "like_code": "37537",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱47.75",
+      "unit_price": 47.75,
+      "popularity": 1721,
+      "upc": "480024990865",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249908657",
+      "reference_ids": [
+        "04800249908657"
+      ],
+      "name": "CDO Karne Norte Classic Guisado | 260g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539923/b1e33dd551ff6ea50f26d77e673b508d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249908657",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_karne_norte_classic_guisado_260g/p/1564405684702539923"
+    },
+    {
+      "id": "1564405684702539933",
+      "store_id": "2052",
+      "like_code": "32867",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 878,
+      "upc": "480024990954",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249909548",
+      "reference_ids": [
+        "04800249909548"
+      ],
+      "name": "CDO Liver Spread Classic | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539933/0ec0a5b09c7abd92827c923326f90831",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249909548",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_liver_spread_classic_85g/p/1564405684702539933"
+    },
+    {
+      "id": "1564405684702539929",
+      "store_id": "2052",
+      "like_code": "230598",
+      "department_id": [
+        "22459295"
+      ],
+      "price": "₱21.75",
+      "unit_price": 21.75,
+      "popularity": 1754,
+      "upc": "480024990933",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249909333",
+      "reference_ids": [
+        "04800249909333"
+      ],
+      "name": "CDO Meat Loaf |150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539929/03705c7eb230fc01b9f54844cb569145",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249909333",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 28",
+        "sequence": 28,
+        "identifier": "a570fb4f-a1f0-4556-ae7a-1f9346797b69",
+        "id": "22356791"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_meat/cdo_meat_loaf_150g/p/1564405684702539929"
+    },
+    {
+      "id": "1564405684702539903",
+      "store_id": "2052",
+      "like_code": "102870",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱114.25",
+      "unit_price": 114.25,
+      "popularity": 7132,
+      "upc": "480024978008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249780086",
+      "reference_ids": [
+        "04800249780086"
+      ],
+      "name": "CDO Native Favorites Beef Tapa | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539903/be04f34707f749556b3ed52018c66465",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249780086",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_native_favorites_beef_tapa_250g/p/1564405684702539903"
+    },
+    {
+      "id": "1564405684702539741",
+      "store_id": "2052",
+      "like_code": "149274",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱362.50",
+      "unit_price": 362.5,
+      "popularity": 5629,
+      "upc": "480024901270",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249012705",
+      "reference_ids": [
+        "04800249012705"
+      ],
+      "name": "CDO Native Pork Tocino | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539741/71c29cfba468c7f69c07883f37e590cf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249012705",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_native_pork_tocino_1kg/p/1564405684702539741"
+    },
+    {
+      "id": "1564405684702539899",
+      "store_id": "2052",
+      "like_code": "14530",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱96.75",
+      "unit_price": 96.75,
+      "popularity": 6400,
+      "upc": "480024969000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249690002",
+      "reference_ids": [
+        "04800249690002"
+      ],
+      "name": "CDO Pork Longganisa | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539899/2b26321ba92b247211895b455b450a99",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249690002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_pork_longganisa_250g/p/1564405684702539899"
+    },
+    {
+      "id": "1564405684711646761",
+      "store_id": "2052",
+      "like_code": "302515",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱189.75",
+      "unit_price": 189.75,
+      "popularity": 5573,
+      "upc": "480024903927",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249039276",
+      "reference_ids": [
+        "04800249039276"
+      ],
+      "name": "CDO Premium Pork Tonkatsu | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711646761/ef13872ab27664c82faf0802875a41af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249039276",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/cdo_premium_pork_tonkatsu_420g/p/1564405684711646761"
+    },
+    {
+      "id": "1564405684711677180",
+      "store_id": "2052",
+      "like_code": "352519",
+      "department_id": [
+        "21512103"
+      ],
+      "price": "₱182.00",
+      "unit_price": 182.0,
+      "popularity": 8323,
+      "upc": "480024904380",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043808",
+      "reference_ids": [
+        "04800249043808"
+      ],
+      "name": "CDO Premium Torikatsu | 420g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711677180/bae59cbf3223cd4a3253a0194fa4914f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249043808",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/what_s_new/ready_to_cook/cdo_premium_torikatsu_420g/p/1564405684711677180"
+    },
+    {
+      "id": "1564405684702539936",
+      "store_id": "2052",
+      "like_code": "157462",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱96.00",
+      "unit_price": 96.0,
+      "popularity": 3843,
+      "upc": "480024998957",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249989571",
+      "reference_ids": [
+        "04800249989571"
+      ],
+      "name": "CDO Red Kaong | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539936/b24a2e685242cb465595587cc4514487",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249989571",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/cdo_red_kaong_340g/p/1564405684702539936"
+    },
+    {
+      "id": "1564405684702539938",
+      "store_id": "2052",
+      "like_code": "140081",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱71.50",
+      "unit_price": 71.5,
+      "popularity": 3473,
+      "upc": "480024998959",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249989595",
+      "reference_ids": [
+        "04800249989595"
+      ],
+      "name": "CDO Red Nata De Coco | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539938/cd1f032aabf716c144acb81821bb23ea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249989595",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/cdo_red_nata_de_coco_340g/p/1564405684702539938"
+    },
+    {
+      "id": "1564405684702539896",
+      "store_id": "2052",
+      "like_code": "14450",
+      "department_id": [
+        "22459263"
+      ],
+      "price": "₱157.00",
+      "unit_price": 157.0,
+      "popularity": 8117,
+      "upc": "480024951902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249519020",
+      "reference_ids": [
+        "04800249519020"
+      ],
+      "name": "CDO Regular Bacon | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539896/a1b4298f0b9e858f067c00d27e8b3872",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249519020",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/bacon/cdo_regular_bacon_200g/p/1564405684702539896"
+    },
+    {
+      "id": "1564405684702539851",
+      "store_id": "2052",
+      "like_code": "14391",
+      "department_id": [
+        "22459262"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 3939,
+      "upc": "480024907013",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249070132",
+      "reference_ids": [
+        "04800249070132"
+      ],
+      "name": "CDO Regular Ham Cooked Slice | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539851/725eabfe0847fe11572372dfdc8e562f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3729705616956996252",
+          "reference_id": "ad_2052_04800249070132_2_190_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702539851"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1038,
+          "product_tag_ids": [
+            "22356784",
+            "22459262",
+            "22475760",
+            "22640942",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0bb37d8387b997c95a78e7eb589ebd2d",
+          "similarity_priority": 6,
+          "name": "CDO Regular Ham Cooked Slice | 250g",
+          "sale_price": "2 for ₱190.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱190.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱190.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱190.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3729705616956996252",
+        "reference_id": "ad_2052_04800249070132_2_190_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702539851"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1038,
+        "product_tag_ids": [
+          "22356784",
+          "22459262",
+          "22475760",
+          "22640942",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0bb37d8387b997c95a78e7eb589ebd2d",
+        "similarity_priority": 6,
+        "name": "CDO Regular Ham Cooked Slice | 250g",
+        "sale_price": "2 for ₱190.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱190.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 95.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249070132",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/ham/cdo_regular_ham_cooked_slice_250g/p/1564405684702539851"
+    },
+    {
+      "id": "1564405684702539890",
+      "store_id": "2052",
+      "like_code": "14478",
+      "department_id": [
+        "22459262"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 2,
+      "upc": "480024938000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249380002",
+      "reference_ids": [
+        "04800249380002"
+      ],
+      "name": "CDO Regular Ham Spiced Slice | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539890/6f829498bb7e14d4b2432704ac44951d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249380002",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/ham/cdo_regular_ham_spiced_slice_250g/p/1564405684702539890"
+    },
+    {
+      "id": "1564405684702539852",
+      "store_id": "2052",
+      "like_code": "14397",
+      "department_id": [
+        "22459262"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 782,
+      "upc": "480024907173",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249071733",
+      "reference_ids": [
+        "04800249071733"
+      ],
+      "name": "CDO Regular Ham Sweet | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539852/97ac94fd2aed3222ba21a7bfd75a5c5b",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3596344918458513654",
+          "reference_id": "ad_2052_04800249071733_2_190_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702539852"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 304,
+          "product_tag_ids": [
+            "22356784",
+            "22459262",
+            "22475760",
+            "22547975",
+            "22640942",
+            "22775806",
+            "22883817",
+            "22919042",
+            "22983241"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0bb37d8387b997c95a78e7eb589ebd2d",
+          "similarity_priority": 6,
+          "name": "CDO Regular Ham Sweet | 250g",
+          "sale_price": "2 for ₱190.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱190.00 with purchase of 2** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱190.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱190.00 with purchase of 2** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3596344918458513654",
+        "reference_id": "ad_2052_04800249071733_2_190_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702539852"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 304,
+        "product_tag_ids": [
+          "22356784",
+          "22459262",
+          "22475760",
+          "22547975",
+          "22640942",
+          "22775806",
+          "22883817",
+          "22919042",
+          "22983241"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0bb37d8387b997c95a78e7eb589ebd2d",
+        "similarity_priority": 6,
+        "name": "CDO Regular Ham Sweet | 250g",
+        "sale_price": "2 for ₱190.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱190.00 with purchase of 2** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 95.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249071733",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/ham/cdo_regular_ham_sweet_250g/p/1564405684702539852"
+    },
+    {
+      "id": "1564405684702539858",
+      "store_id": "2052",
+      "like_code": "14405",
+      "department_id": [
+        "22459262"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 2343,
+      "upc": "480024907172",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249071726",
+      "reference_ids": [
+        "04800249071726"
+      ],
+      "name": "CDO Regular Ham Sweet Slice | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539858/eb5de8d191e88bcd231fe90e3bdcd75d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249071726",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/ham/cdo_regular_ham_sweet_slice_500g/p/1564405684702539858"
+    },
+    {
+      "id": "1564405684702539873",
+      "store_id": "2052",
+      "like_code": "14722",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 5991,
+      "upc": "480024928113",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249281132",
+      "reference_ids": [
+        "04800249281132"
+      ],
+      "name": "CDO Sea Quest Squid Balls | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539873/7e7c2cec50f57e35e75ac3adc97ce4c6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249281132",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/cdo_sea_quest_squid_balls_250g/p/1564405684702539873"
+    },
+    {
+      "id": "1564405684702539870",
+      "store_id": "2052",
+      "like_code": "14574",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱90.75",
+      "unit_price": 90.75,
+      "popularity": 1263,
+      "upc": "480024916533",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249165333",
+      "reference_ids": [
+        "04800249165333"
+      ],
+      "name": "CDO Skinless Longganisa | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539870/fba1684227fc7ee9301804ebe15798c4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249165333",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_skinless_longganisa_250g/p/1564405684702539870"
+    },
+    {
+      "id": "1564405684702539675",
+      "store_id": "2052",
+      "like_code": "119819",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱272.00",
+      "unit_price": 272.0,
+      "popularity": 5884,
+      "upc": "480024900498",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249004984",
+      "reference_ids": [
+        "04800249004984"
+      ],
+      "name": "CDO Ulam Burger Big | 900g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539675/00f4d115354f03f1ddc43476d9062f3d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249004984",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_ulam_burger_big_900g/p/1564405684702539675"
+    },
+    {
+      "id": "1564405684704306347",
+      "store_id": "2052",
+      "like_code": "302516",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱53.50",
+      "unit_price": 53.5,
+      "popularity": 7727,
+      "upc": "480024903928",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249039283",
+      "reference_ids": [
+        "04800249039283"
+      ],
+      "name": "CDO Ulam Burger Crispy Burgettes | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704306347/8d3105ece2a2cb675b8ca2de3f99a1cd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249039283",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_ulam_burger_crispy_burgettes_150g/p/1564405684704306347"
+    },
+    {
+      "id": "1564405684702539909",
+      "store_id": "2052",
+      "like_code": "65789",
+      "department_id": [
+        "22459262"
+      ],
+      "price": "₱73.75",
+      "unit_price": 73.75,
+      "popularity": 1226,
+      "upc": "480024988603",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249886030",
+      "reference_ids": [
+        "04800249886030"
+      ],
+      "name": "CDO Ulam Burger Mini | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 1.0,
+      "review_count": 1,
+      "cover_image": "1564405684702539909/25aeea31757b77d807e0cfc5c0a73690",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249886030",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/ham/cdo_ulam_burger_mini_225g/p/1564405684702539909"
+    },
+    {
+      "id": "1564405684702539907",
+      "store_id": "2052",
+      "like_code": "39118",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱75.25",
+      "unit_price": 75.25,
+      "popularity": 1882,
+      "upc": "480024988600",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249886009",
+      "reference_ids": [
+        "04800249886009"
+      ],
+      "name": "CDO Ulam Burger Patty | 228g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539907/21fd8f6920abdc13237f598eb7d66bfb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249886009",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_ulam_burger_patty_228g/p/1564405684702539907"
+    },
+    {
+      "id": "1564405684702539679",
+      "store_id": "2052",
+      "like_code": "119818",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱272.00",
+      "unit_price": 272.0,
+      "popularity": 7697,
+      "upc": "480024900499",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249004991",
+      "reference_ids": [
+        "04800249004991"
+      ],
+      "name": "CDO Ulam Burger Regular | 912g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539679/f3a3ae82d121040325d396002415867e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249004991",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_ulam_burger_regular_912g/p/1564405684702539679"
+    },
+    {
+      "id": "1564405684702539932",
+      "store_id": "2052",
+      "like_code": "157459",
+      "department_id": [
+        "22459169"
+      ],
+      "price": "₱71.50",
+      "unit_price": 71.5,
+      "popularity": 6155,
+      "upc": "480024998901",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249989014",
+      "reference_ids": [
+        "04800249989014"
+      ],
+      "name": "CDO White Nata De Coco | 340g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539932/8987e43f65e484c46910c8ac66f9e6b9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249989014",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/canned_goods/canned_fruits_vegetables/cdo_white_nata_de_coco_340g/p/1564405684702539932"
+    },
+    {
+      "id": "1564405684710537822",
+      "store_id": "2052",
+      "like_code": "345719",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱169.75",
+      "unit_price": 169.75,
+      "popularity": 8886,
+      "upc": "480024904374",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249043747",
+      "reference_ids": [
+        "04800249043747"
+      ],
+      "name": "CDO Young Pork Baconettes | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710537822/6f80019729c20e56c0747e1720406fbe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249043747",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/cdo_young_pork_baconettes_200g/p/1564405684710537822"
+    },
+    {
+      "id": "1564405684702539865",
+      "store_id": "2052",
+      "like_code": "14435",
+      "department_id": [
+        "22459263"
+      ],
+      "price": "₱157.00",
+      "unit_price": 157.0,
+      "popularity": 6633,
+      "upc": "480024952902",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249529029",
+      "reference_ids": [
+        "04800249529029",
+        "04800249100945"
+      ],
+      "name": "CDO Young Pork Bacon Honeycured | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539865/8e57fec5cbec77f88327a8dc33ffe91a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249529029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/bacon/cdo_young_pork_bacon_honeycured_200g/p/1564405684702539865"
+    },
+    {
+      "id": "1564405684702539767",
+      "store_id": "2052",
+      "like_code": "165948",
+      "department_id": [
+        "22459130"
+      ],
+      "price": "₱96.25",
+      "unit_price": 96.25,
+      "popularity": 6411,
+      "upc": "480024902284",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800249022841",
+      "reference_ids": [
+        "04800249022841"
+      ],
+      "name": "CDO Young Pork Tocino Chili | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702539767/b0df3a571e3e355a33444d46888ca66f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800249022841",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/deli_hotdogs/cdo_young_pork_tocino_chili_225g/p/1564405684702539767"
+    },
+    {
+      "id": "1764405684715653438",
+      "store_id": "2052",
+      "like_code": "454969",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 3930,
+      "upc": "71622105070",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00716221050709",
+      "reference_ids": [
+        "00716221050709"
+      ],
+      "name": "Cebu Dried Guyabano 100g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715653438/a3c0f9fb3b89e988f4e01f00ae07cf1d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00716221050709",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cebu_dried_guyabano_100g/p/1764405684715653438"
+    },
+    {
+      "id": "1564405684702504290",
+      "store_id": "2052",
+      "like_code": "20880",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱138.00",
+      "unit_price": 138.0,
+      "popularity": 512,
+      "upc": "71622105058",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00716221050587",
+      "reference_ids": [
+        "00716221050587"
+      ],
+      "name": "Cebu Dried Mango | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504290/2b5a10deb174c2c59f5b7c43c4d70816",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00716221050587",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/cebu_dried_mango_100g/p/1564405684702504290"
+    },
+    {
+      "id": "1564405684702504291",
+      "store_id": "2052",
+      "like_code": "20881",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱277.00",
+      "unit_price": 277.0,
+      "popularity": 3893,
+      "upc": "71622105059",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00716221050594",
+      "reference_ids": [
+        "00716221050594"
+      ],
+      "name": "Cebu Dried Mango | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504291/405162d0c37c2eaf3c59b4a2445159c0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00716221050594",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/cebu_dried_mango_200g/p/1564405684702504291"
+    },
+    {
+      "id": "1564405684702550279",
+      "store_id": "2052",
+      "like_code": "102662",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "upc": "480778841690",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788416902",
+      "reference_ids": [
+        "04807788217752",
+        "04807788416902"
+      ],
+      "name": "Ceelin Chewables | 30pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550279/4b918bf407984983aaa1cb756ce2e4f6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04807788416902",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_chewables_30pcs/p/1564405684702550279"
+    },
+    {
+      "id": "1564405684702550281",
+      "store_id": "2052",
+      "like_code": "102663",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱329.00",
+      "unit_price": 329.0,
+      "popularity": 9540,
+      "upc": "480778841691",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788416919",
+      "reference_ids": [
+        "04807788416919",
+        "04807788217769"
+      ],
+      "name": "Ceelin Chewables | 60 Tablets",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550281/0be297ba4944281f9db0c895426dbc9d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04807788416919",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/ceelin_chewables_60_tablets/p/1564405684702550281"
+    }
+  ]
+}

@@ -1,0 +1,2647 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702541846",
+      "store_id": "2052",
+      "like_code": "114366",
+      "department_id": [
+        "22459105"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 999999,
+      "upc": "480057542118",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575421189",
+      "reference_ids": [
+        "04800575421189"
+      ],
+      "name": "Alaska Yoghurt Blueberry Milk Drink | 170ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541846/57e72f1e595d11ebd1f063f884bc2c8f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800575421189",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/yogurt/yogurt/alaska_yoghurt_blueberry_milk_drink_170ml/p/1564405684702541846"
+    },
+    {
+      "id": "1564405684713093067",
+      "store_id": "2052",
+      "like_code": "368116",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 999999,
+      "upc": "480057524116",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575241169",
+      "reference_ids": [
+        "04800575241169"
+      ],
+      "name": "Alaska Yoghurt Blueberry (Save ₱5) | 180ml x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713093067/a20728ff77ad81c0af69d2a595e43f8d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800575241169",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/alaska_yoghurt_blueberry_save_5_180ml_x_3s/p/1564405684713093067"
+    },
+    {
+      "id": "1564405684702541843",
+      "store_id": "2052",
+      "like_code": "114364",
+      "department_id": [
+        "22459105"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 999999,
+      "upc": "480057542018",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575420182",
+      "reference_ids": [
+        "04800575420182"
+      ],
+      "name": "Alaska Yoghurt Strawberry Milk Drink | 170ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541843/d7bf16bc398481c0bfad519910806a4d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800575420182",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/yogurt/yogurt/alaska_yoghurt_strawberry_milk_drink_170ml/p/1564405684702541843"
+    },
+    {
+      "id": "1564405684702541845",
+      "store_id": "2052",
+      "like_code": "114365",
+      "department_id": [
+        "22459105"
+      ],
+      "price": "₱15.00",
+      "unit_price": 15.0,
+      "popularity": 999999,
+      "upc": "480057542011",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575420113",
+      "reference_ids": [
+        "04800575420113"
+      ],
+      "name": "Alaska Yoghurt Strawberry Milk Drink | 90ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541845/1d822ee335bcdedaf47c019013a0b06d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800575420113",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/yogurt/yogurt/alaska_yoghurt_strawberry_milk_drink_90ml/p/1564405684702541845"
+    },
+    {
+      "id": "1564405684713093066",
+      "store_id": "2052",
+      "like_code": "368115",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 999999,
+      "upc": "480057524117",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800575241176",
+      "reference_ids": [
+        "04800575241176"
+      ],
+      "name": "Alaska Yoghurt Strawberry (Save ₱5) | 180ml x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713093066/3482ce2a9984ca792ebdc9dbb8cf03b0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800575241176",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/alaska_yoghurt_strawberry_save_5_180ml_x_3s/p/1564405684713093066"
+    },
+    {
+      "id": "1564405684702550205",
+      "store_id": "2052",
+      "like_code": "49703",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱89.00",
+      "unit_price": 89.0,
+      "popularity": 999999,
+      "upc": "480778853260",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04807788532602",
+      "reference_ids": [
+        "04807788532602",
+        "04807788004338"
+      ],
+      "name": "Alaxan FR Capsules |  10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550205/f8f18a4b858fa6c41142cb2252a03c65",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04807788532602",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/alaxan_fr_capsules_10s/p/1564405684702550205"
+    },
+    {
+      "id": "1564405684708933257",
+      "store_id": "2052",
+      "like_code": "283609",
+      "department_id": [
+        "1496180"
+      ],
+      "price": "₱569.00",
+      "unit_price": 569.0,
+      "popularity": 999999,
+      "upc": "72474200763",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00724742007638",
+      "reference_ids": [
+        "00724742007638"
+      ],
+      "name": "Alba Acnedote Deep Clean Astringent | 6oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708933257/a35a9d56df211db9348cb36b061bdc5e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00724742007638",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/facial_care/alba_acnedote_deep_clean_astringent_6oz/p/1564405684708933257"
+    },
+    {
+      "id": "1764405684714937710",
+      "store_id": "2052",
+      "like_code": "430260",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 8805,
+      "upc": "480006713725",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137253",
+      "reference_ids": [
+        "04800067137253"
+      ],
+      "name": "Albatross Aire Car Clip Floral Bouquet | 3.3ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714937710/ecdd521fa3dba305d2c52e123d9f754d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137253",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_aire_car_clip_floral_bouquet_3_3ml/p/1764405684714937710"
+    },
+    {
+      "id": "1764405684714937714",
+      "store_id": "2052",
+      "like_code": "430261",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 9003,
+      "upc": "480006713727",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137277",
+      "reference_ids": [
+        "04800067137277"
+      ],
+      "name": "Albatross Aire Car Clip Lavender | 3.3ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714937714/eb24ce27154ab1767cbcc890cfbb448c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137277",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_aire_car_clip_lavender_3_3ml/p/1764405684714937714"
+    },
+    {
+      "id": "1764405684714937716",
+      "store_id": "2052",
+      "like_code": "430259",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 10249,
+      "upc": "480006713723",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137239",
+      "reference_ids": [
+        "04800067137239"
+      ],
+      "name": "Albatross Aire Car Clip Sweet Orange | 3.3ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714937716/d519a2f2666825fd0b0e801a96a6c3af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137239",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_aire_car_clip_sweet_orange_3_3ml/p/1764405684714937716"
+    },
+    {
+      "id": "1564405684702537202",
+      "store_id": "2052",
+      "like_code": "33126",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 1262,
+      "upc": "480006760033",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600337",
+      "reference_ids": [
+        "04800067600337"
+      ],
+      "name": "Albatross Deodorizer Paradichlorobenzene (Apple) | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537202/883b10a3e241852eb04a83dc7b7462ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_deodorizer_paradichlorobenzene_apple_100g/p/1564405684702537202"
+    },
+    {
+      "id": "1564405684702537200",
+      "store_id": "2052",
+      "like_code": "33124",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 899,
+      "upc": "480006760013",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600139",
+      "reference_ids": [
+        "04800067600139"
+      ],
+      "name": "Albatross Deodorizer Paradichlorobenzene (Apple) | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537200/69750693cf9cc1a8196877b5497aaabf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600139",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_deodorizer_paradichlorobenzene_apple_50g/p/1564405684702537200"
+    },
+    {
+      "id": "1564405684702537211",
+      "store_id": "2052",
+      "like_code": "33127",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 5509,
+      "upc": "480006760065",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600658",
+      "reference_ids": [
+        "04800067600658"
+      ],
+      "name": "Albatross Deodorizer Paradichlorobenzene With Holder (Apple) | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537211/2b330a42cdb5ae7eb587eddb3a41b0c0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600658",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_deodorizer_paradichlorobenzene_with_holder_apple_100g/p/1564405684702537211"
+    },
+    {
+      "id": "1564405684714084327",
+      "store_id": "2052",
+      "like_code": "383129",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 5581,
+      "upc": "480006713365",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067133651",
+      "reference_ids": [
+        "04800067133651"
+      ],
+      "name": "Albatross Disinfectant Spray Clean Breeze | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714084327/f90f61472a32e01feb9236a07581702b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067133651",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_disinfectant_spray_clean_breeze_300ml/p/1564405684714084327"
+    },
+    {
+      "id": "1564405684714084326",
+      "store_id": "2052",
+      "like_code": "383130",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 6980,
+      "upc": "1480006713367",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "14800067133672",
+      "reference_ids": [
+        "14800067133672",
+        "04800067133675"
+      ],
+      "name": "Albatross Disinfectant Spray Flower Festival | 300ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714084326/ca1a969b22432049ab583c12e23efdd0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "14800067133672",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_disinfectant_spray_flower_festival_300ml/p/1564405684714084326"
+    },
+    {
+      "id": "1564405684702537208",
+      "store_id": "2052",
+      "like_code": "21214",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 3885,
+      "upc": "480006760054",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600542",
+      "reference_ids": [
+        "04800067600542"
+      ],
+      "name": "Albatross Lemon Bathroom Deodorizer W/ Handle | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537208/6ac47dc7f1c55893e34011032fe2664e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600542",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_lemon_bathroom_deodorizer_w_handle_50g/p/1564405684702537208"
+    },
+    {
+      "id": "1764405684714954052",
+      "store_id": "2052",
+      "like_code": "430840",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 4487,
+      "upc": "480006713733",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137338",
+      "reference_ids": [
+        "04800067137338"
+      ],
+      "name": "Albatross Luxy Perfume Blocks Jasmine | 46g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714954052/e4552360d47bd4585c623cbfc9f0ff63",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3589098102633544308",
+          "reference_id": "tpr_2052_04800067137338_148_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714954052"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4487,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+          "similarity_priority": 5,
+          "name": "Albatross Luxy Perfume Blocks Jasmine | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3589098060807944304",
+          "reference_id": "ad_2052_04800067137338_1_148_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714954052"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2244,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "06b0ac5d1ebe585ec0752473b9ad2ddc",
+          "similarity_priority": 6,
+          "name": "Albatross Luxy Perfume Blocks Jasmine | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱148.50",
+      "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3589098102633544308",
+        "reference_id": "tpr_2052_04800067137338_148_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714954052"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4487,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634448"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+        "similarity_priority": 5,
+        "name": "Albatross Luxy Perfume Blocks Jasmine | 46g",
+        "sale_price": "₱148.50",
+        "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 148.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱148.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137338",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_luxy_perfume_blocks_jasmine_46g/p/1764405684714954052"
+    },
+    {
+      "id": "1764405684714954050",
+      "store_id": "2052",
+      "like_code": "430838",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 4470,
+      "upc": "480006713729",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137291",
+      "reference_ids": [
+        "04800067137291"
+      ],
+      "name": "Albatross Luxy Perfume Blocks Lavender | 46g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714954050/79e43f70be35e40604d09d612192ac7e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3589098100855159347",
+          "reference_id": "tpr_2052_04800067137291_148_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714954050"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4470,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+          "similarity_priority": 5,
+          "name": "Albatross Luxy Perfume Blocks Lavender | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3589098058492689383",
+          "reference_id": "ad_2052_04800067137291_1_148_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714954050"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2235,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "06b0ac5d1ebe585ec0752473b9ad2ddc",
+          "similarity_priority": 6,
+          "name": "Albatross Luxy Perfume Blocks Lavender | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱148.50",
+      "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3589098100855159347",
+        "reference_id": "tpr_2052_04800067137291_148_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714954050"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4470,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634448"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+        "similarity_priority": 5,
+        "name": "Albatross Luxy Perfume Blocks Lavender | 46g",
+        "sale_price": "₱148.50",
+        "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 148.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱148.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137291",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_luxy_perfume_blocks_lavender_46g/p/1764405684714954050"
+    },
+    {
+      "id": "1764405684714954048",
+      "store_id": "2052",
+      "like_code": "430839",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 5735,
+      "upc": "480006713731",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137314",
+      "reference_ids": [
+        "04800067137314"
+      ],
+      "name": "Albatross Luxy Perfume Blocks Lemon Mint | 46g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714954048/2c28fe92987ce90ccb5bad199c70006b",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3589098102348331624",
+          "reference_id": "tpr_2052_04800067137314_148_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714954048"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5735,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+          "similarity_priority": 5,
+          "name": "Albatross Luxy Perfume Blocks Lemon Mint | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3589098058501077992",
+          "reference_id": "ad_2052_04800067137314_1_148_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714954048"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2868,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "06b0ac5d1ebe585ec0752473b9ad2ddc",
+          "similarity_priority": 6,
+          "name": "Albatross Luxy Perfume Blocks Lemon Mint | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱148.50",
+      "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3589098102348331624",
+        "reference_id": "tpr_2052_04800067137314_148_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714954048"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5735,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634448",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+        "similarity_priority": 5,
+        "name": "Albatross Luxy Perfume Blocks Lemon Mint | 46g",
+        "sale_price": "₱148.50",
+        "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 148.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱148.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137314",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_luxy_perfume_blocks_lemon_mint_46g/p/1764405684714954048"
+    },
+    {
+      "id": "1764405684714954044",
+      "store_id": "2052",
+      "like_code": "430841",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 4573,
+      "upc": "480006713735",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137352",
+      "reference_ids": [
+        "04800067137352"
+      ],
+      "name": "Albatross Luxy Perfume Blocks Sporty | 46g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714954044/0f340ab14ffbbba1dc94b73a552ba3cd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137352",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_luxy_perfume_blocks_sporty_46g/p/1764405684714954044"
+    },
+    {
+      "id": "1764405684714954046",
+      "store_id": "2052",
+      "like_code": "430842",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 5087,
+      "upc": "480006713737",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067137376",
+      "reference_ids": [
+        "04800067137376"
+      ],
+      "name": "Albatross Luxy Perfume Blocks Strawberry | 46g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714954046/1adc2832d39fabcef60de62a9e3b2d32",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3589098106014153443",
+          "reference_id": "tpr_2052_04800067137376_148_5",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684714954046"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5087,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+          "similarity_priority": 5,
+          "name": "Albatross Luxy Perfume Blocks Strawberry | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3589098059943917616",
+          "reference_id": "ad_2052_04800067137376_1_148_5",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684714954046"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2544,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634448",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "06b0ac5d1ebe585ec0752473b9ad2ddc",
+          "similarity_priority": 6,
+          "name": "Albatross Luxy Perfume Blocks Strawberry | 46g",
+          "sale_price": "₱148.50",
+          "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱148.50",
+      "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3589098106014153443",
+        "reference_id": "tpr_2052_04800067137376_148_5",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684714954046"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5087,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634448",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "2298376929f8dc65e5b233f79814e6d5",
+        "similarity_priority": 5,
+        "name": "Albatross Luxy Perfume Blocks Strawberry | 46g",
+        "sale_price": "₱148.50",
+        "sale_price_md": "**₱148.50** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 148.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱148.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067137376",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/albatross_luxy_perfume_blocks_strawberry_46g/p/1764405684714954046"
+    },
+    {
+      "id": "1564405684702537229",
+      "store_id": "2052",
+      "like_code": "106054",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 858,
+      "upc": "480006760811",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067608111",
+      "reference_ids": [
+        "04800067608111"
+      ],
+      "name": "Albatross Melon Bathroom Deodorizer Refill | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537229/e67701550d7a33f92e85229f08cc1a4a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067608111",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_melon_bathroom_deodorizer_refill_100g/p/1564405684702537229"
+    },
+    {
+      "id": "1564405684702537227",
+      "store_id": "2052",
+      "like_code": "105882",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 1198,
+      "upc": "480006760803",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067608036",
+      "reference_ids": [
+        "04800067608036"
+      ],
+      "name": "Albatross Melon Bathroom Deodorizer Refill | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537227/8f2e1a3f4c636b56d6f9e6371cecf56f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067608036",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_melon_bathroom_deodorizer_refill_50g/p/1564405684702537227"
+    },
+    {
+      "id": "1564405684702537214",
+      "store_id": "2052",
+      "like_code": "21282",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 3923,
+      "upc": "480006760070",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600702",
+      "reference_ids": [
+        "04800067600702"
+      ],
+      "name": "Albatross Round Lemon Bathroom Deodorizer | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537214/571711c0be86b9756ae91b7ae0a5bf3c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600702",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_round_lemon_bathroom_deodorizer_100g/p/1564405684702537214"
+    },
+    {
+      "id": "1564405684702537213",
+      "store_id": "2052",
+      "like_code": "21286",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 3891,
+      "upc": "480006760074",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600740",
+      "reference_ids": [
+        "04800067600740"
+      ],
+      "name": "Albatross Round Sampaguita Deodorizer | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537213/989583b31d18733cbb6c01f274fd4372",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600740",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_round_sampaguita_deodorizer_100g/p/1564405684702537213"
+    },
+    {
+      "id": "1564405684710495942",
+      "store_id": "2052",
+      "like_code": "276155",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 5166,
+      "upc": "480006712073",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120736",
+      "reference_ids": [
+        "04800067120736"
+      ],
+      "name": "Albatross Scent Gel Apple | 180G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710495942/796748fef8906df4ff65c0f2ac53d2ec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067120736",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_scent_gel_apple_180_g/p/1564405684710495942"
+    },
+    {
+      "id": "1564405684710495940",
+      "store_id": "2052",
+      "like_code": "276156",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 4784,
+      "upc": "480006712075",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120750",
+      "reference_ids": [
+        "04800067120750"
+      ],
+      "name": "Albatross Scent Gel Lavender | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684710495940/96839421ad25cfcacfb0ccf40a61d7f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067120750",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 36",
+        "sequence": 36,
+        "identifier": "96991198-8fb3-46d8-9b76-640e756c3130",
+        "id": "22356799"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_scent_gel_lavender_180g/p/1564405684710495940"
+    },
+    {
+      "id": "1564405684710495941",
+      "store_id": "2052",
+      "like_code": "276157",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 4942,
+      "upc": "480006712077",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067120774",
+      "reference_ids": [
+        "04800067120774"
+      ],
+      "name": "Albatross Scent Gel Tropical Fruits | 180G",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710495941/dcf28219f9b1346d8c84f97f29dd70be",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067120774",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_scent_gel_tropical_fruits_180_g/p/1564405684710495941"
+    },
+    {
+      "id": "1564405684702537203",
+      "store_id": "2052",
+      "like_code": "21248",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 1138,
+      "upc": "480006760038",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600382",
+      "reference_ids": [
+        "04800067600382"
+      ],
+      "name": "Albatross Single Lemon Bathroom Deodorizer | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537203/63d0c95ea70ab0746f4a38ccc5f467ff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600382",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_single_lemon_bathroom_deodorizer_100g/p/1564405684702537203"
+    },
+    {
+      "id": "1564405684702537198",
+      "store_id": "2052",
+      "like_code": "21170",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 1422,
+      "upc": "480006760010",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600108",
+      "reference_ids": [
+        "04800067600108"
+      ],
+      "name": "Albatross Single Lemon Bathroom Deodorizer | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537198/c741ae0aad5f11d8c71f2716bc99e327",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_single_lemon_bathroom_deodorizer_50g/p/1564405684702537198"
+    },
+    {
+      "id": "1564405684702537206",
+      "store_id": "2052",
+      "like_code": "21253",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 1411,
+      "upc": "480006760040",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600405",
+      "reference_ids": [
+        "04800067600405"
+      ],
+      "name": "Albatross Single Sampaguita Deodorizer | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537206/89bd097a760150169e0a9094dfdcdb36",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600405",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_single_sampaguita_deodorizer_100g/p/1564405684702537206"
+    },
+    {
+      "id": "1564405684702537201",
+      "store_id": "2052",
+      "like_code": "21176",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 1436,
+      "upc": "480006760028",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600283",
+      "reference_ids": [
+        "04800067600283"
+      ],
+      "name": "Albatross Single Sampaguita Deodorizer | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537201/42e93412c68bfa3a2704337fbb6e9d1a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600283",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_single_sampaguita_deodorizer_50g/p/1564405684702537201"
+    },
+    {
+      "id": "1564405684702537207",
+      "store_id": "2052",
+      "like_code": "21244",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 1031,
+      "upc": "480006760044",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600443",
+      "reference_ids": [
+        "04800067600443"
+      ],
+      "name": "Albatross Single Strawberry Deodorizer | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537207/0475ea7cec86448e69c54d25fff58b2c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600443",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_single_strawberry_deodorizer_100g/p/1564405684702537207"
+    },
+    {
+      "id": "1564405684702537199",
+      "store_id": "2052",
+      "like_code": "21164",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱37.50",
+      "unit_price": 37.5,
+      "popularity": 819,
+      "upc": "480006760006",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800067600061",
+      "reference_ids": [
+        "04800067600061"
+      ],
+      "name": "Albatross Single Strawberry Deodorizer | 50g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702537199/e9485f1c488eb1c7dd5de5c96dbf6c22",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800067600061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/albatross_single_strawberry_deodorizer_50g/p/1564405684702537199"
+    },
+    {
+      "id": "1564405684708942379",
+      "store_id": "2052",
+      "like_code": "338661",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱190.00",
+      "unit_price": 190.0,
+      "popularity": 5197,
+      "upc": "480651516257",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515162570",
+      "reference_ids": [
+        "04806515162570"
+      ],
+      "name": "AlcoPlus Ethyl Alcohol 70% Solution | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708942379/ef688abfcdfcbaca1b36780ac46a0481",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515162570",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/alco_plus_ethyl_alcohol_70_solution_1_l/p/1564405684708942379"
+    },
+    {
+      "id": "1564405684706983313",
+      "store_id": "2052",
+      "like_code": "336683",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱82.00",
+      "unit_price": 82.0,
+      "popularity": 1155,
+      "upc": "480651516082",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160828",
+      "reference_ids": [
+        "04806515160828"
+      ],
+      "name": "AlcoPlus Ethyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706983313/72e0957042b17bf1617e6c72da297a46",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160828",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/alco_plus_ethyl_alcohol_70_solution_500ml/p/1564405684706983313"
+    },
+    {
+      "id": "1564405684711074038",
+      "store_id": "2052",
+      "like_code": "292987",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 4535,
+      "upc": "480651516136",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515161368",
+      "reference_ids": [
+        "04806515161368"
+      ],
+      "name": "AlcoPlus Ethyl Alcohol 70% Solution Spray | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711074038/142b724a7e851a9c40f9c56ebe9961c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515161368",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/alco_plus_ethyl_alcohol_70_solution_spray_330ml/p/1564405684711074038"
+    },
+    {
+      "id": "1564405684707698472",
+      "store_id": "2052",
+      "like_code": "338036",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱195.00",
+      "unit_price": 195.0,
+      "popularity": 9024,
+      "upc": "480651516256",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515162563",
+      "reference_ids": [
+        "04806515162563",
+        "00480651516256"
+      ],
+      "name": "AlcoPlus Isopropyl Alcohol 70% Solution | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707698472/d5bcccb9dcbc500968a18427db59fc83",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515162563",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/alco_plus_isopropyl_alcohol_70_solution_1_l/p/1564405684707698472"
+    },
+    {
+      "id": "1564405684702548219",
+      "store_id": "2052",
+      "like_code": "258895",
+      "department_id": [
+        "1496183"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 3805,
+      "upc": "480651516084",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160842",
+      "reference_ids": [
+        "04806515160842"
+      ],
+      "name": "AlcoPlus Isopropyl Alcohol 70% Solution | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702548219/d1a916cf369b75981cefed4db4617e46",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160842",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/medicine_health_aids/alco_plus_isopropyl_alcohol_70_solution_250ml/p/1564405684702548219"
+    },
+    {
+      "id": "1564405684706983312",
+      "store_id": "2052",
+      "like_code": "336688",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱92.50",
+      "unit_price": 92.5,
+      "popularity": 1398,
+      "upc": "480651516079",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515160798",
+      "reference_ids": [
+        "04806515160798"
+      ],
+      "name": "AlcoPlus Isopropyl Alcohol 70% Solution | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706983312/e1063d3174d252427a26739ca17e9178",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515160798",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 8",
+        "sequence": 8,
+        "identifier": "041069a2-32da-4531-a557-630f2eb24a8e",
+        "id": "22356771"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/alco_plus_isopropyl_alcohol_70_solution_500ml/p/1564405684706983312"
+    },
+    {
+      "id": "1564405684711074037",
+      "store_id": "2052",
+      "like_code": "292985",
+      "department_id": [
+        "22459223"
+      ],
+      "price": "₱84.00",
+      "unit_price": 84.0,
+      "popularity": 4641,
+      "upc": "480651516135",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806515161351",
+      "reference_ids": [
+        "04806515161351"
+      ],
+      "name": "AlcoPlus Isopropyl Alcohol 70% Solution Spray | 330ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711074037/a22047fb7d3c10e741e05f40f1989428",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806515161351",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/alcohol/alco_plus_isopropyl_alcohol_70_solution_spray_330ml/p/1564405684711074037"
+    },
+    {
+      "id": "1564405684702549983",
+      "store_id": "2052",
+      "like_code": "229149",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 999999,
+      "upc": "480652841880",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806528418800",
+      "reference_ids": [
+        "04806528418800"
+      ],
+      "name": "Alexandra Tube Ice | 5kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702549983/10a0e637db53822efb24891631f6afdc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806528418800",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/alexandra_tube_ice_5kg/p/1564405684702549983"
+    },
+    {
+      "id": "1564405684702556589",
+      "store_id": "2052",
+      "like_code": "249864",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱649.00",
+      "unit_price": 649.0,
+      "popularity": 6156,
+      "upc": "841002890116",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028901166",
+      "reference_ids": [
+        "08410028901166"
+      ],
+      "name": "Alfonso Brandy Light | 1.75L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556589/738a48991fd5aeecfa33c2660e4718af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028901166",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_brandy_light_1_75_l/p/1564405684702556589"
+    },
+    {
+      "id": "1564405684702504751",
+      "store_id": "2052",
+      "like_code": "174713",
+      "department_id": [
+        "1496194"
+      ],
+      "price": "₱310.00",
+      "unit_price": 310.0,
+      "popularity": 1750,
+      "upc": "841002890009",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028900091",
+      "reference_ids": [
+        "08410028900091"
+      ],
+      "name": "Alfonso Brandy Light | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00841002890091/56c85c2e67cabc9939a862481b6cdf34",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3600692603617556752",
+          "reference_id": "tpr_2052_08410028900091_300_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702504751"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1349,
+          "product_tag_ids": [
+            "1496194",
+            "22356782",
+            "22475760",
+            "22668430",
+            "22919042",
+            "23087580",
+            "23087592"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4427feb8543ebe83300b598c46ca8b1a",
+          "similarity_priority": 5,
+          "name": "Alfonso Brandy Light | 1L",
+          "sale_price": "₱300.00",
+          "sale_price_md": "**₱300.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3600693099946326099",
+          "reference_id": "ad_2052_08410028900091_1_300_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702504751"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 675,
+          "product_tag_ids": [
+            "1496194",
+            "22356782",
+            "22475760",
+            "22668430",
+            "22919042",
+            "23087580",
+            "23087592"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d9ccd4455e805aea0e9f0561fa157753",
+          "similarity_priority": 6,
+          "name": "Alfonso Brandy Light | 1L",
+          "sale_price": "₱300.00",
+          "sale_price_md": "**₱300.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱300.00",
+      "sale_price_md": "**₱300.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3600692603617556752",
+        "reference_id": "tpr_2052_08410028900091_300_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702504751"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1349,
+        "product_tag_ids": [
+          "1496194",
+          "22356782",
+          "22475760",
+          "22668430",
+          "22919042",
+          "23087580",
+          "23087592"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4427feb8543ebe83300b598c46ca8b1a",
+        "similarity_priority": 5,
+        "name": "Alfonso Brandy Light | 1L",
+        "sale_price": "₱300.00",
+        "sale_price_md": "**₱300.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 300.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱300.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028900091",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/alfonso_brandy_light_1_l/p/1564405684702504751"
+    },
+    {
+      "id": "1564405684702504750",
+      "store_id": "2052",
+      "like_code": "174712",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱269.50",
+      "unit_price": 269.5,
+      "popularity": 6168,
+      "upc": "841002890007",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028900077",
+      "reference_ids": [
+        "08410028900077"
+      ],
+      "name": "Alfonso Brandy Light | 700ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504750/206555c81508625c00e4edce396b0f20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08410028900077",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_brandy_light_700ml/p/1564405684702504750"
+    },
+    {
+      "id": "1564405684702556587",
+      "store_id": "2052",
+      "like_code": "243080",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱375.00",
+      "unit_price": 375.0,
+      "popularity": 7589,
+      "upc": "480651727179",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04806517271799",
+      "reference_ids": [
+        "04806517271799",
+        "08410028901210"
+      ],
+      "name": "Alfonso Brandy Platinum | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556587/67162e5eb31d7e0bc59089e7d1f0ab73",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3719557089694071064",
+          "reference_id": "tpr_2052_04806517271799_360_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702556587"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 7589,
+          "product_tag_ids": [
+            "1496197",
+            "22356782",
+            "22475760",
+            "22668430",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d59c438b9036439e0ba2af0e423207ca",
+          "similarity_priority": 5,
+          "name": "Alfonso Brandy Platinum | 1L",
+          "sale_price": "₱360.00",
+          "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3719557672098347032",
+          "reference_id": "ad_2052_04806517271799_1_360_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702556587"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3795,
+          "product_tag_ids": [
+            "1496197",
+            "22356782",
+            "22475760",
+            "22668430",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "83ec16e4e9a97b31358ebd65a2fd2372",
+          "similarity_priority": 6,
+          "name": "Alfonso Brandy Platinum | 1L",
+          "sale_price": "₱360.00",
+          "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱360.00",
+      "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3719557089694071064",
+        "reference_id": "tpr_2052_04806517271799_360_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702556587"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 7589,
+        "product_tag_ids": [
+          "1496197",
+          "22356782",
+          "22475760",
+          "22668430",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "d59c438b9036439e0ba2af0e423207ca",
+        "similarity_priority": 5,
+        "name": "Alfonso Brandy Platinum | 1L",
+        "sale_price": "₱360.00",
+        "sale_price_md": "**₱360.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 360.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱360.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806517271799",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_brandy_platinum_1_l/p/1564405684702556587"
+    },
+    {
+      "id": "1564405684702556584",
+      "store_id": "2052",
+      "like_code": "174710",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱492.00",
+      "unit_price": 492.0,
+      "popularity": 999999,
+      "upc": "841002822510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028225101",
+      "reference_ids": [
+        "08410028225101"
+      ],
+      "name": "Alfonso Brandy Solera | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556584/1ea46f6ad5a4a256f2be2088b133bb18",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410028225101",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_brandy_solera_1_l/p/1564405684702556584"
+    },
+    {
+      "id": "1564405684704610592",
+      "store_id": "2052",
+      "like_code": "272431",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱745.00",
+      "unit_price": 745.0,
+      "popularity": 999999,
+      "upc": "841002822110",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410028221103",
+      "reference_ids": [
+        "08410028221103"
+      ],
+      "name": "Alfonso Brandy Solera Reserva Xiii | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704610592/48da942d2864b4ddee7a10af7cf038f1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410028221103",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/alfonso_brandy_solera_reserva_xiii_1_l/p/1564405684704610592"
+    }
+  ]
+}

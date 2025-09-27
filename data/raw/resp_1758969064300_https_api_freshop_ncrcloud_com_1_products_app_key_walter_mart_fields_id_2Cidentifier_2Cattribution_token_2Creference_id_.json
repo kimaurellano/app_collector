@@ -1,0 +1,2334 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684714514439",
+      "store_id": "2052",
+      "like_code": "389998",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱215.00",
+      "unit_price": 215.0,
+      "popularity": 999999,
+      "upc": "480051700356",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517003565",
+      "reference_ids": [
+        "04800517003565"
+      ],
+      "name": "Bounty Fresh Cut-ups Chicken Leg Quarter | 860-900g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714514439/a94d622ab17fa2821b43e01d40a65e7a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517003565",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_leg_quarter_860_900g/p/1564405684714514439"
+    },
+    {
+      "id": "1564405684714514443",
+      "store_id": "2052",
+      "like_code": "389999",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 999999,
+      "upc": "480051700357",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517003572",
+      "reference_ids": [
+        "04800517003572"
+      ],
+      "name": "Bounty Fresh Cut-ups Chicken Thigh | 860-900g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714514443/6ff109c3b940fda777c016eeb1eb716d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517003572",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_thigh_860_900g/p/1564405684714514443"
+    },
+    {
+      "id": "1564405684714438215",
+      "store_id": "2052",
+      "like_code": "389328",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱166.00",
+      "unit_price": 166.0,
+      "popularity": 999999,
+      "upc": "480051700427",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004272",
+      "reference_ids": [
+        "04800517004272"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Thigh Fillet | 450-500g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04800517004272",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_thigh_fillet_450_500g/p/1564405684714438215"
+    },
+    {
+      "id": "1564405684714514442",
+      "store_id": "2052",
+      "like_code": "390000",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱301.00",
+      "unit_price": 301.0,
+      "popularity": 999999,
+      "upc": "480051700360",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517003602",
+      "reference_ids": [
+        "04800517003602"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Thigh Fillet | 860-900g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714514442/6f1835d64cfcef0a2ec93ff8010acfea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517003602",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_thigh_fillet_860_900g/p/1564405684714514442"
+    },
+    {
+      "id": "1564405684714438213",
+      "store_id": "2052",
+      "like_code": "389326",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱128.00",
+      "unit_price": 128.0,
+      "popularity": 999999,
+      "upc": "480051700423",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004234",
+      "reference_ids": [
+        "04800517004234"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Wings | 450-500g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438213/d1246ee08d46708f7b7f44642a19de4c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517004234",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_wings_450_500g/p/1564405684714438213"
+    },
+    {
+      "id": "1564405684714514444",
+      "store_id": "2052",
+      "like_code": "390001",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱219.00",
+      "unit_price": 219.0,
+      "popularity": 999999,
+      "upc": "480051700358",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517003589",
+      "reference_ids": [
+        "04800517003589"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Wings | 860-900g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714514444/03121562a84051676832b2ca1e5ddbf6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517003589",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_wings_860_900g/p/1564405684714514444"
+    },
+    {
+      "id": "1564405684702541536",
+      "store_id": "2052",
+      "like_code": "138714",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 99999,
+      "upc": "480051430003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514300032",
+      "reference_ids": [
+        "04800514300032"
+      ],
+      "name": "Bounty Fresh Eggs - Large | 30pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541536/e288eaa396a4e6fc1d7fddebc6db21e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514300032",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_eggs_large_30pcs/p/1564405684702541536"
+    },
+    {
+      "id": "1564405684702541533",
+      "store_id": "2052",
+      "like_code": "138713",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 3174,
+      "upc": "480051430002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514300025",
+      "reference_ids": [
+        "04800514300025"
+      ],
+      "name": "Bounty Fresh Eggs -  Medium | 30pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541533/493906e5a0e529aacec6b0fc8f62877a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514300025",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_eggs_medium_30pcs/p/1564405684702541533"
+    },
+    {
+      "id": "1564405684714438217",
+      "store_id": "2052",
+      "like_code": "389329",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱201.00",
+      "unit_price": 201.0,
+      "popularity": 3272,
+      "upc": "480051700483",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004838",
+      "reference_ids": [
+        "04800517004838"
+      ],
+      "name": "Bounty Fresh Everyday Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438217/ff147c21e7bcf2d97ad30c898ad15da3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517004838",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_everyday_chicken_pc/p/1564405684714438217"
+    },
+    {
+      "id": "1564405684702532762",
+      "store_id": "2052",
+      "like_code": "268100",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱201.00",
+      "unit_price": 201.0,
+      "popularity": 3631,
+      "quantity_minimum": 0.5,
+      "upc": "200002681008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000026810087",
+      "reference_ids": [
+        "02000026810087"
+      ],
+      "name": "Bounty Fresh Everyday Whole Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702532762/bfb3d8646b1e8ea8e9698ee38cb0c1e0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000026810087",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_fresh_everyday_whole_chicken_pc/p/1564405684702532762"
+    },
+    {
+      "id": "1564405684714544896",
+      "store_id": "2052",
+      "like_code": "391485",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱226.00",
+      "unit_price": 226.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "39148",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000391485",
+      "reference_ids": [
+        "00000000391485"
+      ],
+      "name": "Bounty Fresh Family Feast Chicken | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714544896/1dd06d7e6ce16364ca51ce83e82f6fad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000391485",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_family_feast_chicken_kg/p/1564405684714544896"
+    },
+    {
+      "id": "1564405684714438218",
+      "store_id": "2052",
+      "like_code": "389318",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱270.00",
+      "unit_price": 270.0,
+      "popularity": 3270,
+      "upc": "480051700514",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005149",
+      "reference_ids": [
+        "04800517005149"
+      ],
+      "name": "Bounty Fresh Free Range Prime Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438218/440c0af468724d0b33cfec5927eb1dfd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517005149",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_free_range_prime_chicken_pc/p/1564405684714438218"
+    },
+    {
+      "id": "1564405684702541534",
+      "store_id": "2052",
+      "like_code": "163317",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱198.00",
+      "unit_price": 198.0,
+      "popularity": 2936,
+      "upc": "480051410616",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514106160",
+      "reference_ids": [
+        "04800514106160"
+      ],
+      "name": "Bounty Fresh Free Range Specialty Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541534/b36cf328077121df65f09731c454882c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514106160",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_free_range_specialty_eggs_10s/p/1564405684702541534"
+    },
+    {
+      "id": "1564405684714438220",
+      "store_id": "2052",
+      "like_code": "389321",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 999999,
+      "upc": "480051700515",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005156",
+      "reference_ids": [
+        "04800517005156"
+      ],
+      "name": "Bounty Fresh Free Range Super Size Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438220/e7a459d084f72096e4f1751c4e8466f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517005156",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_free_range_super_size_chicken_pc/p/1564405684714438220"
+    },
+    {
+      "id": "1564405684702541532",
+      "store_id": "2052",
+      "like_code": "161396",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱123.00",
+      "unit_price": 123.0,
+      "popularity": 3450,
+      "upc": "480051412405",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514124058",
+      "reference_ids": [
+        "04800514124058"
+      ],
+      "name": "Bounty Fresh Jumbo Premium Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541532/8a5bf573bc1bbc8bb327cdb51d6d98c0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514124058",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_jumbo_premium_eggs_10s/p/1564405684702541532"
+    },
+    {
+      "id": "1564405684702541540",
+      "store_id": "2052",
+      "like_code": "138712",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱132.00",
+      "unit_price": 132.0,
+      "popularity": 99999,
+      "upc": "480051471888",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514718882",
+      "reference_ids": [
+        "04800514718882"
+      ],
+      "name": "Bounty Fresh Large Premium Eggs | 12s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541540/73acca4cdcbe9b1bfde1c6344e6087b8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514718882",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_large_premium_eggs_12s/p/1564405684702541540"
+    },
+    {
+      "id": "1564405684714500144",
+      "store_id": "2052",
+      "like_code": "389582",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 999999,
+      "upc": "480051700522",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005224",
+      "reference_ids": [
+        "04800517005224",
+        "02000038958289"
+      ],
+      "name": "Bounty Fresh Lemon Roast Gourmet Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714500144/d44f44dbf43f6e79ff96f444ab414226",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3726806401675180406",
+          "reference_id": "tpr_2052_04800517005224_185_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684714500144"
+          ],
+          "start_date": "2025-09-22T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 999999,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634586"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "07f9f7700c27d369679284ac11f4129f",
+          "similarity_priority": 5,
+          "name": "Bounty Fresh Lemon Roast Gourmet Chicken | pc",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+          "display_start_date": "2025-09-22",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3726806333366745342",
+          "reference_id": "ad_2052_04800517005224_1_185_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684714500144"
+          ],
+          "start_date": "2025-09-22T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634586"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "0982917850cf93163c04b7d5f2135208",
+          "similarity_priority": 6,
+          "name": "Bounty Fresh Lemon Roast Gourmet Chicken | pc",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+          "display_start_date": "2025-09-22",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-22",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱185.00",
+      "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3726806401675180406",
+        "reference_id": "tpr_2052_04800517005224_185_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684714500144"
+        ],
+        "start_date": "2025-09-22T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 999999,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634586"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "07f9f7700c27d369679284ac11f4129f",
+        "similarity_priority": 5,
+        "name": "Bounty Fresh Lemon Roast Gourmet Chicken | pc",
+        "sale_price": "₱185.00",
+        "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+        "display_start_date": "2025-09-22",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 185.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱185.00 ",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517005224",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_lemon_roast_gourmet_chicken_pc/p/1564405684714500144"
+    },
+    {
+      "id": "1564405684702541538",
+      "store_id": "2052",
+      "like_code": "138711",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱128.00",
+      "unit_price": 128.0,
+      "popularity": 99999,
+      "upc": "480051471886",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514718868",
+      "reference_ids": [
+        "04800514718868"
+      ],
+      "name": "Bounty Fresh Medium Premium Eggs | 12s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541538/fa4dfeedc2f0090196ecd57ba65410e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514718868",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_medium_premium_eggs_12s/p/1564405684702541538"
+    },
+    {
+      "id": "1564405684710364909",
+      "store_id": "2052",
+      "like_code": "344122",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱119.00",
+      "unit_price": 119.0,
+      "popularity": 4283,
+      "upc": "480051700474",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004746",
+      "reference_ids": [
+        "04800517004746"
+      ],
+      "name": "Bounty Fresh Nuggets Chicken Popcorn | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710364909/a486555dc6b16a8526607f1db4236113",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517004746",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/bounty_fresh_nuggets_chicken_popcorn_200g/p/1564405684710364909"
+    },
+    {
+      "id": "1564405684702541530",
+      "store_id": "2052",
+      "like_code": "138715",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱127.00",
+      "unit_price": 127.0,
+      "popularity": 9999,
+      "upc": "480051410404",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514104043",
+      "reference_ids": [
+        "04800514104043"
+      ],
+      "name": "Bounty Fresh Nutri-Filled Specialty Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541530/082fa47b24235d09546ba2a6446c2f66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514104043",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_nutri_filled_specialty_eggs_10s/p/1564405684702541530"
+    },
+    {
+      "id": "1564405684702541528",
+      "store_id": "2052",
+      "like_code": "138716",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱127.00",
+      "unit_price": 127.0,
+      "popularity": 3089,
+      "upc": "480051410403",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514104036",
+      "reference_ids": [
+        "04800514104036"
+      ],
+      "name": "Bounty Fresh Omega-3 Enriched Specialty Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541528/d79a38901ba5acb96162ac0e871f77a8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514104036",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_omega_3_enriched_specialty_eggs_10s/p/1564405684702541528"
+    },
+    {
+      "id": "1564405684702541527",
+      "store_id": "2052",
+      "like_code": "138718",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱127.00",
+      "unit_price": 127.0,
+      "popularity": 3085,
+      "upc": "480051410401",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514104012",
+      "reference_ids": [
+        "04800514104012"
+      ],
+      "name": "Bounty Fresh Organic Selenium Enriched Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541527/e27f6c22895b0a724ffdd3fed321915b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514104012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_organic_selenium_enriched_eggs_10s/p/1564405684702541527"
+    },
+    {
+      "id": "1564405684714500146",
+      "store_id": "2052",
+      "like_code": "389580",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 3158,
+      "upc": "480051700521",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005217",
+      "reference_ids": [
+        "04800517005217",
+        "02000038958081"
+      ],
+      "name": "Bounty Fresh Spicy Gourmet Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714500146/0114181b7476252c21ad0432e5cb6470",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3502127596726926333",
+          "reference_id": "tpr_2052_04800517005217_185_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684714500146"
+          ],
+          "start_date": "2025-09-22T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3158,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634586"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07f9f7700c27d369679284ac11f4129f",
+          "similarity_priority": 5,
+          "name": "Bounty Fresh Spicy Gourmet Chicken | pc",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+          "display_start_date": "2025-09-22",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3502128153109740193",
+          "reference_id": "ad_2052_04800517005217_1_185_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684714500146"
+          ],
+          "start_date": "2025-09-22T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1579,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634586"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0982917850cf93163c04b7d5f2135208",
+          "similarity_priority": 6,
+          "name": "Bounty Fresh Spicy Gourmet Chicken | pc",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+          "display_start_date": "2025-09-22",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-22",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱185.00",
+      "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3502127596726926333",
+        "reference_id": "tpr_2052_04800517005217_185_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684714500146"
+        ],
+        "start_date": "2025-09-22T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3158,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634586"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07f9f7700c27d369679284ac11f4129f",
+        "similarity_priority": 5,
+        "name": "Bounty Fresh Spicy Gourmet Chicken | pc",
+        "sale_price": "₱185.00",
+        "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+        "display_start_date": "2025-09-22",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 185.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱185.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517005217",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_spicy_gourmet_chicken_pc/p/1564405684714500146"
+    },
+    {
+      "id": "1564405684714500143",
+      "store_id": "2052",
+      "like_code": "389581",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱210.00",
+      "unit_price": 210.0,
+      "popularity": 3170,
+      "upc": "480051700523",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005231",
+      "reference_ids": [
+        "04800517005231",
+        "02000038958180"
+      ],
+      "name": "Bounty Fresh Sweet Roast Gourmet Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714500143/e8f020e736044cbe9382cca3760f4169",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3502127599017015302",
+          "reference_id": "tpr_2052_04800517005231_185_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684714500143"
+          ],
+          "start_date": "2025-09-22T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3170,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634586"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07f9f7700c27d369679284ac11f4129f",
+          "similarity_priority": 5,
+          "name": "Bounty Fresh Sweet Roast Gourmet Chicken | pc",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+          "display_start_date": "2025-09-22",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3502128153722108582",
+          "reference_id": "ad_2052_04800517005231_1_185_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684714500143"
+          ],
+          "start_date": "2025-09-22T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1585,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22474153",
+            "22475760",
+            "22634586"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0982917850cf93163c04b7d5f2135208",
+          "similarity_priority": 6,
+          "name": "Bounty Fresh Sweet Roast Gourmet Chicken | pc",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+          "display_start_date": "2025-09-22",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-22",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱185.00",
+      "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3502127599017015302",
+        "reference_id": "tpr_2052_04800517005231_185_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684714500143"
+        ],
+        "start_date": "2025-09-22T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3170,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22474153",
+          "22475760",
+          "22634586"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07f9f7700c27d369679284ac11f4129f",
+        "similarity_priority": 5,
+        "name": "Bounty Fresh Sweet Roast Gourmet Chicken | pc",
+        "sale_price": "₱185.00",
+        "sale_price_md": "**₱185.00** (09/22/25 - 09/30/25)",
+        "display_start_date": "2025-09-22",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 185.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱185.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517005231",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_sweet_roast_gourmet_chicken_pc/p/1564405684714500143"
+    },
+    {
+      "id": "1564405684710364906",
+      "store_id": "2052",
+      "like_code": "344120",
+      "department_id": [
+        "22459243"
+      ],
+      "price": "₱279.00",
+      "unit_price": 279.0,
+      "popularity": 999999,
+      "upc": "480051700434",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004340",
+      "reference_ids": [
+        "04800517004340"
+      ],
+      "name": "Bounty Fresh Top Torikatsu Cheese & Chives | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710364906/41fac4102b4bafe5d31be291580f3207",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517004340",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meals/bounty_fresh_top_torikatsu_cheese_chives_450g/p/1564405684710364906"
+    },
+    {
+      "id": "1564405684702541529",
+      "store_id": "2052",
+      "like_code": "138717",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱127.00",
+      "unit_price": 127.0,
+      "popularity": 3086,
+      "upc": "480051410402",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514104029",
+      "reference_ids": [
+        "04800514104029"
+      ],
+      "name": "Bounty Fresh Vitamin E Enriched Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541529/cf1cbd4ed4d26ef39104c32f3f177453",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514104029",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_vitamin_e_enriched_eggs_10s/p/1564405684702541529"
+    },
+    {
+      "id": "1564405684714438219",
+      "store_id": "2052",
+      "like_code": "389319",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱226.00",
+      "unit_price": 226.0,
+      "popularity": 3703,
+      "upc": "480051700518",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005187",
+      "reference_ids": [
+        "04800517005187"
+      ],
+      "name": "Bounty Fresh Young and Tender Prime Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438219/5caf24c510495435e54e1c298277d040",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517005187",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_young_and_tender_prime_chicken_pc/p/1564405684714438219"
+    },
+    {
+      "id": "1564405684714438221",
+      "store_id": "2052",
+      "like_code": "389320",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱255.00",
+      "unit_price": 255.0,
+      "popularity": 999999,
+      "upc": "480051700519",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005194",
+      "reference_ids": [
+        "04800517005194"
+      ],
+      "name": "Bounty Fresh Young and Tender Super Size Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438221/63e822f10b77abfdef74eaba1e41c569",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517005194",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_young_and_tender_super_size_chicken_pc/p/1564405684714438221"
+    },
+    {
+      "id": "1564405684710364911",
+      "store_id": "2052",
+      "like_code": "344121",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱119.00",
+      "unit_price": 119.0,
+      "popularity": 4169,
+      "upc": "480051700475",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004753",
+      "reference_ids": [
+        "04800517004753"
+      ],
+      "name": "Bounty Nuggets Chicken Sticks | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710364911/1766a50ac5b5e2d27cd5ff2f053834a3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517004753",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_nuggets_chicken_sticks_200g/p/1564405684710364911"
+    },
+    {
+      "id": "1564405684710364910",
+      "store_id": "2052",
+      "like_code": "344123",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱279.00",
+      "unit_price": 279.0,
+      "popularity": 6156,
+      "upc": "480051700477",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004777",
+      "reference_ids": [
+        "04800517004777"
+      ],
+      "name": "Bounty Torikatsu Sweet and Sour | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710364910/e81d41695aeeb2b66baeb2410da6ed0c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517004777",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_torikatsu_sweet_and_sour_450g/p/1564405684710364910"
+    },
+    {
+      "id": "1564405684710103254",
+      "store_id": "2052",
+      "like_code": "336893",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱133.00",
+      "unit_price": 133.0,
+      "popularity": 3611,
+      "upc": "200003368938",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033689386",
+      "reference_ids": [
+        "02000033689386"
+      ],
+      "name": "Bounty Unbranded Brown Eggs XL | Jumbo | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710103254/3e2cd7235eb28c64f0d5d18dc159857d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000033689386",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_unbranded_brown_eggs_xl_jumbo_10s/p/1564405684710103254"
+    },
+    {
+      "id": "1564405684716094621",
+      "store_id": "2052",
+      "like_code": "412963",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 999999,
+      "upc": "480051700525",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517005255",
+      "reference_ids": [
+        "04800517005255"
+      ],
+      "name": "Bounty Wow Hot Leegs | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716094621/5a5b412636043dee67c25873a2b4018c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517005255",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_wow_hot_leegs_500g/p/1564405684716094621"
+    },
+    {
+      "id": "1764405684715486918",
+      "store_id": "2052",
+      "like_code": "452092",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱259.00",
+      "unit_price": 259.0,
+      "popularity": 1,
+      "upc": "490136036345",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04901360363452",
+      "reference_ids": [
+        "04901360363452"
+      ],
+      "name": "Bourbon Biscuit Salty Milk | 129g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486918/4cd542e9981d895df44c56c9b2144c17",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04901360363452",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bourbon_biscuit_salty_milk_129g/p/1764405684715486918"
+    },
+    {
+      "id": "8166714",
+      "store_id": "2052",
+      "like_code": "102166",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 1733,
+      "upc": "480901168109",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681095",
+      "reference_ids": [
+        "04809011681095"
+      ],
+      "name": "Boy Bawang Cornick Adobo Flavor | 90g",
+      "size": "3.54 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8166714/ef7fdf34100f479b5ae9faa385a7eb2a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681095",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_adobo_flavor_90g/p/8166714"
+    },
+    {
+      "id": "5527105",
+      "store_id": "2052",
+      "like_code": "102163",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 1524,
+      "upc": "480901168150",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681507",
+      "reference_ids": [
+        "04809011681507"
+      ],
+      "name": "Boy Bawang Cornick BBQ Flavor | 90g",
+      "size": "3.54 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "5527105/b7f55126f5aa7e0a658cccac2b93c611",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681507",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_bbq_flavor_90g/p/5527105"
+    },
+    {
+      "id": "1564405684689252366",
+      "store_id": "2052",
+      "like_code": "132346",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱34.00",
+      "unit_price": 34.0,
+      "popularity": 3765,
+      "upc": "480901168143",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681439",
+      "reference_ids": [
+        "04809011681439"
+      ],
+      "name": "Boy Bawang Cornick Chichacorn | 100g",
+      "size": "3.54 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684689252366/51e3586383d401ef7f336022348e0787",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681439",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_chichacorn_100g/p/1564405684689252366"
+    },
+    {
+      "id": "8166244",
+      "store_id": "2052",
+      "like_code": "78353",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 783,
+      "upc": "480901168139",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681392",
+      "reference_ids": [
+        "04809011681392"
+      ],
+      "name": "Boy Bawang Cornick Chili Cheese | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8166244/ae899285ee4570e3a63cc0d9448741a8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681392",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_chili_cheese_90g/p/8166244"
+    },
+    {
+      "id": "8195864",
+      "store_id": "2052",
+      "like_code": "110271",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱144.00",
+      "unit_price": 144.0,
+      "popularity": 6586,
+      "upc": "480901168120",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681200",
+      "reference_ids": [
+        "04809011681200"
+      ],
+      "name": "Boy Bawang Cornick Garlic | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195864/e0f4e0b47dcd0a4a19056168110ed46c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681200",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_garlic_500g/p/8195864"
+    },
+    {
+      "id": "5527102",
+      "store_id": "2052",
+      "like_code": "78351",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 270,
+      "upc": "480901168137",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681378",
+      "reference_ids": [
+        "04809011681378"
+      ],
+      "name": "Boy Bawang Cornick Garlic | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "04809011681378/71ea526ee725ffdbb553457714db452f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681378",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_garlic_90g/p/5527102"
+    },
+    {
+      "id": "8195863",
+      "store_id": "2052",
+      "like_code": "110272",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 4976,
+      "upc": "480901168119",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011681194",
+      "reference_ids": [
+        "04809011681194"
+      ],
+      "name": "Boy Bawang Cornick Hot Garlic | 90g",
+      "size": "3.54 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195863/93ee6bef9ab1430298d861f8bcc8946a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011681194",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_hot_garlic_90g/p/8195863"
+    },
+    {
+      "id": "8188541",
+      "store_id": "2052",
+      "like_code": "110320",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱23.00",
+      "unit_price": 23.0,
+      "popularity": 3876,
+      "upc": "480063168131",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800631681311",
+      "reference_ids": [
+        "04800631681311"
+      ],
+      "name": "Boy Bawang Cornick Lechon Manok | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8188541/6daea6899de9464efd798b776265575b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800631681311",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cornick_lechon_manok_90g/p/8188541"
+    },
+    {
+      "id": "1564405684689252287",
+      "store_id": "2052",
+      "like_code": "268285",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 3996,
+      "upc": "480063100041",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800631000419",
+      "reference_ids": [
+        "04800631000419"
+      ],
+      "name": "Boy Bawang Cracker Nuts Garlic | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684689252287/d8c3ad9baaa9851e44fbfb92fc7cd397",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800631000419",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_cracker_nuts_garlic_85g/p/1564405684689252287"
+    },
+    {
+      "id": "8195442",
+      "store_id": "2052",
+      "like_code": "268284",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 510,
+      "upc": "480063100048",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800631000488",
+      "reference_ids": [
+        "04800631000488"
+      ],
+      "name": "Boy Bawang Mixed Nuts Garlic Flavor | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "8195442/d46e03c3f237db289497bff761cbeb2b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800631000488",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_mixed_nuts_garlic_flavor_85g/p/8195442"
+    },
+    {
+      "id": "1564405684702542034",
+      "store_id": "2052",
+      "like_code": "268283",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱44.00",
+      "unit_price": 44.0,
+      "popularity": 4013,
+      "upc": "480063168112",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800631681120",
+      "reference_ids": [
+        "04800631681120"
+      ],
+      "name": "Boy Bawang Nuts Entertainment Peanuts Garlic Flavor | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542034/1379f7c6e4a312179751e8317707eb24",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800631681120",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/boy_bawang_nuts_entertainment_peanuts_garlic_flavor_100g/p/1564405684702542034"
+    },
+    {
+      "id": "42500",
+      "store_id": "2052",
+      "like_code": "19222",
+      "department_id": [
+        "22459193"
+      ],
+      "price": "₱311.50",
+      "unit_price": 311.5,
+      "popularity": 2218,
+      "upc": "7430540116",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00074305401169",
+      "reference_ids": [
+        "00074305401169",
+        "00074305001161"
+      ],
+      "name": "Bragg Organic Apple Cider Vinegar | 16oz",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986",
+        "214132",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "00074305001161/1623eab4ee9c0b8e2ea3ffdf96e7583d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00074305401169",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/condiments/bragg_organic_apple_cider_vinegar_16oz/p/42500"
+    },
+    {
+      "id": "42501",
+      "store_id": "2052",
+      "like_code": "203119",
+      "department_id": [
+        "22459193"
+      ],
+      "price": "₱518.50",
+      "unit_price": 518.5,
+      "popularity": 7666,
+      "upc": "7430540132",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00074305401329",
+      "reference_ids": [
+        "00074305401329",
+        "00074305001321"
+      ],
+      "name": "Bragg Organic Apple Cider Vinegar | 946ml",
+      "size": "pc",
+      "shelf_tag_ids": [
+        "230986",
+        "214132",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "00074305001321/37c4db9d06f84b424d77f1ec98a15b9f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00074305401329",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/condiments/bragg_organic_apple_cider_vinegar_946ml/p/42501"
+    },
+    {
+      "id": "42508",
+      "store_id": "2052",
+      "like_code": "203064",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱331.00",
+      "unit_price": 331.0,
+      "popularity": 8883,
+      "upc": "7430505316",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00074305053160",
+      "reference_ids": [
+        "00074305053160"
+      ],
+      "name": "Bragg Organic Apple Cider Vinegar All Natural Drink Concord Grape - Acai | 16 fl oz",
+      "size": "16 fl oz",
+      "shelf_tag_ids": [
+        "230986",
+        "214132",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00074305053160/cea74f062d74aa405decafebf1a58d3a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00074305053160",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/bragg_organic_apple_cider_vinegar_all_natural_drink_concord_grape_acai_16_fl_oz/p/42508"
+    },
+    {
+      "id": "42509",
+      "store_id": "2052",
+      "like_code": "203067",
+      "department_id": [
+        "22459156"
+      ],
+      "price": "₱331.00",
+      "unit_price": 331.0,
+      "popularity": 999999,
+      "upc": "7430505416",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00074305054167",
+      "reference_ids": [
+        "00074305054167"
+      ],
+      "name": "Bragg Organic Apple Cider Vinegar All Natural Drink Limeade | 16 fl oz",
+      "size": "16 oz",
+      "shelf_tag_ids": [
+        "230986",
+        "214132",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "00074305054167/b6cb19104ee4b6b142c72e97f73a090d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00074305054167",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/specialty_sauce/bragg_organic_apple_cider_vinegar_all_natural_drink_limeade_16_fl_oz/p/42509"
+    }
+  ]
+}

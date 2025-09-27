@@ -1,0 +1,2418 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684711960367",
+      "store_id": "2052",
+      "like_code": "355103",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱925.00",
+      "unit_price": 925.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "35510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000355103",
+      "reference_ids": [
+        "00000000355103"
+      ],
+      "name": "Ammerland Cheese Gouda Natural Ripened | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960367/40c038365536cc1388d9c2d3c0e6717a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000355103",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/ammerland_cheese_gouda_natural_ripened_kg/p/1564405684711960367"
+    },
+    {
+      "id": "1564405684711960364",
+      "store_id": "2052",
+      "like_code": "355100",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱938.00",
+      "unit_price": 938.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "35510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000355100",
+      "reference_ids": [
+        "00000000355100"
+      ],
+      "name": "Ammerland Emmental Cheese | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960364/dbc327189562878a6072b94b64aff13c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000355100",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/ammerland_emmental_cheese_kg/p/1564405684711960364"
+    },
+    {
+      "id": "1564405684711960365",
+      "store_id": "2052",
+      "like_code": "355101",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱769.00",
+      "unit_price": 769.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "35510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000355101",
+      "reference_ids": [
+        "00000000355101"
+      ],
+      "name": "Ammerland Red Cheddar Cheese | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960365/ec87546890126c52c65d282a5dc1b4ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000355101",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/ammerland_red_cheddar_cheese_kg/p/1564405684711960365"
+    },
+    {
+      "id": "1564405684711960368",
+      "store_id": "2052",
+      "like_code": "355104",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱844.00",
+      "unit_price": 844.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "35510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000355104",
+      "reference_ids": [
+        "00000000355104"
+      ],
+      "name": "Ammerland Smoked Gouda Cheese | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960368/89896962de98fd73ca671fd436e57171",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000355104",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/ammerland_smoked_gouda_cheese_kg/p/1564405684711960368"
+    },
+    {
+      "id": "1564405684711960366",
+      "store_id": "2052",
+      "like_code": "355102",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱744.00",
+      "unit_price": 744.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "35510",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000355102",
+      "reference_ids": [
+        "00000000355102"
+      ],
+      "name": "Ammerland White Cheddar Cheese | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711960366/40fea1fc5d31b6fca1df01f7c6694569",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000355102",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/ammerland_white_cheddar_cheese_kg/p/1564405684711960366"
+    },
+    {
+      "id": "1564405684705239666",
+      "store_id": "2052",
+      "like_code": "318672",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 5564,
+      "upc": "693675622281",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756222813",
+      "reference_ids": [
+        "06936756222813"
+      ],
+      "name": "Amos 4D Gummy Block | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705239666/33bc2564889e65a0cd36e3b11f280873",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756222813",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_block_100g/p/1564405684705239666"
+    },
+    {
+      "id": "1764405684714900194",
+      "store_id": "2052",
+      "like_code": "422850",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 9724,
+      "upc": "693675625249",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756252490",
+      "reference_ids": [
+        "06936756252490"
+      ],
+      "name": "Amos 4D Gummy Blocks | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714900194/df955aad1e9f0bb42eb5e00e14b17489",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756252490",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_blocks_135g/p/1764405684714900194"
+    },
+    {
+      "id": "1764405684714923062",
+      "store_id": "2052",
+      "like_code": "427029",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 6193,
+      "upc": "693675626213",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756262130",
+      "reference_ids": [
+        "06936756262130"
+      ],
+      "name": "Amos 4D Gummy Crystal Skull | 72g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714923062/da302c94cdb897ffe8f488bdf3bea824",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756262130",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_crystal_skull_72g/p/1764405684714923062"
+    },
+    {
+      "id": "1564405684710451487",
+      "store_id": "2052",
+      "like_code": "318677",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 999999,
+      "upc": "693675622279",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756222790",
+      "reference_ids": [
+        "06936756222790"
+      ],
+      "name": "Amos 4D Gummy Fruits | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710451487/df9cf4709bed4ae014590d1c26f37c61",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06936756222790",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_fruits_40g/p/1564405684710451487"
+    },
+    {
+      "id": "1564405684705239668",
+      "store_id": "2052",
+      "like_code": "318678",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 6119,
+      "upc": "693675622283",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756222837",
+      "reference_ids": [
+        "06936756222837"
+      ],
+      "name": "Amos 4D Gummy Fruits | 65g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705239668/c83c3656bd82be3d1db5023065468e8f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756222837",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_fruits_65g/p/1564405684705239668"
+    },
+    {
+      "id": "1764405684714900188",
+      "store_id": "2052",
+      "like_code": "422849",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 7667,
+      "upc": "693675625187",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756251875",
+      "reference_ids": [
+        "06936756251875"
+      ],
+      "name": "Amos 4D Gummy Fruity Juicy Burst Mix | 120g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714900188/5fd32ef045628fe523e309b065865d91",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756251875",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_fruity_juicy_burst_mix_120g/p/1764405684714900188"
+    },
+    {
+      "id": "1564405684712212967",
+      "store_id": "2052",
+      "like_code": "354028",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱58.50",
+      "unit_price": 58.5,
+      "popularity": 3445,
+      "upc": "693675622969",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756229690",
+      "reference_ids": [
+        "06936756229690"
+      ],
+      "name": "Amos 4D Gummy Sour Rainbow Rolls | 90g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712212967/f7ab59dceade47c517b64f54c2da66ec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756229690",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_sour_rainbow_rolls_90g/p/1564405684712212967"
+    },
+    {
+      "id": "1564405684715033019",
+      "store_id": "2052",
+      "like_code": "399633",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 999999,
+      "upc": "693675623886",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756238869",
+      "reference_ids": [
+        "06936756238869"
+      ],
+      "name": "Amos 4D Gummy Sour Wrigglers Berry Mix | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715033019/c7ff1dc25c00502972cc42b4362301ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06936756238869",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_sour_wrigglers_berry_mix_100g/p/1564405684715033019"
+    },
+    {
+      "id": "1564405684712212965",
+      "store_id": "2052",
+      "like_code": "353704",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱58.50",
+      "unit_price": 58.5,
+      "popularity": 3952,
+      "upc": "693675622951",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756229515",
+      "reference_ids": [
+        "06936756229515"
+      ],
+      "name": "Amos 4D Gummy Strawberry Sour Straws | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712212965/2925d8eab0d3f5fb59b7c7dce329c637",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756229515",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_4_d_gummy_strawberry_sour_straws_100g/p/1564405684712212965"
+    },
+    {
+      "id": "1564405684710451488",
+      "store_id": "2052",
+      "like_code": "318673",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱30.00",
+      "unit_price": 30.0,
+      "popularity": 7894,
+      "upc": "693675622277",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756222776",
+      "reference_ids": [
+        "06936756222776"
+      ],
+      "name": "Amos Gummy 4d Block | 45g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684710451488/c38d4a9c72c501543b950c70663d952a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06936756222776",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_gummy_4d_block_45g/p/1564405684710451488"
+    },
+    {
+      "id": "1764405684715656844",
+      "store_id": "2052",
+      "like_code": "455335",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱86.00",
+      "unit_price": 86.0,
+      "popularity": 7326,
+      "upc": "693675628182",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756281827",
+      "reference_ids": [
+        "06936756281827"
+      ],
+      "name": "Amos Gummy Pumpkin 120g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "06936756281827",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/amos_gummy_pumpkin_120g/p/1764405684715656844"
+    },
+    {
+      "id": "1764405684715656850",
+      "store_id": "2052",
+      "like_code": "455336",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 999999,
+      "upc": "693675626212",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756262123",
+      "reference_ids": [
+        "06936756262123"
+      ],
+      "name": "Amos Gummy Sour Fangs 72g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "06936756262123",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/amos_gummy_sour_fangs_72g/p/1764405684715656850"
+    },
+    {
+      "id": "1564405684710396399",
+      "store_id": "2052",
+      "like_code": "344524",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱55.00",
+      "unit_price": 55.0,
+      "popularity": 999999,
+      "upc": "693675622631",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06936756226316",
+      "reference_ids": [
+        "06936756226316"
+      ],
+      "name": "Amos Sour Rainbow Strips | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710396399/30818b5279bb0bc6b3393cd5fac4b4e8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06936756226316",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/amos_sour_rainbow_strips_100g/p/1564405684710396399"
+    },
+    {
+      "id": "1564405684708933254",
+      "store_id": "2052",
+      "like_code": "338654",
+      "department_id": [
+        "21958112"
+      ],
+      "price": "₱187.50",
+      "unit_price": 187.5,
+      "popularity": 999999,
+      "upc": "7802401068",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00078024010688",
+      "reference_ids": [
+        "00078024010688"
+      ],
+      "name": "Amoy Black Pepper Sauce | 225g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708933254/ea7d4524cb7007015ee8ec0581e9b476",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00078024010688",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/asian/amoy_black_pepper_sauce_225g/p/1564405684708933254"
+    },
+    {
+      "id": "1564405684704729468",
+      "store_id": "2052",
+      "like_code": "282473",
+      "department_id": [
+        "21958113"
+      ],
+      "price": "₱179.75",
+      "unit_price": 179.75,
+      "popularity": 999999,
+      "upc": "7802401046",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00078024010466",
+      "reference_ids": [
+        "00078024010466"
+      ],
+      "name": "Amoy Golden Label Dark Soy Sauce | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729468/cbcab203b9e2fd3d8dc093ce7f5a1d0d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00078024010466",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/chinese/amoy_golden_label_dark_soy_sauce_500ml/p/1564405684704729468"
+    },
+    {
+      "id": "1564405684704729463",
+      "store_id": "2052",
+      "like_code": "282472",
+      "department_id": [
+        "21958113"
+      ],
+      "price": "₱179.75",
+      "unit_price": 179.75,
+      "popularity": 999999,
+      "upc": "7802400999",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00078024009996",
+      "reference_ids": [
+        "00078024009996"
+      ],
+      "name": "Amoy Golden Label Light Soy Sauce | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729463/a80699bb1e9444f5640355709e2244f9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00078024009996",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/chinese/amoy_golden_label_light_soy_sauce_500ml/p/1564405684704729463"
+    },
+    {
+      "id": "1564405684711074025",
+      "store_id": "2052",
+      "like_code": "302086",
+      "department_id": [
+        "1496159"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 999999,
+      "upc": "7802495020",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00078024950205",
+      "reference_ids": [
+        "00078024950205"
+      ],
+      "name": "Amoy Sauce for Mapo Tofu | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711074025/d3e1c3a4321ce7bd0f7bc866a7c48b62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00078024950205",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/sauces_dips/amoy_sauce_for_mapo_tofu_80g/p/1564405684711074025"
+    },
+    {
+      "id": "1564405684711623933",
+      "store_id": "2052",
+      "like_code": "302087",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 999999,
+      "upc": "7802495005",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00078024950052",
+      "reference_ids": [
+        "00078024950052"
+      ],
+      "name": "Amoy Sauce for Spicy Eggplant | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711623933/4d7c33cf10927b755932db59cce15a85",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00078024950052",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/amoy_sauce_for_spicy_eggplant_80g/p/1564405684711623933"
+    },
+    {
+      "id": "1564405684711623934",
+      "store_id": "2052",
+      "like_code": "302085",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 999999,
+      "upc": "7802495176",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00078024951769",
+      "reference_ids": [
+        "00078024951769"
+      ],
+      "name": "Amoy Spare Rib Honey Sauce | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711623934/cb5db2ba88fa3cfc1293876a780a85d1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00078024951769",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/amoy_spare_rib_honey_sauce_80g/p/1564405684711623934"
+    },
+    {
+      "id": "1564405684702505581",
+      "store_id": "2052",
+      "like_code": "99970",
+      "department_id": [
+        "22459265"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 3718,
+      "upc": "200000999701",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000009997019",
+      "reference_ids": [
+        "02000009997019",
+        "01111193900875"
+      ],
+      "name": "Amparos Bagoong Balayan | 340ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684702505581/0008297d47cbfd7fd0d652f56c6bbbb5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000009997019",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/cooking_pastes/amparos_bagoong_balayan_340ml/p/1564405684702505581"
+    },
+    {
+      "id": "1564405684704729444",
+      "store_id": "2052",
+      "like_code": "121030",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱670.00",
+      "unit_price": 670.0,
+      "popularity": 3172,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12103",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121030",
+      "reference_ids": [
+        "00000000121030"
+      ],
+      "name": "Amparos Banana Blossom | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729444/7ac587089f8e08f684e9881a331c3fe1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121030",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/amparos_banana_blossom_kg/p/1564405684704729444"
+    },
+    {
+      "id": "1564405684704723537",
+      "store_id": "2052",
+      "like_code": "121010",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱930.00",
+      "unit_price": 930.0,
+      "popularity": 500,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121010",
+      "reference_ids": [
+        "00000000121010"
+      ],
+      "name": "Amparos Barako Coffee | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704723537/7c6350235f49f8c1c2fd28c264c67125",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121010",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/amparos_barako_coffee_kg/p/1564405684704723537"
+    },
+    {
+      "id": "1564405684702509517",
+      "store_id": "2052",
+      "like_code": "118413",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱1,648.25",
+      "unit_price": 1648.25,
+      "popularity": 3140,
+      "upc": "200001184138",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000011841386",
+      "reference_ids": [
+        "02000011841386"
+      ],
+      "name": "Amparos C-4 Dinurado Rice | 25kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702509517/4e1337336fe7d5f0d9d53b42590eeb94",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000011841386",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_c_4_dinurado_rice_25kg/p/1564405684702509517"
+    },
+    {
+      "id": "1564405684704729445",
+      "store_id": "2052",
+      "like_code": "121033",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱390.00",
+      "unit_price": 390.0,
+      "popularity": 3173,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12103",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121033",
+      "reference_ids": [
+        "00000000121033"
+      ],
+      "name": "Amparos Cheese Powder | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729445/43e5bd2cd5884b1db0ab0237602e61c2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121033",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/amparos_cheese_powder_kg/p/1564405684704729445"
+    },
+    {
+      "id": "1564405684704729451",
+      "store_id": "2052",
+      "like_code": "204033",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱375.00",
+      "unit_price": 375.0,
+      "popularity": 3011,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "20403",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000204033",
+      "reference_ids": [
+        "00000000204033"
+      ],
+      "name": "Amparos Chili Flakes | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729451/14d77fd54de0ab6d8c72df15fbdda828",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000204033",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/amparos_chili_flakes_kg/p/1564405684704729451"
+    },
+    {
+      "id": "1564405684704723540",
+      "store_id": "2052",
+      "like_code": "121052",
+      "department_id": [
+        "1496140"
+      ],
+      "price": "₱230.00",
+      "unit_price": 230.0,
+      "popularity": 3177,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12105",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121052",
+      "reference_ids": [
+        "00000000121052"
+      ],
+      "name": "Amparos Cocoa Power | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704723540/0fbeea41744e2fbaefb1c6a19fe3cdda",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121052",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/powdered_milk/amparos_cocoa_power_kg/p/1564405684704723540"
+    },
+    {
+      "id": "1564405684704749325",
+      "store_id": "2052",
+      "like_code": "80883",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱88.00",
+      "unit_price": 88.0,
+      "popularity": 3727,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "8088",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000080883",
+      "reference_ids": [
+        "00000000080883"
+      ],
+      "name": "Amparos Dinorado Brown Rice | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704749325/66950c2c9a9f8a7c82c7a92d727ad033",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000080883",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_dinorado_brown_rice_kg/p/1564405684704749325"
+    },
+    {
+      "id": "1564405684704723538",
+      "store_id": "2052",
+      "like_code": "121011",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱720.00",
+      "unit_price": 720.0,
+      "popularity": 500,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121011",
+      "reference_ids": [
+        "00000000121011"
+      ],
+      "name": "Amparos Excelsia Coffee | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704723538/14f1ebd7719a17679feaf4e32bd76f3a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121011",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/amparos_excelsia_coffee_kg/p/1564405684704723538"
+    },
+    {
+      "id": "1564405684704729450",
+      "store_id": "2052",
+      "like_code": "154736",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱355.00",
+      "unit_price": 355.0,
+      "popularity": 3225,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "15473",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000154736",
+      "reference_ids": [
+        "00000000154736"
+      ],
+      "name": "Amparos Fried Garlic | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729450/7a58db904f3ba24b33e54b5e774db079",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000154736",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/amparos_fried_garlic_kg/p/1564405684704729450"
+    },
+    {
+      "id": "1564405684704729446",
+      "store_id": "2052",
+      "like_code": "121037",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱440.00",
+      "unit_price": 440.0,
+      "popularity": 3174,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12103",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121037",
+      "reference_ids": [
+        "00000000121037"
+      ],
+      "name": "Amparos Garlic Powder | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729446/e753f3c3c9666675aea890e4e5b498c4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121037",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/amparos_garlic_powder_kg/p/1564405684704729446"
+    },
+    {
+      "id": "1564405684702509521",
+      "store_id": "2052",
+      "like_code": "118418",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱2,135.00",
+      "unit_price": 2135.0,
+      "popularity": 3182,
+      "upc": "200001184188",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000011841881",
+      "reference_ids": [
+        "02000011841881"
+      ],
+      "name": "Amparos Jasmine Thai Hom Mali Rice | 25kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702509521/1238dc9c20ff1dfde054a21ccfe55879",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000011841881",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_jasmine_thai_hom_mali_rice_25kg/p/1564405684702509521"
+    },
+    {
+      "id": "1564405684704749327",
+      "store_id": "2052",
+      "like_code": "80903",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 3058,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "8090",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000080903",
+      "reference_ids": [
+        "00000000080903"
+      ],
+      "name": "Amparos Malagkit Bilog Rice | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704749327/f8351bb2e798973435cd36523ca72eba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000080903",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_malagkit_bilog_rice_kg/p/1564405684704749327"
+    },
+    {
+      "id": "1564405684704749328",
+      "store_id": "2052",
+      "like_code": "80904",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 3057,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "8090",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000080904",
+      "reference_ids": [
+        "00000000080904"
+      ],
+      "name": "Amparos Malagkit Hba Rice | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704749328/b698daa1a41e73ef332a04094174ea09",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000080904",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_malagkit_hba_rice_kg/p/1564405684704749328"
+    },
+    {
+      "id": "1564405684704732339",
+      "store_id": "2052",
+      "like_code": "121022",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 3171,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12102",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121022",
+      "reference_ids": [
+        "00000000121022"
+      ],
+      "name": "Amparos Mani Skinless | Kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704732339/9b0b3f99154370162b0ab28665e77f55",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121022",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/amparos_mani_skinless_kg/p/1564405684704732339"
+    },
+    {
+      "id": "1564405684704732338",
+      "store_id": "2052",
+      "like_code": "121017",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱130.00",
+      "unit_price": 130.0,
+      "popularity": 3169,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12101",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121017",
+      "reference_ids": [
+        "00000000121017"
+      ],
+      "name": "Amparos Mani With Balat | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704732338/7b7f8f927eac7071f6b4d9ee02d3d4a4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121017",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/amparos_mani_with_balat_kg/p/1564405684704732338"
+    },
+    {
+      "id": "1564405684704729447",
+      "store_id": "2052",
+      "like_code": "121046",
+      "department_id": [
+        "22459194"
+      ],
+      "price": "₱780.00",
+      "unit_price": 780.0,
+      "popularity": 3175,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12104",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000121046",
+      "reference_ids": [
+        "00000000121046"
+      ],
+      "name": "Amparos Pepper Powder | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729447/32cd6b11c42682a43a7816f32f1b2af3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000121046",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/salt_spices/amparos_pepper_powder_kg/p/1564405684704729447"
+    },
+    {
+      "id": "1564405684702527072",
+      "store_id": "2052",
+      "like_code": "212035",
+      "department_id": [
+        "22459261"
+      ],
+      "price": "₱665.00",
+      "unit_price": 665.0,
+      "popularity": 3177,
+      "upc": "200002120358",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000021203587",
+      "reference_ids": [
+        "02000021203587"
+      ],
+      "name": "Amparos Rice C-4 Dinurado | 10kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702527072/0bcc512147fdc3e52c62557b982a1956",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3722461908171765863",
+          "reference_id": "tpr_2052_02000021203587_635_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616819261913711"
+          ],
+          "product_ids": [
+            "1564405684702527072"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3177,
+          "product_tag_ids": [
+            "22356788",
+            "22459261",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22883865",
+            "22919042",
+            "22983205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "547201e22cabbd3e9970e4671cc4b955",
+          "similarity_priority": 5,
+          "name": "Amparos Rice C-4 Dinurado | 10kg",
+          "sale_price": "₱635.00",
+          "sale_price_md": "**₱635.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3722461647730653236",
+          "reference_id": "ad_2052_02000021203587_1_635_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616819261913711"
+          ],
+          "product_ids": [
+            "1564405684702527072"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1589,
+          "product_tag_ids": [
+            "22356788",
+            "22459261",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22883865",
+            "22919042",
+            "22983205"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "80129fc07588e8037f8af221bc184c08",
+          "similarity_priority": 6,
+          "name": "Amparos Rice C-4 Dinurado | 10kg",
+          "sale_price": "₱635.00",
+          "sale_price_md": "**₱635.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱635.00",
+      "sale_price_md": "**₱635.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3722461908171765863",
+        "reference_id": "tpr_2052_02000021203587_635_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616819261913711"
+        ],
+        "product_ids": [
+          "1564405684702527072"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3177,
+        "product_tag_ids": [
+          "22356788",
+          "22459261",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22883865",
+          "22919042",
+          "22983205"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "547201e22cabbd3e9970e4671cc4b955",
+        "similarity_priority": 5,
+        "name": "Amparos Rice C-4 Dinurado | 10kg",
+        "sale_price": "₱635.00",
+        "sale_price_md": "**₱635.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 635.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱635.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000021203587",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/rice/amparos_rice_c_4_dinurado_10kg/p/1564405684702527072"
+    },
+    {
+      "id": "1564405684702527070",
+      "store_id": "2052",
+      "like_code": "212033",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱337.25",
+      "unit_price": 337.25,
+      "popularity": 3176,
+      "upc": "200002120338",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000021203389",
+      "reference_ids": [
+        "02000021203389"
+      ],
+      "name": "Amparos Rice C-4 Dinurado | 5kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702527070/2ada91f2138b0a7fc0d290a424ef71a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000021203389",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_rice_c_4_dinurado_5kg/p/1564405684702527070"
+    },
+    {
+      "id": "1564405684702527068",
+      "store_id": "2052",
+      "like_code": "212030",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱693.50",
+      "unit_price": 693.5,
+      "popularity": 3175,
+      "upc": "200002120308",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000021203082",
+      "reference_ids": [
+        "02000021203082"
+      ],
+      "name": "Amparos Rice Dinurado White | 10kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702527068/920a56be82971f9cb94bd3c45673d650",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000021203082",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_rice_dinurado_white_10kg/p/1564405684702527068"
+    },
+    {
+      "id": "1564405684702527059",
+      "store_id": "2052",
+      "like_code": "212022",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱351.50",
+      "unit_price": 351.5,
+      "popularity": 3173,
+      "upc": "200002120228",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000021202283",
+      "reference_ids": [
+        "02000021202283"
+      ],
+      "name": "Amparos Rice Dinurado White | 5kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702527059/e371ce2b369034a9ea94cdc6e4474ec0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000021202283",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_rice_dinurado_white_5kg/p/1564405684702527059"
+    },
+    {
+      "id": "1564405684702527083",
+      "store_id": "2052",
+      "like_code": "212044",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱780.00",
+      "unit_price": 780.0,
+      "popularity": 3121,
+      "upc": "480901339377",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013393774",
+      "reference_ids": [
+        "04809013393774",
+        "02000021204485"
+      ],
+      "name": "Amparos Rice Maharlika | 10kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702527083/b15881759056442d17e31ef472079899",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3511546223028878203",
+          "reference_id": "tpr_2052_04809013393774_750_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3511114279996635916",
+            "3722616800362379801"
+          ],
+          "product_ids": [
+            "1564405684702527083"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3121,
+          "product_tag_ids": [
+            "22356787",
+            "22459164",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "de3150ccc3e40d4b130296265b53e6ac",
+          "similarity_priority": 5,
+          "name": "Amparos Rice Maharlika | 10kg",
+          "sale_price": "₱750.00",
+          "sale_price_md": "**₱750.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3511547801806846881",
+          "reference_id": "ad_2052_04809013393774_1_750_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3511114279996635916"
+          ],
+          "product_ids": [
+            "1564405684702527083"
+          ],
+          "start_date": "2025-09-16T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1561,
+          "product_tag_ids": [
+            "22356787",
+            "22459164",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "de1d87f63756d3d53682a7d18dd3c7fd",
+          "similarity_priority": 6,
+          "name": "Amparos Rice Maharlika | 10kg",
+          "sale_price": "₱750.00",
+          "sale_price_md": "**₱750.00** (09/16/25 - 09/30/25)",
+          "display_start_date": "2025-09-16",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-16",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱750.00",
+      "sale_price_md": "**₱750.00** (09/16/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3511546223028878203",
+        "reference_id": "tpr_2052_04809013393774_750_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3511114279996635916",
+          "3722616800362379801"
+        ],
+        "product_ids": [
+          "1564405684702527083"
+        ],
+        "start_date": "2025-09-16T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3121,
+        "product_tag_ids": [
+          "22356787",
+          "22459164",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "de3150ccc3e40d4b130296265b53e6ac",
+        "similarity_priority": 5,
+        "name": "Amparos Rice Maharlika | 10kg",
+        "sale_price": "₱750.00",
+        "sale_price_md": "**₱750.00** (09/16/25 - 09/30/25)",
+        "display_start_date": "2025-09-16",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 750.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱750.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013393774",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_rice_maharlika_10kg/p/1564405684702527083"
+    },
+    {
+      "id": "1564405684702552164",
+      "store_id": "2052",
+      "like_code": "158066",
+      "department_id": [
+        "22459261"
+      ],
+      "price": "₱1,860.00",
+      "unit_price": 1860.0,
+      "popularity": 3457,
+      "upc": "480901339378",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013393781",
+      "reference_ids": [
+        "04809013393781"
+      ],
+      "name": "Amparos Rice Maharlika | 25kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702552164/f2587472ed81d4c35be6e09c6dc513f1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013393781",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/rice/amparos_rice_maharlika_25kg/p/1564405684702552164"
+    },
+    {
+      "id": "1564405684702527078",
+      "store_id": "2052",
+      "like_code": "212040",
+      "department_id": [
+        "22459164"
+      ],
+      "price": "₱395.00",
+      "unit_price": 395.0,
+      "popularity": 3178,
+      "upc": "480901339307",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809013393071",
+      "reference_ids": [
+        "04809013393071",
+        "02000021204089"
+      ],
+      "name": "Amparos Rice Maharlika | 5kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702527078/5fafb9b9d47d101b92511e11442a07bb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809013393071",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 24",
+        "sequence": 24,
+        "identifier": "97418ea6-cf37-4c59-9f33-e1878ae9bcf7",
+        "id": "22356787"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/amparos_rice_maharlika_5kg/p/1564405684702527078"
+    }
+  ]
+}

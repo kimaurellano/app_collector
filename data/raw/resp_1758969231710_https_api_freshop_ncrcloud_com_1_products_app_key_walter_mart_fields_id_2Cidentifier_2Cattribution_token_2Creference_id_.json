@@ -1,0 +1,2170 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684715612335",
+      "store_id": "2052",
+      "like_code": "409502",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 639,
+      "upc": "692035483877",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354838774",
+      "reference_ids": [
+        "06920354838774"
+      ],
+      "name": "Colgate Toothpaste Optic White Purple | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715612335/0c80e2a813a6e406974387066bca5da3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354838774",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_optic_white_purple_40g/p/1564405684715612335"
+    },
+    {
+      "id": "1564405684702557429",
+      "store_id": "2052",
+      "like_code": "246614",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 3917,
+      "upc": "885000634231",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006342312",
+      "reference_ids": [
+        "08850006342312"
+      ],
+      "name": "Colgate Toothpaste Pro Breath Health | 65g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557429/18fe909dc788b0be7982c34d3fe5459f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006342312",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_pro_breath_health_65g/p/1564405684702557429"
+    },
+    {
+      "id": "1564405684702557404",
+      "store_id": "2052",
+      "like_code": "210538",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 1625,
+      "upc": "885000632745",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327456",
+      "reference_ids": [
+        "08850006327456"
+      ],
+      "name": "Colgate Toothpaste Spicy Fresh | 120g x 2S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557404/85830296f6e6e96d3e3293bfbf6feb80",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327456",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_spicy_fresh_120g_x_2_s/p/1564405684702557404"
+    },
+    {
+      "id": "1564405684702557398",
+      "store_id": "2052",
+      "like_code": "117901",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱27.75",
+      "unit_price": 27.75,
+      "popularity": 5878,
+      "upc": "885000632522",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006325223",
+      "reference_ids": [
+        "08850006325223"
+      ],
+      "name": "Colgate Toothpaste Spicy Fresh | 20g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "08850006325223/ce380344716dc2fee1163559791b9b5f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006325223",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_spicy_fresh_20g_x_3s/p/1564405684702557398"
+    },
+    {
+      "id": "1564405684702557405",
+      "store_id": "2052",
+      "like_code": "206142",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱165.00",
+      "unit_price": 165.0,
+      "popularity": 489,
+      "upc": "885000632747",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327470",
+      "reference_ids": [
+        "08850006327470"
+      ],
+      "name": "Colgate Toothpaste Triple Action | 120g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557405/0bef97f954d8d6056619e4e1ec1b7037",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327470",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_triple_action_120g_x_2s/p/1564405684702557405"
+    },
+    {
+      "id": "1564405684702557382",
+      "store_id": "2052",
+      "like_code": "37726",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱119.00",
+      "unit_price": 119.0,
+      "popularity": 4627,
+      "upc": "885000632153",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006321539",
+      "reference_ids": [
+        "08850006321539"
+      ],
+      "name": "Colgate Toothpaste Triple Action | 126g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557382/ba4f2fcc8709f30a36cff41b68593b47",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006321539",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_triple_action_126g/p/1564405684702557382"
+    },
+    {
+      "id": "1564405684702550847",
+      "store_id": "2052",
+      "like_code": "121702",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 1,
+      "upc": "885000632746",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327463",
+      "reference_ids": [
+        "08850006327463",
+        "04808888102054"
+      ],
+      "name": "Colgate Toothpaste Triple Action | 175g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702550847/7d15feddc4e48707ee73258027cd84f6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327463",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_triple_action_175g_x_2s/p/1564405684702550847"
+    },
+    {
+      "id": "1564405684702557381",
+      "store_id": "2052",
+      "like_code": "37725",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱153.00",
+      "unit_price": 153.0,
+      "popularity": 4682,
+      "upc": "885000632152",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006321522",
+      "reference_ids": [
+        "08850006321522"
+      ],
+      "name": "Colgate Toothpaste Triple Action | 193g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557381/c24d0c042baeb90a7fdccc26d438ccbd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006321522",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_triple_action_193g/p/1564405684702557381"
+    },
+    {
+      "id": "1564405684702557383",
+      "store_id": "2052",
+      "like_code": "37727",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱53.00",
+      "unit_price": 53.0,
+      "popularity": 1292,
+      "upc": "885000632154",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006321546",
+      "reference_ids": [
+        "08850006321546"
+      ],
+      "name": "Colgate Toothpaste Triple Action | 25ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557383/65ccbdf8838d7562ee1da7bef67f2347",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006321546",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_triple_action_25ml/p/1564405684702557383"
+    },
+    {
+      "id": "1564405684702557396",
+      "store_id": "2052",
+      "like_code": "116810",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 1726,
+      "upc": "885000632504",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006325049",
+      "reference_ids": [
+        "08850006325049"
+      ],
+      "name": "Colgate Toothpaste Triple Action | 66g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557396/211e9c846f77c6c81fed4126e58c2a7e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006325049",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_triple_action_66g/p/1564405684702557396"
+    },
+    {
+      "id": "1564405684702555410",
+      "store_id": "2052",
+      "like_code": "165682",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱149.00",
+      "unit_price": 149.0,
+      "popularity": 3851,
+      "upc": "692035481440",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354814402",
+      "reference_ids": [
+        "06920354814402"
+      ],
+      "name": "Colgate Total Charcoal Deep Clean | 150g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555410/4fba6d9463f194eca14e1007e29dfcfe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354814402",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_total_charcoal_deep_clean_150g/p/1564405684702555410"
+    },
+    {
+      "id": "1564405684702555411",
+      "store_id": "2052",
+      "like_code": "165683",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 5887,
+      "upc": "692035481441",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354814419",
+      "reference_ids": [
+        "06920354814419"
+      ],
+      "name": "Colgate Total Charcoal Deep Clean | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555411/8e28ce1fa4ff2bf0ac565c859cfabd28",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354814419",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_total_charcoal_deep_clean_80g/p/1564405684702555411"
+    },
+    {
+      "id": "1764405684715150510",
+      "store_id": "2052",
+      "like_code": "439858",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 1623,
+      "upc": "692035484016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354840166",
+      "reference_ids": [
+        "06920354840166"
+      ],
+      "name": "Colgate Total Clean Mint Twin | 110g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715150510/364bb6836a1530f4065838123508b7e6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354840166",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_total_clean_mint_twin_110g_x_2s/p/1764405684715150510"
+    },
+    {
+      "id": "1564405684702504158",
+      "store_id": "2052",
+      "like_code": "125096",
+      "department_id": [
+        "22459184"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 1,
+      "upc": "480888820066",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888200668",
+      "reference_ids": [
+        "04808888200668"
+      ],
+      "name": "Colgate Total Dental Floss | 50m",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504158/2c799fec3197c30aa0e369c7e6d58910",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888200668",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/dental_floss/colgate_total_dental_floss_50m/p/1564405684702504158"
+    },
+    {
+      "id": "1564405684702550862",
+      "store_id": "2052",
+      "like_code": "265105",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱196.00",
+      "unit_price": 196.0,
+      "popularity": 1693,
+      "upc": "480888810330",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888103303",
+      "reference_ids": [
+        "04808888103303"
+      ],
+      "name": "Colgate Total Pro Breath Health Toothpaste Twin Pack | 150g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550862/ff45c52366b18ecd201595a25fb72488",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888103303",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_total_pro_breath_health_toothpaste_twin_pack_150g_x_2s/p/1564405684702550862"
+    },
+    {
+      "id": "1764405684715150512",
+      "store_id": "2052",
+      "like_code": "439859",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 1382,
+      "upc": "692035484018",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354840180",
+      "reference_ids": [
+        "06920354840180"
+      ],
+      "name": "Colgate Total Sensitive Twin | 110g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715150512/80b8054e8cfcf0de3030cb8582c30a20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354840180",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_total_sensitive_twin_110g_x_2s/p/1764405684715150512"
+    },
+    {
+      "id": "1564405684702558608",
+      "store_id": "2052",
+      "like_code": "270742",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱124.50",
+      "unit_price": 124.5,
+      "popularity": 2120,
+      "upc": "893523600085",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935236000857",
+      "reference_ids": [
+        "08935236000857"
+      ],
+      "name": "Colgate Triple Action Toothbrush | 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558608/a15bd3d1e0ada3806878d1fdb730424b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935236000857",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_triple_action_toothbrush_3s/p/1564405684702558608"
+    },
+    {
+      "id": "1564405684702558607",
+      "store_id": "2052",
+      "like_code": "270744",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱61.00",
+      "unit_price": 61.0,
+      "popularity": 4661,
+      "upc": "893523600086",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935236000864",
+      "reference_ids": [
+        "08935236000864"
+      ],
+      "name": "Colgate Triple Action Toothbrush (Medium) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558607/b5495081aa9bb609db05d2c0dd282bc2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935236000864",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_triple_action_toothbrush_medium_1s/p/1564405684702558607"
+    },
+    {
+      "id": "1564405684702550879",
+      "store_id": "2052",
+      "like_code": "79389",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 1275,
+      "upc": "480888820097",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888200972",
+      "reference_ids": [
+        "04808888200972",
+        "09556031065521"
+      ],
+      "name": "Colgate Twister Fresh Medium Toothbrush with Cap | Buy 2 Get 1 FREE",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550879/2f1956776f61d9a07ce01e02a39ceb62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888200972",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_twister_fresh_medium_toothbrush_with_cap_buy_2_get_1_free/p/1564405684702550879"
+    },
+    {
+      "id": "1564405684702559852",
+      "store_id": "2052",
+      "like_code": "191920",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱239.00",
+      "unit_price": 239.0,
+      "popularity": 415,
+      "upc": "955603108962",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031089626",
+      "reference_ids": [
+        "09556031089626"
+      ],
+      "name": "Colgate Twister Fresh Toothbrush with Cap | Buy 3 Get 2 FREE",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702559852/53ba429e2917fbe4204e36efcdd8c310",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031089626",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_twister_fresh_toothbrush_with_cap_buy_3_get_2_free/p/1564405684702559852"
+    },
+    {
+      "id": "1564405684702557351",
+      "store_id": "2052",
+      "like_code": "20553",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱74.00",
+      "unit_price": 74.0,
+      "popularity": 1064,
+      "upc": "885000626517",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006265178",
+      "reference_ids": [
+        "08850006265178"
+      ],
+      "name": "Colgate Twister Toothbrush (Medium) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557351/7a78de2632c84b1616183d42c382a432",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006265178",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_twister_toothbrush_medium_1s/p/1564405684702557351"
+    },
+    {
+      "id": "1564405684702557421",
+      "store_id": "2052",
+      "like_code": "250644",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱186.00",
+      "unit_price": 186.0,
+      "popularity": 1833,
+      "upc": "885000633227",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006332276",
+      "reference_ids": [
+        "08850006332276"
+      ],
+      "name": "Colgate Zigzag Charcoal Soft Toothbrush | Buy 2 Get 1 Free",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557421/cb135074dcc72c63e852987b8a41f004",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3600692613172181433",
+          "reference_id": "tpr_2052_08850006332276_167_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702557421"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1849,
+          "product_tag_ids": [
+            "213109",
+            "1496184",
+            "22151440",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4f83836fb3546e5ad69a49131b424cc2",
+          "similarity_priority": 5,
+          "name": "Colgate Zigzag Charcoal Soft Toothbrush | Buy 2 Get 1 Free",
+          "sale_price": "₱167.50",
+          "sale_price_md": "**₱167.50** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3600693111245781460",
+          "reference_id": "ad_2052_08850006332276_1_167_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702557421"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 925,
+          "product_tag_ids": [
+            "213109",
+            "1496184",
+            "22151440",
+            "22356772",
+            "22475760"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "189f5290db5996d6dffcff4662a5d200",
+          "similarity_priority": 6,
+          "name": "Colgate Zigzag Charcoal Soft Toothbrush | Buy 2 Get 1 Free",
+          "sale_price": "₱167.50",
+          "sale_price_md": "**₱167.50** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱167.50",
+      "sale_price_md": "**₱167.50** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3600692613172181433",
+        "reference_id": "tpr_2052_08850006332276_167_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702557421"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1849,
+        "product_tag_ids": [
+          "213109",
+          "1496184",
+          "22151440",
+          "22356772",
+          "22475760"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "4f83836fb3546e5ad69a49131b424cc2",
+        "similarity_priority": 5,
+        "name": "Colgate Zigzag Charcoal Soft Toothbrush | Buy 2 Get 1 Free",
+        "sale_price": "₱167.50",
+        "sale_price_md": "**₱167.50** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 167.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱167.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006332276",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_zigzag_charcoal_soft_toothbrush_buy_2_get_1_free/p/1564405684702557421"
+    },
+    {
+      "id": "1564405684702557419",
+      "store_id": "2052",
+      "like_code": "233075",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱84.50",
+      "unit_price": 84.5,
+      "popularity": 1091,
+      "upc": "885000633226",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006332269",
+      "reference_ids": [
+        "08850006332269"
+      ],
+      "name": "Colgate Zigzag Charcoal Toothbrush | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557419/53077f3522d020825cd286063590468e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006332269",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_zigzag_charcoal_toothbrush_pc/p/1564405684702557419"
+    },
+    {
+      "id": "1564405684702550876",
+      "store_id": "2052",
+      "like_code": "145313",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱173.00",
+      "unit_price": 173.0,
+      "popularity": 1034,
+      "upc": "885000633067",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006330678",
+      "reference_ids": [
+        "08850006330678",
+        "04808888200965"
+      ],
+      "name": "Colgate Zigzag Plus Soft Toothbrush (with Cap) | Buy 2 Get 1 FREE",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550876/4089da0c45549b1960ca4a050fbda141",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006330678",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_zigzag_plus_soft_toothbrush_with_cap_buy_2_get_1_free/p/1564405684702550876"
+    },
+    {
+      "id": "1564405684707431109",
+      "store_id": "2052",
+      "like_code": "337978",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱260.00",
+      "unit_price": 260.0,
+      "popularity": 1226,
+      "upc": "480888820150",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888201504",
+      "reference_ids": [
+        "04808888201504"
+      ],
+      "name": "Colgate Zigzag Toothbrush | Buy 3 Get 2 FREE",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707431109/73ed26cca1d46b1cebd354c1d0b02630",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888201504",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_zigzag_toothbrush_buy_3_get_2_free/p/1564405684707431109"
+    },
+    {
+      "id": "1564405684710210079",
+      "store_id": "2052",
+      "like_code": "342663",
+      "department_id": [
+        "1496137"
+      ],
+      "price": "₱320.00",
+      "unit_price": 320.0,
+      "popularity": 6871,
+      "upc": "7050604650",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00070506046505",
+      "reference_ids": [
+        "00070506046505"
+      ],
+      "name": "Colonna Parmesan Cheese Shaker | 227g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710210079/42651a477a18d5dea8b8053a755a248b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00070506046505",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/cheese/colonna_parmesan_cheese_shaker_227g/p/1564405684710210079"
+    },
+    {
+      "id": "1564405684702546939",
+      "store_id": "2052",
+      "like_code": "195072",
+      "department_id": [
+        "1501973"
+      ],
+      "price": "₱59.00",
+      "unit_price": 59.0,
+      "popularity": 999999,
+      "upc": "480650520249",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806505202491",
+      "reference_ids": [
+        "04806505202491"
+      ],
+      "name": "Colored Collar Black Pot & Saucer Med 8.5\" 8258",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702546939/c17cc2d8a7951f03bd54a42516368570",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806505202491",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/general_merchandise/gardening/colored_collar_black_pot_saucer_med_8_5_8258/p/1564405684702546939"
+    },
+    {
+      "id": "1564405684704732386",
+      "store_id": "2052",
+      "like_code": "314494",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱34.00",
+      "unit_price": 34.0,
+      "popularity": 999999,
+      "upc": "480081882829",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800818828294",
+      "reference_ids": [
+        "04800818828294"
+      ],
+      "name": "Columbia's Frooty Bubble Lollipop | 23pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732386/787c9da4f0bb6d2d423b00973088bf1a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800818828294",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/columbia_s_frooty_bubble_lollipop_23pcs/p/1564405684704732386"
+    },
+    {
+      "id": "1564405684702542082",
+      "store_id": "2052",
+      "like_code": "5062",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱33.00",
+      "unit_price": 33.0,
+      "popularity": 999999,
+      "upc": "480081880865",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800818808654",
+      "reference_ids": [
+        "04800818808654"
+      ],
+      "name": "Columbia's Frooty Rainbow Lollipop | 29pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702542082/625c64205e652793804b64ad45e42de6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800818808654",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/columbia_s_frooty_rainbow_lollipop_29pcs/p/1564405684702542082"
+    },
+    {
+      "id": "1764405684714899274",
+      "store_id": "2052",
+      "like_code": "422795",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱70.00",
+      "unit_price": 70.0,
+      "popularity": 3260,
+      "upc": "480009212066",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800092120664",
+      "reference_ids": [
+        "04800092120664"
+      ],
+      "name": "Combi Triple Milk | 28g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714899274/432da5952c0fbb5700d0e7006db8d19d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800092120664",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/combi_triple_milk_28g_x_10s/p/1764405684714899274"
+    },
+    {
+      "id": "1764405684715309018",
+      "store_id": "2052",
+      "like_code": "443958",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱209.00",
+      "unit_price": 209.0,
+      "popularity": 6976,
+      "upc": "4141942006",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00041419420065",
+      "reference_ids": [
+        "00041419420065"
+      ],
+      "name": "Combos Biscuit Pizzeria | 6.3oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715309018/025e9ce423e4012f507ee34389bb28a5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00041419420065",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/combos_biscuit_pizzeria_6_3oz/p/1764405684715309018"
+    },
+    {
+      "id": "29502",
+      "store_id": "2052",
+      "like_code": "106973",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱229.00",
+      "unit_price": 229.0,
+      "popularity": 999999,
+      "upc": "4141942007",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00041419420072",
+      "reference_ids": [
+        "00041419420072",
+        "00041419162873"
+      ],
+      "name": "Combos Cheddar Cheese | 6.3 oz",
+      "size": "6.3 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "29502/2ac534e543ed1249c29d7464192061f1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00041419420072",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/combos_cheddar_cheese_6_3_oz/p/29502"
+    },
+    {
+      "id": "4820191",
+      "store_id": "2052",
+      "like_code": "15869",
+      "department_id": [
+        "22459304"
+      ],
+      "price": "₱369.00",
+      "unit_price": 369.0,
+      "popularity": 999999,
+      "upc": "412550152960",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04125501529600",
+      "reference_ids": [
+        "00041255015296",
+        "04125501529600",
+        "00412550152960"
+      ],
+      "name": "Comstock Original Royal Blueberry | 21oz",
+      "size": "21 oz",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "4820191/8b5de023309076ca2bb5e4f3f5a5e0a1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04125501529600",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 29",
+        "sequence": 29,
+        "identifier": "7d3418f0-e2d9-470e-b60b-2812cf00e9d7",
+        "id": "22356792"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/baking_needs/baking_mix/comstock_original_royal_blueberry_21oz/p/4820191"
+    },
+    {
+      "id": "1564405684702556661",
+      "store_id": "2052",
+      "like_code": "158121",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱525.00",
+      "unit_price": 525.0,
+      "popularity": 999999,
+      "upc": "841070200168",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410702001687",
+      "reference_ids": [
+        "08410702001687"
+      ],
+      "name": "Consigna Cabernet Sauvignon | 750ml",
+      "size": "pc",
+      "price_disclaimer": "7 days processing time for 50 orders and above.",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556661/2deb39c13ce344d72c744f93f2d128f4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410702001687",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/consigna_cabernet_sauvignon_750ml/p/1564405684702556661"
+    },
+    {
+      "id": "1564405684702556659",
+      "store_id": "2052",
+      "like_code": "255522",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱525.00",
+      "unit_price": 525.0,
+      "popularity": 999999,
+      "upc": "841070200167",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410702001670",
+      "reference_ids": [
+        "08410702001670"
+      ],
+      "name": "Consigna Chardonnay | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556659/a8ff6a37aedc6a92ec6ad9a8d7612da4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410702001670",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/consigna_chardonnay_750ml/p/1564405684702556659"
+    },
+    {
+      "id": "1564405684702556670",
+      "store_id": "2052",
+      "like_code": "161668",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱525.00",
+      "unit_price": 525.0,
+      "popularity": 999999,
+      "upc": "841070200956",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08410702009560",
+      "reference_ids": [
+        "08410702009560"
+      ],
+      "name": "Consigna Merlot | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556670/3f9bbff9df5914878ee512cf6ebd05e4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410702009560",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 19",
+        "sequence": 19,
+        "identifier": "e7539b13-985d-4041-bcc0-a36b115f8f69",
+        "id": "22356782"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/consigna_merlot_750ml/p/1564405684702556670"
+    },
+    {
+      "id": "1564405684709820953",
+      "store_id": "2052",
+      "like_code": "339600",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱525.00",
+      "unit_price": 525.0,
+      "popularity": 999999,
+      "upc": "841070205257",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08410702052573",
+      "reference_ids": [
+        "08410702052573"
+      ],
+      "name": "Consigna Tempranillo Shiraz | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709820953/bb9028cb4caeb17115372d08d90b9ab5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08410702052573",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/consigna_tempranillo_shiraz_750ml/p/1564405684709820953"
+    },
+    {
+      "id": "1564405684711917789",
+      "store_id": "2052",
+      "like_code": "346439",
+      "department_id": [
+        "22575948"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "200003464390",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034643905",
+      "reference_ids": [
+        "02000034643905"
+      ],
+      "name": "Cooler Insulated Picnic Bag | Assorted Colors",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711917789/1f29600b604fbbf0baa1c6942528e8b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034643905",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 44",
+        "sequence": 44,
+        "identifier": "6877070b-1cde-40cd-a68b-c2e0eaa746d5",
+        "id": "22356807"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/cooler_insulated_picnic_bag_assorted_colors/p/1564405684711917789"
+    },
+    {
+      "id": "1564405684711559763",
+      "store_id": "2052",
+      "like_code": "349367",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱249.00",
+      "unit_price": 249.0,
+      "popularity": 999999,
+      "upc": "200003493670",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034936700",
+      "reference_ids": [
+        "02000034936700"
+      ],
+      "name": "Copper Mask Face Mask | 1",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711559763/5c521087e71bb052a58413ab0b29e1ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034936700",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 40",
+        "sequence": 40,
+        "identifier": "a39800e4-5f02-411e-a27d-1d96e7c973c8",
+        "id": "22356803"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/copper_mask_face_mask_1/p/1564405684711559763"
+    },
+    {
+      "id": "1564405684711559765",
+      "store_id": "2052",
+      "like_code": "349369",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱249.00",
+      "unit_price": 249.0,
+      "popularity": 999999,
+      "upc": "200003493690",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034936908",
+      "reference_ids": [
+        "02000034936908"
+      ],
+      "name": "Copper Mask Face Mask | 3",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711559765/379b13ece307630da7559ee80ff3b441",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034936908",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/copper_mask_face_mask_3/p/1564405684711559765"
+    },
+    {
+      "id": "1564405684711559768",
+      "store_id": "2052",
+      "like_code": "349370",
+      "department_id": [
+        "22575951"
+      ],
+      "price": "₱249.00",
+      "unit_price": 249.0,
+      "popularity": 999999,
+      "upc": "200003493700",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000034937004",
+      "reference_ids": [
+        "02000034937004"
+      ],
+      "name": "Copper Mask Face Mask | 4",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711559768/7d416dc86bff6363f0ddcbad865a5ea3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000034937004",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 40",
+        "sequence": 40,
+        "identifier": "a39800e4-5f02-411e-a27d-1d96e7c973c8",
+        "id": "22356803"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/copper_mask_face_mask_4/p/1564405684711559768"
+    },
+    {
+      "id": "1564405684709914867",
+      "store_id": "2052",
+      "like_code": "340862",
+      "department_id": [
+        "22459261"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "upc": "480652354030",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806523540308",
+      "reference_ids": [
+        "04806523540308"
+      ],
+      "name": "Cordillera Treasures Heirloom Red Rice | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709914867/a239c63ebede48ef6a6778d5f9e7a81c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806523540308",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/rice_beans_grains/rice/cordillera_treasures_heirloom_red_rice_1kg/p/1564405684709914867"
+    },
+    {
+      "id": "1564405684712827586",
+      "store_id": "2052",
+      "like_code": "350360",
+      "department_id": [
+        "22575948"
+      ],
+      "price": "₱549.00",
+      "unit_price": 549.0,
+      "popularity": 999999,
+      "upc": "200003503600",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035036003",
+      "reference_ids": [
+        "02000035036003"
+      ],
+      "name": "Corduroy Body Pillow | 22in x 52in",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712827586/e1ddc8c3f7b774f36d857ea0b52be974",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035036003",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop-by-brand-waltermart-department-store/corduroy_body_pillow_22in_x_52in/p/1564405684712827586"
+    },
+    {
+      "id": "1564405684702213361",
+      "store_id": "2052",
+      "like_code": "80003",
+      "department_id": [
+        "1496160"
+      ],
+      "price": "₱17.25",
+      "unit_price": 17.25,
+      "popularity": 3867,
+      "upc": "480651101291",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511012916",
+      "reference_ids": [
+        "04806511012916"
+      ],
+      "name": "Corn Bits Original | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702213361/19c41ae69ffa94bf98405ef55b5e5e27",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806511012916",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/corn_bits_original_70g/p/1564405684702213361"
+    },
+    {
+      "id": "1564405684702547594",
+      "store_id": "2052",
+      "like_code": "76775",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱17.25",
+      "unit_price": 17.25,
+      "popularity": 1590,
+      "upc": "480651101002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511010028",
+      "reference_ids": [
+        "04806511010028"
+      ],
+      "name": "Corn Bits Special BBQ | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547594/9fd3953c1753a20f7113c98396249e61",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806511010028",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/corn_bits_special_bbq_70g/p/1564405684702547594"
+    },
+    {
+      "id": "1564405684702547591",
+      "store_id": "2052",
+      "like_code": "76776",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱17.25",
+      "unit_price": 17.25,
+      "popularity": 3861,
+      "upc": "480651101004",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511010042",
+      "reference_ids": [
+        "04806511010042"
+      ],
+      "name": "Corn Bits Special Chicken | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547591/1ecb2e366674e562e6c35f8db8bba292",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806511010042",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/corn_bits_special_chicken_70g/p/1564405684702547591"
+    },
+    {
+      "id": "1564405684702547593",
+      "store_id": "2052",
+      "like_code": "76777",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱18.00",
+      "unit_price": 18.0,
+      "popularity": 1877,
+      "upc": "480651101006",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511010066",
+      "reference_ids": [
+        "04806511010066"
+      ],
+      "name": "Corn Bits Special Mix | 70g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547593/65faa8a0e9fe2315aa2bb58419da60e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806511010066",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/corn_bits_special_mix_70g/p/1564405684702547593"
+    },
+    {
+      "id": "1564405684702547606",
+      "store_id": "2052",
+      "like_code": "97979",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱45.50",
+      "unit_price": 45.5,
+      "popularity": 999999,
+      "upc": "480651101503",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806511015030",
+      "reference_ids": [
+        "04806511015030"
+      ],
+      "name": "Corn Bits Supreme BBQ | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547606/2c20f8e1ae47ce2837f1046054701a5c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806511015030",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/corn_bits_supreme_bbq_200g/p/1564405684702547606"
+    }
+  ]
+}

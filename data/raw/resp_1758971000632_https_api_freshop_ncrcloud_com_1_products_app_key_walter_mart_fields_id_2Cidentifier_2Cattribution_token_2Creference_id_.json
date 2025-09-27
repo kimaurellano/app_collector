@@ -1,0 +1,3581 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702547583",
+      "store_id": "2052",
+      "like_code": "162904",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱287.00",
+      "unit_price": 287.0,
+      "popularity": 4567,
+      "upc": "480651086073",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860730",
+      "reference_ids": [
+        "04806510860730"
+      ],
+      "name": "Fisherfarms Rellenong Bangus | 325g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547583/1775c8c281eea2b36256a5dfb92669c6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860730",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fisherfarms_rellenong_bangus_325g/p/1564405684702547583"
+    },
+    {
+      "id": "1764405684714973600",
+      "store_id": "2052",
+      "like_code": "432410",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱555.00",
+      "unit_price": 555.0,
+      "popularity": 999999,
+      "upc": "480651086383",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510863830",
+      "reference_ids": [
+        "04806510863830"
+      ],
+      "name": "Fisherfarms Shrimp Cocktail Mango Sriracha | 5500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714973600/0368df87bfbf6aa9f71e8eae14e593dd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510863830",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_shrimp_cocktail_mango_sriracha_5500g/p/1764405684714973600"
+    },
+    {
+      "id": "1564405684713786890",
+      "store_id": "2052",
+      "like_code": "321188",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 7574,
+      "upc": "480651086421",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510864219",
+      "reference_ids": [
+        "04806510864219"
+      ],
+      "name": "Fisherfarms Shrimp Poppers | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786890/e270a5e032f18fcbf5345b7794bc7e66",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510864219",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_shrimp_poppers_210g/p/1564405684713786890"
+    },
+    {
+      "id": "1564405684713786892",
+      "store_id": "2052",
+      "like_code": "321208",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱119.00",
+      "unit_price": 119.0,
+      "popularity": 7583,
+      "upc": "480651086376",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510863762",
+      "reference_ids": [
+        "04806510863762"
+      ],
+      "name": "Fisherfarms Shrimp Poppers Original | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786892/2ed3ab62bf4b8a12c9fc79dd032c37cc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510863762",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_shrimp_poppers_original_200g/p/1564405684713786892"
+    },
+    {
+      "id": "1564405684713786891",
+      "store_id": "2052",
+      "like_code": "321184",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 9544,
+      "upc": "480651086416",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510864165",
+      "reference_ids": [
+        "04806510864165"
+      ],
+      "name": "Fisherfarms Shrimp Poppers Salted Egg | 210g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786891/3f88d4e9acb230b4e4bdd00bbdcaaf68",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510864165",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_shrimp_poppers_salted_egg_210g/p/1564405684713786891"
+    },
+    {
+      "id": "1564405684702547577",
+      "store_id": "2052",
+      "like_code": "162908",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱326.00",
+      "unit_price": 326.0,
+      "popularity": 9958,
+      "upc": "480651086026",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860266",
+      "reference_ids": [
+        "04806510860266"
+      ],
+      "name": "Fisherfarms Smoked Deboned Baby Milkfish | 450g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547577/3750ede1b65c16d8e8180d5c28661924",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860266",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_smoked_deboned_baby_milkfish_450g/p/1564405684702547577"
+    },
+    {
+      "id": "1564405684702547575",
+      "store_id": "2052",
+      "like_code": "162910",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱253.00",
+      "unit_price": 253.0,
+      "popularity": 9620,
+      "upc": "480651086018",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860181",
+      "reference_ids": [
+        "04806510860181"
+      ],
+      "name": "Fisherfarms Smoked Deboned Milkfish | 400g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547575/fb618ce2c3bcc6a998bb09f6f23c5bfb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860181",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_smoked_deboned_milkfish_400g/p/1564405684702547575"
+    },
+    {
+      "id": "1564405684702547589",
+      "store_id": "2052",
+      "like_code": "230111",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱462.00",
+      "unit_price": 462.0,
+      "popularity": 999999,
+      "upc": "480651086300",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510863007",
+      "reference_ids": [
+        "04806510863007"
+      ],
+      "name": "Fisherfarms Smoked Deboned Milkfish Pure Belly Cut | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547589/52f9434a578c8b9c455393a4120fdadc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806510863007",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fisherfarms_smoked_deboned_milkfish_pure_belly_cut_350g/p/1564405684702547589"
+    },
+    {
+      "id": "1564405684702547576",
+      "store_id": "2052",
+      "like_code": "162909",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱266.00",
+      "unit_price": 266.0,
+      "popularity": 10014,
+      "upc": "480651086016",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860167",
+      "reference_ids": [
+        "04806510860167"
+      ],
+      "name": "Fisherfarms Smoked Milkfish | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702547576/135a032b7bbc5df8d9fdcb350bbffa2e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860167",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_smoked_milkfish_350g/p/1564405684702547576"
+    },
+    {
+      "id": "1564405684713786888",
+      "store_id": "2052",
+      "like_code": "372805",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱222.00",
+      "unit_price": 222.0,
+      "popularity": 9457,
+      "upc": "480651086013",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806510860136",
+      "reference_ids": [
+        "04806510860136",
+        "02000037280589"
+      ],
+      "name": "Fisherfarms Unseasoned Deboned Milkfish | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713786888/c783887d54a6e62ab7b4a0266b97deeb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806510860136",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fisherfarms_unseasoned_deboned_milkfish_350g/p/1564405684713786888"
+    },
+    {
+      "id": "1564405684711725799",
+      "store_id": "2052",
+      "like_code": "329249",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱188.00",
+      "unit_price": 188.0,
+      "popularity": 3794,
+      "upc": "480653348002",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533480021",
+      "reference_ids": [
+        "04806533480021"
+      ],
+      "name": "Fishta Bangus Baby Marinated | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711725799/d27d5e4ce5f7dcffe3052f0fe0273bc7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533480021",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fishta_bangus_baby_marinated_350g/p/1564405684711725799"
+    },
+    {
+      "id": "1564405684712058532",
+      "store_id": "2052",
+      "like_code": "115704",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱325.00",
+      "unit_price": 325.0,
+      "popularity": 3234,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11570",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000115704",
+      "reference_ids": [
+        "00000000115704"
+      ],
+      "name": "Fishta Bangus | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712058532/2e5d1bc1e8e3efb6b596798a8e46ebbf",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3703611330113058996",
+          "reference_id": "tpr_2052_00000000115704_285_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712058532"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3234,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22817308",
+            "22883905",
+            "22919042",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5d75793c00b07d07146b56c81cfb1378",
+          "similarity_priority": 5,
+          "name": "Fishta Bangus | kg",
+          "sale_price": "₱285.00",
+          "sale_price_md": "**₱285.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        },
+        {
+          "id": "3703612329607314038",
+          "reference_id": "ad_2052_00000000115704_1_285_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712058532"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1617,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22817308",
+            "22883905",
+            "22919042",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "3fb23d4de6ac0028362fd9b8b2feb324",
+          "similarity_priority": 6,
+          "name": "Fishta Bangus | kg",
+          "sale_price": "₱285.00",
+          "sale_price_md": "**₱285.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-28",
+      "sale_price": "₱285.00",
+      "sale_price_md": "**₱285.00** (09/26/25 - 09/28/25)",
+      "sale_offer": {
+        "id": "3703611330113058996",
+        "reference_id": "tpr_2052_00000000115704_285_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712058532"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-28T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3234,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22634575",
+          "22817308",
+          "22883905",
+          "22919042",
+          "22983137"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "5d75793c00b07d07146b56c81cfb1378",
+        "similarity_priority": 5,
+        "name": "Fishta Bangus | kg",
+        "sale_price": "₱285.00",
+        "sale_price_md": "**₱285.00** (09/26/25 - 09/28/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-28"
+      },
+      "offer_sale_price": 285.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱285.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000115704",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_bangus_kg/p/1564405684712058532"
+    },
+    {
+      "id": "1564405684712058534",
+      "store_id": "2052",
+      "like_code": "115714",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱558.00",
+      "unit_price": 558.0,
+      "popularity": 3229,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11571",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000115714",
+      "reference_ids": [
+        "00000000115714"
+      ],
+      "name": "Fishta Bisugo Big | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712058534/97cd4457df19e6426f0db06a832e2140",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3703611330960308411",
+          "reference_id": "tpr_2052_00000000115714_435_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712058534"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3229,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22983139"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70902ffe2a42172e5e16d60d3336d607",
+          "similarity_priority": 5,
+          "name": "Fishta Bisugo Big | kg",
+          "sale_price": "₱435.00",
+          "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        },
+        {
+          "id": "3703612329632479863",
+          "reference_id": "ad_2052_00000000115714_1_435_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712058534"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1615,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22983139"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7b5fa3609a9a946358eda4ea264672dc",
+          "similarity_priority": 6,
+          "name": "Fishta Bisugo Big | kg",
+          "sale_price": "₱435.00",
+          "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-28",
+      "sale_price": "₱435.00",
+      "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+      "sale_offer": {
+        "id": "3703611330960308411",
+        "reference_id": "tpr_2052_00000000115714_435_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712058534"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-28T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3229,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22634575",
+          "22983139"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "70902ffe2a42172e5e16d60d3336d607",
+        "similarity_priority": 5,
+        "name": "Fishta Bisugo Big | kg",
+        "sale_price": "₱435.00",
+        "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-28"
+      },
+      "offer_sale_price": 435.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱435.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000115714",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_bisugo_big_kg/p/1564405684712058534"
+    },
+    {
+      "id": "1564405684711725801",
+      "store_id": "2052",
+      "like_code": "329254",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱218.00",
+      "unit_price": 218.0,
+      "popularity": 3783,
+      "upc": "480653348502",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533485026",
+      "reference_ids": [
+        "04806533485026",
+        "04809015446171"
+      ],
+      "name": "Fishta Cream Dory Regular | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711725801/a30ba4a7cd90b5d5d0ef42ad0d07d2ef",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3654327919909550454",
+          "reference_id": "tpr_2052_04806533485026_185_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684711725801"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2603,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22459153",
+            "22475760",
+            "22634575",
+            "22817308",
+            "22919042",
+            "22983137",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "72f557b74f03ed8c20851f22cd1aa536",
+          "similarity_priority": 5,
+          "name": "Fishta Cream Dory Regular | 1kg",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        },
+        {
+          "id": "3654328761169492615",
+          "reference_id": "ad_2052_04806533485026_1_185_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684711725801"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1302,
+          "product_tag_ids": [
+            "22356784",
+            "22459114",
+            "22459153",
+            "22475760",
+            "22634575",
+            "22817308",
+            "22919042",
+            "22983137",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "23ac9547604f59b9c6a2f937a057d37f",
+          "similarity_priority": 6,
+          "name": "Fishta Cream Dory Regular | 1kg",
+          "sale_price": "₱185.00",
+          "sale_price_md": "**₱185.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-28",
+      "sale_price": "₱185.00",
+      "sale_price_md": "**₱185.00** (09/26/25 - 09/28/25)",
+      "sale_offer": {
+        "id": "3654327919909550454",
+        "reference_id": "tpr_2052_04806533485026_185_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684711725801"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-28T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2603,
+        "product_tag_ids": [
+          "22356784",
+          "22459114",
+          "22459153",
+          "22475760",
+          "22634575",
+          "22817308",
+          "22919042",
+          "22983137",
+          "23098158"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "72f557b74f03ed8c20851f22cd1aa536",
+        "similarity_priority": 5,
+        "name": "Fishta Cream Dory Regular | 1kg",
+        "sale_price": "₱185.00",
+        "sale_price_md": "**₱185.00** (09/26/25 - 09/28/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-28"
+      },
+      "offer_sale_price": 185.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱185.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533485026",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_cream_dory_regular_1kg/p/1564405684711725801"
+    },
+    {
+      "id": "1564405684702528471",
+      "store_id": "2052",
+      "like_code": "225585",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱72.00",
+      "unit_price": 72.0,
+      "popularity": 3155,
+      "upc": "200002255858",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000022558587",
+      "reference_ids": [
+        "02000022558587"
+      ],
+      "name": "Fishta Dried Alamang | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702528471/2518a5d0e90ac15431f31c8263151552",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000022558587",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_alamang_100g/p/1564405684702528471"
+    },
+    {
+      "id": "1564405684702524103",
+      "store_id": "2052",
+      "like_code": "189749",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱268.00",
+      "unit_price": 268.0,
+      "popularity": 3049,
+      "upc": "200001897498",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000018974988",
+      "reference_ids": [
+        "02000018974988"
+      ],
+      "name": "Fishta Dried Bisugo | 200g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702524103/9fec82a700d33541bc22bf2811e2f4a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000018974988",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_bisugo_200g/p/1564405684702524103"
+    },
+    {
+      "id": "1564405684702522679",
+      "store_id": "2052",
+      "like_code": "175044",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱188.00",
+      "unit_price": 188.0,
+      "popularity": 3026,
+      "upc": "200001750448",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000017504483",
+      "reference_ids": [
+        "02000017504483"
+      ],
+      "name": "Fishta Dried Danggit | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702522679/bd3796352d93a59c6c29aac0c502c3da",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000017504483",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_danggit_100g/p/1564405684702522679"
+    },
+    {
+      "id": "1564405684702528472",
+      "store_id": "2052",
+      "like_code": "225586",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 56153,
+      "upc": "200002255868",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000022558686",
+      "reference_ids": [
+        "02000022558686"
+      ],
+      "name": "Fishta Dried Dilis | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702528472/7c738ed411351a61946b7345f0a00acf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000022558686",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_dilis_100g/p/1564405684702528472"
+    },
+    {
+      "id": "1564405684702522684",
+      "store_id": "2052",
+      "like_code": "175052",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱78.00",
+      "unit_price": 78.0,
+      "popularity": 3072,
+      "upc": "200001750528",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000017505282",
+      "reference_ids": [
+        "02000017505282"
+      ],
+      "name": "Fishta Dried Labahita | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702522684/c4f4b9b681656fb4491ddfcb9b65d8bf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000017505282",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_labahita_100g/p/1564405684702522684"
+    },
+    {
+      "id": "1564405684702522687",
+      "store_id": "2052",
+      "like_code": "175053",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱268.00",
+      "unit_price": 268.0,
+      "popularity": 3069,
+      "upc": "200001750538",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000017505381",
+      "reference_ids": [
+        "02000017505381"
+      ],
+      "name": "Fishta Dried Pusit | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702522687/50fa50adb05b572fd16d0d2b7c011786",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000017505381",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_pusit_100g/p/1564405684702522687"
+    },
+    {
+      "id": "1564405684702522689",
+      "store_id": "2052",
+      "like_code": "175055",
+      "department_id": [
+        "22459256"
+      ],
+      "price": "₱138.00",
+      "unit_price": 138.0,
+      "popularity": 3068,
+      "upc": "200001750558",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000017505589",
+      "reference_ids": [
+        "02000017505589"
+      ],
+      "name": "Fishta Dried Tunsoy Tuyo | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702522689/b8eb69ca0188a9273cabfb86fd94acb0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000017505589",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/local_specials/dried_seafood/fishta_dried_tunsoy_tuyo_200g/p/1564405684702522689"
+    },
+    {
+      "id": "1564405684702528191",
+      "store_id": "2052",
+      "like_code": "224846",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱288.00",
+      "unit_price": 288.0,
+      "popularity": 5,
+      "upc": "480653348000",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533480007",
+      "reference_ids": [
+        "04806533480007",
+        "02000022484688"
+      ],
+      "name": "Fishta Ebi Bry | 230g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702528191/52a2c2a71be55b5d5ad6cf3cd5aeacbb",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593283344939038",
+          "reference_id": "tpr_2052_04806533480007_248_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616543092160817"
+          ],
+          "product_ids": [
+            "1564405684702528191"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70fcbc9c2ebab501af4ac76a9995e7a4",
+          "similarity_priority": 5,
+          "name": "Fishta Ebi Bry | 230g",
+          "sale_price": "₱248.00",
+          "sale_price_md": "**₱248.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589737060907384",
+          "reference_id": "ad_2052_04806533480007_1_248_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616543092160817"
+          ],
+          "product_ids": [
+            "1564405684702528191"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "6e968e4938ec30f40807d02fbaa83276",
+          "similarity_priority": 6,
+          "name": "Fishta Ebi Bry | 230g",
+          "sale_price": "₱248.00",
+          "sale_price_md": "**₱248.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱248.00",
+      "sale_price_md": "**₱248.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593283344939038",
+        "reference_id": "tpr_2052_04806533480007_248_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616543092160817"
+        ],
+        "product_ids": [
+          "1564405684702528191"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22459152",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "70fcbc9c2ebab501af4ac76a9995e7a4",
+        "similarity_priority": 5,
+        "name": "Fishta Ebi Bry | 230g",
+        "sale_price": "₱248.00",
+        "sale_price_md": "**₱248.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 248.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱248.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533480007",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_ebi_bry_230g/p/1564405684702528191"
+    },
+    {
+      "id": "1764405684715266718",
+      "store_id": "2052",
+      "like_code": "405539",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 5,
+      "upc": "480653348944",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533489444",
+      "reference_ids": [
+        "04806533489444"
+      ],
+      "name": "Fishta Frozen Seafood Creamy Ebi Croquette | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715266718/032a7479fc0a6ad99a23718aa46f5334",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3622558146058270749",
+          "reference_id": "tpr_2052_04806533489444_245_0",
+          "type_id": "1",
+          "product_ids": [
+            "1764405684715266718"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0ac95217135502ff584d0bef4c41cb1f",
+          "similarity_priority": 5,
+          "name": "Fishta Frozen Seafood Creamy Ebi Croquette | 250g",
+          "sale_price": "₱245.00",
+          "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3622558148289640773",
+          "reference_id": "ad_2052_04806533489444_1_245_0",
+          "type_id": "2",
+          "product_ids": [
+            "1764405684715266718"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2806fe5f0928fe14bdd639d5988d03b9",
+          "similarity_priority": 6,
+          "name": "Fishta Frozen Seafood Creamy Ebi Croquette | 250g",
+          "sale_price": "₱245.00",
+          "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱245.00",
+      "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3622558146058270749",
+        "reference_id": "tpr_2052_04806533489444_245_0",
+        "type_id": "1",
+        "product_ids": [
+          "1764405684715266718"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22459152",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22634575",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0ac95217135502ff584d0bef4c41cb1f",
+        "similarity_priority": 5,
+        "name": "Fishta Frozen Seafood Creamy Ebi Croquette | 250g",
+        "sale_price": "₱245.00",
+        "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 245.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱245.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533489444",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_frozen_seafood_creamy_ebi_croquette_250g/p/1764405684715266718"
+    },
+    {
+      "id": "1764405684715266722",
+      "store_id": "2052",
+      "like_code": "405540",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 5,
+      "upc": "480653348945",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533489451",
+      "reference_ids": [
+        "04806533489451"
+      ],
+      "name": "Fishta Frozen Seafood Crispy Shrimp Ball | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715266722/0a241fcab30cd235e6befa3ce4874916",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3622558146528032865",
+          "reference_id": "tpr_2052_04806533489451_225_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616501778266185"
+          ],
+          "product_ids": [
+            "1764405684715266722"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b9855a45e7b31e67d68643179fd762ac",
+          "similarity_priority": 5,
+          "name": "Fishta Frozen Seafood Crispy Shrimp Ball | 250g",
+          "sale_price": "₱225.00",
+          "sale_price_md": "**₱225.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3622558147719215357",
+          "reference_id": "ad_2052_04806533489451_1_225_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616501778266185"
+          ],
+          "product_ids": [
+            "1764405684715266722"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "4b0cb62c8bd9911f2975281cb985965f",
+          "similarity_priority": 6,
+          "name": "Fishta Frozen Seafood Crispy Shrimp Ball | 250g",
+          "sale_price": "₱225.00",
+          "sale_price_md": "**₱225.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱225.00",
+      "sale_price_md": "**₱225.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3622558146528032865",
+        "reference_id": "tpr_2052_04806533489451_225_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616501778266185"
+        ],
+        "product_ids": [
+          "1764405684715266722"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22459152",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22634575",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b9855a45e7b31e67d68643179fd762ac",
+        "similarity_priority": 5,
+        "name": "Fishta Frozen Seafood Crispy Shrimp Ball | 250g",
+        "sale_price": "₱225.00",
+        "sale_price_md": "**₱225.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 225.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱225.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533489451",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_frozen_seafood_crispy_shrimp_ball_250g/p/1764405684715266722"
+    },
+    {
+      "id": "1764405684715266720",
+      "store_id": "2052",
+      "like_code": "405537",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 5,
+      "upc": "480653348946",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533489468",
+      "reference_ids": [
+        "04806533489468"
+      ],
+      "name": "Fishta Frozen Seafood Ebi Burger Shrimp Patty | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715266720/d3bb38e759f708133ac40376ce3328ae",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3622558146687416448",
+          "reference_id": "tpr_2052_04806533489468_245_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616574322948558"
+          ],
+          "product_ids": [
+            "1764405684715266720"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0ac95217135502ff584d0bef4c41cb1f",
+          "similarity_priority": 5,
+          "name": "Fishta Frozen Seafood Ebi Burger Shrimp Patty | 300g",
+          "sale_price": "₱245.00",
+          "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3622558148465801568",
+          "reference_id": "ad_2052_04806533489468_1_245_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616574322948558"
+          ],
+          "product_ids": [
+            "1764405684715266720"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2806fe5f0928fe14bdd639d5988d03b9",
+          "similarity_priority": 6,
+          "name": "Fishta Frozen Seafood Ebi Burger Shrimp Patty | 300g",
+          "sale_price": "₱245.00",
+          "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱245.00",
+      "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3622558146687416448",
+        "reference_id": "tpr_2052_04806533489468_245_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616574322948558"
+        ],
+        "product_ids": [
+          "1764405684715266720"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22459152",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22634575",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0ac95217135502ff584d0bef4c41cb1f",
+        "similarity_priority": 5,
+        "name": "Fishta Frozen Seafood Ebi Burger Shrimp Patty | 300g",
+        "sale_price": "₱245.00",
+        "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 245.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱245.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533489468",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_frozen_seafood_ebi_burger_shrimp_patty_300g/p/1764405684715266720"
+    },
+    {
+      "id": "1764405684715266724",
+      "store_id": "2052",
+      "like_code": "405538",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱295.00",
+      "unit_price": 295.0,
+      "popularity": 5,
+      "upc": "480653348949",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533489499",
+      "reference_ids": [
+        "04806533489499"
+      ],
+      "name": "Fishta Frozen Seafood Popcorn Shrimp | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715266724/c38fcdda2e1d7254861eb1816ae9d930",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3622558149329828301",
+          "reference_id": "tpr_2052_04806533489499_245_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616611870358189"
+          ],
+          "product_ids": [
+            "1764405684715266724"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "0ac95217135502ff584d0bef4c41cb1f",
+          "similarity_priority": 5,
+          "name": "Fishta Frozen Seafood Popcorn Shrimp | 250g",
+          "sale_price": "₱245.00",
+          "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3622558148457412959",
+          "reference_id": "ad_2052_04806533489499_1_245_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3722616611870358189"
+          ],
+          "product_ids": [
+            "1764405684715266724"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3,
+          "product_tag_ids": [
+            "379851",
+            "414223",
+            "22459152",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22634575",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "2806fe5f0928fe14bdd639d5988d03b9",
+          "similarity_priority": 6,
+          "name": "Fishta Frozen Seafood Popcorn Shrimp | 250g",
+          "sale_price": "₱245.00",
+          "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱245.00",
+      "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3622558149329828301",
+        "reference_id": "tpr_2052_04806533489499_245_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3722616611870358189"
+        ],
+        "product_ids": [
+          "1764405684715266724"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5,
+        "product_tag_ids": [
+          "379851",
+          "414223",
+          "22459152",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22634575",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "0ac95217135502ff584d0bef4c41cb1f",
+        "similarity_priority": 5,
+        "name": "Fishta Frozen Seafood Popcorn Shrimp | 250g",
+        "sale_price": "₱245.00",
+        "sale_price_md": "**₱245.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 245.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱245.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533489499",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_frozen_seafood_popcorn_shrimp_250g/p/1764405684715266724"
+    },
+    {
+      "id": "1564405684713094199",
+      "store_id": "2052",
+      "like_code": "329242",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱258.00",
+      "unit_price": 258.0,
+      "popularity": 3796,
+      "upc": "480653348025",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533480250",
+      "reference_ids": [
+        "04806533480250"
+      ],
+      "name": "Fishta Frozen Squid Ring | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713094199/70788c2b34c906f088c60d1a84703a41",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533480250",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_frozen_squid_ring_500g/p/1564405684713094199"
+    },
+    {
+      "id": "1564405684712058535",
+      "store_id": "2052",
+      "like_code": "115717",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱392.00",
+      "unit_price": 392.0,
+      "popularity": 3238,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11571",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000115717",
+      "reference_ids": [
+        "00000000115717"
+      ],
+      "name": "Fishta Galunggong Big | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712058535/ece8d8b2cdf55830c664b21d27008b9e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3654327869233969223",
+          "reference_id": "tpr_2052_00000000115717_310_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712058535"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3238,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22919042",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "8fb48460e17f4e06cdf8841c6e57350c",
+          "similarity_priority": 5,
+          "name": "Fishta Galunggong Big | kg",
+          "sale_price": "₱310.00",
+          "sale_price_md": "**₱310.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        },
+        {
+          "id": "3654328747663833667",
+          "reference_id": "ad_2052_00000000115717_1_310_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712058535"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1619,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22919042",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "8d44c7832a1cff47a9180dffb41490e9",
+          "similarity_priority": 6,
+          "name": "Fishta Galunggong Big | kg",
+          "sale_price": "₱310.00",
+          "sale_price_md": "**₱310.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-28",
+      "sale_price": "₱310.00",
+      "sale_price_md": "**₱310.00** (09/26/25 - 09/28/25)",
+      "sale_offer": {
+        "id": "3654327869233969223",
+        "reference_id": "tpr_2052_00000000115717_310_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712058535"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-28T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3238,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22634575",
+          "22919042",
+          "22983137"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "8fb48460e17f4e06cdf8841c6e57350c",
+        "similarity_priority": 5,
+        "name": "Fishta Galunggong Big | kg",
+        "sale_price": "₱310.00",
+        "sale_price_md": "**₱310.00** (09/26/25 - 09/28/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-28"
+      },
+      "offer_sale_price": 310.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱310.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000115717",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_galunggong_big_kg/p/1564405684712058535"
+    },
+    {
+      "id": "1564405684710453793",
+      "store_id": "2052",
+      "like_code": "129627",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱488.00",
+      "unit_price": 488.0,
+      "popularity": 3802,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12962",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000129627",
+      "reference_ids": [
+        "00000000129627"
+      ],
+      "name": "Fishta Galunggong Smoked | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710453793/d9287dbbc33562c7e69732d6e23a1ba3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000129627",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fishta_galunggong_smoked_kg/p/1564405684710453793"
+    },
+    {
+      "id": "1564405684710453794",
+      "store_id": "2052",
+      "like_code": "129942",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱508.00",
+      "unit_price": 508.0,
+      "popularity": 3700,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "12994",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000129942",
+      "reference_ids": [
+        "00000000129942"
+      ],
+      "name": "Fishta Matambaka | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710453794/3fed0302f46f85a447e3579729c0bcad",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3654327869250746443",
+          "reference_id": "tpr_2052_00000000129942_435_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684710453794"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3700,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "70902ffe2a42172e5e16d60d3336d607",
+          "similarity_priority": 5,
+          "name": "Fishta Matambaka | kg",
+          "sale_price": "₱435.00",
+          "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        },
+        {
+          "id": "3654328748880181837",
+          "reference_id": "ad_2052_00000000129942_1_435_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684710453794"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1850,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7b5fa3609a9a946358eda4ea264672dc",
+          "similarity_priority": 6,
+          "name": "Fishta Matambaka | kg",
+          "sale_price": "₱435.00",
+          "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-28",
+      "sale_price": "₱435.00",
+      "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+      "sale_offer": {
+        "id": "3654327869250746443",
+        "reference_id": "tpr_2052_00000000129942_435_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684710453794"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-28T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3700,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "70902ffe2a42172e5e16d60d3336d607",
+        "similarity_priority": 5,
+        "name": "Fishta Matambaka | kg",
+        "sale_price": "₱435.00",
+        "sale_price_md": "**₱435.00** (09/26/25 - 09/28/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-28"
+      },
+      "offer_sale_price": 435.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱435.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000129942",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_matambaka_kg/p/1564405684710453794"
+    },
+    {
+      "id": "1564405684704766593",
+      "store_id": "2052",
+      "like_code": "116145",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱588.00",
+      "unit_price": 588.0,
+      "popularity": 3206,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11614",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000116145",
+      "reference_ids": [
+        "00000000116145"
+      ],
+      "name": "Fishta Pampano | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766593/0f555630347a76be9e50f44ec2fb0e2d",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593238801430918",
+          "reference_id": "tpr_2052_00000000116145_558_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3709099557888473798",
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3709099560891595474",
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3709103224926517618",
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3711817692022324213",
+            "3722616745928702285"
+          ],
+          "product_ids": [
+            "1564405684704766593"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3206,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22817308",
+            "22919042",
+            "22983137",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "96da72ad568c410ac7a77878a35ae412",
+          "similarity_priority": 5,
+          "name": "Fishta Pampano | kg",
+          "sale_price": "₱558.00",
+          "sale_price_md": "**₱558.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589652344354919",
+          "reference_id": "ad_2052_00000000116145_1_558_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3709099557888473798",
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3709099560891595474",
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3709103224926517618",
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3711817692022324213",
+            "3722616745928702285"
+          ],
+          "product_ids": [
+            "1564405684704766593"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1603,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22817308",
+            "22919042",
+            "22983137",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "48e55397b22f94f3953c4ee8a1c9b53b",
+          "similarity_priority": 6,
+          "name": "Fishta Pampano | kg",
+          "sale_price": "₱558.00",
+          "sale_price_md": "**₱558.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱558.00",
+      "sale_price_md": "**₱558.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593238801430918",
+        "reference_id": "tpr_2052_00000000116145_558_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3709099557888473798",
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3709099560891595474",
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3709103224926517618",
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3711817692022324213",
+          "3722616745928702285"
+        ],
+        "product_ids": [
+          "1564405684704766593"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3206,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22634575",
+          "22817308",
+          "22919042",
+          "22983137",
+          "23098158"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "96da72ad568c410ac7a77878a35ae412",
+        "similarity_priority": 5,
+        "name": "Fishta Pampano | kg",
+        "sale_price": "₱558.00",
+        "sale_price_md": "**₱558.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 558.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱558.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000116145",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_pampano_kg/p/1564405684704766593"
+    },
+    {
+      "id": "1564405684711553251",
+      "store_id": "2052",
+      "like_code": "117245",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱1,258.00",
+      "unit_price": 1258.0,
+      "popularity": 3293,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11724",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000117245",
+      "reference_ids": [
+        "00000000117245"
+      ],
+      "name": "Fishta Salmon Loin | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711553251/aed0a34516fc63634c93c02d705e984f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000117245",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_salmon_loin_kg/p/1564405684711553251"
+    },
+    {
+      "id": "1564405684713094197",
+      "store_id": "2052",
+      "like_code": "329248",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱178.00",
+      "unit_price": 178.0,
+      "popularity": 3795,
+      "upc": "480653348011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533480113",
+      "reference_ids": [
+        "04806533480113"
+      ],
+      "name": "Fishta Salmon Sinigang Pack | 350g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713094197/53191dbd175d7cfa94af55a0ae199bbb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533480113",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/fishta_salmon_sinigang_pack_350g/p/1564405684713094197"
+    },
+    {
+      "id": "1564405684712058536",
+      "store_id": "2052",
+      "like_code": "189754",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱1,085.00",
+      "unit_price": 1085.0,
+      "popularity": 3220,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "18975",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000189754",
+      "reference_ids": [
+        "00000000189754"
+      ],
+      "name": "Fishta Salmon Steak | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684712058536/90bbf358cf828b5bc0ebacdc81929aed",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3654327869267523661",
+          "reference_id": "tpr_2052_00000000189754_935_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684712058536"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3220,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22817308",
+            "22919042",
+            "22983137",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "068afeca628cd22290a0fdb97f7cf915",
+          "similarity_priority": 5,
+          "name": "Fishta Salmon Steak | kg",
+          "sale_price": "₱935.00",
+          "sale_price_md": "**₱935.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        },
+        {
+          "id": "3654328749299612239",
+          "reference_id": "ad_2052_00000000189754_1_935_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684712058536"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-28T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1610,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22817308",
+            "22919042",
+            "22983137",
+            "23098158"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "52501830d5da2a077f92e7eef5250861",
+          "similarity_priority": 6,
+          "name": "Fishta Salmon Steak | kg",
+          "sale_price": "₱935.00",
+          "sale_price_md": "**₱935.00** (09/26/25 - 09/28/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-28"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-28",
+      "sale_price": "₱935.00",
+      "sale_price_md": "**₱935.00** (09/26/25 - 09/28/25)",
+      "sale_offer": {
+        "id": "3654327869267523661",
+        "reference_id": "tpr_2052_00000000189754_935_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684712058536"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-28T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3220,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22817308",
+          "22919042",
+          "22983137",
+          "23098158"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "068afeca628cd22290a0fdb97f7cf915",
+        "similarity_priority": 5,
+        "name": "Fishta Salmon Steak | kg",
+        "sale_price": "₱935.00",
+        "sale_price_md": "**₱935.00** (09/26/25 - 09/28/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-28"
+      },
+      "offer_sale_price": 935.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱935.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000189754",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_salmon_steak_kg/p/1564405684712058536"
+    },
+    {
+      "id": "1564405684707201199",
+      "store_id": "2052",
+      "like_code": "337692",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱388.00",
+      "unit_price": 388.0,
+      "popularity": 999999,
+      "upc": "480653348837",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533488379",
+      "reference_ids": [
+        "04806533488379"
+      ],
+      "name": "Fishta Seabass | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707201199/be5a659bd85a5d1005cebd26dc901dca",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806533488379",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_seabass_500g/p/1564405684707201199"
+    },
+    {
+      "id": "1564405684709831360",
+      "store_id": "2052",
+      "like_code": "336692",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱188.00",
+      "unit_price": 188.0,
+      "popularity": 3710,
+      "upc": "480653348813",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533488133",
+      "reference_ids": [
+        "04806533488133"
+      ],
+      "name": "Fishta Seafood Mix | pack",
+      "size": "pack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709831360/b9c9444b4635790b47140794fc9a47fe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533488133",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fishta_seafood_mix_pack/p/1564405684709831360"
+    },
+    {
+      "id": "1564405684711725802",
+      "store_id": "2052",
+      "like_code": "336557",
+      "department_id": [
+        "22459114"
+      ],
+      "price": "₱188.00",
+      "unit_price": 188.0,
+      "popularity": 3673,
+      "upc": "480653348007",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533480076",
+      "reference_ids": [
+        "04806533480076",
+        "04806533487730"
+      ],
+      "name": "Fishta Smoked Galunggong | pack",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711725802/1bc32138114f803bdd33f352df464d09",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04806533480076",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_seafood/fishta_smoked_galunggong_pack/p/1564405684711725802"
+    },
+    {
+      "id": "1564405684712058533",
+      "store_id": "2052",
+      "like_code": "115711",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱668.00",
+      "unit_price": 668.0,
+      "popularity": 3231,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11571",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000115711",
+      "reference_ids": [
+        "00000000115711"
+      ],
+      "name": "Fishta Talakitok Big | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712058533/335999627c6e3e41d170e2b4f67bcf79",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000115711",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_talakitok_big_kg/p/1564405684712058533"
+    },
+    {
+      "id": "1564405684712286144",
+      "store_id": "2052",
+      "like_code": "359191",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱168.00",
+      "unit_price": 168.0,
+      "popularity": 999999,
+      "upc": "480653348817",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806533488171",
+      "reference_ids": [
+        "04806533488171"
+      ],
+      "name": "Fishta Tamban Smoked | 300g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712286144/236ad1bebeb1070aa1d474492e9c93a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806533488171",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_tamban_smoked_300g/p/1564405684712286144"
+    },
+    {
+      "id": "1564405684703675514",
+      "store_id": "2052",
+      "like_code": "115706",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱189.00",
+      "unit_price": 189.0,
+      "popularity": 3233,
+      "quantity_minimum": 0.5,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11570",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000115706",
+      "reference_ids": [
+        "00000000115706"
+      ],
+      "name": "Fishta Tilapia Large | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675514/76fe6685b1aefc49980b3249adf1684c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593238784653701",
+          "reference_id": "tpr_2052_00000000115706_162_0",
+          "type_id": "1",
+          "circular_ids": [
+            "3709099557888473798",
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3709099560891595474",
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3709103224926517618",
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3711817677694581651",
+            "3722616725997369583"
+          ],
+          "product_ids": [
+            "1564405684703675514"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3233,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22883905",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "ef1ccb228f45f9ec9fd3661c3eb135a3",
+          "similarity_priority": 5,
+          "name": "Fishta Tilapia Large | kg",
+          "sale_price": "₱162.00",
+          "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589652335966310",
+          "reference_id": "ad_2052_00000000115706_1_162_0",
+          "type_id": "2",
+          "circular_ids": [
+            "3709099557888473798",
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3709099560891595474",
+            "3719245180142893343"
+          ],
+          "circular_page_ids": [
+            "3709103224926517618",
+            "3719247207912717273"
+          ],
+          "circular_spot_ids": [
+            "3711817677694581651",
+            "3722616725997369583"
+          ],
+          "product_ids": [
+            "1564405684703675514"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1617,
+          "product_tag_ids": [
+            "21512974",
+            "21681648",
+            "22459153",
+            "22474153",
+            "22475760",
+            "22634575",
+            "22883905",
+            "22983137"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "f71076ae87b79eae508eff6e82c8b2da",
+          "similarity_priority": 6,
+          "name": "Fishta Tilapia Large | kg",
+          "sale_price": "₱162.00",
+          "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱162.00",
+      "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593238784653701",
+        "reference_id": "tpr_2052_00000000115706_162_0",
+        "type_id": "1",
+        "circular_ids": [
+          "3709099557888473798",
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3709099560891595474",
+          "3719245180142893343"
+        ],
+        "circular_page_ids": [
+          "3709103224926517618",
+          "3719247207912717273"
+        ],
+        "circular_spot_ids": [
+          "3711817677694581651",
+          "3722616725997369583"
+        ],
+        "product_ids": [
+          "1564405684703675514"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3233,
+        "product_tag_ids": [
+          "21512974",
+          "21681648",
+          "22459153",
+          "22474153",
+          "22475760",
+          "22634575",
+          "22883905",
+          "22983137"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "ef1ccb228f45f9ec9fd3661c3eb135a3",
+        "similarity_priority": 5,
+        "name": "Fishta Tilapia Large | kg",
+        "sale_price": "₱162.00",
+        "sale_price_md": "**₱162.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 162.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱162.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000115706",
+      "quantity_initial": 0.5,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_tilapia_large_kg/p/1564405684703675514"
+    },
+    {
+      "id": "1564405684711553252",
+      "store_id": "2052",
+      "like_code": "161435",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱838.00",
+      "unit_price": 838.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "16143",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000161435",
+      "reference_ids": [
+        "00000000161435"
+      ],
+      "name": "Fishta Vannamei Jumbo | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711553252/76c2f246cf5f19ec530ee8c3b3439734",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000161435",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_vannamei_jumbo_kg/p/1564405684711553252"
+    },
+    {
+      "id": "1564405684703675517",
+      "store_id": "2052",
+      "like_code": "115726",
+      "department_id": [
+        "22459153"
+      ],
+      "price": "₱828.00",
+      "unit_price": 828.0,
+      "popularity": 3239,
+      "quantity_minimum": 0.5,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "11572",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000115726",
+      "reference_ids": [
+        "00000000115726"
+      ],
+      "name": "Fishta White Shrimp Big | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684703675517/7f453280407879edb8c958c4c1549742",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000115726",
+      "quantity_initial": 0.5,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/seafood/fishta_white_shrimp_big_kg/p/1564405684703675517"
+    },
+    {
+      "id": "1564405684702504653",
+      "store_id": "2052",
+      "like_code": "33846",
+      "department_id": [
+        "22448446"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 61,
+      "upc": "75051501745",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00750515017450",
+      "reference_ids": [
+        "00750515017450"
+      ],
+      "name": "Fita Crackers | 30g x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504653/bdccc64f04155553cfabb7b46dc42abe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00750515017450",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/monde-nissin/fita_crackers_30g_x_10s/p/1564405684702504653"
+    },
+    {
+      "id": "1564405684704732967",
+      "store_id": "2052",
+      "like_code": "287532",
+      "department_id": [
+        "22448446"
+      ],
+      "price": "₱96.50",
+      "unit_price": 96.5,
+      "popularity": 771,
+      "upc": "75051501752",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00750515017528",
+      "reference_ids": [
+        "00750515017528"
+      ],
+      "name": "Fita Crackers | 30g x 15s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732967/22af48c296735d198e6206a41def3fc4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00750515017528",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/monde-nissin/fita_crackers_30g_x_15s/p/1564405684704732967"
+    },
+    {
+      "id": "5514417",
+      "store_id": "2052",
+      "like_code": "4972",
+      "department_id": [
+        "22448446"
+      ],
+      "price": "₱211.00",
+      "unit_price": 211.0,
+      "popularity": 4215,
+      "upc": "75051501710",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00750515017108",
+      "reference_ids": [
+        "00750515017108"
+      ],
+      "name": "Fita Crackers | 600g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "5514417/482a84fcaaa34c5454fb1e2035bba5fc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00750515017108",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/monde-nissin/fita_crackers_600g/p/5514417"
+    },
+    {
+      "id": "1564405684702504651",
+      "store_id": "2052",
+      "like_code": "45168",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱20.75",
+      "unit_price": 20.75,
+      "popularity": 5616,
+      "upc": "75051501740",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00750515017405",
+      "reference_ids": [
+        "00750515017405"
+      ],
+      "name": "Fita Crackers Slugs | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702504651/716422b64a8e41aa75092c72e44399ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00750515017405",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 13",
+        "sequence": 13,
+        "identifier": "e39ee60d-c7f5-4f12-aea7-af980951e8ca",
+        "id": "22356776"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/fita_crackers_slugs_80g/p/1564405684702504651"
+    },
+    {
+      "id": "1564405684702558820",
+      "store_id": "2052",
+      "like_code": "200306",
+      "department_id": [
+        "22459139"
+      ],
+      "price": "₱34.50",
+      "unit_price": 34.5,
+      "popularity": 7162,
+      "upc": "899280206317",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08992802063173",
+      "reference_ids": [
+        "08992802063173"
+      ],
+      "name": "Fitbar Crispy Rice Bar Chocolate | 22g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558820/d2d63ac525dcd93aa158a14ca80a6ed9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08992802063173",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/oats_cereals/fitbar_crispy_rice_bar_chocolate_22g/p/1564405684702558820"
+    },
+    {
+      "id": "1564405684702558815",
+      "store_id": "2052",
+      "like_code": "159709",
+      "department_id": [
+        "22459139"
+      ],
+      "price": "₱34.50",
+      "unit_price": 34.5,
+      "popularity": 5689,
+      "upc": "899280206301",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08992802063012",
+      "reference_ids": [
+        "08992802063012"
+      ],
+      "name": "Fitbar Fruits | 22g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558815/42bcdaf285dcf775685027c5a5d27abd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08992802063012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 10",
+        "sequence": 10,
+        "identifier": "3c5a3b9a-4b18-4ae0-8eb4-ff4069661a77",
+        "id": "22356773"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/bakery_breakfast/oats_cereals/fitbar_fruits_22g/p/1564405684702558815"
+    }
+  ]
+}

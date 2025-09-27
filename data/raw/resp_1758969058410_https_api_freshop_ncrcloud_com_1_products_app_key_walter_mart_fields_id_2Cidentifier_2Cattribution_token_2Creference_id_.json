@@ -1,0 +1,2201 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684713407862",
+      "store_id": "2052",
+      "like_code": "309277",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱1,310.00",
+      "unit_price": 1310.0,
+      "popularity": 3898,
+      "quantity_step": 1.0,
+      "upc": "480015315166",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153151668",
+      "reference_ids": [
+        "04800153151668",
+        "04800153150685"
+      ],
+      "name": "Bonakid Milk Vanilla Pre-School | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "FREE Tumbler for min purchase P2500 with P500 worth participating Kids Club items. Code: FREETUMBLER",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684713407862/df4afeb0dfcf42edc7987fee6100ea47",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153151668",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bonakid_milk_vanilla_pre_school_2_4kg/p/1564405684713407862"
+    },
+    {
+      "id": "1564405684711678366",
+      "store_id": "2052",
+      "like_code": "349659",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱256.00",
+      "unit_price": 256.0,
+      "popularity": 999999,
+      "upc": "480015315124",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153151248",
+      "reference_ids": [
+        "04800153151248"
+      ],
+      "name": "Bonamil Milk Vanilla | 350g",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711678366/723e752eb76d7eaafcf81db50600fea6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800153151248",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bonamil_milk_vanilla_350g/p/1564405684711678366"
+    },
+    {
+      "id": "1564405684714427784",
+      "store_id": "2052",
+      "like_code": "309279",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱1,470.00",
+      "unit_price": 1470.0,
+      "popularity": 7075,
+      "upc": "480015315175",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153151750",
+      "reference_ids": [
+        "04800153151750",
+        "04800153150661"
+      ],
+      "name": "Bonamil Milk Vanilla (6-12 Months) | 2.4kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714427784/5ff0a44b66ba53c3ff8dc1c6a632b5d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153151750",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bonamil_milk_vanilla_6_12_months_2_4kg/p/1564405684714427784"
+    },
+    {
+      "id": "1564405684702536284",
+      "store_id": "2052",
+      "like_code": "131683",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱38.00",
+      "unit_price": 38.0,
+      "popularity": 999999,
+      "upc": "480002901361",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800029013618",
+      "reference_ids": [
+        "04800029013618"
+      ],
+      "name": "Bonfire Marshmallows | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702536284/170d013ce500e92a74920e67b6893ebe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800029013618",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/bonfire_marshmallows_135g/p/1564405684702536284"
+    },
+    {
+      "id": "1564405684702551642",
+      "store_id": "2052",
+      "like_code": "192697",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱100.50",
+      "unit_price": 100.5,
+      "popularity": 999999,
+      "upc": "480901103851",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038516",
+      "reference_ids": [
+        "04809011038516"
+      ],
+      "name": "BongBong's Brojas | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551642/8b8f8101c3c72e2e9d5a3511ace1513c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809011038516",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_brojas_100g/p/1564405684702551642"
+    },
+    {
+      "id": "1564405684702551637",
+      "store_id": "2052",
+      "like_code": "255988",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱102.50",
+      "unit_price": 102.5,
+      "popularity": 999999,
+      "upc": "480901103861",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038615",
+      "reference_ids": [
+        "04809011038615"
+      ],
+      "name": "BongBong's Native Meringue | 85g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551637/1e505f644ab743b86d930ef60d0170a7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809011038615",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/bong_bong_s_native_meringue_85g/p/1564405684702551637"
+    },
+    {
+      "id": "1564405684702551629",
+      "store_id": "2052",
+      "like_code": "131759",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱109.50",
+      "unit_price": 109.5,
+      "popularity": 3139,
+      "upc": "480901103810",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038103",
+      "reference_ids": [
+        "04809011038103"
+      ],
+      "name": "BongBong's Piaya Plain | 380g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551629/be43f8230a591f0aef1d8bc1e6b8b4b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011038103",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_piaya_plain_380g/p/1564405684702551629"
+    },
+    {
+      "id": "1564405684702551639",
+      "store_id": "2052",
+      "like_code": "255991",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱107.50",
+      "unit_price": 107.5,
+      "popularity": 2774,
+      "upc": "480901103897",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038974",
+      "reference_ids": [
+        "04809011038974"
+      ],
+      "name": "BongBong's Special Garlic Biscocho | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551639/af58db5356a9ff62f161edbc0d1ffb2e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011038974",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 31",
+        "sequence": 31,
+        "identifier": "47d7dd5a-8fda-49d4-94f9-2eed21bb80f0",
+        "id": "22356794"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_special_garlic_biscocho_180g/p/1564405684702551639"
+    },
+    {
+      "id": "1564405684702551636",
+      "store_id": "2052",
+      "like_code": "266105",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱107.50",
+      "unit_price": 107.5,
+      "popularity": 999999,
+      "upc": "480901103827",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038271",
+      "reference_ids": [
+        "04809011038271"
+      ],
+      "name": "BongBong's Special Otap | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551636/350234d1ed36239463f228c69fd4e15a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04809011038271",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_special_otap_200g/p/1564405684702551636"
+    },
+    {
+      "id": "1564405684702551634",
+      "store_id": "2052",
+      "like_code": "255990",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱71.00",
+      "unit_price": 71.0,
+      "popularity": 2775,
+      "upc": "480901103848",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038486",
+      "reference_ids": [
+        "04809011038486"
+      ],
+      "name": "BongBong's Special Piaya | 190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551634/6794a3f8a48a4798ef9bb8c74ec8c79c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011038486",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_special_piaya_190g/p/1564405684702551634"
+    },
+    {
+      "id": "1564405684702551644",
+      "store_id": "2052",
+      "like_code": "255989",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱75.50",
+      "unit_price": 75.5,
+      "popularity": 2779,
+      "upc": "480901104201",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011042018",
+      "reference_ids": [
+        "04809011042018"
+      ],
+      "name": "BongBong's Special Ube Piaya | 190g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551644/0a6e2355c0a81549d08a18ed4dc1eccb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011042018",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_special_ube_piaya_190g/p/1564405684702551644"
+    },
+    {
+      "id": "1564405684702551640",
+      "store_id": "2052",
+      "like_code": "131758",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱120.50",
+      "unit_price": 120.5,
+      "popularity": 3038,
+      "upc": "480901103889",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038899",
+      "reference_ids": [
+        "04809011038899"
+      ],
+      "name": "BongBong's Special Ube Piaya | 380g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551640/2db4b8d5b2e3e33b90574200f4b8d929",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011038899",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_special_ube_piaya_380g/p/1564405684702551640"
+    },
+    {
+      "id": "1564405684702551635",
+      "store_id": "2052",
+      "like_code": "192698",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱84.50",
+      "unit_price": 84.5,
+      "popularity": 3162,
+      "upc": "480901103845",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809011038455",
+      "reference_ids": [
+        "04809011038455"
+      ],
+      "name": "BongBong's Toasted Muffin | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702551635/502c1794d0aa4060836741d8eaf37ada",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809011038455",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/bong_bong_s_toasted_muffin_100g/p/1564405684702551635"
+    },
+    {
+      "id": "1564405684702538797",
+      "store_id": "2052",
+      "like_code": "137286",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱842.00",
+      "unit_price": 842.0,
+      "popularity": 9221,
+      "upc": "480015314906",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153149061",
+      "reference_ids": [
+        "04800153149061",
+        "04800153102004"
+      ],
+      "name": "Bonna Milk Vanilla (0-6 Months) | 1.2kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538797/6c66fbde0aded500137e3f35840a78dd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153149061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bonna_milk_vanilla_0_6_months_1_2kg/p/1564405684702538797"
+    },
+    {
+      "id": "1564405684702538844",
+      "store_id": "2052",
+      "like_code": "226025",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱1,265.00",
+      "unit_price": 1265.0,
+      "popularity": 8032,
+      "upc": "480015314908",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153149085",
+      "reference_ids": [
+        "04800153149085",
+        "04800153138706"
+      ],
+      "name": "Bonna Milk Vanilla (0-6 Months) | 2kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538844/702d1117705906d6b3fed9742a4181b8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153149085",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bonna_milk_vanilla_0_6_months_2kg/p/1564405684702538844"
+    },
+    {
+      "id": "1564405684702538793",
+      "store_id": "2052",
+      "like_code": "137288",
+      "department_id": [
+        "1496189"
+      ],
+      "price": "₱798.00",
+      "unit_price": 798.0,
+      "popularity": 8774,
+      "upc": "480015314911",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800153149115",
+      "reference_ids": [
+        "04800153149115",
+        "04800153101014"
+      ],
+      "name": "Bonna Milk Vanilla (6-12 Months) | 1.2kg",
+      "size": "pc",
+      "price_disclaimer": "FREE DELIVERY ; USE PROMO CODE : WMBABYFREEDEL",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538793/99086b4cb9033d3bddaa6edb1e2569ea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800153149115",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Front of Store",
+        "sequence": 45,
+        "identifier": "e185a965-d356-4cc6-8b61-af2d341e5a40",
+        "id": "22388993"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/departments/shop_by_category-baby_and_kids/bonna_milk_vanilla_6_12_months_1_2kg/p/1564405684702538793"
+    },
+    {
+      "id": "1564405684712495419",
+      "store_id": "2052",
+      "like_code": "361594",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱61.00",
+      "unit_price": 61.0,
+      "popularity": 550,
+      "upc": "480488862063",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888620635",
+      "reference_ids": [
+        "04804888620635"
+      ],
+      "name": "Bo's Coffee Latte Iced Brew | 240ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712495419/2d961860c075497bdff1997d5d8b977e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888620635",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/bo_s_coffee_latte_iced_brew_240ml/p/1564405684712495419"
+    },
+    {
+      "id": "1564405684712495417",
+      "store_id": "2052",
+      "like_code": "361592",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱61.00",
+      "unit_price": 61.0,
+      "popularity": 550,
+      "upc": "480488862061",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888620611",
+      "reference_ids": [
+        "04804888620611"
+      ],
+      "name": "Bo's Coffee Macchiato Iced Brew | 240ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712495417/a13a4e023ac0784e873b7a77fe7f44f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888620611",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/bo_s_coffee_macchiato_iced_brew_240ml/p/1564405684712495417"
+    },
+    {
+      "id": "1564405684712495414",
+      "store_id": "2052",
+      "like_code": "361593",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱61.00",
+      "unit_price": 61.0,
+      "popularity": 550,
+      "upc": "480488862062",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888620628",
+      "reference_ids": [
+        "04804888620628"
+      ],
+      "name": "Bo's Coffee Mocha Iced Brew | 240ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712495414/95d6122317d8d3f4d2e4b6e09c93f25f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888620628",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/bo_s_coffee_mocha_iced_brew_240ml/p/1564405684712495414"
+    },
+    {
+      "id": "1764405684715263196",
+      "store_id": "2052",
+      "like_code": "423691",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱191.00",
+      "unit_price": 191.0,
+      "popularity": 6405,
+      "upc": "480488861747",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04804888617475",
+      "reference_ids": [
+        "04804888617475"
+      ],
+      "name": "Bossing Extra Cheesy Chili Hotdog Jumbo | 1kg",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715263196/b8a75e5a2f41d725b80537b5e8f03a80",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3609392822693673229",
+          "reference_id": "tpr_2052_04804888617475_181_0",
+          "type_id": "1",
+          "circular_spot_ids": [
+            "3655939254275553827"
+          ],
+          "product_ids": [
+            "1764405684715263196"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 6405,
+          "product_tag_ids": [
+            "1501969",
+            "22474153",
+            "22475760",
+            "22935762"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "a4c93d868c02b0f335d2e1ef94cbf5a0",
+          "similarity_priority": 5,
+          "name": "Bossing Extra Cheesy Chili Hotdog Jumbo | 1kg",
+          "sale_price": "₱181.00",
+          "sale_price_md": "**₱181.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3609392831442991441",
+          "reference_id": "ad_2052_04804888617475_1_181_0",
+          "type_id": "2",
+          "circular_spot_ids": [
+            "3655939254275553827"
+          ],
+          "product_ids": [
+            "1764405684715263196"
+          ],
+          "start_date": "2025-09-26T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3203,
+          "product_tag_ids": [
+            "1501969",
+            "22474153",
+            "22475760",
+            "22935762"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "7c0fb9ab31c469a54709ad27b713b6a5",
+          "similarity_priority": 6,
+          "name": "Bossing Extra Cheesy Chili Hotdog Jumbo | 1kg",
+          "sale_price": "₱181.00",
+          "sale_price_md": "**₱181.00** (09/26/25 - 09/30/25)",
+          "display_start_date": "2025-09-26",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-26",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱181.00",
+      "sale_price_md": "**₱181.00** (09/26/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3609392822693673229",
+        "reference_id": "tpr_2052_04804888617475_181_0",
+        "type_id": "1",
+        "circular_spot_ids": [
+          "3655939254275553827"
+        ],
+        "product_ids": [
+          "1764405684715263196"
+        ],
+        "start_date": "2025-09-26T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 6405,
+        "product_tag_ids": [
+          "1501969",
+          "22474153",
+          "22475760",
+          "22935762"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "a4c93d868c02b0f335d2e1ef94cbf5a0",
+        "similarity_priority": 5,
+        "name": "Bossing Extra Cheesy Chili Hotdog Jumbo | 1kg",
+        "sale_price": "₱181.00",
+        "sale_price_md": "**₱181.00** (09/26/25 - 09/30/25)",
+        "display_start_date": "2025-09-26",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 181.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱181.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04804888617475",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/bossing_extra_cheesy_chili_hotdog_jumbo_1kg/p/1764405684715263196"
+    },
+    {
+      "id": "1564405684708287576",
+      "store_id": "2052",
+      "like_code": "338178",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱426.00",
+      "unit_price": 426.0,
+      "popularity": 999999,
+      "upc": "3700080068",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00037000800682",
+      "reference_ids": [
+        "00037000800682"
+      ],
+      "name": "Bounce Outdoor Fresh Fabric Softener Dryer Sheets | 80s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708287576/40407008b15788ec3126e4b746d62197",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00037000800682",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounce_outdoor_fresh_fabric_softener_dryer_sheets_80s/p/1564405684708287576"
+    },
+    {
+      "id": "1564405684704766604",
+      "store_id": "2052",
+      "like_code": "134599",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱266.00",
+      "unit_price": 266.0,
+      "popularity": 3099,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13459",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134599",
+      "reference_ids": [
+        "00000000134599"
+      ],
+      "name": "Bounty Chicken Breast | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766604/85e3c9f0df63a33b07c8850187d1d0a3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134599",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_breast_kg/p/1564405684704766604"
+    },
+    {
+      "id": "1564405684704766602",
+      "store_id": "2052",
+      "like_code": "134597",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 3102,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13459",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134597",
+      "reference_ids": [
+        "00000000134597"
+      ],
+      "name": "Bounty Chicken Drumstick | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766602/7326f12386d09863ce0c252655d1a34a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134597",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_drumstick_kg/p/1564405684704766602"
+    },
+    {
+      "id": "1564405684704766644",
+      "store_id": "2052",
+      "like_code": "256703",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱226.00",
+      "unit_price": 226.0,
+      "popularity": 2769,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "25670",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000256703",
+      "reference_ids": [
+        "00000000256703"
+      ],
+      "name": "Bounty Chicken Family Feast | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766644/702b79c4dc3c103af8cef058a0728484",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000256703",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_family_feast_kg/p/1564405684704766644"
+    },
+    {
+      "id": "1564405684704766599",
+      "store_id": "2052",
+      "like_code": "134590",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13459",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134590",
+      "reference_ids": [
+        "00000000134590"
+      ],
+      "name": "Bounty Chicken Fe Premium | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766599/c303868db039fafb0ddcc4e425f476d6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000134590",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_fe_premium_kg/p/1564405684704766599"
+    },
+    {
+      "id": "1564405684704766610",
+      "store_id": "2052",
+      "like_code": "143455",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱354.00",
+      "unit_price": 354.0,
+      "popularity": 3184,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "14345",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000143455",
+      "reference_ids": [
+        "00000000143455"
+      ],
+      "name": "Bounty Chicken Frozen Breast Fillet Slsp | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684704766610/88163c84390375896126533dec0b2324",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000143455",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_frozen_breast_fillet_slsp_kg/p/1564405684704766610"
+    },
+    {
+      "id": "1564405684704766611",
+      "store_id": "2052",
+      "like_code": "143456",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱354.00",
+      "unit_price": 354.0,
+      "popularity": 3183,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "14345",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000143456",
+      "reference_ids": [
+        "00000000143456"
+      ],
+      "name": "Bounty Chicken Frozen Thigh Fillet | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 2,
+      "cover_image": "1564405684704766611/2380f9192a74bba6cb55d36a5adc69ff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000143456",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_frozen_thigh_fillet_kg/p/1564405684704766611"
+    },
+    {
+      "id": "1564405684704680856",
+      "store_id": "2052",
+      "like_code": "134614",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱161.00",
+      "unit_price": 161.0,
+      "popularity": 3193,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13461",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134614",
+      "reference_ids": [
+        "00000000134614"
+      ],
+      "name": "Bounty Chicken Gizzard | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704680856/c290c3dacbd0455fef61278ee9640def",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134614",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_gizzard_kg/p/1564405684704680856"
+    },
+    {
+      "id": "1564405684704766605",
+      "store_id": "2052",
+      "like_code": "134601",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱257.00",
+      "unit_price": 257.0,
+      "popularity": 3196,
+      "quantity_minimum": 0.25,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13460",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134601",
+      "reference_ids": [
+        "00000000134601"
+      ],
+      "name": "Bounty Chicken Leg Quarter | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766605/2e8a87799e3b303f8a110570ff9c4833",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134601",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_leg_quarter_kg/p/1564405684704766605"
+    },
+    {
+      "id": "1564405684704766607",
+      "store_id": "2052",
+      "like_code": "134613",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱245.00",
+      "unit_price": 245.0,
+      "popularity": 3104,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13461",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134613",
+      "reference_ids": [
+        "00000000134613"
+      ],
+      "name": "Bounty Chicken Liver | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766607/47829c425cb0dbb7c62f33dda834c889",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134613",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_liver_kg/p/1564405684704766607"
+    },
+    {
+      "id": "1564405684704766606",
+      "store_id": "2052",
+      "like_code": "134603",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱115.00",
+      "unit_price": 115.0,
+      "popularity": 3195,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13460",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134603",
+      "reference_ids": [
+        "00000000134603"
+      ],
+      "name": "Bounty Chicken Neck | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766606/20c80e0a27f662008caeba014162d87d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134603",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_neck_kg/p/1564405684704766606"
+    },
+    {
+      "id": "1564405684704766600",
+      "store_id": "2052",
+      "like_code": "134595",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱267.00",
+      "unit_price": 267.0,
+      "popularity": 3104,
+      "quantity_minimum": 1.0,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13459",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134595",
+      "reference_ids": [
+        "00000000134595"
+      ],
+      "name": "Bounty Chicken Pollo Primero | kg",
+      "size": "kg",
+      "price_disclaimer": "Price may vary depending on weight.",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766600/e93d5ea405f354a3443f66987cd3b5d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134595",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_pollo_primero_kg/p/1564405684704766600"
+    },
+    {
+      "id": "1564405684704766603",
+      "store_id": "2052",
+      "like_code": "134598",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱267.00",
+      "unit_price": 267.0,
+      "popularity": 3142,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13459",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134598",
+      "reference_ids": [
+        "00000000134598"
+      ],
+      "name": "Bounty Chicken Thigh | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766603/800d52337a0793247cbe1ee48cb8a295",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134598",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_thigh_kg/p/1564405684704766603"
+    },
+    {
+      "id": "1564405684704766601",
+      "store_id": "2052",
+      "like_code": "134596",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱267.00",
+      "unit_price": 267.0,
+      "popularity": 3200,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "13459",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134596",
+      "reference_ids": [
+        "00000000134596"
+      ],
+      "name": "Bounty Chicken Wings | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704766601/3f05eed0e0ae098db4dbfb397a05b512",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134596",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_wings_kg/p/1564405684704766601"
+    },
+    {
+      "id": "1564405684703675599",
+      "store_id": "2052",
+      "like_code": "134593",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱226.00",
+      "unit_price": 226.0,
+      "popularity": 99999,
+      "quantity_minimum": 0.5,
+      "upc": "13459",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000134593",
+      "reference_ids": [
+        "00000000134593"
+      ],
+      "name": "Bounty Chicken Young & Tender | Pack",
+      "size": "kgs",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684703675599/b7a211367f2dbff856601efb91186bc1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000134593",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_chicken_young_tender_pack/p/1564405684703675599"
+    },
+    {
+      "id": "1564405684702541531",
+      "store_id": "2052",
+      "like_code": "157458",
+      "department_id": [
+        "1496138"
+      ],
+      "price": "₱148.00",
+      "unit_price": 148.0,
+      "popularity": 3712,
+      "upc": "480051410611",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800514106115",
+      "reference_ids": [
+        "04800514106115"
+      ],
+      "name": "Bounty Fresh Cage-Free Brown Eggs | 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541531/2f1b08abbe748d7a6cfda71ddd00cb0f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800514106115",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/eggs/bounty_fresh_cage_free_brown_eggs_10s/p/1564405684702541531"
+    },
+    {
+      "id": "1564405684714438201",
+      "store_id": "2052",
+      "like_code": "389305",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱354.00",
+      "unit_price": 354.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389305",
+      "reference_ids": [
+        "00000000389305"
+      ],
+      "name": "Bounty Fresh Chicken Breast Fillet Skinless | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438201/b76ea7a101d9b890f12ed6f9390655c1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000389305",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_breast_fillet_skinless_kg/p/1564405684714438201"
+    },
+    {
+      "id": "1564405684714438202",
+      "store_id": "2052",
+      "like_code": "389306",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱325.00",
+      "unit_price": 325.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389306",
+      "reference_ids": [
+        "00000000389306"
+      ],
+      "name": "Bounty Fresh Chicken Breast Fillet Skinon | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438202/4c190701a076a1439f7b5f7652784569",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000389306",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_breast_fillet_skinon_kg/p/1564405684714438202"
+    },
+    {
+      "id": "1564405684714438195",
+      "store_id": "2052",
+      "like_code": "389299",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱161.00",
+      "unit_price": 161.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38929",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389299",
+      "reference_ids": [
+        "00000000389299"
+      ],
+      "name": "Bounty Fresh Chicken Gizzard | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438195/396a8bff89ee67475d07532936a7cefe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000389299",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_gizzard_kg/p/1564405684714438195"
+    },
+    {
+      "id": "1564405684714438194",
+      "store_id": "2052",
+      "like_code": "389298",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38929",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389298",
+      "reference_ids": [
+        "00000000389298"
+      ],
+      "name": "Bounty Fresh Chicken Liver | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438194/467090ac17fca3f82043b31df7f917ad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000389298",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_liver_kg/p/1564405684714438194"
+    },
+    {
+      "id": "1564405684710364900",
+      "store_id": "2052",
+      "like_code": "344118",
+      "department_id": [
+        "1501969"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 4934,
+      "upc": "480051700270",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517002704",
+      "reference_ids": [
+        "04800517002704"
+      ],
+      "name": "Bounty Fresh Chicken Nugget Classic | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710364900/b98acc80705a4d3c2ccb002e9c327a92",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800517002704",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 21",
+        "sequence": 21,
+        "identifier": "177cc078-101c-4d9f-864a-7b7d98c7be7c",
+        "id": "22356784"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/frozen_meats_steaks/bounty_fresh_chicken_nugget_classic_200g/p/1564405684710364900"
+    },
+    {
+      "id": "1564405684714438204",
+      "store_id": "2052",
+      "like_code": "389308",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱354.00",
+      "unit_price": 354.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389308",
+      "reference_ids": [
+        "00000000389308"
+      ],
+      "name": "Bounty Fresh Chicken Thigh Fillet Skinless | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438204/c5ead121ecea9812dd00364ba814b0b1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000389308",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_thigh_fillet_skinless_kg/p/1564405684714438204"
+    },
+    {
+      "id": "1564405684714438203",
+      "store_id": "2052",
+      "like_code": "389307",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱325.00",
+      "unit_price": 325.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389307",
+      "reference_ids": [
+        "00000000389307"
+      ],
+      "name": "Bounty Fresh Chicken Thigh Fillet Skinon | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438203/8f93834aa002b322b08273b5e29b5d72",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000389307",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_thigh_fillet_skinon_kg/p/1564405684714438203"
+    },
+    {
+      "id": "1564405684714502183",
+      "store_id": "2052",
+      "like_code": "389633",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38963",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000389633",
+      "reference_ids": [
+        "00000000389633"
+      ],
+      "name": "Bounty Fresh Chicken Tinola Cut | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000389633",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_chicken_tinola_cut_kg/p/1564405684714502183"
+    },
+    {
+      "id": "1564405684714514440",
+      "store_id": "2052",
+      "like_code": "389770",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 999999,
+      "upc": "480051700354",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517003541",
+      "reference_ids": [
+        "04800517003541"
+      ],
+      "name": "Bounty Fresh Cut-ups Chicken Breast | 860-900g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714514440/57e80d83be832551cdf0b0de3ea294b3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517003541",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_breast_860_900g/p/1564405684714514440"
+    },
+    {
+      "id": "1564405684714438216",
+      "store_id": "2052",
+      "like_code": "389327",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "upc": "480051700428",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004289",
+      "reference_ids": [
+        "04800517004289"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Breast Fillet | 450-500g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04800517004289",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_breast_fillet_450_500g/p/1564405684714438216"
+    },
+    {
+      "id": "1564405684714514438",
+      "store_id": "2052",
+      "like_code": "389997",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱212.00",
+      "unit_price": 212.0,
+      "popularity": 999999,
+      "upc": "480051700355",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517003558",
+      "reference_ids": [
+        "04800517003558"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Drumsticks | 860-900g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714514438/fcef2074f58c756cbc94c62b5aca653f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517003558",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bounty_fresh_cut_ups_chicken_drumsticks_860_900g/p/1564405684714514438"
+    },
+    {
+      "id": "1564405684714438211",
+      "store_id": "2052",
+      "like_code": "389324",
+      "department_id": [
+        "22459293"
+      ],
+      "price": "₱128.00",
+      "unit_price": 128.0,
+      "popularity": 999999,
+      "upc": "480051700424",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800517004241",
+      "reference_ids": [
+        "04800517004241"
+      ],
+      "name": "Bounty Fresh Cut-Ups Chicken Leg Quarter | 450-500g",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714438211/4808b0e76d97a834b5ba40fa40d50702",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800517004241",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/meat_poultry_seafood/chicken/bounty_fresh_cut_ups_chicken_leg_quarter_450_500g/p/1564405684714438211"
+    }
+  ]
+}

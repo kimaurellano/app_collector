@@ -1,0 +1,2021 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684713738237",
+      "store_id": "2052",
+      "like_code": "382716",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382716",
+      "reference_ids": [
+        "00000000382716"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Camote Ube | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738237/76faadfec05b82b518d4003423cccd02",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382716",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_camote_ube_kg/p/1564405684713738237"
+    },
+    {
+      "id": "1564405684713738111",
+      "store_id": "2052",
+      "like_code": "382667",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱224.00",
+      "unit_price": 224.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382667",
+      "reference_ids": [
+        "00000000382667"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Carrots | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738111/4f4aff039fa580e423d70242fcabea6b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382667",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_carrots_kg/p/1564405684713738111"
+    },
+    {
+      "id": "1564405684713738228",
+      "store_id": "2052",
+      "like_code": "382707",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382707",
+      "reference_ids": [
+        "00000000382707"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Cassava | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738228/6d750ca4c1c78d8eb213ba24105cdb4b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382707",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_cassava_kg/p/1564405684713738228"
+    },
+    {
+      "id": "1564405684713738112",
+      "store_id": "2052",
+      "like_code": "382668",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382668",
+      "reference_ids": [
+        "00000000382668"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Cauliflower | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738112/e52687e6111673b4c360e98ff2f0771e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382668",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_cauliflower_kg/p/1564405684713738112"
+    },
+    {
+      "id": "1564405684713738088",
+      "store_id": "2052",
+      "like_code": "382640",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱248.00",
+      "unit_price": 248.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382640",
+      "reference_ids": [
+        "00000000382640"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Celery | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738088/efc96e914590b5a15d968758d787dfa0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382640",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_celery_kg/p/1564405684713738088"
+    },
+    {
+      "id": "1564405684713738229",
+      "store_id": "2052",
+      "like_code": "382708",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382708",
+      "reference_ids": [
+        "00000000382708"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Chili Labuyo | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738229/f5815440820a94866aac2b533b471520",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382708",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_chili_labuyo_kg/p/1564405684713738229"
+    },
+    {
+      "id": "1564405684713738230",
+      "store_id": "2052",
+      "like_code": "382709",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38270",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382709",
+      "reference_ids": [
+        "00000000382709"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Chili Panigang | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738230/e464d69173cff77d4a34bf426632b07a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382709",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_chili_panigang_kg/p/1564405684713738230"
+    },
+    {
+      "id": "1564405684713738231",
+      "store_id": "2052",
+      "like_code": "382710",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382710",
+      "reference_ids": [
+        "00000000382710"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Chili Taiwan | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738231/259302f42d2b483138189bd6cd96b77a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382710",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_chili_taiwan_kg/p/1564405684713738231"
+    },
+    {
+      "id": "1564405684713738090",
+      "store_id": "2052",
+      "like_code": "382642",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 3284,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382642",
+      "reference_ids": [
+        "00000000382642"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Chives | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738090/f12d162602032538a82cfe57956452a6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382642",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_chives_kg/p/1564405684713738090"
+    },
+    {
+      "id": "1564405684713738091",
+      "store_id": "2052",
+      "like_code": "382643",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382643",
+      "reference_ids": [
+        "00000000382643"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Coriander | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738091/29c027973e37c895b58ee47c00308ff3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382643",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_coriander_kg/p/1564405684713738091"
+    },
+    {
+      "id": "1564405684713738232",
+      "store_id": "2052",
+      "like_code": "382711",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱224.00",
+      "unit_price": 224.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382711",
+      "reference_ids": [
+        "00000000382711"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Eggplant | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738232/c1ee247d9faf5b9506a72cf8d70fd167",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382711",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_eggplant_kg/p/1564405684713738232"
+    },
+    {
+      "id": "1564405684713738115",
+      "store_id": "2052",
+      "like_code": "382672",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 2665,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382672",
+      "reference_ids": [
+        "00000000382672"
+      ],
+      "name": "All Seasons Natural Organic Vegetable French Beans | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738115/3a8ea8bda2a458a925f7cd57dc3e6c11",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382672",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_french_beans_kg/p/1564405684713738115"
+    },
+    {
+      "id": "1564405684713738233",
+      "store_id": "2052",
+      "like_code": "382712",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382712",
+      "reference_ids": [
+        "00000000382712"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Gabi | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738233/724c603ddd6b1938bc04cd265531bae7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382712",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_gabi_kg/p/1564405684713738233"
+    },
+    {
+      "id": "1564405684713738234",
+      "store_id": "2052",
+      "like_code": "382713",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱224.00",
+      "unit_price": 224.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382713",
+      "reference_ids": [
+        "00000000382713"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Garlic | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738234/231e9c5579a50a61530e25bb2d610837",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382713",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_garlic_kg/p/1564405684713738234"
+    },
+    {
+      "id": "1564405684713738235",
+      "store_id": "2052",
+      "like_code": "382714",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382714",
+      "reference_ids": [
+        "00000000382714"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Ginger | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738235/e6e6a2a66925d99107d3bd730db6a948",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382714",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_ginger_kg/p/1564405684713738235"
+    },
+    {
+      "id": "1564405684713738100",
+      "store_id": "2052",
+      "like_code": "382652",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382652",
+      "reference_ids": [
+        "00000000382652"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Green Ice Lettuce | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738100/f4d306ff7a60d0b5d9f4f69e15919003",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382652",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_green_ice_lettuce_kg/p/1564405684713738100"
+    },
+    {
+      "id": "1564405684713738121",
+      "store_id": "2052",
+      "like_code": "382678",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382678",
+      "reference_ids": [
+        "00000000382678"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Highland Turmeric | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738121/57eb991cc6261633348b6d1f0b60a9c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382678",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_highland_turmeric_kg/p/1564405684713738121"
+    },
+    {
+      "id": "1564405684713738101",
+      "store_id": "2052",
+      "like_code": "382653",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382653",
+      "reference_ids": [
+        "00000000382653"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Iceberg Lettuce | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738101/6e331b0d5d4dc37615c6386cb6b78aaa",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382653",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_iceberg_lettuce_kg/p/1564405684713738101"
+    },
+    {
+      "id": "1564405684713744303",
+      "store_id": "2052",
+      "like_code": "382802",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱450.00",
+      "unit_price": 450.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38280",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382802",
+      "reference_ids": [
+        "00000000382802"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Kailan Chinese Kale | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744303/2820e7ef281e84792cd76a70f83fd686",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382802",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_kailan_chinese_kale_kg/p/1564405684713744303"
+    },
+    {
+      "id": "1564405684713738098",
+      "store_id": "2052",
+      "like_code": "382650",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382650",
+      "reference_ids": [
+        "00000000382650"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Kale Curly | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738098/5b3febf918ef52fd03396aff5a4a2fd1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382650",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_kale_curly_kg/p/1564405684713738098"
+    },
+    {
+      "id": "1564405684713738099",
+      "store_id": "2052",
+      "like_code": "382651",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382651",
+      "reference_ids": [
+        "00000000382651"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Kale Tuscan | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738099/4150db008f9fa06c54e442a31a9d2b9a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382651",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_kale_tuscan_kg/p/1564405684713738099"
+    },
+    {
+      "id": "1564405684713738092",
+      "store_id": "2052",
+      "like_code": "382644",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382644",
+      "reference_ids": [
+        "00000000382644"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Kangkong | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738092/af41e10660714ce47cfc4e49abe325f1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382644",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_kangkong_kg/p/1564405684713738092"
+    },
+    {
+      "id": "1564405684713738093",
+      "store_id": "2052",
+      "like_code": "382645",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱230.00",
+      "unit_price": 230.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382645",
+      "reference_ids": [
+        "00000000382645"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Leeks | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738093/bf19ffb1dcd92188c9835e1560fe36ea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382645",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_leeks_kg/p/1564405684713738093"
+    },
+    {
+      "id": "1564405684713738102",
+      "store_id": "2052",
+      "like_code": "382654",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382654",
+      "reference_ids": [
+        "00000000382654"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Lettuce Romaine | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738102/79b7c1505062a504eafe6b60cdae3758",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382654",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_lettuce_romaine_kg/p/1564405684713738102"
+    },
+    {
+      "id": "1564405684713738116",
+      "store_id": "2052",
+      "like_code": "382673",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382673",
+      "reference_ids": [
+        "00000000382673"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Local Radish | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738116/d0ecd8599fe6c548618eee36562e68c0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382673",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_local_radish_kg/p/1564405684713738116"
+    },
+    {
+      "id": "1564405684713742330",
+      "store_id": "2052",
+      "like_code": "382728",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱160.00",
+      "unit_price": 160.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382728",
+      "reference_ids": [
+        "00000000382728"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Lowland Turmeric | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713742330/b58d9ec132bcc12bec0617f2f0493a1c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382728",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_lowland_turmeric_kg/p/1564405684713742330"
+    },
+    {
+      "id": "1564405684713738094",
+      "store_id": "2052",
+      "like_code": "382646",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱200.00",
+      "unit_price": 200.0,
+      "popularity": 3061,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382646",
+      "reference_ids": [
+        "00000000382646"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Mustard | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738094/693bf6c19c832378f6a17b0d544dbd0d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382646",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_mustard_kg/p/1564405684713738094"
+    },
+    {
+      "id": "1564405684713738097",
+      "store_id": "2052",
+      "like_code": "382649",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱220.00",
+      "unit_price": 220.0,
+      "popularity": 2663,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382649",
+      "reference_ids": [
+        "00000000382649"
+      ],
+      "name": "All Seasons Natural Organic Vegetable New Zealand Spinach | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738097/4a63674f9dc5bd9a224ad6001bade717",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382649",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_new_zealand_spinach_kg/p/1564405684713738097"
+    },
+    {
+      "id": "1564405684713738239",
+      "store_id": "2052",
+      "like_code": "382718",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382718",
+      "reference_ids": [
+        "00000000382718"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Okra | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738239/d424a10dd644628dfae8f5e8f2007cea",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382718",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_okra_kg/p/1564405684713738239"
+    },
+    {
+      "id": "1564405684713738103",
+      "store_id": "2052",
+      "like_code": "382655",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38265",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382655",
+      "reference_ids": [
+        "00000000382655"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Pako Fern | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738103/3f5f063617b0502864a561b98833e536",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382655",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_pako_fern_kg/p/1564405684713738103"
+    },
+    {
+      "id": "1564405684713744305",
+      "store_id": "2052",
+      "like_code": "382810",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱200.00",
+      "unit_price": 200.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38281",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382810",
+      "reference_ids": [
+        "00000000382810"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Parsley Curly | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744305/7e7211a52c1c60ee8ea14a9b77e83933",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382810",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_parsley_curly_kg/p/1564405684713744305"
+    },
+    {
+      "id": "1564405684713738095",
+      "store_id": "2052",
+      "like_code": "382647",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱200.00",
+      "unit_price": 200.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382647",
+      "reference_ids": [
+        "00000000382647"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Parsley Flat | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738095/38cc705933a37aec835b1ab49db8bf83",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382647",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_parsley_flat_kg/p/1564405684713738095"
+    },
+    {
+      "id": "1564405684713738242",
+      "store_id": "2052",
+      "like_code": "382721",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 2666,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382721",
+      "reference_ids": [
+        "00000000382721"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Patola | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738242/68afcbce43e319d4b8095a9baba19915",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382721",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_patola_kg/p/1564405684713738242"
+    },
+    {
+      "id": "1564405684713744306",
+      "store_id": "2052",
+      "like_code": "382811",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 3067,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38281",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382811",
+      "reference_ids": [
+        "00000000382811"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Pechay Tagalog | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744306/29adedef150d84bf26d4a02329476627",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382811",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_pechay_tagalog_kg/p/1564405684713744306"
+    },
+    {
+      "id": "1564405684713738096",
+      "store_id": "2052",
+      "like_code": "382648",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38264",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382648",
+      "reference_ids": [
+        "00000000382648"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Polonchay | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738096/1d113c4ad0b7de303c56b8b338d49871",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382648",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_polonchay_kg/p/1564405684713738096"
+    },
+    {
+      "id": "1564405684713738117",
+      "store_id": "2052",
+      "like_code": "382674",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382674",
+      "reference_ids": [
+        "00000000382674"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Potato Marble | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738117/99a4143ccac1c458d296d5a1bf079025",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382674",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_potato_marble_kg/p/1564405684713738117"
+    },
+    {
+      "id": "1564405684713738118",
+      "store_id": "2052",
+      "like_code": "382675",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382675",
+      "reference_ids": [
+        "00000000382675"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Potato Regular | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738118/650baba3035730c8118a90475a353e84",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382675",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_potato_regular_kg/p/1564405684713738118"
+    },
+    {
+      "id": "1564405684713738110",
+      "store_id": "2052",
+      "like_code": "382666",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱300.00",
+      "unit_price": 300.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38266",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382666",
+      "reference_ids": [
+        "00000000382666"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Red Cabbage | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738110/5aca03e0eb861953b2ff87a4e5c3c44f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382666",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_red_cabbage_kg/p/1564405684713738110"
+    },
+    {
+      "id": "1564405684713738240",
+      "store_id": "2052",
+      "like_code": "382719",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱224.00",
+      "unit_price": 224.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38271",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382719",
+      "reference_ids": [
+        "00000000382719"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Red Onion | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738240/d91eeba2bc6867a4db98b4eaaad1429d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382719",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_red_onion_kg/p/1564405684713738240"
+    },
+    {
+      "id": "1564405684713738119",
+      "store_id": "2052",
+      "like_code": "382676",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382676",
+      "reference_ids": [
+        "00000000382676"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Sayote | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738119/d6826b2b2cf530235bb538550ebe68ae",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382676",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_sayote_kg/p/1564405684713738119"
+    },
+    {
+      "id": "1564405684713744307",
+      "store_id": "2052",
+      "like_code": "382812",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱175.00",
+      "unit_price": 175.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38281",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382812",
+      "reference_ids": [
+        "00000000382812"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Sayote Tops | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713744307/31ef993d12ff9149b137d7c0a11bf4ba",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382812",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_sayote_tops_kg/p/1564405684713744307"
+    },
+    {
+      "id": "1564405684713738243",
+      "store_id": "2052",
+      "like_code": "382722",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382722",
+      "reference_ids": [
+        "00000000382722"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Sitaw | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738243/e87888805cd7de255b929f526a9a5c36",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382722",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_sitaw_kg/p/1564405684713738243"
+    },
+    {
+      "id": "1564405684713738245",
+      "store_id": "2052",
+      "like_code": "382724",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382724",
+      "reference_ids": [
+        "00000000382724"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Squash Butternut | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738245/31cefb849c325b189e234beca9af73a9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382724",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_squash_butternut_kg/p/1564405684713738245"
+    },
+    {
+      "id": "1564405684713738244",
+      "store_id": "2052",
+      "like_code": "382723",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱65.00",
+      "unit_price": 65.0,
+      "popularity": 2667,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382723",
+      "reference_ids": [
+        "00000000382723"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Squash | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738244/7b914120e4e97da41a1d253429be0ff7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000000382723",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_squash_kg/p/1564405684713738244"
+    },
+    {
+      "id": "1564405684713738120",
+      "store_id": "2052",
+      "like_code": "382677",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38267",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382677",
+      "reference_ids": [
+        "00000000382677"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Sugar Beets | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738120/9a5b694582d0c7597c70284497c3fb11",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382677",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_sugar_beets_kg/p/1564405684713738120"
+    },
+    {
+      "id": "1564405684713738246",
+      "store_id": "2052",
+      "like_code": "382725",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382725",
+      "reference_ids": [
+        "00000000382725"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Sweetcorn | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713738246/26cc6c3d9b2361e3c05c1fde2c28286b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382725",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_sweetcorn_kg/p/1564405684713738246"
+    },
+    {
+      "id": "1564405684713742329",
+      "store_id": "2052",
+      "like_code": "382727",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382727",
+      "reference_ids": [
+        "00000000382727"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Tomato Cherry | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713742329/e7b2585af306088b367b1916478164f8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382727",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_tomato_cherry_kg/p/1564405684713742329"
+    },
+    {
+      "id": "1564405684713742328",
+      "store_id": "2052",
+      "like_code": "382726",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "38272",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000382726",
+      "reference_ids": [
+        "00000000382726"
+      ],
+      "name": "All Seasons Natural Organic Vegetable Tomato Lowland | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713742328/f7433c39b412f623446c5a1d1ba3c31d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000382726",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/all_seasons_natural_organic_vegetable_tomato_lowland_kg/p/1564405684713742328"
+    }
+  ]
+}

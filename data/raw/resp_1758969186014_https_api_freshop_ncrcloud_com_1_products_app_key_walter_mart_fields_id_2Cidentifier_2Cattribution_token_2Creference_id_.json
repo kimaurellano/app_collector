@@ -1,0 +1,2001 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702540701",
+      "store_id": "2052",
+      "like_code": "261231",
+      "department_id": [
+        "1496139"
+      ],
+      "price": "₱203.00",
+      "unit_price": 203.0,
+      "popularity": 999999,
+      "upc": "480036141021",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361410212",
+      "reference_ids": [
+        "04800361410212",
+        "04800361401463"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 1L x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540701/26f4c06815e6c61e8d3584d141c7068c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361410212",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk_cream/chuckie_chocolate_milk_drink_1_l_x_2s/p/1564405684702540701"
+    },
+    {
+      "id": "1564405684702540331",
+      "store_id": "2052",
+      "like_code": "4942",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱31.00",
+      "unit_price": 31.0,
+      "popularity": 7064,
+      "upc": "480036101540",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361015400",
+      "reference_ids": [
+        "04800361015400"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540331/d9ecd25d09b304280ec917b67e07a56f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361015400",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/chuckie_chocolate_milk_drink_250ml/p/1564405684702540331"
+    },
+    {
+      "id": "1564405684716266991",
+      "store_id": "2052",
+      "like_code": "415824",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱196.00",
+      "unit_price": 196.0,
+      "popularity": 999999,
+      "upc": "480036142673",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426732",
+      "reference_ids": [
+        "04800361426732"
+      ],
+      "name": "Chuckie Chocolate Milk Drink With Free Drawstring Bag | 180ml x 8s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716266991/390b8bcd582c0c823ffae682ce46c9eb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361426732",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_milk_drink_with_free_drawstring_bag_180ml_x_8s/p/1564405684716266991"
+    },
+    {
+      "id": "1564405684716266989",
+      "store_id": "2052",
+      "like_code": "415823",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱174.00",
+      "unit_price": 174.0,
+      "popularity": 2111,
+      "upc": "480036142671",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426718",
+      "reference_ids": [
+        "04800361426718"
+      ],
+      "name": "Chuckie Chocolate Milk Drink With Free Lunchbox | 110ml x 12s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716266989/4687ed174dea9d4e91676dcb3a1fc303",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426718",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_milk_drink_with_free_lunchbox_110ml_x_12s/p/1564405684716266989"
+    },
+    {
+      "id": "1764405684715653428",
+      "store_id": "2052",
+      "like_code": "454949",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 999999,
+      "upc": "480036142941",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429412",
+      "reference_ids": [
+        "04800361429412"
+      ],
+      "name": "Chuckie Milkshake Drink Choco Brownie 180ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04800361429412",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chuckie_milkshake_drink_choco_brownie_180ml/p/1764405684715653428"
+    },
+    {
+      "id": "1764405684715658614",
+      "store_id": "2052",
+      "like_code": "454948",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱29.00",
+      "unit_price": 29.0,
+      "popularity": 999999,
+      "upc": "480036142939",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429399",
+      "reference_ids": [
+        "04800361429399"
+      ],
+      "name": "Chuckie Milkshake Drink Cookies&cream 180ml",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04800361429399",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chuckie_milkshake_drink_cookies_cream_180ml/p/1764405684715658614"
+    },
+    {
+      "id": "1764405684715635868",
+      "store_id": "2052",
+      "like_code": "454219",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱45.00",
+      "unit_price": 45.0,
+      "popularity": 1,
+      "upc": "893500172927",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935001729273",
+      "reference_ids": [
+        "08935001729273"
+      ],
+      "name": "Chupa Chups Gummies Sour Belt 1 Meter | 55g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715635868/59982cd2a6b9baad753174bba87788d7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935001729273",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chupa_chups_gummies_sour_belt_1_meter_55g/p/1764405684715635868"
+    },
+    {
+      "id": "1564405684706433596",
+      "store_id": "2052",
+      "like_code": "335691",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱14.50",
+      "unit_price": 14.5,
+      "popularity": 999999,
+      "upc": "692121111610",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06921211116103",
+      "reference_ids": [
+        "06921211116103"
+      ],
+      "name": "Chupa Chups Gummy Cool Cola | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706433596/4748735a9fc37c3d5d7d204e89946c11",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06921211116103",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_gummy_cool_cola_20g/p/1564405684706433596"
+    },
+    {
+      "id": "1564405684706433597",
+      "store_id": "2052",
+      "like_code": "335687",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱14.50",
+      "unit_price": 14.5,
+      "popularity": 1134,
+      "upc": "692121111608",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06921211116080",
+      "reference_ids": [
+        "06921211116080"
+      ],
+      "name": "Chupa Chups Gummy Panda Bears | 20g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684706433597/df95c7eb2343e7c0490e63498a22ca05",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06921211116080",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_gummy_panda_bears_20g/p/1564405684706433597"
+    },
+    {
+      "id": "1564405684704732468",
+      "store_id": "2052",
+      "like_code": "310386",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱15.00",
+      "unit_price": 15.0,
+      "popularity": 462,
+      "upc": "890139301781",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08901393017816",
+      "reference_ids": [
+        "08901393017816"
+      ],
+      "name": "Chupa Chups Jelly Sour Bites | 24.2g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732468/b16c23f1739729bd42549bc63f9c0047",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08901393017816",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_jelly_sour_bites_24_2g/p/1564405684704732468"
+    },
+    {
+      "id": "1564405684710288679",
+      "store_id": "2052",
+      "like_code": "343530",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱28.25",
+      "unit_price": 28.25,
+      "popularity": 999999,
+      "upc": "893500172555",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935001725558",
+      "reference_ids": [
+        "08935001725558"
+      ],
+      "name": "Chupa Chups Jelly Sour Bites | 45g x 64s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710288679/0f9dd8efb0fadef44b5276c083710399",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08935001725558",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_jelly_sour_bites_45g_x_64s/p/1564405684710288679"
+    },
+    {
+      "id": "1764405684715332384",
+      "store_id": "2052",
+      "like_code": "445339",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱34.00",
+      "unit_price": 34.0,
+      "popularity": 4376,
+      "upc": "4606578",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000046065780",
+      "reference_ids": [
+        "00000046065780"
+      ],
+      "name": "Chupa Chups Lollipop XXL Trio with Bubblegum | 29g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715332384/dd5a010cdffc0b44227f80a7393e77bd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000046065780",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chupa_chups_lollipop_xxl_trio_with_bubblegum_29g/p/1764405684715332384"
+    },
+    {
+      "id": "1564405684702558583",
+      "store_id": "2052",
+      "like_code": "161487",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱123.00",
+      "unit_price": 123.0,
+      "popularity": 7437,
+      "upc": "893500172210",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935001722106",
+      "reference_ids": [
+        "08935001722106"
+      ],
+      "name": "Chupa Chups Mega | 110g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558583/e6213c85a496ca519820792631db2a8c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935001722106",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_mega_110g/p/1564405684702558583"
+    },
+    {
+      "id": "1564405684712743025",
+      "store_id": "2052",
+      "like_code": "364402",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱13.75",
+      "unit_price": 13.75,
+      "popularity": 225,
+      "upc": "8419684",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000084196842",
+      "reference_ids": [
+        "00000084196842"
+      ],
+      "name": "Chupa Chups Melody Pops | 15g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712743025/a7f8a858bd2067e9053079c32cade635",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00000084196842",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_melody_pops_15g/p/1564405684712743025"
+    },
+    {
+      "id": "1564405684702558559",
+      "store_id": "2052",
+      "like_code": "124700",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱43.50",
+      "unit_price": 43.5,
+      "popularity": 695,
+      "upc": "893500170743",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935001707431",
+      "reference_ids": [
+        "08935001707431"
+      ],
+      "name": "Chupa Chups Mini Assorted Bag | 15pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558559/8839dc6cbefc8a395c03dd142354959d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935001707431",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_mini_assorted_bag_15pcs/p/1564405684702558559"
+    },
+    {
+      "id": "1564405684702503250",
+      "store_id": "2052",
+      "like_code": "121132",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱10.00",
+      "unit_price": 10.0,
+      "popularity": 999999,
+      "upc": "4981452",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000049814521",
+      "reference_ids": [
+        "00000049814521"
+      ],
+      "name": "Chupa Chups The Best Display Box | 12g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702503250/a4865396d6ab00bf5932e425f15e844e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000049814521",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 15",
+        "sequence": 15,
+        "identifier": "66f47ffa-3410-46f3-b648-9900433612ac",
+        "id": "22356778"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chupa_chups_the_best_display_box_12g/p/1564405684702503250"
+    },
+    {
+      "id": "1564405684712690278",
+      "store_id": "2052",
+      "like_code": "276135",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱152.00",
+      "unit_price": 152.0,
+      "popularity": 9593,
+      "upc": "955612663997",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556126639972",
+      "reference_ids": [
+        "09556126639972",
+        "05000186735012"
+      ],
+      "name": "Cif Cream Lemon | 660ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712690278/a9167087e5b8f4ceb2cd4a58db00b7e0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556126639972",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cif_cream_lemon_660ml/p/1564405684712690278"
+    },
+    {
+      "id": "1764405684715367144",
+      "store_id": "2052",
+      "like_code": "346590",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 2,
+      "upc": "899320066406",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08993200664061",
+      "reference_ids": [
+        "08993200664061",
+        "08993200666713"
+      ],
+      "name": "Cimory Blueberry Yogurt Drink | 70ml 5s/24",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715367144/8c4886bad7e220a2847d6b231dee3470",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08993200664061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cimory_blueberry_yogurt_drink_70ml_5s_24/p/1764405684715367144"
+    },
+    {
+      "id": "1764405684715367148",
+      "store_id": "2052",
+      "like_code": "346589",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 2,
+      "upc": "899320066669",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08993200666690",
+      "reference_ids": [
+        "08993200666690"
+      ],
+      "name": "Cimory Original Yogurt Drink | 70ml 5s/24",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715367148/1905a543416e9ce70fa98f01812a447b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08993200666690",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cimory_original_yogurt_drink_70ml_5s_24/p/1764405684715367148"
+    },
+    {
+      "id": "1764405684715367150",
+      "store_id": "2052",
+      "like_code": "346588",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱42.00",
+      "unit_price": 42.0,
+      "popularity": 2,
+      "upc": "899320066670",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08993200666706",
+      "reference_ids": [
+        "08993200666706"
+      ],
+      "name": "Cimory Strawberry Yogurt Drink | 70ml 5s",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684715367150/32bff94ba785fae8b413241eb7069cec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08993200666706",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cimory_strawberry_yogurt_drink_70ml_5s/p/1764405684715367150"
+    },
+    {
+      "id": "3149500",
+      "store_id": "2052",
+      "like_code": "114920",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱730.00",
+      "unit_price": 730.0,
+      "popularity": 999999,
+      "upc": "9870935006",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "00098709350069",
+      "reference_ids": [
+        "00098709350069",
+        "00086785520919",
+        "00086785520933"
+      ],
+      "name": "Citra Cabernet | 750ml",
+      "size": "1.5 ltr",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "3149500/7b6db1a0c69262b081eb292c681eb611",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00098709350069",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/citra_cabernet_750ml/p/3149500"
+    },
+    {
+      "id": "6777510",
+      "store_id": "2052",
+      "like_code": "114921",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱595.00",
+      "unit_price": 595.0,
+      "popularity": 999999,
+      "upc": "800549300092",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08005493000928",
+      "reference_ids": [
+        "08005493000928",
+        "00086785520711"
+      ],
+      "name": "Citra Merlot | 750ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "6777510/e6c78be4c90dbc2c29ea647bcbb9e646",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08005493000928",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/citra_merlot_750ml/p/6777510"
+    },
+    {
+      "id": "1564405684711965668",
+      "store_id": "2052",
+      "like_code": "339078",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱250.00",
+      "unit_price": 250.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33907",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000339078",
+      "reference_ids": [
+        "00000000339078"
+      ],
+      "name": "Cittifresh Vegetable Bokchoy | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965668/0363f6565bd29e7d044a8696221b0948",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000339078",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_bokchoy_kg/p/1564405684711965668"
+    },
+    {
+      "id": "1564405684711965667",
+      "store_id": "2052",
+      "like_code": "339077",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱400.00",
+      "unit_price": 400.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33907",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000339077",
+      "reference_ids": [
+        "00000000339077"
+      ],
+      "name": "Cittifresh Vegetable Cherry Plum Tomato | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965667/0178e9e5c7249548735ebb6102cd413f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000339077",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_cherry_plum_tomato_kg/p/1564405684711965667"
+    },
+    {
+      "id": "1564405684711965666",
+      "store_id": "2052",
+      "like_code": "337992",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱349.00",
+      "unit_price": 349.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33799",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337992",
+      "reference_ids": [
+        "00000000337992"
+      ],
+      "name": "Cittifresh Vegetable Cherry Tomato | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965666/11fbdad65274fc66cc5fb5a86d3f0dd0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000337992",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_cherry_tomato_kg/p/1564405684711965666"
+    },
+    {
+      "id": "1564405684711965663",
+      "store_id": "2052",
+      "like_code": "337989",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱349.00",
+      "unit_price": 349.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33798",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337989",
+      "reference_ids": [
+        "00000000337989"
+      ],
+      "name": "Cittifresh Vegetable Green Bell Pepper | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965663/881e3cd37a6ed9f1e58b28d7f98918e0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000337989",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_green_bell_pepper_kg/p/1564405684711965663"
+    },
+    {
+      "id": "1564405684711965660",
+      "store_id": "2052",
+      "like_code": "337981",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱400.00",
+      "unit_price": 400.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33798",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337981",
+      "reference_ids": [
+        "00000000337981"
+      ],
+      "name": "Cittifresh Vegetable Green Ice Lettuce | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965660/f7391e2e65ac865a81be593af43b8228",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000337981",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_green_ice_lettuce_kg/p/1564405684711965660"
+    },
+    {
+      "id": "1564405684711965662",
+      "store_id": "2052",
+      "like_code": "337984",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱275.00",
+      "unit_price": 275.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33798",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337984",
+      "reference_ids": [
+        "00000000337984"
+      ],
+      "name": "Cittifresh Vegetable Japanese Cucumber | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965662/6ce9439fff7f67cfaa18d07a81b2e4c3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000337984",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_japanese_cucumber_kg/p/1564405684711965662"
+    },
+    {
+      "id": "1564405684711965665",
+      "store_id": "2052",
+      "like_code": "337991",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱499.00",
+      "unit_price": 499.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33799",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337991",
+      "reference_ids": [
+        "00000000337991"
+      ],
+      "name": "Cittifresh Vegetable Red Bell Pepper| kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00000000337991",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cittifresh_vegetable_red_bell_pepper_kg/p/1564405684711965665"
+    },
+    {
+      "id": "1564405684711965661",
+      "store_id": "2052",
+      "like_code": "337982",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱400.00",
+      "unit_price": 400.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33798",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337982",
+      "reference_ids": [
+        "00000000337982"
+      ],
+      "name": "Cittifresh Vegetable Romaine Lettuce | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965661/ff8f17334bb322de45cd0f53a729d53d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000337982",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_romaine_lettuce_kg/p/1564405684711965661"
+    },
+    {
+      "id": "1564405684711965664",
+      "store_id": "2052",
+      "like_code": "337990",
+      "department_id": [
+        "22459118"
+      ],
+      "price": "₱499.00",
+      "unit_price": 499.0,
+      "popularity": 999999,
+      "quantity_step": 0.25,
+      "quantity_label": "kg",
+      "quantity_label_singular": "kg",
+      "upc": "33799",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00000000337990",
+      "reference_ids": [
+        "00000000337990"
+      ],
+      "name": "Cittifresh Vegetable Yellow Bell Pepper | kg",
+      "size": "kg",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711965664/9ea0dbc08c7c3f1eac56553b4f0e6a18",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00000000337990",
+      "quantity_initial": 0.25,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/fresh_produce/fresh_vegetables/cittifresh_vegetable_yellow_bell_pepper_kg/p/1564405684711965664"
+    },
+    {
+      "id": "1564405684713664590",
+      "store_id": "2052",
+      "like_code": "357993",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱75.00",
+      "unit_price": 75.0,
+      "popularity": 999999,
+      "upc": "200003579930",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035799304",
+      "reference_ids": [
+        "02000035799304"
+      ],
+      "name": "CITY GLASS Condiment Dispenser | 580ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713664590/8d403d2a6050a13acf655b962ad8d6e7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000035799304",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/city_glass_condiment_dispenser_580ml/p/1564405684713664590"
+    },
+    {
+      "id": "1564405684713664592",
+      "store_id": "2052",
+      "like_code": "358024",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱150.00",
+      "unit_price": 150.0,
+      "popularity": 999999,
+      "upc": "200003580240",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035802400",
+      "reference_ids": [
+        "02000035802400"
+      ],
+      "name": "CITY GLASS Frosted Mugs Colored | 6pcs 280ml",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000035802400",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/city_glass_frosted_mugs_colored_6pcs_280ml/p/1564405684713664592"
+    },
+    {
+      "id": "1564405684713664622",
+      "store_id": "2052",
+      "like_code": "377281",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱249.00",
+      "unit_price": 249.0,
+      "popularity": 999999,
+      "upc": "200003772810",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000037728104",
+      "reference_ids": [
+        "02000037728104"
+      ],
+      "name": "CITY GLASS Glass Jar with Plastic Lid | 3pcs",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713664622/47d57feb78cc8a0bc1d93ece1ea8f5ff",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000037728104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/city_glass_glass_jar_with_plastic_lid_3pcs/p/1564405684713664622"
+    },
+    {
+      "id": "1564405684713664612",
+      "store_id": "2052",
+      "like_code": "377273",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "200003772730",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000037727305",
+      "reference_ids": [
+        "02000037727305"
+      ],
+      "name": "CITY GLASS Vertical Water Set | 5pcs",
+      "size": "set",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713664612/fcfb0948a05122a7126b093726fd04b8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000037727305",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/city_glass_vertical_water_set_5pcs/p/1564405684713664612"
+    },
+    {
+      "id": "1764405684715180554",
+      "store_id": "2052",
+      "like_code": "440981",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 9883,
+      "upc": "880100717632",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007176321",
+      "reference_ids": [
+        "08801007176321"
+      ],
+      "name": "CJ Beksul Sauce Beef Bulgogi | 290g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715180554/fc6b9ac4d61604cdd42ac69a4d45f290",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801007176321",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_beksul_sauce_beef_bulgogi_290g/p/1764405684715180554"
+    },
+    {
+      "id": "1764405684715180556",
+      "store_id": "2052",
+      "like_code": "440980",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 5848,
+      "upc": "880100717633",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007176338",
+      "reference_ids": [
+        "08801007176338"
+      ],
+      "name": "CJ Beksul Sauce Pork Bulgogi | 290g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715180556/66a8b67f662f5770793d4ef41bd1b639",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801007176338",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_beksul_sauce_pork_bulgogi_290g/p/1764405684715180556"
+    },
+    {
+      "id": "1564405684715399237",
+      "store_id": "2052",
+      "like_code": "362043",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱259.75",
+      "unit_price": 259.75,
+      "popularity": 999999,
+      "upc": "880100752859",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007528595",
+      "reference_ids": [
+        "08801007528595"
+      ],
+      "name": "Cj Bibigo Doenjang Jjige (Soybean Stew) | 460g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08801007528595",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_bibigo_doenjang_jjige_soybean_stew_460g/p/1564405684715399237"
+    },
+    {
+      "id": "1564405684713179144",
+      "store_id": "2052",
+      "like_code": "370053",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱59.75",
+      "unit_price": 59.75,
+      "popularity": 999999,
+      "upc": "880100796216",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007962160",
+      "reference_ids": [
+        "08801007962160"
+      ],
+      "name": "CJ Bibigo Korean BBQ Marinade & Sauce Hot & Spicy | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713179144/ebf4df1e0772a075b3c13a41ce187da9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801007962160",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_bibigo_korean_bbq_marinade_sauce_hot_spicy_80g/p/1564405684713179144"
+    },
+    {
+      "id": "1564405684713179145",
+      "store_id": "2052",
+      "like_code": "370052",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱59.75",
+      "unit_price": 59.75,
+      "popularity": 999999,
+      "upc": "880100796206",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007962061",
+      "reference_ids": [
+        "08801007962061"
+      ],
+      "name": "CJ Bibigo Korean BBQ Marinade & Sauce Original | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713179145/6469fec8e1346f7f2e8eeb52d34bda90",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801007962061",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_bibigo_korean_bbq_marinade_sauce_original_80g/p/1564405684713179145"
+    },
+    {
+      "id": "1564405684712530377",
+      "store_id": "2052",
+      "like_code": "362046",
+      "department_id": [
+        "1501958"
+      ],
+      "price": "₱299.75",
+      "unit_price": 299.75,
+      "popularity": 999999,
+      "upc": "880100752861",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007528618",
+      "reference_ids": [
+        "08801007528618"
+      ],
+      "name": "CJ Bibigo Spam Budae Jjigae (Stew) | 460g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712530377/09b5555ba981e28557ce99606e0c716b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801007528618",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/soups_broths/cj_bibigo_spam_budae_jjigae_stew_460g/p/1564405684712530377"
+    },
+    {
+      "id": "1764405684715180558",
+      "store_id": "2052",
+      "like_code": "440955",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱119.00",
+      "unit_price": 119.0,
+      "popularity": 999999,
+      "upc": "880100798035",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007980355",
+      "reference_ids": [
+        "08801007980355"
+      ],
+      "name": "CJ Haechandel Paste Gochujang Red Pepper | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715180558/6edbf023dde8374da5fede33eed45ec3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801007980355",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_haechandel_paste_gochujang_red_pepper_200g/p/1764405684715180558"
+    },
+    {
+      "id": "1764405684715180552",
+      "store_id": "2052",
+      "like_code": "440967",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 6079,
+      "upc": "880100705281",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007052816",
+      "reference_ids": [
+        "08801007052816"
+      ],
+      "name": "CJ Haechandel Paste Ssamjang Soybean | 170g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715180552/a189e645b964a4e258ce0b1a8a8e451d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801007052816",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_haechandel_paste_ssamjang_soybean_170g/p/1764405684715180552"
+    },
+    {
+      "id": "1564405684712530372",
+      "store_id": "2052",
+      "like_code": "362038",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱119.75",
+      "unit_price": 119.75,
+      "popularity": 999999,
+      "upc": "880100732561",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801007325613",
+      "reference_ids": [
+        "08801007325613"
+      ],
+      "name": "CJ Haechandeul Gold Gochujang (Chili Paste) | 200g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712530372/1c1daa4cf174ea047b0d275aa864d661",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801007325613",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 22",
+        "sequence": 22,
+        "identifier": "ba0f5963-0acd-4969-a725-41cd4e5ffe8d",
+        "id": "22356785"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/cj_haechandeul_gold_gochujang_chili_paste_200g/p/1564405684712530372"
+    },
+    {
+      "id": "1564405684702538569",
+      "store_id": "2052",
+      "like_code": "17233",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 9211,
+      "upc": "480014750514",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800147505149",
+      "reference_ids": [
+        "04800147505149",
+        "04800147200662"
+      ],
+      "name": "CL All Purpose Cleaner Muriatic Concentrate | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702538569/22f8a1d1789332bc2297a89971ffe5bf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800147505149",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/cl_all_purpose_cleaner_muriatic_concentrate_1_l/p/1564405684702538569"
+    },
+    {
+      "id": "1564405684702538567",
+      "store_id": "2052",
+      "like_code": "17222",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱47.00",
+      "unit_price": 47.0,
+      "popularity": 6148,
+      "upc": "480014750370",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800147503701",
+      "reference_ids": [
+        "04800147503701",
+        "04800147200648"
+      ],
+      "name": "CL All Purpose Cleaner Muriatic Concentrate | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702538567/9e86f7a2e4c15e74844ee91c17cca6a2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800147503701",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/cl_all_purpose_cleaner_muriatic_concentrate_250ml/p/1564405684702538567"
+    },
+    {
+      "id": "1564405684702538568",
+      "store_id": "2052",
+      "like_code": "17230",
+      "department_id": [
+        "22459225"
+      ],
+      "price": "₱71.00",
+      "unit_price": 71.0,
+      "popularity": 8849,
+      "upc": "480014750372",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800147503725",
+      "reference_ids": [
+        "04800147503725",
+        "04800147200655"
+      ],
+      "name": "CL All Purpose Cleaner Muriatic Concentrate | 500ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702538568/7a613c416269d3580f4e723e9f3ef52e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800147503725",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 35",
+        "sequence": 35,
+        "identifier": "af163aaf-8653-47aa-a33f-ce8e0aa0977d",
+        "id": "22356798"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/household_janitorial/cleaning_essentials_accessories/cl_all_purpose_cleaner_muriatic_concentrate_500ml/p/1564405684702538568"
+    },
+    {
+      "id": "1564405684702545323",
+      "store_id": "2052",
+      "like_code": "72692",
+      "department_id": [
+        "22459195"
+      ],
+      "price": "₱45.50",
+      "unit_price": 45.5,
+      "popularity": 999999,
+      "upc": "480601997222",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806019972224",
+      "reference_ids": [
+        "04806019972224"
+      ],
+      "name": "Clara Ole Barbecue Marinade Original | 250g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702545323/bb51199c6970725ad3da9bc27e6576af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04806019972224",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 25",
+        "sequence": 25,
+        "identifier": "0ebf8ca9-f199-497a-918c-125b16a401c9",
+        "id": "22356788"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/food_pantry/oils_condiments/recipe_mixes/clara_ole_barbecue_marinade_original_250g/p/1564405684702545323"
+    }
+  ]
+}

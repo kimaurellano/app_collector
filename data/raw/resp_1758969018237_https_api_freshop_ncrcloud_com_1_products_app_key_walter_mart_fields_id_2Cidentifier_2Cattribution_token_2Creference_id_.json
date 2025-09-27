@@ -1,0 +1,2029 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702541143",
+      "store_id": "2052",
+      "like_code": "13404",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱130.00",
+      "unit_price": 130.0,
+      "popularity": 9587,
+      "upc": "480041700523",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417005232",
+      "reference_ids": [
+        "04800417005232",
+        "04800417000282"
+      ],
+      "name": "Bench B20 Body Spray | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541143/a3c0d0fbb76227d4a0e27a13665e0cc3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417005232",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_b20_body_spray_100ml/p/1564405684702541143"
+    },
+    {
+      "id": "1564405684711378160",
+      "store_id": "2052",
+      "like_code": "303760",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱169.00",
+      "unit_price": 169.0,
+      "popularity": 999999,
+      "upc": "480041709488",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417094885",
+      "reference_ids": [
+        "04800417094885"
+      ],
+      "name": "Bench Barbers Pomade | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684711378160/8de60c2a77aa1de17e4feb854b158856",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800417094885",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_barbers_pomade_80g/p/1564405684711378160"
+    },
+    {
+      "id": "1564405684702541177",
+      "store_id": "2052",
+      "like_code": "163352",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 5637,
+      "upc": "480041700828",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417008288",
+      "reference_ids": [
+        "04800417008288"
+      ],
+      "name": "Bench Bare Me Not Deo Body Spray | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541177/679536df4c8a299593bcfeaf71db2f8b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417008288",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_bare_me_not_deo_body_spray_100ml/p/1564405684702541177"
+    },
+    {
+      "id": "1564405684702541160",
+      "store_id": "2052",
+      "like_code": "210271",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 8956,
+      "upc": "480041700374",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417003740",
+      "reference_ids": [
+        "04800417003740"
+      ],
+      "name": "Bench Bratsplash Raspberry Crush Cologne | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541160/db1f620ce092accaa63073fdeb02f122",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417003740",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_bratsplash_raspberry_crush_cologne_100ml/p/1564405684702541160"
+    },
+    {
+      "id": "1564405684702541161",
+      "store_id": "2052",
+      "like_code": "210272",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 8480,
+      "upc": "480041700376",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417003764",
+      "reference_ids": [
+        "04800417003764"
+      ],
+      "name": "Bench Bratsplash Strawberry Shake Cologne | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541161/aabce8c2d5c7f36b501edad89ebff294",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417003764",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_bratsplash_strawberry_shake_cologne_100ml/p/1564405684702541161"
+    },
+    {
+      "id": "1564405684702541166",
+      "store_id": "2052",
+      "like_code": "210273",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 7953,
+      "upc": "480041700480",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417004808",
+      "reference_ids": [
+        "04800417004808"
+      ],
+      "name": "Bench Capture Body Spray | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541166/3ac9773df6ad4482874c2c2c001a0b90",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417004808",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_capture_body_spray_100ml/p/1564405684702541166"
+    },
+    {
+      "id": "1564405684702541193",
+      "store_id": "2052",
+      "like_code": "163356",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 8528,
+      "upc": "480041705965",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417059655",
+      "reference_ids": [
+        "04800417059655"
+      ],
+      "name": "Bench Clay Doh Lite Wax | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "04800417059655/80cecdc52730ae6d1a9fc7de0f033749",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417059655",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_clay_doh_lite_wax_80g/p/1564405684702541193"
+    },
+    {
+      "id": "1564405684702541187",
+      "store_id": "2052",
+      "like_code": "122787",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 5033,
+      "upc": "480041705947",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417059471",
+      "reference_ids": [
+        "04800417059471"
+      ],
+      "name": "Bench Daily Scent Cologne Happy Hour | 75ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541187/05fa8f1f8cc18c48fcee1e8e398b21f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417059471",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_daily_scent_cologne_happy_hour_75ml/p/1564405684702541187"
+    },
+    {
+      "id": "1564405684702541186",
+      "store_id": "2052",
+      "like_code": "122547",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱39.00",
+      "unit_price": 39.0,
+      "popularity": 7782,
+      "upc": "480041705949",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417059495",
+      "reference_ids": [
+        "04800417059495"
+      ],
+      "name": "Bench Daily Scent Cologne Lazy Afternoon | 75ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541186/466bcf610e81f4266b9c7a0b6a8ce5ad",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417059495",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_daily_scent_cologne_lazy_afternoon_75ml/p/1564405684702541186"
+    },
+    {
+      "id": "1564405684702541190",
+      "store_id": "2052",
+      "like_code": "122785",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱64.75",
+      "unit_price": 64.75,
+      "popularity": 6741,
+      "upc": "480041705958",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417059587",
+      "reference_ids": [
+        "04800417059587"
+      ],
+      "name": "Bench Daily Scent Cologne Spring Break |  125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541190/3be0123cd17573d4a6dea09653a91fef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417059587",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_daily_scent_cologne_spring_break_125ml/p/1564405684702541190"
+    },
+    {
+      "id": "1564405684702541189",
+      "store_id": "2052",
+      "like_code": "122791",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱37.00",
+      "unit_price": 37.0,
+      "popularity": 999999,
+      "upc": "480041705952",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417059525",
+      "reference_ids": [
+        "04800417059525"
+      ],
+      "name": "Bench Daily Scent Cologne Sunday Morning | 75ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541189/04449b627585fb83518c0599ac684118",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800417059525",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_daily_scent_cologne_sunday_morning_75ml/p/1564405684702541189"
+    },
+    {
+      "id": "1564405684702541213",
+      "store_id": "2052",
+      "like_code": "135301",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 6540,
+      "upc": "480041706195",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417061955",
+      "reference_ids": [
+        "04800417061955"
+      ],
+      "name": "Bench Daily Spell Body Mist Morning Rush | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541213/87e8f14b6be97b43d95fe567551f6f18",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417061955",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_daily_spell_body_mist_morning_rush_70ml/p/1564405684702541213"
+    },
+    {
+      "id": "1564405684702541216",
+      "store_id": "2052",
+      "like_code": "135302",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱49.00",
+      "unit_price": 49.0,
+      "popularity": 6926,
+      "upc": "480041706196",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417061962",
+      "reference_ids": [
+        "04800417061962"
+      ],
+      "name": "Bench Daily Spell Body Mist Party Time | 70ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541216/63ba99d3da20948600fe629525cf450f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417061962",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_daily_spell_body_mist_party_time_70ml/p/1564405684702541216"
+    },
+    {
+      "id": "1564405684702541142",
+      "store_id": "2052",
+      "like_code": "13407",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱130.00",
+      "unit_price": 130.0,
+      "popularity": 5558,
+      "upc": "480041700524",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417005249",
+      "reference_ids": [
+        "04800417000305",
+        "04800417005249"
+      ],
+      "name": "Bench Eight Body Spray | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541142/560a40d31eace9d3cb90f243d73df651",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417005249",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_eight_body_spray_100ml/p/1564405684702541142"
+    },
+    {
+      "id": "1564405684702541146",
+      "store_id": "2052",
+      "like_code": "13396",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱100.00",
+      "unit_price": 100.0,
+      "popularity": 6842,
+      "upc": "480041700521",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417005218",
+      "reference_ids": [
+        "04800417005218",
+        "04800417000459"
+      ],
+      "name": "Bench Eight Body Spray | 75ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541146/bfc7cff0f5e49de8212a50760ef01206",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417005218",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_eight_body_spray_75ml/p/1564405684702541146"
+    },
+    {
+      "id": "1564405684702541200",
+      "store_id": "2052",
+      "like_code": "128473",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 6149,
+      "upc": "480041706046",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417060460",
+      "reference_ids": [
+        "04800417060460"
+      ],
+      "name": "Bench Fix Clay Doh Molding Clay Wax | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541200/6cbb0299e6fbd363b2d1d8971d1817e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417060460",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_fix_clay_doh_molding_clay_wax_25g/p/1564405684702541200"
+    },
+    {
+      "id": "1564405684702541163",
+      "store_id": "2052",
+      "like_code": "32522",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱79.00",
+      "unit_price": 79.0,
+      "popularity": 5603,
+      "upc": "480041700384",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417003849",
+      "reference_ids": [
+        "04800417003849"
+      ],
+      "name": "Bench Fix Extra Shine Gel | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541163/c5710027a8ff57e276c24ac94cff2a4e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417003849",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_fix_extra_shine_gel_135g/p/1564405684702541163"
+    },
+    {
+      "id": "1564405684702541180",
+      "store_id": "2052",
+      "like_code": "119039",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱109.00",
+      "unit_price": 109.0,
+      "popularity": 6207,
+      "upc": "480041705690",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417056906",
+      "reference_ids": [
+        "04800417056906"
+      ],
+      "name": "Bench Fix Professional Clay Doh Wax | 80g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541180/ac5b7bdc16c74612cec8d1cdc1f88562",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417056906",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_fix_professional_clay_doh_wax_80g/p/1564405684702541180"
+    },
+    {
+      "id": "1564405684702541199",
+      "store_id": "2052",
+      "like_code": "128467",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 6812,
+      "upc": "480041706045",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417060453",
+      "reference_ids": [
+        "04800417060453"
+      ],
+      "name": "Bench Fix Professional Hairlastic | 25g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541199/13d449974f6d7e753879503380f2ea5c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417060453",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_fix_professional_hairlastic_25g/p/1564405684702541199"
+    },
+    {
+      "id": "1564405684702541164",
+      "store_id": "2052",
+      "like_code": "32523",
+      "department_id": [
+        "22459188"
+      ],
+      "price": "₱77.00",
+      "unit_price": 77.0,
+      "popularity": 999999,
+      "upc": "480041700386",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417003863",
+      "reference_ids": [
+        "04800417003863"
+      ],
+      "name": "Bench Fix Strong Hold Gel | 135g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702541164/479f5762da467a6ed303373e7f1ccd26",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800417003863",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 5",
+        "sequence": 5,
+        "identifier": "0ad7ea33-ebf4-42ed-abd9-b61038d27996",
+        "id": "22356768"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/hair_care/bench_fix_strong_hold_gel_135g/p/1564405684702541164"
+    },
+    {
+      "id": "1564405684713797767",
+      "store_id": "2052",
+      "like_code": "384740",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 9446,
+      "upc": "480041711448",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417114484",
+      "reference_ids": [
+        "04800417114484"
+      ],
+      "name": "Bench #Goals Body Spray | 110ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713797767/b2b978ba769f5334a8f1ea52810d3381",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417114484",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/bench_goals_body_spray_110ml/p/1564405684713797767"
+    },
+    {
+      "id": "1564405684713794846",
+      "store_id": "2052",
+      "like_code": "384715",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 5590,
+      "upc": "480041709947",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417099477",
+      "reference_ids": [
+        "04800417099477"
+      ],
+      "name": "Bench Happy Crush Deo Body Spray | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713794846/9792f0d1cb593f502171e6a7f553dd88",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417099477",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/bench_happy_crush_deo_body_spray_100ml/p/1564405684713794846"
+    },
+    {
+      "id": "1564405684713797769",
+      "store_id": "2052",
+      "like_code": "384741",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 7031,
+      "upc": "480041711468",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417114682",
+      "reference_ids": [
+        "04800417114682"
+      ],
+      "name": "Bench #KeepIt100 Body Spray | 110ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713797769/7558f21cf903106bb7fd13378aeb37bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417114682",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/bench_keep_it100_body_spray_110ml/p/1564405684713797769"
+    },
+    {
+      "id": "1564405684713794847",
+      "store_id": "2052",
+      "like_code": "384716",
+      "department_id": [
+        "21907375"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 7660,
+      "upc": "480041709948",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417099484",
+      "reference_ids": [
+        "04800417099484"
+      ],
+      "name": "Bench Kiss & Tell Deo Body Spray | 100ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713794847/83352fb70919e10997ba455c5a5ac125",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417099484",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/bench_kiss_tell_deo_body_spray_100ml/p/1564405684713794847"
+    },
+    {
+      "id": "1564405684711309469",
+      "store_id": "2052",
+      "like_code": "349106",
+      "department_id": [
+        "1496197"
+      ],
+      "price": "₱999.00",
+      "unit_price": 999.0,
+      "popularity": 999999,
+      "upc": "8800402084",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00088004020842",
+      "reference_ids": [
+        "00088004020842"
+      ],
+      "name": "Benchmark no.8 Bourbon Whisky | 750ml (Free Rockglass)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711309469/61054679257a365a5776c7c1c97f178e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00088004020842",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beer_wine/wines_spirits/benchmark_no_8_bourbon_whisky_750ml_free_rockglass/p/1564405684711309469"
+    },
+    {
+      "id": "1564405684702541194",
+      "store_id": "2052",
+      "like_code": "122786",
+      "department_id": [
+        "22459175"
+      ],
+      "price": "₱64.75",
+      "unit_price": 64.75,
+      "popularity": 5469,
+      "upc": "480041705959",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800417059594",
+      "reference_ids": [
+        "04800417059594"
+      ],
+      "name": "Bench Sunday Morning Cologne | 125ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702541194/2f3cddde8ff9c3da05a836be087acd7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800417059594",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 6",
+        "sequence": 6,
+        "identifier": "9addfa21-e12c-45bf-b488-3095a7d37d82",
+        "id": "22356769"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/personal_hygiene/bench_sunday_morning_cologne_125ml/p/1564405684702541194"
+    },
+    {
+      "id": "1764405684715635874",
+      "store_id": "2052",
+      "like_code": "454214",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱98.00",
+      "unit_price": 98.0,
+      "popularity": 999999,
+      "upc": "89097600101",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00890976001015",
+      "reference_ids": [
+        "00890976001015"
+      ],
+      "name": "Bengal Recipe Mix Beef Curry Masala 100g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00890976001015",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_beef_curry_masala_100g/p/1764405684715635874"
+    },
+    {
+      "id": "1764405684715635878",
+      "store_id": "2052",
+      "like_code": "454215",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 999999,
+      "upc": "894110051137",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08941100511374",
+      "reference_ids": [
+        "08941100511374"
+      ],
+      "name": "Bengal Recipe Mix Biryani Masala 50g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08941100511374",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_biryani_masala_50g/p/1764405684715635878"
+    },
+    {
+      "id": "1764405684715635862",
+      "store_id": "2052",
+      "like_code": "454212",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱98.00",
+      "unit_price": 98.0,
+      "popularity": 999999,
+      "upc": "894110051128",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08941100511282",
+      "reference_ids": [
+        "08941100511282"
+      ],
+      "name": "Bengal Recipe Mix Chicken Curry Masala 100g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08941100511282",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_chicken_curry_masala_100g/p/1764405684715635862"
+    },
+    {
+      "id": "1764405684715635854",
+      "store_id": "2052",
+      "like_code": "454209",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 999999,
+      "upc": "207710537425",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077105374259",
+      "reference_ids": [
+        "02077105374259"
+      ],
+      "name": "Bengal Recipe Mix Chicken Curry Masala 150g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02077105374259",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_chicken_curry_masala_150g/p/1764405684715635854"
+    },
+    {
+      "id": "1764405684715635860",
+      "store_id": "2052",
+      "like_code": "454206",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱205.00",
+      "unit_price": 205.0,
+      "popularity": 999999,
+      "upc": "894110051055",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08941100510551",
+      "reference_ids": [
+        "08941100510551"
+      ],
+      "name": "Bengal Recipe Mix Curry Powder 200g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08941100510551",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_curry_powder_200g/p/1764405684715635860"
+    },
+    {
+      "id": "1764405684715635876",
+      "store_id": "2052",
+      "like_code": "454211",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱98.00",
+      "unit_price": 98.0,
+      "popularity": 999999,
+      "upc": "89097600501",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00890976005013",
+      "reference_ids": [
+        "00890976005013"
+      ],
+      "name": "Bengal Recipe Mix Fish Curry Masala 100g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "00890976005013",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_fish_curry_masala_100g/p/1764405684715635876"
+    },
+    {
+      "id": "1764405684715635864",
+      "store_id": "2052",
+      "like_code": "454208",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 999999,
+      "upc": "207710537423",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077105374235",
+      "reference_ids": [
+        "02077105374235"
+      ],
+      "name": "Bengal Recipe Mix Fish Curry Masala 150g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02077105374235",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_fish_curry_masala_150g/p/1764405684715635864"
+    },
+    {
+      "id": "1764405684715635858",
+      "store_id": "2052",
+      "like_code": "454217",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱240.00",
+      "unit_price": 240.0,
+      "popularity": 999999,
+      "upc": "890976011106",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08909760111068",
+      "reference_ids": [
+        "08909760111068"
+      ],
+      "name": "Bengal Recipe Mix Garam Masala 100g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08909760111068",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_garam_masala_100g/p/1764405684715635858"
+    },
+    {
+      "id": "1764405684715635872",
+      "store_id": "2052",
+      "like_code": "454210",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱98.00",
+      "unit_price": 98.0,
+      "popularity": 999999,
+      "upc": "894110051114",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08941100511145",
+      "reference_ids": [
+        "08941100511145"
+      ],
+      "name": "Bengal Recipe Mix Meat Curry Masala 100g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08941100511145",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_meat_curry_masala_100g/p/1764405684715635872"
+    },
+    {
+      "id": "1764405684715635870",
+      "store_id": "2052",
+      "like_code": "454207",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 999999,
+      "upc": "207710537421",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02077105374211",
+      "reference_ids": [
+        "02077105374211"
+      ],
+      "name": "Bengal Recipe Mix Meat Curry Masala 150g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02077105374211",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_recipe_mix_meat_curry_masala_150g/p/1764405684715635870"
+    },
+    {
+      "id": "1764405684715635856",
+      "store_id": "2052",
+      "like_code": "454204",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱194.00",
+      "unit_price": 194.0,
+      "popularity": 999999,
+      "upc": "894115403192",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08941154031927",
+      "reference_ids": [
+        "08941154031927"
+      ],
+      "name": "Bengal Spices Chili Powder Premium 200g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08941154031927",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_spices_chili_powder_premium_200g/p/1764405684715635856"
+    },
+    {
+      "id": "1764405684715635866",
+      "store_id": "2052",
+      "like_code": "454205",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱265.00",
+      "unit_price": 265.0,
+      "popularity": 999999,
+      "upc": "894115403194",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08941154031941",
+      "reference_ids": [
+        "08941154031941"
+      ],
+      "name": "Bengal Spices Cumin Powder Premium 200g",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "08941154031941",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/bengal_spices_cumin_powder_premium_200g/p/1764405684715635866"
+    },
+    {
+      "id": "1564405684702558197",
+      "store_id": "2052",
+      "like_code": "137695",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱10.00",
+      "unit_price": 10.0,
+      "popularity": 325,
+      "upc": "888600103801",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08886001038011",
+      "reference_ids": [
+        "08886001038011"
+      ],
+      "name": "Beng-Beng Chocolate | 22g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558197/f552bf2f9801fdb029de8ecab793d8a6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08886001038011",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/beng_beng_chocolate_22g/p/1564405684702558197"
+    },
+    {
+      "id": "1564405684704755765",
+      "store_id": "2052",
+      "like_code": "321924",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱53.25",
+      "unit_price": 53.25,
+      "popularity": 5897,
+      "upc": "1899600135597",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "18996001355975",
+      "reference_ids": [
+        "18996001355975",
+        "08996001355978"
+      ],
+      "name": "Beng-Beng Share It | 95g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704755765/ea23aa53ab0b7927d06a55bd1c14d971",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "18996001355975",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/beng_beng_share_it_95g/p/1564405684704755765"
+    },
+    {
+      "id": "1564405684711491050",
+      "store_id": "2052",
+      "like_code": "351144",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684010015",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840100156",
+      "reference_ids": [
+        "00076840100156"
+      ],
+      "name": "Ben & Jerry's Cherry Garcia Ice Cream | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711491050/ff2b34f3018b079272b0a75c2310a196",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840100156",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/ben_jerry_s_cherry_garcia_ice_cream_473ml/p/1564405684711491050"
+    },
+    {
+      "id": "1564405684708811609",
+      "store_id": "2052",
+      "like_code": "315294",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684010058",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840100583",
+      "reference_ids": [
+        "00076840600021",
+        "00076840100583",
+        "00076840055357"
+      ],
+      "name": "Ben & Jerry's Chocolate Chip Cookie Dough | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708811609/58b7e79c132c8567bea5ea644656b8d4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840100583",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/ben_jerry_s_chocolate_chip_cookie_dough_473ml/p/1564405684708811609"
+    },
+    {
+      "id": "1564405684708811613",
+      "store_id": "2052",
+      "like_code": "315296",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684010047",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840100477",
+      "reference_ids": [
+        "00076840100477",
+        "00076840600038",
+        "00076840055302"
+      ],
+      "name": "Ben & Jerry's Chocolate Fudge Brownie | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708811613/5ca6f1b0bb970d356d092fa356610254",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840100477",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/ben_jerry_s_chocolate_fudge_brownie_473ml/p/1564405684708811613"
+    },
+    {
+      "id": "1564405684711491049",
+      "store_id": "2052",
+      "like_code": "351143",
+      "department_id": [
+        "22459119"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684010035",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840100354",
+      "reference_ids": [
+        "00076840100354"
+      ],
+      "name": "Ben & Jerry's Chunky Monkey Ice Cream | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711491049/541fe1513aed92d96018200ec22e1de3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840100354",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/frozen/ice_cream/ben_jerry_s_chunky_monkey_ice_cream_473ml/p/1564405684711491049"
+    },
+    {
+      "id": "1564405684708811612",
+      "store_id": "2052",
+      "like_code": "315288",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 99999,
+      "upc": "7684062003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840620036",
+      "reference_ids": [
+        "00076840620036",
+        "00076840101320"
+      ],
+      "name": "Ben & Jerry's Half Baked | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708811612/7e53a6ce0a6b139e2812928e8963ec75",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "00076840620036",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/ben_jerry_s_half_baked_473ml/p/1564405684708811612"
+    },
+    {
+      "id": "1564405684708811610",
+      "store_id": "2052",
+      "like_code": "315298",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684010154",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840101542",
+      "reference_ids": [
+        "00076840438396",
+        "00076840101542",
+        "08712566934744"
+      ],
+      "name": "Ben & Jerry's Karamel Sutra Core | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708811610/68487ed7900d34ed888cabca8f2952cf",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840101542",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/ben_jerry_s_karamel_sutra_core_473ml/p/1564405684708811610"
+    },
+    {
+      "id": "1564405684708811614",
+      "store_id": "2052",
+      "like_code": "315299",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684010014",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840100149",
+      "reference_ids": [
+        "00076840100149"
+      ],
+      "name": "Ben & Jerry's New York Super Fudge Chunk | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708811614/c70df9998e7210db7364df7e99430a17",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840100149",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/ben_jerry_s_new_york_super_fudge_chunk_473ml/p/1564405684708811614"
+    },
+    {
+      "id": "1564405684708811607",
+      "store_id": "2052",
+      "like_code": "315297",
+      "department_id": [
+        "21958115"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 999999,
+      "upc": "7684040021",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00076840400218",
+      "reference_ids": [
+        "00076840400218",
+        "00076840055364"
+      ],
+      "name": "Ben & Jerry's Strawberry Cheesecake | 473ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684708811607/1c2296b195bd79540987906e2c1a4d7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00076840400218",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/imported_goods/american/ben_jerry_s_strawberry_cheesecake_473ml/p/1564405684708811607"
+    }
+  ]
+}

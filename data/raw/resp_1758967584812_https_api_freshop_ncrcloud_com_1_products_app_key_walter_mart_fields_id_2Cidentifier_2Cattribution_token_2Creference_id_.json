@@ -1,0 +1,1980 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684715584735",
+      "store_id": "2052",
+      "like_code": "407895",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 999999,
+      "upc": "200004078958",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040789581",
+      "reference_ids": [
+        "02000040789581"
+      ],
+      "name": "Chooks-to-Go Fried Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715584735/c8a81b49c00645386cb679ad84d55a8d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040789581",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_fried_hot_spicy_chicken_pc/p/1564405684715584735"
+    },
+    {
+      "id": "1564405684715584727",
+      "store_id": "2052",
+      "like_code": "407892",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 999999,
+      "upc": "200004078928",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040789284",
+      "reference_ids": [
+        "02000040789284"
+      ],
+      "name": "Chooks-to-Go Fried Pepper Chicken | pc",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715584727/b0997e5b9c50fb7a5d455d9c7e39364e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040789284",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_fried_pepper_chicken_pc/p/1564405684715584727"
+    },
+    {
+      "id": "1564405684715589315",
+      "store_id": "2052",
+      "like_code": "407893",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 999999,
+      "upc": "200004078938",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040789383",
+      "reference_ids": [
+        "02000040789383"
+      ],
+      "name": "Chooks-to-Go Fried Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715589315/900428df36f41fb8bb621a1717f9c5a6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000040789383",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_fried_sweet_chicken_pc/p/1564405684715589315"
+    },
+    {
+      "id": "1564405684715696685",
+      "store_id": "2052",
+      "like_code": "410168",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "upc": "200004101688",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041016884",
+      "reference_ids": [
+        "02000041016884"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696685/17e49bcf32f86c00b5761f2cb85a5686",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041016884",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_hot_spicy_chicken_pc/p/1564405684715696685"
+    },
+    {
+      "id": "1564405684715696705",
+      "store_id": "2052",
+      "like_code": "410174",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "upc": "200004101748",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017485",
+      "reference_ids": [
+        "02000041017485"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696705/5817e869b611856093d61991fdfaf5f0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017485",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_hot_spicy_chicken_pc/p/1564405684715696705"
+    },
+    {
+      "id": "1564405684715696713",
+      "store_id": "2052",
+      "like_code": "410180",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "200004101808",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041018086",
+      "reference_ids": [
+        "02000041018086"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696713/7a5b688df29012e509c2eb577a531f0c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041018086",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_hot_spicy_chicken_pc/p/1564405684715696713"
+    },
+    {
+      "id": "1564405684714622609",
+      "store_id": "2052",
+      "like_code": "394074",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "200003940748",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039407489",
+      "reference_ids": [
+        "02000039407489"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714622609/fca97312d72e2b864bfb83e798e1d9c7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039407489",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_hot_spicy_chicken_pc/p/1564405684714622609"
+    },
+    {
+      "id": "1564405684715696691",
+      "store_id": "2052",
+      "like_code": "410167",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 3141,
+      "upc": "200004101678",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041016785",
+      "reference_ids": [
+        "02000041016785"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Pepper Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696691/18443569acac15665177fec4812906a3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000041016785",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_pepper_chicken_pc/p/1564405684715696691"
+    },
+    {
+      "id": "1564405684715696693",
+      "store_id": "2052",
+      "like_code": "410173",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "upc": "200004101738",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017386",
+      "reference_ids": [
+        "02000041017386"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Pepper Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696693/b63976f20dabcb4026b0575c701ed7b4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017386",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_pepper_chicken_pc/p/1564405684715696693"
+    },
+    {
+      "id": "1564405684714622605",
+      "store_id": "2052",
+      "like_code": "394073",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "200003940738",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039407380",
+      "reference_ids": [
+        "02000039407380"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Pepper Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714622605/d83e647bb9ed8665b181051714bc36a8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039407380",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_pepper_chicken_pc/p/1564405684714622605"
+    },
+    {
+      "id": "1564405684715696695",
+      "store_id": "2052",
+      "like_code": "410179",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "200004101798",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017980",
+      "reference_ids": [
+        "02000041017980"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Pepper Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696695/d92e936e9b7f7211933d27496338ae3c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017980",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_pepper_chicken_pc/p/1564405684715696695"
+    },
+    {
+      "id": "1564405684715696681",
+      "store_id": "2052",
+      "like_code": "410166",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 3136,
+      "upc": "200004101668",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041016686",
+      "reference_ids": [
+        "02000041016686"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696681/baf1bb35321b417a6c152158db977597",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000041016686",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_sweet_chicken_pc/p/1564405684715696681"
+    },
+    {
+      "id": "1564405684715696707",
+      "store_id": "2052",
+      "like_code": "410172",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱170.00",
+      "unit_price": 170.0,
+      "popularity": 999999,
+      "upc": "200004101728",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017287",
+      "reference_ids": [
+        "02000041017287"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696707/35de1c75781b62a6ace2dabeb6436130",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017287",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_sweet_chicken_pc/p/1564405684715696707"
+    },
+    {
+      "id": "1564405684715696711",
+      "store_id": "2052",
+      "like_code": "410178",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "200004101788",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017881",
+      "reference_ids": [
+        "02000041017881"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696711/bce934e2e3980034dc7d65b45e7caa95",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017881",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_sweet_chicken_pc/p/1564405684715696711"
+    },
+    {
+      "id": "1564405684714622604",
+      "store_id": "2052",
+      "like_code": "394072",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱180.00",
+      "unit_price": 180.0,
+      "popularity": 999999,
+      "upc": "200003940728",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039407281",
+      "reference_ids": [
+        "02000039407281"
+      ],
+      "name": "Chooks-to-Go Half Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714622604/3b7dc0818a4afc8503acee10a1e2e256",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039407281",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_half_oven_roasted_sweet_chicken_pc/p/1564405684714622604"
+    },
+    {
+      "id": "1564405684714604294",
+      "store_id": "2052",
+      "like_code": "393289",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱50.00",
+      "unit_price": 50.0,
+      "popularity": 999999,
+      "upc": "200003932898",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039328982",
+      "reference_ids": [
+        "02000039328982"
+      ],
+      "name": "Chooks to Go Heihei Chicken | 1pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714604294/368a0023d8385dd69f69c15bcc99e053",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039328982",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_heihei_chicken_1pc/p/1564405684714604294"
+    },
+    {
+      "id": "1564405684715584725",
+      "store_id": "2052",
+      "like_code": "407891",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱270.00",
+      "unit_price": 270.0,
+      "popularity": 3152,
+      "upc": "200004078918",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000040789185",
+      "reference_ids": [
+        "02000040789185"
+      ],
+      "name": "Chooks-to-Go Juicy Fried Liempo | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715584725/10e7399f06cad8905b32aae368dcc466",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000040789185",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_juicy_fried_liempo_pc/p/1564405684715584725"
+    },
+    {
+      "id": "1564405684714622602",
+      "store_id": "2052",
+      "like_code": "394071",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003940718",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039407182",
+      "reference_ids": [
+        "02000039407182"
+      ],
+      "name": "Chooks-to-Go Liempo Sisig | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714622602/6d1136c6037073879456cce0e3b2338c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000039407182",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_liempo_sisig_pc/p/1564405684714622602"
+    },
+    {
+      "id": "1564405684714622607",
+      "store_id": "2052",
+      "like_code": "394075",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 999999,
+      "upc": "200003940758",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000039407588",
+      "reference_ids": [
+        "02000039407588"
+      ],
+      "name": "Chooks-to-Go Liempo Sisig | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "02000039407588",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_liempo_sisig_pc/p/1564405684714622607"
+    },
+    {
+      "id": "1564405684712126705",
+      "store_id": "2052",
+      "like_code": "352036",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 3052,
+      "upc": "200003520368",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035203689",
+      "reference_ids": [
+        "02000035203689"
+      ],
+      "name": "Chooks To Go Marinado Crispy Fried Chicken | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712126705/2a4cfd2834aa1f79d63b144c121e5c26",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000035203689",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_marinado_crispy_fried_chicken_500g/p/1564405684712126705"
+    },
+    {
+      "id": "1564405684712126706",
+      "store_id": "2052",
+      "like_code": "352038",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 3054,
+      "upc": "200003520388",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035203887",
+      "reference_ids": [
+        "02000035203887"
+      ],
+      "name": "Chooks To Go Marinado Cut-ups Pepper Chicken | 550g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712126706/829efd4ac9d24f3357e1da809c805fc4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000035203887",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_marinado_cut_ups_pepper_chicken_550g/p/1564405684712126706"
+    },
+    {
+      "id": "1564405684715696687",
+      "store_id": "2052",
+      "like_code": "410165",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 999999,
+      "upc": "200004101658",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041016587",
+      "reference_ids": [
+        "02000041016587"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696687/8bb1f4240663a1e9667656a02739db18",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041016587",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_hot_spicy_chicken_pc/p/1564405684715696687"
+    },
+    {
+      "id": "1564405684712038447",
+      "store_id": "2052",
+      "like_code": "335793",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱345.00",
+      "unit_price": 345.0,
+      "popularity": 999999,
+      "upc": "200003357938",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000033579380",
+      "reference_ids": [
+        "02000033579380"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712038447/b3606433b7e505e2bac6c5f0fa6bba25",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000033579380",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_oven_roasted_hot_spicy_chicken_pc/p/1564405684712038447"
+    },
+    {
+      "id": "1564405684715696709",
+      "store_id": "2052",
+      "like_code": "410171",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱330.00",
+      "unit_price": 330.0,
+      "popularity": 999999,
+      "upc": "200004101718",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017188",
+      "reference_ids": [
+        "02000041017188"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696709/409470e743b4b32f8b8d25672d991477",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017188",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_hot_spicy_chicken_pc/p/1564405684715696709"
+    },
+    {
+      "id": "1564405684715696701",
+      "store_id": "2052",
+      "like_code": "410177",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "upc": "200004101778",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017782",
+      "reference_ids": [
+        "02000041017782"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Hot & Spicy Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696701/e4fbf2ebf3c4eab9252ec26cfa72ec40",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017782",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_hot_spicy_chicken_pc/p/1564405684715696701"
+    },
+    {
+      "id": "1564405684715696703",
+      "store_id": "2052",
+      "like_code": "410170",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱330.00",
+      "unit_price": 330.0,
+      "popularity": 999999,
+      "upc": "200004101708",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017089",
+      "reference_ids": [
+        "02000041017089"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Pepper Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696703/bda579d1d88a8af46375462fc0824d38",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017089",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_pepper_chicken_pc/p/1564405684715696703"
+    },
+    {
+      "id": "1564405684715696697",
+      "store_id": "2052",
+      "like_code": "410176",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "upc": "200004101768",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017683",
+      "reference_ids": [
+        "02000041017683"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Pepper Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696697/33dc4007548d65009d18b44877552a03",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017683",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_pepper_chicken_pc/p/1564405684715696697"
+    },
+    {
+      "id": "1564405684715696683",
+      "store_id": "2052",
+      "like_code": "410163",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱335.00",
+      "unit_price": 335.0,
+      "popularity": 3135,
+      "upc": "200004101638",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041016389",
+      "reference_ids": [
+        "02000041016389"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696683/097a4598b4f48ea6a34e77a0f58dbe2a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000041016389",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_sweet_chicken_pc/p/1564405684715696683"
+    },
+    {
+      "id": "1564405684715696689",
+      "store_id": "2052",
+      "like_code": "410169",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱330.00",
+      "unit_price": 330.0,
+      "popularity": 999999,
+      "upc": "200004101698",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041016983",
+      "reference_ids": [
+        "02000041016983"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696689/3d7d495583bb3230ea05a18aa2e443b2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041016983",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_sweet_chicken_pc/p/1564405684715696689"
+    },
+    {
+      "id": "1564405684715696699",
+      "store_id": "2052",
+      "like_code": "410175",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "upc": "200004101758",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000041017584",
+      "reference_ids": [
+        "02000041017584"
+      ],
+      "name": "Chooks-to-Go Oven Roasted Sweet Chicken | pc",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715696699/f11843538a12939ee20f49f561545c62",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000041017584",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chooks_to_go_oven_roasted_sweet_chicken_pc/p/1564405684715696699"
+    },
+    {
+      "id": "1564405684702510626",
+      "store_id": "2052",
+      "like_code": "127993",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "upc": "200001279935",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000012799358",
+      "reference_ids": [
+        "02000012799358"
+      ],
+      "name": "Chooks to Go Roast Pepper Chicken | Whole",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702510626/9e683ec165826a666f83abec77181505",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000012799358",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_roast_pepper_chicken_whole/p/1564405684702510626"
+    },
+    {
+      "id": "1564405684702510622",
+      "store_id": "2052",
+      "like_code": "127992",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱350.00",
+      "unit_price": 350.0,
+      "popularity": 999999,
+      "upc": "200001279925",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000012799259",
+      "reference_ids": [
+        "02000012799259"
+      ],
+      "name": "Chooks to Go Roast Sweet Chicken | Whole",
+      "size": "pc",
+      "price_disclaimer": "Chooks-To-Go are available for delivery at 11am onwards",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702510622/0b9023ce7b237164f9d0b090353145ec",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "02000012799259",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_roast_sweet_chicken_whole/p/1564405684702510622"
+    },
+    {
+      "id": "1564405684712126709",
+      "store_id": "2052",
+      "like_code": "352041",
+      "department_id": [
+        "22430025"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 3056,
+      "upc": "200003520418",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "02000035204181",
+      "reference_ids": [
+        "02000035204181"
+      ],
+      "name": "Chooks To Go Spicy Neck Marinated | 500g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712126709/ac322d211d6be00bc2a9743db0923181",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "02000035204181",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 1",
+        "sequence": 1,
+        "identifier": "d29b4240-721d-4e59-bbe3-31ef747d3200",
+        "id": "22356764"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/restaurant_meals/chooks_to_go/chooks_to_go_spicy_neck_marinated_500g/p/1564405684712126709"
+    },
+    {
+      "id": "1764405684715693936",
+      "store_id": "2052",
+      "like_code": "428851",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱469.00",
+      "unit_price": 469.0,
+      "popularity": 999999,
+      "upc": "480653405253",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806534052531",
+      "reference_ids": [
+        "04806534052531"
+      ],
+      "name": "Chop Shop Beef Minute Steak 450g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04806534052531",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chop_shop_beef_minute_steak_450g/p/1764405684715693936"
+    },
+    {
+      "id": "1764405684715693938",
+      "store_id": "2052",
+      "like_code": "428855",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱269.00",
+      "unit_price": 269.0,
+      "popularity": 999999,
+      "upc": "480653405251",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04806534052517",
+      "reference_ids": [
+        "04806534052517"
+      ],
+      "name": "Chop Shop Pork Sukiyaki 450g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "cover_image": "fp_dpt_generic/2a9b3ef460d517994244f67d3cffc98e",
+      "is_place_holder_cover_image": true,
+      "identifier": "04806534052517",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/chop_shop_pork_sukiyaki_450g/p/1764405684715693938"
+    },
+    {
+      "id": "1564405684704733083",
+      "store_id": "2052",
+      "like_code": "272455",
+      "department_id": [
+        "22459148"
+      ],
+      "price": "₱78.00",
+      "unit_price": 78.0,
+      "popularity": 9250,
+      "upc": "480901099701",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04809010997012",
+      "reference_ids": [
+        "04809010997012"
+      ],
+      "name": "Choyo Choyo Chocolate Wafer Sticks | 380g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704733083/4dc929cc370c4fda94c8154acbda4d89",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04809010997012",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chips_crackers/choyo_choyo_chocolate_wafer_sticks_380g/p/1564405684704733083"
+    },
+    {
+      "id": "1564405684702537769",
+      "store_id": "2052",
+      "like_code": "99801",
+      "department_id": [
+        "22459288"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 5021,
+      "upc": "480010334183",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800103341835",
+      "reference_ids": [
+        "04800103341835"
+      ],
+      "name": "Chubby Choco Chewy Candy | 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702537769/bfbb6749a1afa25af1cf646901d9aa35",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800103341835",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/chocolate_confectionary/chubby_choco_chewy_candy_20s/p/1564405684702537769"
+    },
+    {
+      "id": "1564405684704732371",
+      "store_id": "2052",
+      "like_code": "280989",
+      "department_id": [
+        "1496147"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 999999,
+      "upc": "480010334198",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800103341989",
+      "reference_ids": [
+        "04800103341989"
+      ],
+      "name": "Chubby Milk Chewy Candy | 110g x 20s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704732371/d2cb66348e06712fd5f1333cfca22eb3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800103341989",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/snacks/candies/chubby_milk_chewy_candy_110g_x_20s/p/1564405684704732371"
+    },
+    {
+      "id": "1564405684712504466",
+      "store_id": "2052",
+      "like_code": "315789",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 419,
+      "upc": "480036140148",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361401487",
+      "reference_ids": [
+        "04800361401487"
+      ],
+      "name": "Chuckie Chocolate Drink | 110ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712504466/07856413ad4ddbfaa0085104019d6d1c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361401487",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_drink_110ml_x_6s/p/1564405684712504466"
+    },
+    {
+      "id": "1564405684712587093",
+      "store_id": "2052",
+      "like_code": "363778",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 472,
+      "upc": "480036141941",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361419413",
+      "reference_ids": [
+        "04800361419413"
+      ],
+      "name": "Chuckie Chocolate Drink | 180ml x 6s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712587093/7a795344d408696014dde2a867f938b0",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361419413",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_drink_180ml_x_6s/p/1564405684712587093"
+    },
+    {
+      "id": "1564405684716097691",
+      "store_id": "2052",
+      "like_code": "328980",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱110.00",
+      "unit_price": 110.0,
+      "popularity": 8332,
+      "upc": "480036142536",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361425360",
+      "reference_ids": [
+        "04800361425360",
+        "04800361413732"
+      ],
+      "name": "Chuckie Chocolate Drink | 250ml x 4s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716097691/53e0d09489cf64798c828c6929e4193a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361425360",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_drink_250ml_x_4s/p/1564405684716097691"
+    },
+    {
+      "id": "1764405684715304714",
+      "store_id": "2052",
+      "like_code": "443838",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 999999,
+      "upc": "480036142887",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361428873",
+      "reference_ids": [
+        "04800361428873"
+      ],
+      "name": "Chuckie Chocolate Drink | 250ml x 6s (5+1 Promo)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715304714/6a49c9856b11a0322cfff9d1a54882a5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361428873",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_drink_250ml_x_6s_5_1_promo/p/1764405684715304714"
+    },
+    {
+      "id": "1564405684702540403",
+      "store_id": "2052",
+      "like_code": "116402",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱14.50",
+      "unit_price": 14.5,
+      "popularity": 451,
+      "upc": "480036139568",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361395687",
+      "reference_ids": [
+        "04800361395687",
+        "04800361359276"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 110ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540403/48dd27e587e548bcec2d8589f52ee892",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361395687",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/chuckie_chocolate_milk_drink_110ml/p/1564405684702540403"
+    },
+    {
+      "id": "1564405684702540614",
+      "store_id": "2052",
+      "like_code": "243504",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱120.00",
+      "unit_price": 120.0,
+      "popularity": 999999,
+      "upc": "480036142225",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361422253",
+      "reference_ids": [
+        "04800361422253",
+        "04800361397438",
+        "04800361406987"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 110ml x 10s",
+      "size": "pck",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540614/c09e9f6296ce769229ca2b2701f6db5e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361422253",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_milk_drink_110ml_x_10s/p/1564405684702540614"
+    },
+    {
+      "id": "1564405684713722625",
+      "store_id": "2052",
+      "like_code": "381981",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 80,
+      "upc": "480036142273",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361422734",
+      "reference_ids": [
+        "04800361422734"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 110ml x 10s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713722625/acbd962afcd35bd2b2764b91faa69652",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361422734",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_milk_drink_110ml_x_10s/p/1564405684713722625"
+    },
+    {
+      "id": "1564405684702540517",
+      "store_id": "2052",
+      "like_code": "156598",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱24.50",
+      "unit_price": 24.5,
+      "popularity": 6248,
+      "upc": "480036142981",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361429818",
+      "reference_ids": [
+        "04800361429818",
+        "04800361388313"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 180ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540517/67878ee61742ba1e6fbce2912757faf2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429818",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 16",
+        "sequence": 16,
+        "identifier": "76013733-5d53-479f-97e4-5425026efe88",
+        "id": "22356779"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/chuckie_chocolate_milk_drink_180ml/p/1564405684702540517"
+    },
+    {
+      "id": "1564405684714841773",
+      "store_id": "2052",
+      "like_code": "396608",
+      "department_id": [
+        "1496135"
+      ],
+      "price": "₱168.00",
+      "unit_price": 168.0,
+      "popularity": 999999,
+      "upc": "480036142442",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361424424",
+      "reference_ids": [
+        "04800361424424"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 180ml (7+1 Back To School Pack)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684714841773/d019f12173091fd73459b53440f65229",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361424424",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/chuckie_chocolate_milk_drink_180ml_7_1_back_to_school_pack/p/1564405684714841773"
+    },
+    {
+      "id": "1564405684702540464",
+      "store_id": "2052",
+      "like_code": "140953",
+      "department_id": [
+        "22459166"
+      ],
+      "price": "₱90.00",
+      "unit_price": 90.0,
+      "popularity": 4082,
+      "upc": "480036142584",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361425841",
+      "reference_ids": [
+        "04800361425841",
+        "04800361380003",
+        "04800361404181"
+      ],
+      "name": "Chuckie Chocolate Milk Drink | 180ml x 4s",
+      "size": "pack",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540464/e77137f511b3b06897274bbd2b6e27e9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361425841",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/dairy_eggs/milk/fresh_milk/chuckie_chocolate_milk_drink_180ml_x_4s/p/1564405684702540464"
+    }
+  ]
+}

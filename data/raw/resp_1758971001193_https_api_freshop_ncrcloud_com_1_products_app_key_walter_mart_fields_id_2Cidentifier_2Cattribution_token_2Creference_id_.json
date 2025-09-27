@@ -1,0 +1,3042 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684702540565",
+      "store_id": "2052",
+      "like_code": "207569",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱214.00",
+      "unit_price": 214.0,
+      "popularity": 243,
+      "upc": "480036139366",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361393669",
+      "reference_ids": [
+        "04800361393669"
+      ],
+      "name": "Nescafe Classic Coffee Refill | 170g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702540565/988aa1fb6347862908832d7b83a4f049",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361393669",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_classic_coffee_refill_170g/p/1564405684702540565"
+    },
+    {
+      "id": "1764405684715323480",
+      "store_id": "2052",
+      "like_code": "444059",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱194.00",
+      "unit_price": 194.0,
+      "popularity": 655,
+      "upc": "480036142842",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361428422",
+      "reference_ids": [
+        "04800361428422"
+      ],
+      "name": "Nescafe Classic Coffee Refill | 170g (Save 20)",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715323480/a9db56d5849d8aeaf10ed10c8389dbb9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361428422",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_classic_coffee_refill_170g_save_20/p/1764405684715323480"
+    },
+    {
+      "id": "1564405684702540374",
+      "store_id": "2052",
+      "like_code": "101915",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱28.00",
+      "unit_price": 28.0,
+      "popularity": 358,
+      "upc": "480036133918",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361339186",
+      "reference_ids": [
+        "04800361339186"
+      ],
+      "name": "Nescafe Classic Coffee Refill | 20g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540374/dde6623b8d38561c340fe8cc71b1ab8a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361339186",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_classic_coffee_refill_20g/p/1564405684702540374"
+    },
+    {
+      "id": "1564405684702540378",
+      "store_id": "2052",
+      "like_code": "101916",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱54.00",
+      "unit_price": 54.0,
+      "popularity": 671,
+      "upc": "480036139364",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361393645",
+      "reference_ids": [
+        "04800361393645",
+        "04800361339421",
+        "04800361387460"
+      ],
+      "name": "Nescafe Classic Coffee Refill | 40g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540378/149f74ab192208b241daba49eb36fa22",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361393645",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_classic_coffee_refill_40g/p/1564405684702540378"
+    },
+    {
+      "id": "1564405684702540377",
+      "store_id": "2052",
+      "like_code": "101913",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱105.00",
+      "unit_price": 105.0,
+      "popularity": 233,
+      "upc": "480036139564",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361395649",
+      "reference_ids": [
+        "04800361395649",
+        "04800361339445",
+        "04800361393683"
+      ],
+      "name": "Nescafe Classic Coffee Refill | 80g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540377/a7840f5127238ff99eeae3aee7b8f3da",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361395649",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_classic_coffee_refill_80g/p/1564405684702540377"
+    },
+    {
+      "id": "1564405684702540379",
+      "store_id": "2052",
+      "like_code": "101931",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱155.00",
+      "unit_price": 155.0,
+      "popularity": 157,
+      "upc": "480036138825",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361388252",
+      "reference_ids": [
+        "04800361388252",
+        "04800361339575"
+      ],
+      "name": "Nescafe Classic Coffee Sticks | 1.9g x 48s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540379/40598aeae3daaeec589b35e9d4b61de9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361388252",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_classic_coffee_sticks_1_9g_x_48s/p/1564405684702540379"
+    },
+    {
+      "id": "1764405684715282294",
+      "store_id": "2052",
+      "like_code": "441671",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱137.00",
+      "unit_price": 137.0,
+      "popularity": 146,
+      "upc": "480036142840",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361428408",
+      "reference_ids": [
+        "04800361428408"
+      ],
+      "name": "Nescafe Classic Coffee Sticks | 1.9g x 48s Save P18.00",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1764405684715282294/d4fd97bc09a777fc014a79e46f3b8c8f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361428408",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_classic_coffee_sticks_1_9g_x_48s_save_p18_00/p/1764405684715282294"
+    },
+    {
+      "id": "1764405684715212072",
+      "store_id": "2052",
+      "like_code": "439954",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 7715,
+      "upc": "480036142658",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426589",
+      "reference_ids": [
+        "04800361426589"
+      ],
+      "name": "Nescafe Coffee 3-in-1 Creamy Latte | 20g x 20s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715212072/e9975e0c72550de143c1d62154dba36c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688606408227672",
+          "reference_id": "ad_2052_04800361426589_2_330_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1764405684715212072"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3858,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22575675",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5e3a9972dba06f7828a32ed6c07ee7e2",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee 3-in-1 Creamy Latte | 20g x 20s",
+          "sale_price": "2 for ₱330.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱330.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱330.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱330.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688606408227672",
+        "reference_id": "ad_2052_04800361426589_2_330_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1764405684715212072"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3858,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22575675",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "5e3a9972dba06f7828a32ed6c07ee7e2",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee 3-in-1 Creamy Latte | 20g x 20s",
+        "sale_price": "2 for ₱330.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱330.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 165.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426589",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_3_in_1_creamy_latte_20g_x_20s/p/1764405684715212072"
+    },
+    {
+      "id": "1764405684715212068",
+      "store_id": "2052",
+      "like_code": "439953",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱185.00",
+      "unit_price": 185.0,
+      "popularity": 9039,
+      "upc": "480036142652",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426527",
+      "reference_ids": [
+        "04800361426527"
+      ],
+      "name": "Nescafe Coffee 3-in-1 Creamy White | 20g x 20s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715212068/1cf0965fadb7e64bc7484bded0102983",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688606324341588",
+          "reference_id": "ad_2052_04800361426527_2_330_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1764405684715212068"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 4520,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22575675",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "5e3a9972dba06f7828a32ed6c07ee7e2",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee 3-in-1 Creamy White | 20g x 20s",
+          "sale_price": "2 for ₱330.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱330.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱330.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱330.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688606324341588",
+        "reference_id": "ad_2052_04800361426527_2_330_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1764405684715212068"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 4520,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22575675",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "5e3a9972dba06f7828a32ed6c07ee7e2",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee 3-in-1 Creamy White | 20g x 20s",
+        "sale_price": "2 for ₱330.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱330.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 165.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426527",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_3_in_1_creamy_white_20g_x_20s/p/1764405684715212068"
+    },
+    {
+      "id": "1764405684715212070",
+      "store_id": "2052",
+      "like_code": "439952",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱164.00",
+      "unit_price": 164.0,
+      "popularity": 7333,
+      "upc": "480036142655",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361426558",
+      "reference_ids": [
+        "04800361426558"
+      ],
+      "name": "Nescafe Coffee 3-in-1 Original | 20g x 20s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715212070/11ffec87e45d15a701ea30df59489317",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688606391450454",
+          "reference_id": "ad_2052_04800361426558_2_288_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1764405684715212070"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 3667,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22575675",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "efd85e006cb1d5635f48287baf37590d",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee 3-in-1 Original | 20g x 20s",
+          "sale_price": "2 for ₱288.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱288.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱288.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱288.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688606391450454",
+        "reference_id": "ad_2052_04800361426558_2_288_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1764405684715212070"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 3667,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22575675",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "efd85e006cb1d5635f48287baf37590d",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee 3-in-1 Original | 20g x 20s",
+        "sale_price": "2 for ₱288.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱288.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 144.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361426558",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_3_in_1_original_20g_x_20s/p/1764405684715212070"
+    },
+    {
+      "id": "1564405684702540482",
+      "store_id": "2052",
+      "like_code": "146261",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 5540,
+      "upc": "480036138349",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361383493",
+      "reference_ids": [
+        "04800361383493"
+      ],
+      "name": "Nescafe Coffee Creamy Latte | 20g x 5s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540482/dce1c96a2f83ffdba4daae11180b4fe5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361383493",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_coffee_creamy_latte_20g_x_5s/p/1564405684702540482"
+    },
+    {
+      "id": "1764405684715324678",
+      "store_id": "2052",
+      "like_code": "444051",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱131.00",
+      "unit_price": 131.0,
+      "popularity": 3874,
+      "upc": "480036142947",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429474",
+      "reference_ids": [
+        "04800361429474"
+      ],
+      "name": "Nescafe Coffee Creamy Latte Twin Pack | 40g x 10s (Save 15)",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715324678/c5e2deaa207fb8f00bb4c50bc8dcadfd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429474",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_creamy_latte_twin_pack_40g_x_10s_save_15/p/1764405684715324678"
+    },
+    {
+      "id": "1564405684711272157",
+      "store_id": "2052",
+      "like_code": "332706",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 521,
+      "upc": "480036141399",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361413992",
+      "reference_ids": [
+        "04800361413992"
+      ],
+      "name": "Nescafe Coffee Creamy Latte Twin Pack | 40g x 5s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684711272157/2deaec57de1c8119dd6dacf4baaefe51",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688603992308508",
+          "reference_id": "ad_2052_04800361413992_2_131_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684711272157"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 261,
+          "product_tag_ids": [
+            "212326",
+            "21724132",
+            "22197754",
+            "22356774",
+            "22459167",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07bc888f0f3d9d5bef57c8685ec6e0f6",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee Creamy Latte Twin Pack | 40g x 5s",
+          "sale_price": "2 for ₱131.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱131.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688603992308508",
+        "reference_id": "ad_2052_04800361413992_2_131_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684711272157"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 261,
+        "product_tag_ids": [
+          "212326",
+          "21724132",
+          "22197754",
+          "22356774",
+          "22459167",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07bc888f0f3d9d5bef57c8685ec6e0f6",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee Creamy Latte Twin Pack | 40g x 5s",
+        "sale_price": "2 for ₱131.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 65.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361413992",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_coffee_creamy_latte_twin_pack_40g_x_5s/p/1564405684711272157"
+    },
+    {
+      "id": "1564405684702540530",
+      "store_id": "2052",
+      "like_code": "163500",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 3944,
+      "upc": "480036139309",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361393096",
+      "reference_ids": [
+        "04800361393096",
+        "04800361390842"
+      ],
+      "name": "Nescafe Coffee Creamy White | 20g x 5s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540530/ff82560c7b08add8cc322e83feb79448",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361393096",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_creamy_white_20g_x_5s/p/1564405684702540530"
+    },
+    {
+      "id": "1764405684715385576",
+      "store_id": "2052",
+      "like_code": "448219",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 528,
+      "upc": "480036142965",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429658",
+      "reference_ids": [
+        "04800361429658"
+      ],
+      "name": "Nescafe Coffee Creamy White Sugar Free Twin Pack | 22.4g x 5s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715385576/f55a96552360886372d4920710be8ab3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429658",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_creamy_white_sugar_free_twin_pack_22_4g_x_5s/p/1764405684715385576"
+    },
+    {
+      "id": "1764405684715324674",
+      "store_id": "2052",
+      "like_code": "444050",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱131.00",
+      "unit_price": 131.0,
+      "popularity": 1078,
+      "upc": "480036142949",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429498",
+      "reference_ids": [
+        "04800361429498"
+      ],
+      "name": "Nescafe Coffee Creamy White Twin Pack | 40g x 10s (Save 15)",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715324674/2470562eb3d4ad6b5584e674e1f32d7d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429498",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_creamy_white_twin_pack_40g_x_10s_save_15/p/1764405684715324674"
+    },
+    {
+      "id": "1564405684704729254",
+      "store_id": "2052",
+      "like_code": "282514",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 259,
+      "upc": "480036141672",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361416726",
+      "reference_ids": [
+        "04800361416726",
+        "04800361405485"
+      ],
+      "name": "Nescafe Coffee Creamy White Twin Pack | 40g x 5s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729254/c0ff1be7bece1647dcc0dc8a033eb43b",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688604202023713",
+          "reference_id": "ad_2052_04800361416726_2_131_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684704729254"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 130,
+          "product_tag_ids": [
+            "212326",
+            "1516178",
+            "21724132",
+            "22197754",
+            "22356774",
+            "22459167",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07bc888f0f3d9d5bef57c8685ec6e0f6",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee Creamy White Twin Pack | 40g x 5s",
+          "sale_price": "2 for ₱131.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱131.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688604202023713",
+        "reference_id": "ad_2052_04800361416726_2_131_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684704729254"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 130,
+        "product_tag_ids": [
+          "212326",
+          "1516178",
+          "21724132",
+          "22197754",
+          "22356774",
+          "22459167",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07bc888f0f3d9d5bef57c8685ec6e0f6",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee Creamy White Twin Pack | 40g x 5s",
+        "sale_price": "2 for ₱131.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 65.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361416726",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_coffee_creamy_white_twin_pack_40g_x_5s/p/1564405684704729254"
+    },
+    {
+      "id": "1564405684702533284",
+      "store_id": "2052",
+      "like_code": "270665",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 999999,
+      "upc": "480036142424",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361424240",
+      "reference_ids": [
+        "04800361424240",
+        "02000027066513"
+      ],
+      "name": "Nescafe Coffee Creamy White Twin Pack | 51g x 11s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702533284/0aa024c92246ac3beb0dd7009855941a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361424240",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_creamy_white_twin_pack_51g_x_11s/p/1564405684702533284"
+    },
+    {
+      "id": "1764405684715512654",
+      "store_id": "2052",
+      "like_code": "383308",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 5582,
+      "upc": "490220141111",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902201411110",
+      "reference_ids": [
+        "04902201411110"
+      ],
+      "name": "Nescafe Coffee Excella No Sugar | 900ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715512654/5cf0132dda80b6ccd0ac046df57cd5f5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902201411110",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_excella_no_sugar_900ml/p/1764405684715512654"
+    },
+    {
+      "id": "1764405684715486964",
+      "store_id": "2052",
+      "like_code": "452099",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱339.00",
+      "unit_price": 339.0,
+      "popularity": 1,
+      "upc": "490220144471",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902201444712",
+      "reference_ids": [
+        "04902201444712"
+      ],
+      "name": "Nescafe Coffee Fuwa Latte | 135g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486964/1e9b5f51b2969175deb0fc13362e9cac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902201444712",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_fuwa_latte_135g/p/1764405684715486964"
+    },
+    {
+      "id": "1564405684710289173",
+      "store_id": "2052",
+      "like_code": "319933",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱599.00",
+      "unit_price": 599.0,
+      "popularity": 4756,
+      "upc": "480036142147",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361421478",
+      "reference_ids": [
+        "04800361421478",
+        "04800361420839",
+        "08801055709083"
+      ],
+      "name": "Nescafe Coffee Gold | 200g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684710289173/b64b1e999d69393b2cb027b5a8f7dd2f",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3668099869496589231",
+          "reference_id": "ad_2052_04800361421478_2_1078_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684710289173"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2378,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "1516178",
+            "21724132",
+            "22197754",
+            "22356774",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22883853",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "238acc5dfe77d10d712cb8c69c7cc490",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee Gold | 200g",
+          "sale_price": "2 for ₱1,078.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱1,078.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱1,078.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱1,078.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3668099869496589231",
+        "reference_id": "ad_2052_04800361421478_2_1078_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684710289173"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 2378,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "1516178",
+          "21724132",
+          "22197754",
+          "22356774",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22883853",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "238acc5dfe77d10d712cb8c69c7cc490",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee Gold | 200g",
+        "sale_price": "2 for ₱1,078.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱1,078.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 539.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361421478",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_gold_200g/p/1564405684710289173"
+    },
+    {
+      "id": "1764405684715486932",
+      "store_id": "2052",
+      "like_code": "452098",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 1,
+      "upc": "490220144421",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902201444217",
+      "reference_ids": [
+        "04902201444217"
+      ],
+      "name": "Nescafe Coffee Gold Blend Black | 40g",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715486932/135e202f38a9626e97608b1e3f2eb01a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902201444217",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_gold_blend_black_40g/p/1764405684715486932"
+    },
+    {
+      "id": "1764405684715512622",
+      "store_id": "2052",
+      "like_code": "450602",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 5699,
+      "upc": "490220144385",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902201443852",
+      "reference_ids": [
+        "04902201443852"
+      ],
+      "name": "Nescafe Coffee Gold Blend Less Sweetness | 900ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715512622/6f3cfabdd6b51646e119477b29811492",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902201443852",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_gold_blend_less_sweetness_900ml/p/1764405684715512622"
+    },
+    {
+      "id": "1764405684715512626",
+      "store_id": "2052",
+      "like_code": "450601",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 5729,
+      "upc": "490220144384",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902201443845",
+      "reference_ids": [
+        "04902201443845"
+      ],
+      "name": "Nescafe Coffee Gold Blend No Sugar | 900ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715512626/78b629e06379c0ca9ebdcb3cfeea5fac",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902201443845",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_gold_blend_no_sugar_900ml/p/1764405684715512626"
+    },
+    {
+      "id": "1564405684712504498",
+      "store_id": "2052",
+      "like_code": "327432",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱319.00",
+      "unit_price": 319.0,
+      "popularity": 2,
+      "upc": "880105570926",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055709267",
+      "reference_ids": [
+        "08801055709267"
+      ],
+      "name": "Nescafe Coffee Gold Intense | 100g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712504498/a75016273446c2135222e6adc7ebff4f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055709267",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_gold_intense_100g/p/1564405684712504498"
+    },
+    {
+      "id": "1564405684712504497",
+      "store_id": "2052",
+      "like_code": "329006",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱599.00",
+      "unit_price": 599.0,
+      "popularity": 999999,
+      "upc": "880105570925",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055709250",
+      "reference_ids": [
+        "08801055709250"
+      ],
+      "name": "Nescafe Coffee Gold Intense | 200g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712504497/b8b48d93ce6666f508779cede99c3924",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3668099882591206342",
+          "reference_id": "ad_2052_08801055709250_2_1078_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684712504497"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 500000,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22459167",
+            "22474153",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22919042",
+            "23087578",
+            "23087590"
+          ],
+          "product_status_id": "3",
+          "similarity_id": "238acc5dfe77d10d712cb8c69c7cc490",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee Gold Intense | 200g",
+          "sale_price": "2 for ₱1,078.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱1,078.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱1,078.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱1,078.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3668099882591206342",
+        "reference_id": "ad_2052_08801055709250_2_1078_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684712504497"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 500000,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22459167",
+          "22474153",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22919042",
+          "23087578",
+          "23087590"
+        ],
+        "product_status_id": "3",
+        "similarity_id": "238acc5dfe77d10d712cb8c69c7cc490",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee Gold Intense | 200g",
+        "sale_price": "2 for ₱1,078.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱1,078.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 539.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08801055709250",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_gold_intense_200g/p/1564405684712504497"
+    },
+    {
+      "id": "1564405684712504499",
+      "store_id": "2052",
+      "like_code": "327433",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱166.00",
+      "unit_price": 166.0,
+      "popularity": 3932,
+      "upc": "880105570928",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055709281",
+      "reference_ids": [
+        "08801055709281"
+      ],
+      "name": "Nescafe Coffee Gold Intense | 50g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712504499/27e99fabde70563f9f086362639571e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055709281",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_gold_intense_50g/p/1564405684712504499"
+    },
+    {
+      "id": "1564405684704729244",
+      "store_id": "2052",
+      "like_code": "281921",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱38.75",
+      "unit_price": 38.75,
+      "popularity": 1421,
+      "upc": "480036140376",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361403764",
+      "reference_ids": [
+        "04800361403764"
+      ],
+      "name": "Nescafe Coffee Mixes Original | 20g x 5s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704729244/76e5afad6e9d23795f278f7c1645d7eb",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361403764",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_mixes_original_20g_x_5s/p/1564405684704729244"
+    },
+    {
+      "id": "1564405684704729249",
+      "store_id": "2052",
+      "like_code": "285420",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱73.00",
+      "unit_price": 73.0,
+      "popularity": 199,
+      "upc": "480036141534",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361415347",
+      "reference_ids": [
+        "04800361415347",
+        "04800361404709"
+      ],
+      "name": "Nescafe Coffee Mixes Original Twin Pack | 40g x 5s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684704729249/6c9190aafe69805496eddcc1bdbda576",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688604160080671",
+          "reference_id": "ad_2052_04800361415347_2_131_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684704729249"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 100,
+          "product_tag_ids": [
+            "212326",
+            "1516178",
+            "21724132",
+            "22197754",
+            "22356774",
+            "22459167",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22883853",
+            "22919042",
+            "22983139",
+            "22983257",
+            "23087578",
+            "23087590"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07bc888f0f3d9d5bef57c8685ec6e0f6",
+          "similarity_priority": 6,
+          "name": "Nescafe Coffee Mixes Original Twin Pack | 40g x 5s",
+          "sale_price": "2 for ₱131.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱131.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688604160080671",
+        "reference_id": "ad_2052_04800361415347_2_131_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684704729249"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 100,
+        "product_tag_ids": [
+          "212326",
+          "1516178",
+          "21724132",
+          "22197754",
+          "22356774",
+          "22459167",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22883853",
+          "22919042",
+          "22983139",
+          "22983257",
+          "23087578",
+          "23087590"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07bc888f0f3d9d5bef57c8685ec6e0f6",
+        "similarity_priority": 6,
+        "name": "Nescafe Coffee Mixes Original Twin Pack | 40g x 5s",
+        "sale_price": "2 for ₱131.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱131.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 65.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361415347",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_coffee_mixes_original_twin_pack_40g_x_5s/p/1564405684704729249"
+    },
+    {
+      "id": "1764405684715512648",
+      "store_id": "2052",
+      "like_code": "383309",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 5823,
+      "upc": "490220141504",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04902201415040",
+      "reference_ids": [
+        "04902201415040"
+      ],
+      "name": "Nescafe Coffee Moderate Sweetness | 900ml",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715512648/e4ba549107e96a0aee2b71dfefc6db37",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04902201415040",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_moderate_sweetness_900ml/p/1764405684715512648"
+    },
+    {
+      "id": "1764405684715385578",
+      "store_id": "2052",
+      "like_code": "448218",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱60.00",
+      "unit_price": 60.0,
+      "popularity": 380,
+      "upc": "480036142967",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429672",
+      "reference_ids": [
+        "04800361429672"
+      ],
+      "name": "Nescafe Coffee Original Sugar Free Twin Pack | 23g x 5s",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715385578/43d165c1ccd9eda661bd14b373a8431d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429672",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_original_sugar_free_twin_pack_23g_x_5s/p/1764405684715385578"
+    },
+    {
+      "id": "1764405684715324672",
+      "store_id": "2052",
+      "like_code": "444049",
+      "department_id": [
+        "414223"
+      ],
+      "price": "₱131.00",
+      "unit_price": 131.0,
+      "popularity": 907,
+      "upc": "480036142951",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361429511",
+      "reference_ids": [
+        "04800361429511"
+      ],
+      "name": "Nescafe Coffee Original Twin Pack | 40g x 10s (Save 15)",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715324672/3d18143c0de8fe07ec9d9dc4c4307f3b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361429511",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/nescafe_coffee_original_twin_pack_40g_x_10s_save_15/p/1764405684715324672"
+    },
+    {
+      "id": "1564405684712504471",
+      "store_id": "2052",
+      "like_code": "335989",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 999999,
+      "upc": "480036142318",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361423182",
+      "reference_ids": [
+        "04800361423182",
+        "04800361414333"
+      ],
+      "name": "Nescafe Coffee Original Twin Pack | 52g x 11s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712504471/0cae02b45c6e2db7080eece95cd35f2c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361423182",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_coffee_original_twin_pack_52g_x_11s/p/1564405684712504471"
+    },
+    {
+      "id": "1564405684713249765",
+      "store_id": "2052",
+      "like_code": "370743",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱130.00",
+      "unit_price": 130.0,
+      "popularity": 999999,
+      "upc": "480036141749",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361417495",
+      "reference_ids": [
+        "04800361417495"
+      ],
+      "name": "Nescafe Creamy Latte | 51g x 9s With Free 1s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713249765/5e7ebd45d7e3b148c51b184d9214b1ed",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04800361417495",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_creamy_latte_51g_x_9s_with_free_1s/p/1564405684713249765"
+    },
+    {
+      "id": "1564405684702540511",
+      "store_id": "2052",
+      "like_code": "155592",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱269.00",
+      "unit_price": 269.0,
+      "popularity": 1227,
+      "upc": "480036139362",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361393621",
+      "reference_ids": [
+        "04800361393621",
+        "04800361387521"
+      ],
+      "name": "Nescafe Decaf Coffee | 160g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702540511/c53fb053ebe80656bb01e0a89c6a0eba",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3668099869370760109",
+          "reference_id": "ad_2052_04800361393621_2_498_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684702540511"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 614,
+          "product_tag_ids": [
+            "212326",
+            "1516178",
+            "21724132",
+            "22197754",
+            "22356774",
+            "22459167",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22883853",
+            "22919042",
+            "22983139",
+            "22983257"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "fbe13cdfdc20a4735179aabb33380b0c",
+          "similarity_priority": 6,
+          "name": "Nescafe Decaf Coffee | 160g",
+          "sale_price": "2 for ₱498.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱498.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱498.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱498.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3668099869370760109",
+        "reference_id": "ad_2052_04800361393621_2_498_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684702540511"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 614,
+        "product_tag_ids": [
+          "212326",
+          "1516178",
+          "21724132",
+          "22197754",
+          "22356774",
+          "22459167",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22883853",
+          "22919042",
+          "22983139",
+          "22983257"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "fbe13cdfdc20a4735179aabb33380b0c",
+        "similarity_priority": 6,
+        "name": "Nescafe Decaf Coffee | 160g",
+        "sale_price": "2 for ₱498.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱498.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 249.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361393621",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_decaf_coffee_160g/p/1564405684702540511"
+    },
+    {
+      "id": "1564405684702540439",
+      "store_id": "2052",
+      "like_code": "132166",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱135.00",
+      "unit_price": 135.0,
+      "popularity": 418,
+      "upc": "480036139566",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "04800361395663",
+      "reference_ids": [
+        "04800361395663",
+        "04800361375184",
+        "04800361392822",
+        "04800361393744"
+      ],
+      "name": "Nescafe Decaf Coffee | 80g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702540439/32be0b67caf9db27015688e6c52f93b3",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361395663",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_decaf_coffee_80g/p/1564405684702540439"
+    },
+    {
+      "id": "1564405684702556146",
+      "store_id": "2052",
+      "like_code": "4602",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱319.00",
+      "unit_price": 319.0,
+      "popularity": 2,
+      "upc": "880105570645",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08801055706457",
+      "reference_ids": [
+        "08801055706457",
+        "07616100145553",
+        "08801055706273"
+      ],
+      "name": "Nescafe Gold Blend Coffee | 100g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556146/08eecb3954ed2dcd908c242bba51fca4",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055706457",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_gold_blend_coffee_100g/p/1564405684702556146"
+    },
+    {
+      "id": "1564405684702557056",
+      "store_id": "2052",
+      "like_code": "252679",
+      "department_id": [
+        "22459167"
+      ],
+      "price": "₱166.00",
+      "unit_price": 166.0,
+      "popularity": 970,
+      "upc": "880105570641",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055706419",
+      "reference_ids": [
+        "08801055706419"
+      ],
+      "name": "Nescafe Gold Blend Coffee | 50g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557056/4e86a636a6743e2313c96b469096c5cd",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055706419",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 11",
+        "sequence": 11,
+        "identifier": "0e12cc43-1c88-41e6-a0e5-74e754207f70",
+        "id": "22356774"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/coffee/nescafe_gold_blend_coffee_50g/p/1564405684702557056"
+    },
+    {
+      "id": "1764405684715067316",
+      "store_id": "2052",
+      "like_code": "437220",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 1464,
+      "upc": "880105572433",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055724338",
+      "reference_ids": [
+        "08801055724338"
+      ],
+      "name": "Nescafe Gold Coffee Medium Roast | 2g x 10s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715067316/f9e96ee0d8045f39992e4f949080b231",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055724338",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_gold_coffee_medium_roast_2g_x_10s/p/1764405684715067316"
+    },
+    {
+      "id": "1764405684715189538",
+      "store_id": "2052",
+      "like_code": "441143",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱395.00",
+      "unit_price": 395.0,
+      "popularity": 2,
+      "upc": "880105572437",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055724376",
+      "reference_ids": [
+        "08801055724376"
+      ],
+      "name": "Nescafe Gold Intense | 170g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715189538/f6f7b2bde53d5a50ba20b13644910ebe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055724376",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_gold_intense_170g/p/1764405684715189538"
+    },
+    {
+      "id": "1764405684715189536",
+      "store_id": "2052",
+      "like_code": "441144",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱85.00",
+      "unit_price": 85.0,
+      "popularity": 875,
+      "upc": "880105572435",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055724352",
+      "reference_ids": [
+        "08801055724352"
+      ],
+      "name": "Nescafe Gold Intense | 2g x 10s",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715189536/b507fdd2a66d34cf29569b8651a562c1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055724352",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_gold_intense_2g_x_10s/p/1764405684715189536"
+    },
+    {
+      "id": "1564405684715274817",
+      "store_id": "2052",
+      "like_code": "404315",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱399.00",
+      "unit_price": 399.0,
+      "popularity": 1006,
+      "upc": "880105572352",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08801055723522",
+      "reference_ids": [
+        "08801055723522"
+      ],
+      "name": "Nescafe Gold Medium Roast Resealable Pouch | 170g",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715274817/0ca8f9af01aed7c880253a9ebc7c4a85",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3708688614285129740",
+          "reference_id": "ad_2052_08801055723522_2_718_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 2",
+          "product_ids": [
+            "1564405684715274817"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 503,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22575675",
+            "22843294",
+            "22919042",
+            "23087578",
+            "23087590"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "279a32aadfdfdc5f1597b07b64d7b523",
+          "similarity_priority": 6,
+          "name": "Nescafe Gold Medium Roast Resealable Pouch | 170g",
+          "sale_price": "2 for ₱718.00 with purchase of 2",
+          "sale_price_md": "**2 for ₱718.00 with purchase of 2** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "2 for ₱718.00 with purchase of 2",
+      "sale_price_md": "**2 for ₱718.00 with purchase of 2** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3708688614285129740",
+        "reference_id": "ad_2052_08801055723522_2_718_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 2",
+        "product_ids": [
+          "1564405684715274817"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 503,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22575675",
+          "22843294",
+          "22919042",
+          "23087578",
+          "23087590"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "279a32aadfdfdc5f1597b07b64d7b523",
+        "similarity_priority": 6,
+        "name": "Nescafe Gold Medium Roast Resealable Pouch | 170g",
+        "sale_price": "2 for ₱718.00 with purchase of 2",
+        "sale_price_md": "**2 for ₱718.00 with purchase of 2** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 2",
+      "offer_sale_price": 359.0,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08801055723522",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_gold_medium_roast_resealable_pouch_170g/p/1564405684715274817"
+    },
+    {
+      "id": "1564405684716266999",
+      "store_id": "2052",
+      "like_code": "420342",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 192,
+      "upc": "899269652668",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08992696526686",
+      "reference_ids": [
+        "08992696526686"
+      ],
+      "name": "Nescafe Ready-To-Drink Cappuccino | 220ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716266999/b1ddbbf6fa1833dc00889d45e050d09e",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3597795592501213991",
+          "reference_id": "ad_2052_08992696526686_4_150_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 4",
+          "product_ids": [
+            "1564405684716266999"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 71,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22575675",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07acf79a4dddf1201ae247dfb89100bb",
+          "similarity_priority": 6,
+          "name": "Nescafe Ready-To-Drink Cappuccino | 220ml",
+          "sale_price": "4 for ₱150.00 with purchase of 4",
+          "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "4 for ₱150.00 with purchase of 4",
+      "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3597795592501213991",
+        "reference_id": "ad_2052_08992696526686_4_150_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 4",
+        "product_ids": [
+          "1564405684716266999"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 71,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22575675",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07acf79a4dddf1201ae247dfb89100bb",
+        "similarity_priority": 6,
+        "name": "Nescafe Ready-To-Drink Cappuccino | 220ml",
+        "sale_price": "4 for ₱150.00 with purchase of 4",
+        "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 4",
+      "offer_sale_price": 37.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08992696526686",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_ready_to_drink_cappuccino_220ml/p/1564405684716266999"
+    },
+    {
+      "id": "1564405684716266997",
+      "store_id": "2052",
+      "like_code": "420343",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 993,
+      "upc": "899269652666",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08992696526662",
+      "reference_ids": [
+        "08992696526662"
+      ],
+      "name": "Nescafe Ready-To-Drink Ice Black | 220ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684716266997/91271bb37bac0be686d3ddd48f5ff552",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3597795592601877304",
+          "reference_id": "ad_2052_08992696526662_4_150_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 4",
+          "product_ids": [
+            "1564405684716266997"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 371,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22575675",
+            "22775806",
+            "22919042",
+            "23098164"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07acf79a4dddf1201ae247dfb89100bb",
+          "similarity_priority": 6,
+          "name": "Nescafe Ready-To-Drink Ice Black | 220ml",
+          "sale_price": "4 for ₱150.00 with purchase of 4",
+          "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "4 for ₱150.00 with purchase of 4",
+      "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3597795592601877304",
+        "reference_id": "ad_2052_08992696526662_4_150_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 4",
+        "product_ids": [
+          "1564405684716266997"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 371,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22575675",
+          "22775806",
+          "22919042",
+          "23098164"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07acf79a4dddf1201ae247dfb89100bb",
+        "similarity_priority": 6,
+        "name": "Nescafe Ready-To-Drink Ice Black | 220ml",
+        "sale_price": "4 for ₱150.00 with purchase of 4",
+        "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 4",
+      "offer_sale_price": 37.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08992696526662",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_ready_to_drink_ice_black_220ml/p/1564405684716266997"
+    },
+    {
+      "id": "1564405684716266993",
+      "store_id": "2052",
+      "like_code": "420341",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱40.00",
+      "unit_price": 40.0,
+      "popularity": 261,
+      "upc": "899269652616",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08992696526167",
+      "reference_ids": [
+        "08992696526167"
+      ],
+      "name": "Nescafe Ready-To-Drink Mocha | 220ml",
+      "size": "pc",
+      "price_disclaimer": "BUY P500 WORTH OF ITEMS, FREE DELIVERY. USE PROMO CODE : NESTLEFD",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 4.0,
+      "review_count": 1,
+      "cover_image": "1564405684716266993/699988f2dc946962033f394e724540fd",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3597795592224389898",
+          "reference_id": "ad_2052_08992696526167_4_150_0",
+          "type_id": "2",
+          "sale_price_disclaimer": "Min. 4",
+          "product_ids": [
+            "1564405684716266993"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 109,
+          "product_tag_ids": [
+            "212326",
+            "1496163",
+            "21724132",
+            "22197754",
+            "22474153",
+            "22475760",
+            "22547975",
+            "22575675",
+            "22775806",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "07acf79a4dddf1201ae247dfb89100bb",
+          "similarity_priority": 6,
+          "name": "Nescafe Ready-To-Drink Mocha | 220ml",
+          "sale_price": "4 for ₱150.00 with purchase of 4",
+          "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "4 for ₱150.00 with purchase of 4",
+      "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3597795592224389898",
+        "reference_id": "ad_2052_08992696526167_4_150_0",
+        "type_id": "2",
+        "sale_price_disclaimer": "Min. 4",
+        "product_ids": [
+          "1564405684716266993"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 109,
+        "product_tag_ids": [
+          "212326",
+          "1496163",
+          "21724132",
+          "22197754",
+          "22474153",
+          "22475760",
+          "22547975",
+          "22575675",
+          "22775806",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "07acf79a4dddf1201ae247dfb89100bb",
+        "similarity_priority": 6,
+        "name": "Nescafe Ready-To-Drink Mocha | 220ml",
+        "sale_price": "4 for ₱150.00 with purchase of 4",
+        "sale_price_md": "**4 for ₱150.00 with purchase of 4** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "sale_price_disclaimer": "Min. 4",
+      "offer_sale_price": 37.5,
+      "sale_configuration_type_id": "2",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08992696526167",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_ready_to_drink_mocha_220ml/p/1564405684716266993"
+    },
+    {
+      "id": "1764405684714927812",
+      "store_id": "2052",
+      "like_code": "427315",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱819.00",
+      "unit_price": 819.0,
+      "popularity": 999999,
+      "upc": "2800031385",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00028000313852",
+      "reference_ids": [
+        "00028000313852"
+      ],
+      "name": "Nescafe Taster's Choice Decaf House Blend | 7oz",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684714927812/504a8cfb396b64e93c78440b7ca6169b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00028000313852",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_taster_s_choice_decaf_house_blend_7oz/p/1764405684714927812"
+    },
+    {
+      "id": "21077",
+      "store_id": "2052",
+      "like_code": "14446",
+      "department_id": [
+        "1496163"
+      ],
+      "price": "₱749.00",
+      "unit_price": 749.0,
+      "popularity": 999999,
+      "upc": "2800069236",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "00028000692360",
+      "reference_ids": [
+        "00028000692360",
+        "00002800069236",
+        "00028000300500",
+        "00028000458706",
+        "00028000593933"
+      ],
+      "name": "Nescafe Taster's Choice House Blend Instant Coffee | 198g",
+      "size": "7 oz",
+      "shelf_tag_ids": [
+        "230986",
+        "22155228"
+      ],
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "21077/41b4bd72bb59a01e94c93dc54e9a3df6",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "00028000692360",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/coffee_tea/nescafe_taster_s_choice_house_blend_instant_coffee_198g/p/21077"
+    },
+    {
+      "id": "1764405684715261522",
+      "store_id": "2052",
+      "like_code": "441674",
+      "department_id": [
+        "1496162"
+      ],
+      "price": "₱252.00",
+      "unit_price": 252.0,
+      "popularity": 8585,
+      "upc": "480036142784",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04800361427845",
+      "reference_ids": [
+        "04800361427845"
+      ],
+      "name": "Nestea Apple | 12s x 20g (Free Pitcher)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873569",
+        "21873570",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1764405684715261522/31319d6e0fb77ef7114e4a9bf33b0410",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04800361427845",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/beverages/nestea_apple_12s_x_20g_free_pitcher/p/1764405684715261522"
+    }
+  ]
+}

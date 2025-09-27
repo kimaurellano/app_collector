@@ -1,0 +1,2470 @@
+{
+  "total": 14818,
+  "items": [
+    {
+      "id": "1564405684712118982",
+      "store_id": "2052",
+      "like_code": "337511",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 2079,
+      "upc": "692035482655",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354826559",
+      "reference_ids": [
+        "06920354826559"
+      ],
+      "name": "Colgate Fresh Confidence with Cooling Crystals | 120g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712118982/f255e5b392ae72af0dfc63b43b0c002a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354826559",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_fresh_confidence_with_cooling_crystals_120g_x_2s/p/1564405684712118982"
+    },
+    {
+      "id": "1564405684712118981",
+      "store_id": "2052",
+      "like_code": "313056",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱139.00",
+      "unit_price": 139.0,
+      "popularity": 539,
+      "upc": "692035482410",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354824104",
+      "reference_ids": [
+        "06920354824104"
+      ],
+      "name": "Colgate Fresh Confidence with Cooling Crystals | 120g x 2S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712118981/5eaca0e6ab5db43a5765414ee6b032c1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354824104",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_fresh_confidence_with_cooling_crystals_120g_x_2_s/p/1564405684712118981"
+    },
+    {
+      "id": "1564405684702557380",
+      "store_id": "2052",
+      "like_code": "36369",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱52.00",
+      "unit_price": 52.0,
+      "popularity": 1990,
+      "upc": "885000632113",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006321133",
+      "reference_ids": [
+        "08850006321133"
+      ],
+      "name": "Colgate Great Regular Flavor | 37g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557380/faf1edda13aa51adb60ab448840c835c",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006321133",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_great_regular_flavor_37g/p/1564405684702557380"
+    },
+    {
+      "id": "1564405684702557397",
+      "store_id": "2052",
+      "like_code": "117900",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱27.75",
+      "unit_price": 27.75,
+      "popularity": 1260,
+      "upc": "885000632521",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006325216",
+      "reference_ids": [
+        "08850006325216"
+      ],
+      "name": "Colgate Great Regular Flavor Twin Pack | 22g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557397/0a7388f357a5fbdbf63b35360839da1e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006325216",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_great_regular_flavor_twin_pack_22g_x_3s/p/1564405684702557397"
+    },
+    {
+      "id": "1564405684702555418",
+      "store_id": "2052",
+      "like_code": "249431",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱48.00",
+      "unit_price": 48.0,
+      "popularity": 522,
+      "upc": "692035481772",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354817724",
+      "reference_ids": [
+        "06920354817724"
+      ],
+      "name": "Colgate Kid's Strawberry Toothpaste | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555418/5f7d6d214afa767733135abd19dc9e20",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354817724",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_kid_s_strawberry_toothpaste_40g/p/1564405684702555418"
+    },
+    {
+      "id": "1564405684705215944",
+      "store_id": "2052",
+      "like_code": "318433",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 3963,
+      "upc": "955603120985",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "09556031209857",
+      "reference_ids": [
+        "09556031209857"
+      ],
+      "name": "Colgate Kids Toothbrush Ultra Soft | Batman",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705215944/46e1e180cad652551c4cfd5b92c927d9",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "09556031209857",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_kids_toothbrush_ultra_soft_batman/p/1564405684705215944"
+    },
+    {
+      "id": "1564405684702557401",
+      "store_id": "2052",
+      "like_code": "135990",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 1257,
+      "upc": "885000632735",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327357",
+      "reference_ids": [
+        "08850006327357"
+      ],
+      "name": "Colgate Kids Toothpaste - Barbie | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557401/7605f22d21c65a29327d742059152ffe",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327357",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_kids_toothpaste_barbie_40g/p/1564405684702557401"
+    },
+    {
+      "id": "1564405684702557427",
+      "store_id": "2052",
+      "like_code": "231985",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱81.00",
+      "unit_price": 81.0,
+      "popularity": 949,
+      "upc": "885000634221",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006342213",
+      "reference_ids": [
+        "08850006342213"
+      ],
+      "name": "Colgate Kids Toothpaste - The Minions | 40g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557427/5b1620ebab0935486a5599628c261e72",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006342213",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_kids_toothpaste_the_minions_40g/p/1564405684702557427"
+    },
+    {
+      "id": "1564405684702550888",
+      "store_id": "2052",
+      "like_code": "113049",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱87.00",
+      "unit_price": 87.0,
+      "popularity": 3896,
+      "upc": "480888821011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888210117",
+      "reference_ids": [
+        "04808888210117"
+      ],
+      "name": "Colgate Oral Care Travel Kit | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550888/69afdeaff186662b67750f2041a2f5e1",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888210117",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_oral_care_travel_kit_1s/p/1564405684702550888"
+    },
+    {
+      "id": "1564405684707151012",
+      "store_id": "2052",
+      "like_code": "147886",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱305.00",
+      "unit_price": 305.0,
+      "popularity": 1194,
+      "upc": "480888810340",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888103402",
+      "reference_ids": [
+        "04808888103402",
+        "04808888001401"
+      ],
+      "name": "Colgate Plax Antibacterial Mouthwash Freshmint Splash | 500ml + 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684707151012/abe5191471d1c26a6796fb7c0a615741",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888103402",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_plax_antibacterial_mouthwash_freshmint_splash_500ml_250ml/p/1564405684707151012"
+    },
+    {
+      "id": "1564405684713637168",
+      "store_id": "2052",
+      "like_code": "379956",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 489,
+      "upc": "480888810502",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888105024",
+      "reference_ids": [
+        "04808888105024"
+      ],
+      "name": "Colgate Plax Freshmint Splash Mouthwash | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713637168/6585b9cb4c8e55cc6ae6ab26779a6677",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888105024",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_plax_freshmint_splash_mouthwash_250ml/p/1564405684713637168"
+    },
+    {
+      "id": "1564405684702557374",
+      "store_id": "2052",
+      "like_code": "191922",
+      "department_id": [
+        "22459181"
+      ],
+      "price": "₱134.00",
+      "unit_price": 134.0,
+      "popularity": 5172,
+      "upc": "885000630575",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006305751",
+      "reference_ids": [
+        "08850006305751"
+      ],
+      "name": "Colgate Plax Herbal Salt | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557374/c4c329134994450e355ece7b7edffdf7",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006305751",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/mouthwash/colgate_plax_herbal_salt_250ml/p/1564405684702557374"
+    },
+    {
+      "id": "1564405684702557360",
+      "store_id": "2052",
+      "like_code": "229984",
+      "department_id": [
+        "22459181"
+      ],
+      "price": "₱435.00",
+      "unit_price": 435.0,
+      "popularity": 6542,
+      "upc": "885000630397",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006303979",
+      "reference_ids": [
+        "08850006303979"
+      ],
+      "name": "Colgate Plax Mouthwash Freshmint | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557360/5a0107fa2c5f82c02f468d85b33e73bc",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006303979",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/mouthwash/colgate_plax_mouthwash_freshmint_1_l/p/1564405684702557360"
+    },
+    {
+      "id": "1564405684702550841",
+      "store_id": "2052",
+      "like_code": "32034",
+      "department_id": [
+        "22459181"
+      ],
+      "price": "₱134.00",
+      "unit_price": 134.0,
+      "popularity": 999999,
+      "upc": "480888810079",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888100791",
+      "reference_ids": [
+        "04808888100791",
+        "08850006302088"
+      ],
+      "name": "Colgate Plax Mouthwash Freshmint Splash (Green) | 250mL",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550841/20af4bf7de1919b4e1440c2021a86573",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "04808888100791",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/mouthwash/colgate_plax_mouthwash_freshmint_splash_green_250m_l/p/1564405684702550841"
+    },
+    {
+      "id": "1564405684702557361",
+      "store_id": "2052",
+      "like_code": "229983",
+      "department_id": [
+        "22459181"
+      ],
+      "price": "₱435.00",
+      "unit_price": 435.0,
+      "popularity": 5225,
+      "upc": "885000630398",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006303986",
+      "reference_ids": [
+        "08850006303986"
+      ],
+      "name": "Colgate Plax Mouthwash Peppermint | 1L",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557361/18abcf0e39970d01b4df36ccdaa466c8",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3711593298645760324",
+          "reference_id": "tpr_2052_08850006303986_396_0",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702557361"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 5225,
+          "product_tag_ids": [
+            "213109",
+            "1511067",
+            "22151440",
+            "22356772",
+            "22459181",
+            "22475760",
+            "22694375"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "596858ea60759c8c4c64e09fb2007f2b",
+          "similarity_priority": 5,
+          "name": "Colgate Plax Mouthwash Peppermint | 1L",
+          "sale_price": "₱396.00",
+          "sale_price_md": "**₱396.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3711589765867387365",
+          "reference_id": "ad_2052_08850006303986_1_396_0",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702557361"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 2613,
+          "product_tag_ids": [
+            "213109",
+            "1511067",
+            "22151440",
+            "22356772",
+            "22459181",
+            "22475760",
+            "22694375"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "8870e410dd025af9ad9ee22715b2c236",
+          "similarity_priority": 6,
+          "name": "Colgate Plax Mouthwash Peppermint | 1L",
+          "sale_price": "₱396.00",
+          "sale_price_md": "**₱396.00** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱396.00",
+      "sale_price_md": "**₱396.00** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3711593298645760324",
+        "reference_id": "tpr_2052_08850006303986_396_0",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702557361"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 5225,
+        "product_tag_ids": [
+          "213109",
+          "1511067",
+          "22151440",
+          "22356772",
+          "22459181",
+          "22475760",
+          "22694375"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "596858ea60759c8c4c64e09fb2007f2b",
+        "similarity_priority": 5,
+        "name": "Colgate Plax Mouthwash Peppermint | 1L",
+        "sale_price": "₱396.00",
+        "sale_price_md": "**₱396.00** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 396.0,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱396.00 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006303986",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/mouthwash/colgate_plax_mouthwash_peppermint_1_l/p/1564405684702557361"
+    },
+    {
+      "id": "1564405684713637172",
+      "store_id": "2052",
+      "like_code": "379955",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱99.00",
+      "unit_price": 99.0,
+      "popularity": 1256,
+      "upc": "480888810605",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888106052",
+      "reference_ids": [
+        "04808888106052"
+      ],
+      "name": "Colgate Plax Peppermint Fresh Mouthwash | 250ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684713637172/1462dc57c5358e0f788d8e5d6f7c07af",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888106052",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_plax_peppermint_fresh_mouthwash_250ml/p/1564405684713637172"
+    },
+    {
+      "id": "1564405684702557364",
+      "store_id": "2052",
+      "like_code": "143406",
+      "department_id": [
+        "22459181"
+      ],
+      "price": "₱35.00",
+      "unit_price": 35.0,
+      "popularity": 677,
+      "upc": "885000630456",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006304563",
+      "reference_ids": [
+        "08850006304563"
+      ],
+      "name": "Colgate Plax Peppermint Fresh Mouthwash | 60ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557364/d9f31c09791245c1180d675ebecd7595",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006304563",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/mouthwash/colgate_plax_peppermint_fresh_mouthwash_60ml/p/1564405684702557364"
+    },
+    {
+      "id": "1564405684702550877",
+      "store_id": "2052",
+      "like_code": "130077",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱78.00",
+      "unit_price": 78.0,
+      "popularity": 1,
+      "upc": "480888820098",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888200989",
+      "reference_ids": [
+        "04808888200989"
+      ],
+      "name": "Colgate Premier Clean Medium Toothbrush Value Pack | Buy 2 Get 1 FREE",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550877/3ede92b059e1fc75880b7af9964562ef",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888200989",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_premier_clean_medium_toothbrush_value_pack_buy_2_get_1_free/p/1564405684702550877"
+    },
+    {
+      "id": "1564405684702550866",
+      "store_id": "2052",
+      "like_code": "159377",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱195.00",
+      "unit_price": 195.0,
+      "popularity": 1822,
+      "upc": "480888819008",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888190082",
+      "reference_ids": [
+        "04808888190082",
+        "04808888890906"
+      ],
+      "name": "Colgate Sensitive Fresh Mint | 110g x 2pcs",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550866/9ef6cfed06cd74e7b9d53692954bfbea",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3424578062350549885",
+          "reference_id": "tpr_2052_04808888190082_175_5",
+          "type_id": "1",
+          "product_ids": [
+            "1564405684702550866"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1822,
+          "product_tag_ids": [
+            "213109",
+            "1496184",
+            "22151440",
+            "22356772",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "cceb7847a192da03ec6f0064eff7dc4a",
+          "similarity_priority": 5,
+          "name": "Colgate Sensitive Fresh Mint | 110g x 2pcs",
+          "sale_price": "₱175.50",
+          "sale_price_md": "**₱175.50** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3424581627475394882",
+          "reference_id": "ad_2052_04808888190082_1_175_5",
+          "type_id": "2",
+          "product_ids": [
+            "1564405684702550866"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 911,
+          "product_tag_ids": [
+            "213109",
+            "1496184",
+            "22151440",
+            "22356772",
+            "22475760",
+            "22919042"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "d3763997d486c6dc5c4d1462cc42697c",
+          "similarity_priority": 6,
+          "name": "Colgate Sensitive Fresh Mint | 110g x 2pcs",
+          "sale_price": "₱175.50",
+          "sale_price_md": "**₱175.50** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱175.50",
+      "sale_price_md": "**₱175.50** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3424578062350549885",
+        "reference_id": "tpr_2052_04808888190082_175_5",
+        "type_id": "1",
+        "product_ids": [
+          "1564405684702550866"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1822,
+        "product_tag_ids": [
+          "213109",
+          "1496184",
+          "22151440",
+          "22356772",
+          "22475760",
+          "22919042"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "cceb7847a192da03ec6f0064eff7dc4a",
+        "similarity_priority": 5,
+        "name": "Colgate Sensitive Fresh Mint | 110g x 2pcs",
+        "sale_price": "₱175.50",
+        "sale_price_md": "**₱175.50** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 175.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱175.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888190082",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_sensitive_fresh_mint_110g_x_2pcs/p/1564405684702550866"
+    },
+    {
+      "id": "1564405684702550860",
+      "store_id": "2052",
+      "like_code": "265104",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱215.00",
+      "unit_price": 215.0,
+      "popularity": 5667,
+      "upc": "480888810329",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888103297",
+      "reference_ids": [
+        "04808888103297"
+      ],
+      "name": "Colgate Sensitive with Sensifoam Toothpaste Twin Pack | 120g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550860/0deb65dddd80050830a27138d6ee344e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888103297",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_sensitive_with_sensifoam_toothpaste_twin_pack_120g_x_2s/p/1564405684702550860"
+    },
+    {
+      "id": "1564405684705180373",
+      "store_id": "2052",
+      "like_code": "329158",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 7984,
+      "upc": "691002120003",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06910021200034",
+      "reference_ids": [
+        "06910021200034"
+      ],
+      "name": "Colgate Slim Soft Advanced Gold Charcoal Ultra Soft Toothbrush (Twin Pack) | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684705180373/4c44c2206ca4279a0982d2f7a1f0f64d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06910021200034",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_slim_soft_advanced_gold_charcoal_ultra_soft_toothbrush_twin_pack_2s/p/1564405684705180373"
+    },
+    {
+      "id": "1564405684702550880",
+      "store_id": "2052",
+      "like_code": "220747",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱426.00",
+      "unit_price": 426.0,
+      "popularity": 4765,
+      "upc": "480888820133",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04808888201337",
+      "reference_ids": [
+        "04808888201337"
+      ],
+      "name": "Colgate Slim Soft Charcoal Toothbrush | 3+2",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550880/6fe484b1bf103432ae42d6039d5d8117",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04808888201337",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_slim_soft_charcoal_toothbrush_3_2/p/1564405684702550880"
+    },
+    {
+      "id": "1564405684702557412",
+      "store_id": "2052",
+      "like_code": "156156",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 3885,
+      "upc": "885000633186",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006331866",
+      "reference_ids": [
+        "08850006331866"
+      ],
+      "name": "Colgate Slim Soft Charcoal Toothbrush (Ultra Soft) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557412/9f76bddea029b6c89c1dd382b9d1ae55",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006331866",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_slim_soft_charcoal_toothbrush_ultra_soft_1s/p/1564405684702557412"
+    },
+    {
+      "id": "1564405684702557413",
+      "store_id": "2052",
+      "like_code": "156157",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱285.00",
+      "unit_price": 285.0,
+      "popularity": 891,
+      "upc": "885000633187",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006331873",
+      "reference_ids": [
+        "08850006331873"
+      ],
+      "name": "Colgate SlimSoft Charcoal Toothbrush Ultra Soft | 3s (Buy 2 Get 1 Free)",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557413/ceaa914b51e86833c1282dbc2171e464",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006331873",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_slim_soft_charcoal_toothbrush_ultra_soft_3s_buy_2_get_1_free/p/1564405684702557413"
+    },
+    {
+      "id": "1564405684702552611",
+      "store_id": "2052",
+      "like_code": "225347",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱299.00",
+      "unit_price": 299.0,
+      "popularity": 4748,
+      "upc": "489236884011",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "04892368840116",
+      "reference_ids": [
+        "04892368840116",
+        "04892368661711"
+      ],
+      "name": "Colgate Slim Soft Gold Charcoal Toothbrush Ultra Soft | Buy 2 Get 1 Free",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702552611/facc9e8e6232211f13816021429f9639",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "04892368840116",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_slim_soft_gold_charcoal_toothbrush_ultra_soft_buy_2_get_1_free/p/1564405684702552611"
+    },
+    {
+      "id": "1564405684704081078",
+      "store_id": "2052",
+      "like_code": "277610",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱64.00",
+      "unit_price": 64.0,
+      "popularity": 1109,
+      "upc": "893523600089",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935236000895",
+      "reference_ids": [
+        "08935236000895"
+      ],
+      "name": "Colgate Super Flexi Black Toothbrush | Twin Pack",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684704081078/6ae3ec69d29c098525e9f04a9f1e9648",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935236000895",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_super_flexi_black_toothbrush_twin_pack/p/1564405684704081078"
+    },
+    {
+      "id": "1564405684702558606",
+      "store_id": "2052",
+      "like_code": "260526",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱46.00",
+      "unit_price": 46.0,
+      "popularity": 910,
+      "upc": "893523600081",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08935236000819",
+      "reference_ids": [
+        "08935236000819"
+      ],
+      "name": "Colgate Super Flexi Toothbrush | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702558606/c2b97cc77f01f49c5370a2c89161ea61",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08935236000819",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_super_flexi_toothbrush_2s/p/1564405684702558606"
+    },
+    {
+      "id": "1564405684702535331",
+      "store_id": "2052",
+      "like_code": "137732",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱156.00",
+      "unit_price": 156.0,
+      "popularity": 2082,
+      "upc": "885000633230",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006332306",
+      "reference_ids": [
+        "08850006332306",
+        "04710168714812"
+      ],
+      "name": "Colgate Toothbrush (5-9 years old) | 1s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702535331/10f556dcac35a2e7b8f5f89aa773fa33",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006332306",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_toothbrush_5_9_years_old_1s/p/1564405684702535331"
+    },
+    {
+      "id": "1564405684715612337",
+      "store_id": "2052",
+      "like_code": "407427",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱349.00",
+      "unit_price": 349.0,
+      "popularity": 999999,
+      "upc": "885000694781",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006947814",
+      "reference_ids": [
+        "08850006947814"
+      ],
+      "name": "Colgate Toothbrush Optic White O2 | 2S",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715612337/851307e0dc0dddb5462deefd6cffc0e2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08850006947814",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothbrush_optic_white_o2_2_s/p/1564405684715612337"
+    },
+    {
+      "id": "1564405684702556371",
+      "store_id": "2052",
+      "like_code": "125095",
+      "department_id": [
+        "22459180"
+      ],
+      "price": "₱140.00",
+      "unit_price": 140.0,
+      "popularity": 3792,
+      "upc": "789102418555",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "07891024185551",
+      "reference_ids": [
+        "07891024185551"
+      ],
+      "name": "Colgate Toothbrush Portable Travel Pack | 25ml",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702556371/61732dec28608c71e3ccfea3a1ee8d23",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "07891024185551",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothbrush/colgate_toothbrush_portable_travel_pack_25ml/p/1564405684702556371"
+    },
+    {
+      "id": "1564405684702557431",
+      "store_id": "2052",
+      "like_code": "261787",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱125.00",
+      "unit_price": 125.0,
+      "popularity": 5538,
+      "upc": "885000634290",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "2",
+        "1"
+      ],
+      "reference_id": "08850006342909",
+      "reference_ids": [
+        "08850006342909"
+      ],
+      "name": "Colgate Toothpaste Active Salt | 132g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557431/f9caf595b7323073841bd10969e9993a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006342909",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "2",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_active_salt_132g/p/1564405684702557431"
+    },
+    {
+      "id": "1564405684709842004",
+      "store_id": "2052",
+      "like_code": "284839",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 1651,
+      "upc": "885000634324",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006343241",
+      "reference_ids": [
+        "08850006343241"
+      ],
+      "name": "Colgate Toothpaste Active Salt | 175g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684709842004/75bcc1be32e82e7761a2923d2de74b63",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006343241",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_active_salt_175g_x_2s/p/1564405684709842004"
+    },
+    {
+      "id": "1564405684702557432",
+      "store_id": "2052",
+      "like_code": "261788",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱145.00",
+      "unit_price": 145.0,
+      "popularity": 4175,
+      "upc": "885000634291",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006342916",
+      "reference_ids": [
+        "08850006342916"
+      ],
+      "name": "Colgate Toothpaste Active Salt | 180g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557432/6b9bed61187d44a8349bcd839e3fe566",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006342916",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_active_salt_180g/p/1564405684702557432"
+    },
+    {
+      "id": "1564405684702557430",
+      "store_id": "2052",
+      "like_code": "261786",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱67.00",
+      "unit_price": 67.0,
+      "popularity": 4774,
+      "upc": "885000634289",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006342893",
+      "reference_ids": [
+        "08850006342893"
+      ],
+      "name": "Colgate Toothpaste Active Salt | 35g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557430/2c7ef4a551b5be6192cc06695b5f7956",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006342893",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_active_salt_35g/p/1564405684702557430"
+    },
+    {
+      "id": "1564405684702555420",
+      "store_id": "2052",
+      "like_code": "242670",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱106.00",
+      "unit_price": 106.0,
+      "popularity": 999999,
+      "upc": "692035481709",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354817090",
+      "reference_ids": [
+        "06920354817090"
+      ],
+      "name": "Colgate Toothpaste Bamboo Charcoal | 90/123g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555420/fa9a25ac07343860b5c66aa7714a625e",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "06920354817090",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_bamboo_charcoal_90_123g/p/1564405684702555420"
+    },
+    {
+      "id": "1564405684702550939",
+      "store_id": "2052",
+      "like_code": "229985",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱196.00",
+      "unit_price": 196.0,
+      "popularity": 375,
+      "upc": "692035481479",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354814792",
+      "reference_ids": [
+        "06920354814792",
+        "04808888891743"
+      ],
+      "name": "Colgate Toothpaste Charcoal | 150g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550939/8092361457f222d2af4fd6e02aa252df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354814792",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_charcoal_150g_x_2s/p/1564405684702550939"
+    },
+    {
+      "id": "1564405684702557399",
+      "store_id": "2052",
+      "like_code": "117902",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱27.75",
+      "unit_price": 27.75,
+      "popularity": 1950,
+      "upc": "885000632523",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006325230",
+      "reference_ids": [
+        "08850006325230"
+      ],
+      "name": "Colgate Toothpaste FC Kool Mentol Fresh | 20g x 3s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557399/dfae31843fc0f6723e4fe46f425e232a",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006325230",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_fc_kool_mentol_fresh_20g_x_3s/p/1564405684702557399"
+    },
+    {
+      "id": "1564405684702557389",
+      "store_id": "2052",
+      "like_code": "83886",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱102.00",
+      "unit_price": 102.0,
+      "popularity": 999999,
+      "upc": "885000632295",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006322956",
+      "reference_ids": [
+        "08850006322956"
+      ],
+      "name": "Colgate Toothpaste FC Spicy Fresh | 125g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557389/bbaca8d9ada5d01f869bbe9b82f4c4ab",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08850006322956",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_fc_spicy_fresh_125g/p/1564405684702557389"
+    },
+    {
+      "id": "1564405684702550844",
+      "store_id": "2052",
+      "like_code": "122956",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 206,
+      "upc": "885000632744",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327449",
+      "reference_ids": [
+        "08850006327449",
+        "04808888102061"
+      ],
+      "name": "Colgate Toothpaste FC Spicy Fresh | 173g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702550844/250b580290c40f0f282125a0eb52882f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327449",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_fc_spicy_fresh_173g_x_2s/p/1564405684702550844"
+    },
+    {
+      "id": "1564405684702557376",
+      "store_id": "2052",
+      "like_code": "10536",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱153.50",
+      "unit_price": 153.5,
+      "popularity": 5426,
+      "upc": "885000632049",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006320495",
+      "reference_ids": [
+        "08850006320495"
+      ],
+      "name": "COLGATE TOOTHPASTE FRESH | 214gr",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557376/46457073fc4913800af52a978cc7315d",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006320495",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_fresh_214gr/p/1564405684702557376"
+    },
+    {
+      "id": "1564405684702557378",
+      "store_id": "2052",
+      "like_code": "10565",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱80.00",
+      "unit_price": 80.0,
+      "popularity": 3816,
+      "upc": "885000632051",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006320518",
+      "reference_ids": [
+        "08850006320518"
+      ],
+      "name": "COLGATE TOOTHPASTE FRESH | 74gr",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557378/320875ef0d7b72bcea0686847d45a4e5",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006320518",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_fresh_74gr/p/1564405684702557378"
+    },
+    {
+      "id": "1564405684702557388",
+      "store_id": "2052",
+      "like_code": "83979",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱143.00",
+      "unit_price": 143.0,
+      "popularity": 999999,
+      "upc": "885000632293",
+      "status_id": "3",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006322932",
+      "reference_ids": [
+        "08850006322932"
+      ],
+      "name": "Colgate Toothpaste Fresh Confidence Peppermint Ice | 145g/193g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557388/467adf3ec25149a1cf0bca285bef300f",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "no_movement",
+      "identifier": "08850006322932",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_fresh_confidence_peppermint_ice_145g_193g/p/1564405684702557388"
+    },
+    {
+      "id": "1564405684702557403",
+      "store_id": "2052",
+      "like_code": "205173",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱159.00",
+      "unit_price": 159.0,
+      "popularity": 444,
+      "upc": "885000632743",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327432",
+      "reference_ids": [
+        "08850006327432"
+      ],
+      "name": "Colgate Toothpaste Great Regular Flavor | 132g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702557403/ead7059ff5cd50ae6fe0227fe1f61af2",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327432",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_great_regular_flavor_132g_x_2s/p/1564405684702557403"
+    },
+    {
+      "id": "7388634",
+      "store_id": "2052",
+      "like_code": "10560",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱117.00",
+      "unit_price": 117.0,
+      "popularity": 5577,
+      "upc": "885000632050",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006320501",
+      "reference_ids": [
+        "08850006320501",
+        "03808888104614"
+      ],
+      "name": "Colgate Toothpaste Great Regular Flavor | 140g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "7388634/80bf6347525cc64036d980480119fef8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006320501",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_great_regular_flavor_140g/p/7388634"
+    },
+    {
+      "id": "1564405684702550842",
+      "store_id": "2052",
+      "like_code": "121701",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱179.00",
+      "unit_price": 179.0,
+      "popularity": 1,
+      "upc": "885000632742",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "08850006327425",
+      "reference_ids": [
+        "08850006327425",
+        "04808888102047"
+      ],
+      "name": "Colgate Toothpaste Great Regular Flavor | 195g x 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "average_rating": 5.0,
+      "review_count": 1,
+      "cover_image": "1564405684702550842/9effde4be08c966aacf4f9674e64606c",
+      "enforce_product_inventory": false,
+      "offers": [
+        {
+          "id": "3677520489871326136",
+          "reference_id": "tpr_2052_08850006327425_170_5",
+          "type_id": "1",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183548668205"
+          ],
+          "circular_page_ids": [
+            "3719247210194418656"
+          ],
+          "circular_spot_ids": [
+            "3677843192222333823",
+            "3722700415733611318"
+          ],
+          "product_ids": [
+            "1564405684702550842"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "213109",
+            "1496184",
+            "22151439",
+            "22151440",
+            "22356772",
+            "22459179",
+            "22459182",
+            "22475760",
+            "22883833",
+            "22919042",
+            "22983157"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "b7b1bca223f2ff8dcf0f5bdc2c328963",
+          "similarity_priority": 5,
+          "name": "Colgate Toothpaste Great Regular Flavor | 195g x 2s",
+          "sale_price": "₱170.50",
+          "sale_price_md": "**₱170.50** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        },
+        {
+          "id": "3677521636812143193",
+          "reference_id": "ad_2052_08850006327425_1_170_5",
+          "type_id": "2",
+          "circular_ids": [
+            "3719245178934933785"
+          ],
+          "circular_file_ids": [
+            "3719245183548668205"
+          ],
+          "circular_page_ids": [
+            "3719247210194418656"
+          ],
+          "circular_spot_ids": [
+            "3677843192222333823",
+            "3722700415733611318"
+          ],
+          "product_ids": [
+            "1564405684702550842"
+          ],
+          "start_date": "2025-09-01T00:00:00.000+00:00",
+          "finish_date": "2025-09-30T23:59:59.000+00:00",
+          "is_suppressed": false,
+          "popularity": 1,
+          "product_tag_ids": [
+            "213109",
+            "1496184",
+            "22151439",
+            "22151440",
+            "22356772",
+            "22459179",
+            "22459182",
+            "22475760",
+            "22883833",
+            "22919042",
+            "22983157"
+          ],
+          "product_status_id": "1",
+          "similarity_id": "30ddce5e5d4c69684fac858b95adc4de",
+          "similarity_priority": 6,
+          "name": "Colgate Toothpaste Great Regular Flavor | 195g x 2s",
+          "sale_price": "₱170.50",
+          "sale_price_md": "**₱170.50** (09/01/25 - 09/30/25)",
+          "display_start_date": "2025-09-01",
+          "display_finish_date": "2025-09-30"
+        }
+      ],
+      "sale_start_date": "2025-09-01",
+      "sale_finish_date": "2025-09-30",
+      "sale_price": "₱170.50",
+      "sale_price_md": "**₱170.50** (09/01/25 - 09/30/25)",
+      "sale_offer": {
+        "id": "3677520489871326136",
+        "reference_id": "tpr_2052_08850006327425_170_5",
+        "type_id": "1",
+        "circular_ids": [
+          "3719245178934933785"
+        ],
+        "circular_file_ids": [
+          "3719245183548668205"
+        ],
+        "circular_page_ids": [
+          "3719247210194418656"
+        ],
+        "circular_spot_ids": [
+          "3677843192222333823",
+          "3722700415733611318"
+        ],
+        "product_ids": [
+          "1564405684702550842"
+        ],
+        "start_date": "2025-09-01T00:00:00.000+00:00",
+        "finish_date": "2025-09-30T23:59:59.000+00:00",
+        "is_suppressed": false,
+        "popularity": 1,
+        "product_tag_ids": [
+          "213109",
+          "1496184",
+          "22151439",
+          "22151440",
+          "22356772",
+          "22459179",
+          "22459182",
+          "22475760",
+          "22883833",
+          "22919042",
+          "22983157"
+        ],
+        "product_status_id": "1",
+        "similarity_id": "b7b1bca223f2ff8dcf0f5bdc2c328963",
+        "similarity_priority": 5,
+        "name": "Colgate Toothpaste Great Regular Flavor | 195g x 2s",
+        "sale_price": "₱170.50",
+        "sale_price_md": "**₱170.50** (09/01/25 - 09/30/25)",
+        "display_start_date": "2025-09-01",
+        "display_finish_date": "2025-09-30"
+      },
+      "offer_sale_price": 170.5,
+      "sale_configuration_type_id": "1",
+      "call_out": "₱170.50 ",
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "08850006327425",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_great_regular_flavor_195g_x_2s/p/1564405684702550842"
+    },
+    {
+      "id": "1564405684712005005",
+      "store_id": "2052",
+      "like_code": "351632",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱199.00",
+      "unit_price": 199.0,
+      "popularity": 2018,
+      "upc": "692035482993",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354829932",
+      "reference_ids": [
+        "06920354829932"
+      ],
+      "name": "Colgate Toothpaste Himalayan Salt | 2s",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684712005005/85f709d366cf0aeb233e77ad9b76517b",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354829932",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "fulfillment_walkpath": {
+        "name": "Aisle 9",
+        "sequence": 9,
+        "identifier": "99364c9c-7d73-44e2-9bcb-d92cfd36e05a",
+        "id": "22356772"
+      },
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_himalayan_salt_2s/p/1564405684712005005"
+    },
+    {
+      "id": "1564405684702555407",
+      "store_id": "2052",
+      "like_code": "150777",
+      "department_id": [
+        "22459182"
+      ],
+      "price": "₱131.00",
+      "unit_price": 131.0,
+      "popularity": 5212,
+      "upc": "692035481185",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354811852",
+      "reference_ids": [
+        "06920354811852"
+      ],
+      "name": "Colgate Toothpaste Optic White | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684702555407/08e1b9fab891f0c73c65a6a429d4c3df",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354811852",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/health_beauty/oral_care/toothpaste/colgate_toothpaste_optic_white_100g/p/1564405684702555407"
+    },
+    {
+      "id": "1564405684715612331",
+      "store_id": "2052",
+      "like_code": "409501",
+      "department_id": [
+        "1496184"
+      ],
+      "price": "₱129.00",
+      "unit_price": 129.0,
+      "popularity": 1,
+      "upc": "692035483693",
+      "status_id": "1",
+      "fulfillment_type_ids": [
+        "1",
+        "2"
+      ],
+      "reference_id": "06920354836930",
+      "reference_ids": [
+        "06920354836930"
+      ],
+      "name": "Colgate Toothpaste Optic White Purple | 100g",
+      "size": "pc",
+      "substitution_type_ids": [
+        "21873570",
+        "21873569",
+        "21873571",
+        "21873572",
+        "21873573",
+        "22809208"
+      ],
+      "cover_image": "1564405684715612331/da227ff3d08d5d26ea660015ef2e26e8",
+      "enforce_product_inventory": false,
+      "has_featured_offer": false,
+      "status": "available",
+      "identifier": "06920354836930",
+      "quantity_initial": 1.0,
+      "fulfillment_type_id": "1",
+      "canonical_url": "https://www.waltermartdelivery.com.ph/shop/shop_by_category/personal_care/oral_care/colgate_toothpaste_optic_white_purple_100g/p/1564405684715612331"
+    }
+  ]
+}

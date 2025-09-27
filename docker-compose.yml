@@ -1,0 +1,28 @@
+# ./docker-compose.yml
+services:
+  scraper:
+    build: .
+    container_name: waltermart-scraper
+    command: ["python", "scrape_waltermart_dasma.py"]
+    environment:
+      PCHP_UA: "PriceCheckPH-POC/0.1 (+contact: kim.aurellano@yahoo.com)"
+      OUT_DIR: "/app/data"           # if your script supports a target dir
+    volumes:
+      - ./data:/app/data             # persist only results
+    restart: "no"
+
+  viewer:
+    build: .
+    container_name: waltermart-viewer
+    command: ["streamlit", "run", "viewer_streamlit.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports:
+      - "8501:8501"
+    environment:
+      DATA_DIR: "/app/data"          # read results here in your Streamlit app
+    volumes:
+      - ./data:/app/data             # read the same results produced by scraper
+    restart: unless-stopped
+    # optional: wait a bit if you add a healthcheck
+    # depends_on:
+    #   scraper:
+    #     condition: service_completed_successfully
