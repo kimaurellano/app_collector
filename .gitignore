@@ -1,0 +1,38 @@
+# Python caches / build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv*/
+venv_scraper/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+
+# Scraper outputs and snapshots
+data/raw/
+data/*.csv
+data/*.html
+data/*.png
+data/*_debug_*.csv
+# Playwright persistent state (if used)
+data/.pw_state/
+data/.pw_state_*/
+
+# Keep important tracked files under data/
+!data/requirements.txt
+!data/viewer_streamlit.py
+!data/baseline.csv
